@@ -1,0 +1,15 @@
+---
+import type { MarkdownInstance } from 'astro'
+import type { Frontmatter } from '../config'
+import BlogCard from '../components/blogcard.astro'
+
+export interface Props {
+  posts: MarkdownInstance<Frontmatter>[]
+}
+
+const { posts } = Astro.props
+---
+
+<div class="space-y-12 lg:space-y-0 flex flex-wrap dark:bg-gray-900">
+  {posts.map(post => <BlogCard post={post} />)}
+</div>

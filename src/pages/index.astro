@@ -1,0 +1,39 @@
+---
+import type { MarkdownInstance } from 'astro'
+import type { Frontmatter } from '../config'
+import { SiteMetadata } from '../config'
+import Base from '../layouts/base.astro'
+import Hero from '../components/hero.astro'
+import Features from '../components/features.astro'
+import FindOutMore from '../components/findoutmore.astro'
+import LatestArticles from '../components/latestarticles.astro'
+import CTA from '../components/cta.astro'
+
+const frontmatter: Frontmatter = {
+  title: SiteMetadata.title,
+  description: SiteMetadata.description,
+  coverSVG: '../svg/undraw/undraw_design_inspiration.svg',
+  socialImage: '/images/undraw/undraw_design_inspiration.png',
+  publishDate: SiteMetadata.buildTime,
+}
+
+const posts = (await Astro.glob(
+  './blog/**/*.{md,mdx}'
+)) as MarkdownInstance<Frontmatter>[]
+const latestPosts = posts
+  .sort(
+    (a, b) =>
+      new Date(b.frontmatter.publishDate).valueOf() -
+      new Date(a.frontmatter.publishDate).valueOf()
+  )
+  .filter(post => !post.frontmatter.draft)
+---
+
+<Base frontmatter={frontmatter}>
+  <Hero />
+  <Features />
+  <FindOutMore />
+  <LatestArticles posts={latestPosts} />
+  <CTA />
+  <div class="p-24 md:p-12 bg-white dark:bg-black"></div>
+</Base>

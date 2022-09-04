@@ -1,0 +1,61 @@
+---
+import type { MarkdownInstance, Page, PaginateFunction } from 'astro'
+import type { Frontmatter } from '../../config'
+import { SiteMetadata, PAGE_SIZE } from '../../config'
+import Base from '../../layouts/base.astro'
+import PageHero from '../../components/pagehero.astro'
+import BlogRoll from '../../components/blogroll.astro'
+import PaginateControl from '../../components/paginatecontrol.astro'
+
+export interface Props {
+  page: Page<MarkdownInstance<Frontmatter>>
+}
+
+const { page } = Astro.props
+
+const frontmatter: Frontmatter = {
+  title: 'Blog' + (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
+  description:
+    'Showing articles ' +
+    (page.start + 1) +
+    '-' +
+    (page.end + 1) +
+    ' (total ' +
+    page.total +
+    ')',
+  coverSVG: '../svg/undraw/undraw_my_feed.svg',
+  socialImage: '/images/undraw/undraw_my_feed.png',
+  publishDate: SiteMetadata.buildTime,
+}
+
+export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
+  const allPosts = (await Astro.glob<MarkdownInstance<Frontmatter>>(
+    '../blog/**/*.{md,mdx}'
+  ))
+  const posts = allPosts
+    .sort(
+      (a, b) =>
+        new Date(b.frontmatter.publishDate).valueOf() -
+        new Date(a.frontmatter.publishDate).valueOf()
+    )
+    .filter(post => !post.frontmatter.draft)
+
+  return paginate(posts, { pageSize: PAGE_SIZE })
+}
+---
+
+<Base frontmatter={frontmatter}>
+  <header>
+    <PageHero
+      title={frontmatter.title}
+      description={frontmatter.description}
+      coverSVG={frontmatter.coverSVG}
+      socialImage={frontmatter.socialImage}
+    >
+      <PaginateControl page={page} />
+    </PageHero>
+  </header>
+  <main class="mt-10 bg-gray-100 dark:bg-gray-900">
+    <BlogRoll posts={page.data} />
+  </main>
+</Base>
