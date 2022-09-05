@@ -93,8 +93,8 @@ const patterns = [
 const frontmatter: Frontmatter = {
   title: 'Tags',
   description: 'Articles by tags',
-  coverSVG: '../svg/undraw/undraw_add_notes.svg',
-  socialImage: '/images/undraw/undraw_add_notes.png',
+  coverSVG: '../svg/undraw/add_notes.svg',
+  socialImage: '../images/undraw/add_notes.png',
   publishDate: SiteMetadata.buildTime,
 }
 
@@ -136,7 +136,7 @@ const tags = Array.from(tagmap.values())
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main class="mt-10 dark:bg-gray-900">
+  <main class="dark:bg-gray-900">
     <div
       class="mx-4 mt-6 mb-24 grid grid-cols-2 gap-y-4 sm:grid-cols-3 md:grid-cols-4 gap-x-4 lg:grid-cols-5 xl:grid-cols-6 xl:gap-y-6 xl:gap-x-6"
     >

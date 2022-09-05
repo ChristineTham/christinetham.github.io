@@ -19,8 +19,8 @@ export default defineConfig({
       external: ['svgo'],
     },
   },
-  site: 'https://hellotham.github.io',
-  base: '/hello-astro',
+  site: 'https://christinetham.github.io',
+  base: '/christham-astro',
   integrations: [tailwind(), sitemap(), image(), mdx(), alpinejs(), robotsTxt()],
   experimental: {
     integrations: true,

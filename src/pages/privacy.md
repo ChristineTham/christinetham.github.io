@@ -3,26 +3,33 @@ layout: ../layouts/page.astro
 title: Privacy
 description: Our policy regarding information collection and use
 publishDate: '2022-08-08T00:00:00.000Z'
-coverSVG: ../svg/undraw/undraw_privacy_protection.svg
-socialImage: /images/undraw/undraw_privacy_protection.png
+coverSVG: ../svg/undraw/private_data.svg
+socialImage: ../images/undraw/private_data.png
 ---
 
-We are committed to maintaining the trust of visitors to this website. We promise to handle and store your data fairly and legally at all times.
+__TLDR__: I do not use cookies and I do not collect any personal data.
 
-You have the right to view, amend, or delete the personal information that we hold. If you have any questions about what data we collect or how we use it, please let us know by emailing: info@hellotham.com.
+## Website visitors
 
-## Personal information that we collect and why we collect it
+- No personal information is collected.
+- No information is stored in the browser.
+- No information is shared with, sent to or sold to third-parties.
+- No information is shared with advertising companies.
+- No information is mined and harvested for personal and behavioral trends.
+- No information is monetized.
 
-We do not collect personally identifiable information from you.
+### Information we collect and what we use it for
 
-### Information collected by others
+This site is hosted on [GitHub Pages](https://pages.github.com). Although I do not collect any information, please note that GitHub may collect Technical Information from visitors to this website, including logs of visitor IP addresses, to maintain the security and integrity of the website and service.
 
-When you load this website, our hosting provider may collect the following information in the form of server logs:
+Extract from GitHub privacy statement:
 
-- Your IP address
-- Date and time of the request for the page load
-- Size of the data package being transmitted within the connection
-- Type and version of your web browser
-- Request information like HTTP method, host name, URI, referrer, etc
+>If you're accessing or using our Service, we may automatically collect information about how you use the Service, such as the pages you view, the referring site, your IP address and information about your device, session information, the date and time of each request, information contained in or relating to your contributions to individual repositories, and telemetry data (i.e., information about how a specific feature or service is performing) regarding your use of other features and functionality of the Service.
 
-This website does not use cookies.
+Some content on this website may link to external websites, such as Facebook, YouTube, Vimeo, Soundcloud etc. When you click a link to any external website, you will be subject to the data collection policies of those websites, which I have no control over.
+
+## Contact us
+
+[Contact us](/contact) if you have any questions.
+
+Effective Date: _5 September 2022_

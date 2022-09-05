@@ -1,16 +1,16 @@
 ---
 import type { MarkdownInstance } from 'astro'
 import type { Frontmatter } from '../config'
-import { CategoryDetail, SiteMetadata } from '../config'
+import { SiteMetadata } from '../config'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
-import SVGImg from '../components/svgimg.astro'
+import CategoryRoll from '../components/categoryroll.astro'
 
 const frontmatter: Frontmatter = {
   title: 'Categories',
   description: 'Categories for articles',
-  coverSVG: '../svg/undraw/undraw_windows.svg',
-  socialImage: '/images/undraw/undraw_windows.png',
+  coverSVG: '../svg/undraw/windows.svg',
+  socialImage: '../images/undraw/windows.png',
   publishDate: SiteMetadata.buildTime,
 }
 
@@ -25,21 +25,8 @@ const posts = allPosts
   )
   .filter(post => !post.frontmatter.draft)
 
-const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories)))
+const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories))) as string[]
 
-function categoryDetail(category: string | undefined) {
-  const details = CategoryDetail.filter(cat => cat.category == category)
-
-  if (details.length == 1) {
-    return details[0]
-  }
-  return {
-    category: 'category',
-    coverSVG: '../svg/undraw/undraw_instant_information.svg',
-    socialImage: '/images/undraw/undraw_instant_information.png',
-    description: 'Category ' + category
-  }
-}
 ---
 
 <Base frontmatter={frontmatter}>
@@ -51,26 +38,7 @@ function categoryDetail(category: string | undefined) {
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main class="mt-8 bg-gray-100 dark:bg-gray-900">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="max-w-2xl mx-auto pb-72 sm:pb-32 lg:pb-24 lg:max-w-none">    
-        <div class="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-x-6">
-          {categories.map((category) => (
-            <div class="group relative">
-              <div class="relative w-full h-80 mb-4 bg-purple-100 dark:bg-purple-600 rounded-lg overflow-hidden group-hover:opacity-75 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
-                <SVGImg src={categoryDetail(category).coverSVG} alt={categoryDetail(category).description} class="w-full h-full object-center object-cover" />
-              </div>
-              <h3 class="inline-block py-1 px-3 rounded bg-purple-600 hover:bg-pink-600 text-white text-xs font-medium tracking-tight uppercase">
-                <a href={`${import.meta.env.BASE_URL}category/${category}/`}>
-                  <span class="absolute inset-0"></span>
-                  {category}
-                </a>
-              </h3>
-              <p class="text-base text-gray-900 dark:text-gray-400">{categoryDetail(category).description}</p>
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
+  <main class="bg-gray-100 dark:bg-gray-900">
+    <CategoryRoll categories={categories} />
   </main>
 </Base>

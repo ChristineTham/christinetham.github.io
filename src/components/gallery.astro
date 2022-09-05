@@ -24,45 +24,6 @@ for (let i in folderFiles) {
 <link rel="stylesheet" href='https://unpkg.com/photoswipe/dist/photoswipe.css' crossorigin="anonymous">
 <link rel="stylesheet" href='https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css' crossorigin="anonymous">
 <style>
-  .gallery {
-    width: 100%;
-    display: block;
-    margin: 0 auto;
-  }
-
-  /* Extra Small Devices, Phones */
-  @media only screen and (min-width: 480px) {
-    .gallery {
-      column-count: 1;
-      column-gap: 3px;
-    }
-  }
-
-  /* Small Devices, Tablets */
-  @media only screen and (min-width: 768px) {
-    .gallery {
-      column-count: 2;
-      column-gap: 3px;
-    }
-  }
-
-  /* Medium Devices, Desktops */
-  @media only screen and (min-width: 992px) {
-    .gallery { /* Masonry container */
-      column-count: 2;
-      column-gap: 3px;
-    }
-  }
-
-  /* Large Devices, Wide Screens */
-  @media only screen and (min-width: 1200px) {
-    .gallery {
-      column-count: 3;
-      column-gap: 0.2rem;
-      width: 100%;
-    }
-  }
-
   .pswp--custom-icon-colors {
     --pswp-icon-color: #eee;
     --pswp-icon-color-secondary: #663399;
@@ -92,7 +53,7 @@ for (let i in folderFiles) {
       <Image src={image} alt={imagetitles[i]} width={600} height={image.height * 600/image.width} format="webp" class="rounded" />
       <span class="pswp-caption-content">
         {imagetitles[i]}
-        {exifs[i] && <span>{' (' + exifs[i].Make + ' ' + exifs[i].Model  + ')'}</span>}
+        {exifs[i].Make && <span>{' (' + exifs[i].Make + ' ' + exifs[i].Model  + ')'}</span>}
       </span>
     </a>
     <figcaption itemprop="caption description" class="rounded">

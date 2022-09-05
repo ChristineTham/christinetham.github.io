@@ -16,15 +16,9 @@ const { page } = Astro.props
 const frontmatter: Frontmatter = {
   title: 'Blog' + (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
   description:
-    'Showing articles ' +
-    (page.start + 1) +
-    '-' +
-    (page.end + 1) +
-    ' (total ' +
-    page.total +
-    ')',
-  coverSVG: '../svg/undraw/undraw_my_feed.svg',
-  socialImage: '/images/undraw/undraw_my_feed.png',
+    'Articles I write from time to time',
+  coverSVG: '../svg/undraw/my_feed.svg',
+  socialImage: '../images/undraw/my_feed.png',
   publishDate: SiteMetadata.buildTime,
 }
 
@@ -55,7 +49,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
       <PaginateControl page={page} />
     </PageHero>
   </header>
-  <main class="mt-10 bg-gray-100 dark:bg-gray-900">
+  <main class="bg-gray-100 dark:bg-gray-900">
     <BlogRoll posts={page.data} />
   </main>
 </Base>
