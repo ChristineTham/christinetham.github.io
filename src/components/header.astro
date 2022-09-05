@@ -7,15 +7,15 @@ import SVGImg from '../components/svgimg.astro'
 ---
 
 <div class="relative h-16 w-full" >
-<nav x-data="{ isOpen: false }" class="dark:bg-gray-800">
-  <div class="fixed z-50 mx-auto px-2 sm:px-6 lg:px-8 bg-white dark:bg-gray-800 w-full border-b-2 border-purple-300 dark:border-purple-600">
+<nav x-data="{ isOpen: false }" class="bg-rosely6 dark:bg-rosely8">
+  <div class="fixed z-50 mx-auto px-2 sm:px-6 lg:px-8 w-full border-b-2 border-roselyB bg-rosely6 dark:bg-rosely8">
     <div class="relative flex items-center justify-between h-16">
       <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
         <!-- Mobile menu button-->
         <button
           type="button"
           x-on:click="isOpen = !isOpen"
-          class="inline-flex items-center justify-center p-2 rounded-md text-purple-600 hover:text-pink-600 hover:bg-purple-200 dark:text-purple-300 dark:hover:text-pink-300 dark:hover:bg-purple-800 dark:focus:ring-purple-800 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-purple-300"
+          class="inline-flex items-center justify-center p-2 rounded-md text-rosely9 hover:text-roselyC hover:bg-roselyB dark:text-roselyB dark:hover:text-rosely7 dark:hover:bg-rosely9 dark:focus:ring-roselyB focus:outline-none focus:ring-2 focus:ring-inset focus:ring-roselyB"
           aria-controls="mobile-menu"
           aria-expanded="false"
         >
@@ -41,7 +41,7 @@ import SVGImg from '../components/svgimg.astro'
       >
         <div class="flex-shrink-0 flex items-center">
           <SVGImg
-            class="block h-8 w-8 dark:bg-gray-100"
+            class="block h-8 w-8"
             src={Logo}
             alt="Logo"
           />
@@ -55,8 +55,8 @@ import SVGImg from '../components/svgimg.astro'
                   class={
                     (item.href.length > 0 &&
                     Astro.url.toString().includes(item.href)
-                      ? 'bg-purple-200 text-pink-600 dark:bg-purple-800 dark:text-pink-300'
-                      : 'text-purple-600 hover:bg-purple-200 hover:text-pink-600 dark:text-purple-200 dark:hover:bg-purple-800 dark:hover:text-pink-300') +
+                      ? 'bg-rosely5 text-roselyC dark:bg-roselyC dark:text-white'
+                      : 'text-rosely8 hover:bg-roselyB hover:text-roselyC dark:text-rosely7 dark:hover:bg-rosely9 dark:hover:text-white') +
                     ' px-2 py-2 rounded-md text-lg font-medium'
                   }
                   aria-current={
@@ -97,16 +97,16 @@ import SVGImg from '../components/svgimg.astro'
     class="absolute top-16 inset-x-0 z-50"
     id="mobile-menu"
   >
-    <div class="px-4 py-2 bg-gray-100 dark:bg-gray-800 font-semibold border-purple-300 dark:border-purple-600 border-t-2 border-b-2 flex justify-center">
+    <div class="px-4 py-2 bg-rosely6 dark:bg-rosely8 font-semibold border-rosely7 border-t-2 border-b-2 flex justify-center gap-x-2">
       {
         NavigationLinks.map(item => (
           <a
             href={import.meta.env.BASE_URL + item.href}
             class:list={[
               (item.href.length > 0 && Astro.url.toString().includes(item.href)
-                ? 'bg-purple-200 text-pink-600 dark:bg-purple-800 dark:text-pink-300'
-                : 'text-purple-600 hover:bg-purple-200 hover:text-pink-600 dark:text-purple-200 dark:hover:bg-purple-800 dark:hover:text-pink-300'),
-              ' px-2'
+                ? 'bg-rosely5 text-roselyC dark:bg-roselyC dark:text-white'
+                : 'text-rosely8 hover:bg-roselyB hover:text-roselyC dark:text-rosely7 dark:hover:bg-rosely9 dark:hover:text-white'),
+              ' px-2 rounded'
             ]}
             aria-current={
               item.href.length > 0 && Astro.url.toString().includes(item.href)

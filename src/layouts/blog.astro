@@ -11,12 +11,12 @@ const { frontmatter } = Astro.props
 ---
 
 <Base frontmatter={frontmatter}>
-  <main class="dark:bg-black">
+  <main>
     <article class="post">
       <header>
         <BlogHero frontmatter={frontmatter} />
       </header>
-      <section class="px-4 lg:px-0 my-8 max-w-screen-lg mx-auto prose prose-purple lg:prose-xl dark:prose-invert" >
+      <section class="px-4 py-8 max-w-screen-lg mx-auto prose prose-purple lg:prose-xl dark:prose-invert" >
         <slot />
       </section>
     </article>

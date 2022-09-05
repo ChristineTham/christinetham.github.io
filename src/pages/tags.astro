@@ -48,46 +48,46 @@ import {
 } from 'hero-patterns'
 
 const patterns = [
-  steelBeams('#9c92ac', 0.5),
-  jupiter('#9c92ac', 0.5),
-  cutout('#9c92ac', 0.5),
-  pianoMan('#9c92ac', 0.5),
-  pieFactory('#9c92ac', 0.5),
-  graphPaper('#9c92ac', 0.5),
-  charlieBrown('#9c92ac', 0.5),
-  autumn('#9c92ac', 0.5),
-  temple('#9c92ac', 0.5),
-  deathStar('#9c92ac', 0.5),
-  churchOnSunday('#9c92ac', 0.5),
-  overlappingHexagons('#9c92ac', 0.5),
-  bamboo('#9c92ac', 0.5),
-  bathroomFloor('#9c92ac', 0.5),
-  corkScrew('#9c92ac', 0.5),
-  happyIntersection('#9c92ac', 0.5),
-  kiwi('#9c92ac', 0.5),
-  lips('#9c92ac', 0.5),
-  lisbon('#9c92ac', 0.5),
-  tinyCheckers('#9c92ac', 0.5),
-  fancyRectangles('#9c92ac', 0.5),
-  heavyRain('#9c92ac', 0.5),
-  cage('#9c92ac', 0.5),
-  connections('#9c92ac', 0.5),
-  flippedDiamonds('#9c92ac', 0.5),
-  houndstooth('#9c92ac', 0.5),
-  morphingDiamonds('#9c92ac', 0.5),
-  zigZag('#9c92ac', 0.5),
-  aztec('#9c92ac', 0.5),
-  bankNote('#9c92ac', 0.5),
-  boxes('#9c92ac', 0.5),
-  diagonalLines('#9c92ac', 0.5),
-  endlessClouds('#9c92ac', 0.5),
-  eyes('#9c92ac', 0.5),
-  groovy('#9c92ac', 0.5),
-  melt('#9c92ac', 0.5),
-  parkayFloor('#9c92ac', 0.5),
-  pixelDots('#9c92ac', 0.5),
-  signal('#9c92ac', 0.5),
-  wallpaper('#9c92ac', 0.5),
+  steelBeams('#d2386c', 0.5),
+  jupiter('#d2386c', 0.5),
+  cutout('#d2386c', 0.5),
+  pianoMan('#d2386c', 0.5),
+  pieFactory('#d2386c', 0.5),
+  graphPaper('#d2386c', 0.5),
+  charlieBrown('#d2386c', 0.5),
+  autumn('#d2386c', 0.5),
+  temple('#d2386c', 0.5),
+  deathStar('#d2386c', 0.5),
+  churchOnSunday('#d2386c', 0.5),
+  overlappingHexagons('#d2386c', 0.5),
+  bamboo('#d2386c', 0.5),
+  bathroomFloor('#d2386c', 0.5),
+  corkScrew('#d2386c', 0.5),
+  happyIntersection('#d2386c', 0.5),
+  kiwi('#d2386c', 0.5),
+  lips('#d2386c', 0.5),
+  lisbon('#d2386c', 0.5),
+  tinyCheckers('#d2386c', 0.5),
+  fancyRectangles('#d2386c', 0.5),
+  heavyRain('#d2386c', 0.5),
+  cage('#d2386c', 0.5),
+  connections('#d2386c', 0.5),
+  flippedDiamonds('#d2386c', 0.5),
+  houndstooth('#d2386c', 0.5),
+  morphingDiamonds('#d2386c', 0.5),
+  zigZag('#d2386c', 0.5),
+  aztec('#d2386c', 0.5),
+  bankNote('#d2386c', 0.5),
+  boxes('#d2386c', 0.5),
+  diagonalLines('#d2386c', 0.5),
+  endlessClouds('#d2386c', 0.5),
+  eyes('#d2386c', 0.5),
+  groovy('#d2386c', 0.5),
+  melt('#d2386c', 0.5),
+  parkayFloor('#d2386c', 0.5),
+  pixelDots('#d2386c', 0.5),
+  signal('#d2386c', 0.5),
+  wallpaper('#d2386c', 0.5),
 ]
 
 const frontmatter: Frontmatter = {
@@ -136,9 +136,9 @@ const tags = Array.from(tagmap.values())
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main class="dark:bg-gray-900">
+  <main class="bg-rosely7 dark:bg-rosely0">
     <div
-      class="mx-4 mt-6 mb-24 grid grid-cols-2 gap-y-4 sm:grid-cols-3 md:grid-cols-4 gap-x-4 lg:grid-cols-5 xl:grid-cols-6 xl:gap-y-6 xl:gap-x-6"
+      class="mx-4 py-4 grid grid-cols-2 gap-y-4 sm:grid-cols-3 md:grid-cols-4 gap-x-4 lg:grid-cols-5 xl:grid-cols-6 xl:gap-y-6 xl:gap-x-6"
     >
       {
         tags
@@ -156,7 +156,7 @@ const tags = Array.from(tagmap.values())
                   backgroundImage: patterns[i % patterns.length],
                 }}
               >
-                <div class="absolute inset-0 bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out" />
+                <div class="absolute inset-0 bg-rosely9 bg-opacity-75 group-hover:opacity-75 transition duration-300 ease-in-out" />
                 <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
                   <h3 class="text-center text-white text-2xl font-bold">
                     <span class="absolute inset-0" />

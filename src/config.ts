@@ -218,7 +218,7 @@ export const PAGE_SIZE = 24
 
 export const GITHUB_EDIT_URL = `https://github.com/ChristineTham/christham-astro`
 
-export const COMMUNITY_INVITE_URL = `https://astro.build/chat`
+export const COMMUNITY_INVITE_URL = null // `https://astro.build/chat`
 
 export type Sidebar = Record<string, { text: string; link: string }[]>
 

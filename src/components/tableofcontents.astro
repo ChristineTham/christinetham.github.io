@@ -10,7 +10,7 @@ const { headings } = Astro.props as Props
 
 <h2
   id="table-of-contents-title"
-  class="font-display text-sm font-medium text-gray-900 dark:text-white"
+  class="font-display text-sm font-medium text-rosely0 dark:text-rosely3"
 >
   On this page
 </h2>
@@ -22,12 +22,12 @@ const { headings } = Astro.props as Props
         <li
           class={
             heading.depth == 2
-              ? 'text-gray-500 dark:text-gray-400'
-              : 'mt-2 py-1 pl-5 text-gray-500 dark:text-gray-400'
+              ? 'text-rosely9 dark:text-roselyB'
+              : 'mt-2 py-1 pl-5 text-rosely9 dark:text-roselyB'
           }
         >
           <a
-            class="hover:text-purple-600 dark:hover:text-purple-300"
+            class="hover:text-roselyC dark:hover:text-rosely5"
             href={`#${heading.slug}`}
           >
             {heading.text}

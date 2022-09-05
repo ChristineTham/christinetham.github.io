@@ -14,17 +14,17 @@ const { categories } = Astro.props
         categories.map(category => (
           <div class="group">
             <a href={`${import.meta.env.BASE_URL}category/${category}/`}>
-              <div class="relative mb-4 bg-purple-100 dark:bg-purple-600 rounded-lg overflow-hidden group-hover:opacity-75 aspect-w-1 aspect-h-1 shadow-xl">
+              <div class="relative mb-4 bg-rosely7 dark:bg-rosely8 rounded-lg overflow-hidden group-hover:opacity-75 aspect-w-1 aspect-h-1 shadow-xl">
                 <SVGImg
                 src={categoryDetail(category).icon}
                 alt={categoryDetail(category).description}
                 class="w-full h-full object-center object-cover"
                 />
               </div>
-              <h3 class="inline-block py-1 px-3 rounded bg-purple-600 hover:bg-pink-600 text-white text-xs font-medium tracking-tight uppercase">
+              <h3 class="inline-block py-1 px-3 rounded bg-rosely9 hover:bg-roselyC text-white text-xs font-medium tracking-tight uppercase">
                 {category}
               </h3>
-              <p class="text-base text-gray-900 dark:text-gray-400">
+              <p class="text-base text-rosely1 dark:text-rosely6">
                 {categoryDetail(category).description}
               </p>
             </a>

@@ -14,9 +14,9 @@ const { title, description, coverSVG, coverImage, socialImage } =
   Astro.props
 ---
 
-<div class="w-full max-w-none relative h-96">
+<div class="w-full max-w-none relative h-96 bg-rosely7 dark:bg-rosely8">
   <div
-    class="absolute left-0 bottom-0 w-full h-full z-10 bg-gradient-to-t from-gray-700"
+    class="absolute left-0 bottom-0 w-full h-full z-10 bg-gradient-to-t from-rosely0"
   >
   </div>
   {
@@ -36,8 +36,8 @@ const { title, description, coverSVG, coverImage, socialImage } =
   }
   <div class="p-4 absolute bottom-0 left-0 z-20">
     <slot name="before" />
-    <h2 class="text-4xl font-bold text-white leading-tight">{title}</h2>
-    <h2 class="text-xl font-medium italic text-purple-300">{description}</h2>
+    <h2 class="text-4xl font-bold text-rosely3 leading-tight">{title}</h2>
+    <h2 class="text-xl font-medium italic text-rosely6">{description}</h2>
     <slot />
   </div>
 </div>
