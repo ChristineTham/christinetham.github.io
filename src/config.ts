@@ -214,6 +214,16 @@ export function authorDetail(author: string | undefined) {
   }
 }
 
+export const Websites = [
+  {
+    website: 'Hello Tham',
+    link: 'https://hellotham.com',
+    featured: true,
+    screenshot: '../images/website/hellotham.png',
+    description: 'I am a great admirer of art and we love to visit art galleries wherever we go.',
+  },
+]
+
 export const PAGE_SIZE = 24
 
 export const GITHUB_EDIT_URL = `https://github.com/ChristineTham/christham-astro`

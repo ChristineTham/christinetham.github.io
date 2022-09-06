@@ -19,7 +19,7 @@ export default defineConfig({
       external: ['svgo'],
     },
   },
-  site: 'https://christinetham.github.io',
+  site: 'https://christham.net',
   integrations: [tailwind(), sitemap(), image(), mdx(), alpinejs(), robotsTxt()],
   experimental: {
     integrations: true,
