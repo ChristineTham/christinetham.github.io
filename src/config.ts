@@ -90,6 +90,7 @@ export const NavigationLinks = [
   { name: 'About', href: 'about' },
   { name: 'Contact', href: 'contact' },
   { name: 'Blog', href: 'blog' },
+  { name: 'Websites', href: 'websites' },
 ]
 
 export const CategoryDetail = [
@@ -220,7 +221,84 @@ export const Websites = [
     link: 'https://hellotham.com',
     featured: true,
     screenshot: '../images/website/hellotham.png',
-    description: 'I am a great admirer of art and we love to visit art galleries wherever we go.',
+    description: 'I founded a booutique strategic consulting company called Hello Tham. This is the corporate website.',
+  },
+  {
+    website: 'Travels Through a Lens',
+    link: 'https://travel.christham.net',
+    featured: true,
+    screenshot: '../images/website/travel.png',
+    description: 'This is a travelogue web site that that documents my travel adventures and trips over the years.',
+  },
+  {
+    website: 'Visual Voyager',
+    link: 'https://visualvoyager.net',
+    featured: true,
+    screenshot: '../images/website/visualvoyager.png',
+    description: 'This is my photography website, for exploring the world we live in, as seen through our unique perspectives and experiences.',
+  },
+  {
+    website: 'Buddhavacana',
+    link: 'https://christham.net/buddhavacana',
+    featured: true,
+    screenshot: '../images/website/buddhavacana.png',
+    description: 'This is my photography website, for exploring the world we live in, as seen through our unique perspectives and experiences.',
+  },
+  {
+    website: 'Hons87',
+    link: 'https://hons87.github.io',
+    featured: false,
+    screenshot: '../images/website/hons87.png',
+    description: 'A site dedicated to the students of Sydney University Computer Science Honours 1987.',
+  },
+  {
+    website: 'Learning Jamstack',
+    link: 'https://learning-jamstack.hellotham.com',
+    featured: false,
+    screenshot: '../images/website/learningjamstack.png',
+    description: 'My adventures learning how to build websites and apps in 2020 using the Jamstack architecture, auto workflows and modern build tools.',
+  },
+  {
+    website: 'Hello Astro',
+    link: 'https://hellotham.github.io/hello-astro',
+    featured: false,
+    screenshot: '../images/website/hello-astro.png',
+    description: 'My Astro starter (used as a template for my personal web site).',
+  },
+  {
+    website: 'Hello Jekyll',
+    link: 'https://christham.net/hello-jekyll',
+    featured: false,
+    screenshot: '../images/website/hello-jekyll.png',
+    description: 'My Jekyll starter based on YAT.',
+  },
+  {
+    website: 'Chris Tham Hugo',
+    link: 'https://christham.net/christham-hugo',
+    featured: false,
+    screenshot: '../images/website/christham-hugo.png',
+    description: 'A prototype version of my personalw web site written in Hugo (based on the doks theme).',
+  },
+  {
+    website: 'Rosely',
+    link: 'https://rosely.hellotham.com',
+    featured: false,
+    screenshot: '../images/website/rosely.png',
+    description: 'Rosely is my attempt at building a design system. This currently includes a colour palette.',
+  },
+  {
+    website: 'My Record Collection',
+    link: 'https://christham-net.netlify.app/',
+    featured: false,
+    screenshot: '../images/website/record.png',
+    description: 'Explore my LP collection.',
+  },
+  {
+    website: 'My Chakra Components',
+    link: 'https://my-chakra-components.vercel.app/',
+    featured: false,
+    screenshot: '../images/website/chakra.png',
+    description: 'This site showcases example Chakra components (based on MerakiUI but rewritten in chakra-ui using the NextJS framework.',
   },
 ]
 

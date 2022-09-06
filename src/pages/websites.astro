@@ -1,0 +1,30 @@
+---
+import type { Frontmatter } from '../config'
+import { SiteMetadata, Websites } from '../config'
+import Base from '../layouts/base.astro'
+import PageHero from '../components/pagehero.astro'
+import WebRoll from '../components/webroll.astro'
+
+const frontmatter: Frontmatter = {
+  title: 'Websites',
+  description: 'Websites I have built',
+  coverSVG: '../svg/undraw/building_websites.svg',
+  socialImage: '../images/undraw/building_websites.png',
+  publishDate: SiteMetadata.buildTime,
+}
+
+---
+
+<Base frontmatter={frontmatter}>
+  <header>
+    <PageHero
+      title={frontmatter.title}
+      description={frontmatter.description}
+      coverSVG={frontmatter.coverSVG}
+      socialImage={frontmatter.socialImage}
+    />
+  </header>
+  <main class="bg-rosely3 dark:bg-rosely0">
+    <WebRoll websites={Websites} />
+  </main>
+</Base>

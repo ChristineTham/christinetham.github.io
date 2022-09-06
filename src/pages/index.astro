@@ -1,11 +1,12 @@
 ---
 import type { MarkdownInstance } from 'astro'
 import type { Frontmatter } from '../config'
-import { SiteMetadata } from '../config'
+import { SiteMetadata, Websites } from '../config'
 import Base from '../layouts/base.astro'
 import Carousel from '../components/carousel.astro'
 import BlogRoll from '../components/blogroll.astro'
 import CategoryRoll from '../components/categoryroll.astro'
+import WebRoll from '../components/webroll.astro'
 
 const frontmatter: Frontmatter = {
   title: SiteMetadata.title,
@@ -73,6 +74,18 @@ const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.cat
         </div>
       </div>
     </Carousel>
+    <div class="flex flex-row items-center p-4 sm:px-6 lg:px-8 bg-rosely7 dark:bg-rosely1">
+      <h2 class="text-2xl md:text-4xl font-extrabold text-rosely8 dark:text-roselyB" >
+        Some of my websites
+      </h2>
+      <a
+        href={import.meta.env.BASE_URL + 'websites'}
+        class="inline-block px-2 py-2 mt-2 ml-4 rounded-md bg-rosely9 hover:bg-roselyC text-white dark:bg-roselyB dark:hover:brosely5 dark:text-rosely0 font-semibold text-base md:text-lg"
+      >
+        All Websites
+      </a>
+    </div>
+    <WebRoll websites={Websites.filter(site => site.featured)} />
   <h2
     class="text-2xl md:text-4xl font-extrabold text-rosely8 dark:text-roselyB mx-auto p-4 sm:mx-2 lg:mx-4"
   >
@@ -80,9 +93,7 @@ const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.cat
   </h2>
   <CategoryRoll categories={categories} />
   <div class="flex flex-row items-center p-4 sm:px-6 lg:px-8 bg-rosely7 dark:bg-rosely1">
-    <h2
-      class="text-2xl md:text-4xl font-extrabold text-rosely8 dark:text-roselyB"
-    >
+    <h2˝ class="text-2xl md:text-4xl font-extrabold text-rosely8 dark:text-roselyB" >
       My Latest Articles
     </h2>
     <a
