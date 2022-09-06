@@ -20,7 +20,6 @@ export default defineConfig({
     },
   },
   site: 'https://christinetham.github.io',
-  base: '/christham-astro',
   integrations: [tailwind(), sitemap(), image(), mdx(), alpinejs(), robotsTxt()],
   experimental: {
     integrations: true,
