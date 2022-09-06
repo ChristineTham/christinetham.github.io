@@ -4,7 +4,7 @@ This is a version of my personal blog/web site written in Markdown and [Astro](h
 
 It is hosted on [Github Pages](https://pages.github.com) and deployed via Github Action workflow.
 
-![Light](https://github.com/hellotham/hello-astro/raw/main/screenshot-light.png)
+![Screenshot](https://github.com/ChristineTham/christinetham.github.io/raw/main/src/images/website/christham.png)
 
 ## 🧞 Commands
 
