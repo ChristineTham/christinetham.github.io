@@ -242,7 +242,7 @@ export const Websites = [
     link: 'https://christham.net/buddhavacana',
     featured: true,
     screenshot: '../images/website/buddhavacana.png',
-    description: 'This is my photography website, for exploring the world we live in, as seen through our unique perspectives and experiences.',
+    description: 'This website documents my study notes learning the Buddhist Theravadan Tipitaka, in Pali.',
   },
   {
     website: 'Hons87',
@@ -277,7 +277,7 @@ export const Websites = [
     link: 'https://christham.net/christham-hugo',
     featured: false,
     screenshot: '../images/website/christham-hugo.png',
-    description: 'A prototype version of my personalw web site written in Hugo (based on the doks theme).',
+    description: 'A prototype version of my personal web site written in Hugo (based on the doks theme).',
   },
   {
     website: 'Rosely',
@@ -291,7 +291,7 @@ export const Websites = [
     link: 'https://christham-net.netlify.app/',
     featured: false,
     screenshot: '../images/website/record.png',
-    description: 'Explore my LP collection.',
+    description: 'Explore my LP collection. Will eventually be integrated into the personal site.',
   },
   {
     website: 'My Chakra Components',
