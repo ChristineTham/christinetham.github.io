@@ -245,6 +245,13 @@ export const Websites = [
     description: 'This website documents my study notes learning the Buddhist Theravadan Tipitaka, in Pali.',
   },
   {
+    website: 'Chris Tham\'s Portfolio',
+    link: 'https://portfolio.christham.net',
+    featured: true,
+    screenshot: '../images/website/portfolio.png',
+    description: 'A one page vanity site featuring some of my websites.',
+  },
+  {
     website: 'Hons87',
     link: 'https://hons87.github.io',
     featured: false,
@@ -266,18 +273,25 @@ export const Websites = [
     description: 'My Astro starter (used as a template for my personal web site).',
   },
   {
-    website: 'Hello Jekyll',
-    link: 'https://christham.net/hello-jekyll',
-    featured: false,
-    screenshot: '../images/website/hello-jekyll.png',
-    description: 'My Jekyll starter based on YAT.',
-  },
-  {
     website: 'Chris Tham Hugo',
     link: 'https://christham.net/christham-hugo',
     featured: false,
     screenshot: '../images/website/christham-hugo.png',
-    description: 'A prototype version of my personal web site written in Hugo (based on the doks theme).',
+    description: 'A prototype version of my personal web site written in Hugo and Bootstrap 5 (based on the doks theme).',
+  },
+  {
+    website: 'Hello Jekyll',
+    link: 'https://christham.net/hello-jekyll',
+    featured: false,
+    screenshot: '../images/website/hello-jekyll.png',
+    description: 'My Jekyll starter based on YAT and Bootstrap 5.',
+  },
+  {
+    website: 'Hello Gatsby',
+    link: 'https://hello-gatsby-starter.hellotham.com/',
+    featured: false,
+    screenshot: '../images/website/hello-gatsby.png',
+    description: 'My Gatsby starter using TailwindCSS.',
   },
   {
     website: 'Rosely',
@@ -285,6 +299,13 @@ export const Websites = [
     featured: false,
     screenshot: '../images/website/rosely.png',
     description: 'Rosely is my attempt at building a design system. This currently includes a colour palette.',
+  },
+  {
+    website: 'Prismatic Path',
+    link: 'https://prismaticpath.com',
+    featured: false,
+    screenshot: '../images/website/prismatic.png',
+    description: 'A collaboration between Greg Allardice and myself exploring alternate paths in life and learning.',
   },
   {
     website: 'My Record Collection',
@@ -299,6 +320,13 @@ export const Websites = [
     featured: false,
     screenshot: '../images/website/chakra.png',
     description: 'This site showcases example Chakra components (based on MerakiUI but rewritten in chakra-ui using the NextJS framework.',
+  },
+  {
+    website: 'Rose Bay Residents Association',
+    link: 'https://rosebayresidentsassociation.org/',
+    featured: false,
+    screenshot: '../images/website/rosebay.png',
+    description: 'Website for the Rose Bay Residents Association.',
   },
 ]
 
