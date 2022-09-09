@@ -15,7 +15,7 @@ export interface Frontmatter {
   url?: string
   minutesRead?: string
   extra?: string[]
-  section?: string[]
+  section?: string
 }
 
 export interface TagType {
