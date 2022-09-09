@@ -35,7 +35,7 @@ const latestPosts = posts
   .filter(post => !post.frontmatter.draft)
   .slice(0,6)
 
-const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories))) as string[]
+const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories))).sort() as string[]
 ---
 
 <Base frontmatter={frontmatter}>

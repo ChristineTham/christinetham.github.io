@@ -247,7 +247,7 @@ export const Websites = [
   {
     website: 'Chris Tham\'s Portfolio',
     link: 'https://portfolio.christham.net',
-    featured: true,
+    featured: false,
     screenshot: '../images/website/portfolio.png',
     description: 'A one page vanity site featuring some of my websites.',
   },

@@ -25,7 +25,7 @@ const posts = allPosts
   )
   .filter(post => !post.frontmatter.draft)
 
-const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories))) as string[]
+const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories))).sort() as string[]
 
 ---
 
