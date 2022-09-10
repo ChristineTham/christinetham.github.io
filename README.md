@@ -1,4 +1,4 @@
-# hello-astro
+# Chris Tham Personal Web Site
 
 This is a version of my personal blog/web site written in Markdown and [Astro](https://astro.build) using the [Hello Astro](https://github.com/hellotham/hello-astro) starter as a template.
 

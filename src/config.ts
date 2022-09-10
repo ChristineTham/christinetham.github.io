@@ -16,6 +16,7 @@ export interface Frontmatter {
   minutesRead?: string
   extra?: string[]
   section?: string
+  gallery?: string
 }
 
 export interface TagType {
