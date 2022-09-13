@@ -1,7 +1,6 @@
 ---
 import type { MarkdownInstance } from 'astro'
 import type { Frontmatter, Sidebar } from '../config'
-// import { SIDEBAR } from '../config'
 
 type Props = {
   currentPage: string
@@ -13,17 +12,19 @@ const currentPageMatch = currentPage.slice(1)
 const allDocs = (await Astro.glob(
   '../pages/about/**/*.{md,mdx}'
 )) as MarkdownInstance<Frontmatter>[]
+const docs = allDocs
+  .filter(doc => !doc.frontmatter.draft)
+  .sort((d1, d2) => d1.frontmatter.weight! - d2.frontmatter.weight!)
 const sections = Array.from(
-  new Set(allDocs.map(doc => doc.frontmatter.section))
+  new Set(docs.map(doc => doc.frontmatter.section))
 ) as string[]
 let sidebar = {} as Sidebar
 sections.forEach(
   section =>
-    (sidebar[section] = allDocs
+    (sidebar[section] = docs
       .filter(doc => doc.frontmatter.section == section)
       .map(doc => ({ text: doc.frontmatter.title, link: doc.url as string })))
 )
-// console.log(sidebar)
 ---
 
 <div

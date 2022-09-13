@@ -17,6 +17,7 @@ export interface Frontmatter {
   extra?: string[]
   section?: string
   gallery?: string
+  weight?: number
 }
 
 export interface TagType {
@@ -338,12 +339,3 @@ export const GITHUB_EDIT_URL = `https://github.com/ChristineTham/christham-astro
 export const COMMUNITY_INVITE_URL = null // `https://astro.build/chat`
 
 export type Sidebar = Record<string, { text: string; link: string }[]>
-
-export const SIDEBAR: Sidebar = {
-  'Background': [
-    { text: 'Introduction', link: 'about/introduction' },
-    { text: 'Tham Surname', link: 'about/tham-surname' },
-    { text: 'My Great Grandfather', link: 'about/my-great-grandfather' },
-  ],
-  'This Website': [{ text: 'Technical Info', link: 'about/website' }],
-}

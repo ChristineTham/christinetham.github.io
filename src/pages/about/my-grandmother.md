@@ -3,6 +3,7 @@ layout: ../../layouts/doc.astro
 section: Background
 title: My grandmother
 description: A memory
+weight: 13
 ---
 
 After rereading my post about my father, I realised I may have inadvertently cast my grandmother as the villain of the piece. Nothing can be further from the truth, and please allow me to clarify.

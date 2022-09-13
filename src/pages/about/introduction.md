@@ -3,6 +3,7 @@ layout: ../../layouts/doc.astro
 section: Background
 title: Introduction
 description: "Hello world"
+weight: 1
 ---
 Hi there!
 
