@@ -10,7 +10,7 @@ const { currentPage } = Astro.props as Props
 const currentPageMatch = currentPage.slice(1)
 
 const allDocs = (await Astro.glob(
-  '../pages/about/**/*.{md,mdx}'
+  '../pages/bio/**/*.{md,mdx}'
 )) as MarkdownInstance<Frontmatter>[]
 const docs = allDocs
   .filter(doc => !doc.frontmatter.draft)

@@ -89,7 +89,7 @@ export const DefaultImage = '../images/undraw/my_feed.png'
 
 export const NavigationLinks = [
   { name: 'Home', href: '' },
-  { name: 'About', href: 'about' },
+  { name: 'Biography', href: 'bio' },
   { name: 'Contact', href: 'contact' },
   { name: 'Blog', href: 'blog' },
   { name: 'Websites', href: 'websites' },
