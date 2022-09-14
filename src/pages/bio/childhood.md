@@ -1,14 +1,15 @@
 ---
 layout: ../../layouts/doc.astro
 section: My Life
-title: Childhood
+title: Childhood (1964-1983)
 description: Early Childhood through to university
-weight: 101
+weight: 100
 ---
 
 ## Birth
 
-I was born in Klang General Hospital (now renamed to Hospital Tengku Ampuan
+I was born on 8 August 1964 in Klang General Hospital (now renamed to Hospital
+Tengku Ampuan
 Rahimah). Klang is a royal city and former capital of the state of Selangor,
 Malaysia. Port Klang is the 12th busiest container port in the world
 (according to [Wikipedia](https://en.wikipedia.org/wiki/Klang_(city))).
@@ -18,7 +19,7 @@ Every few years, he will get posted to a different city. So I did not get a
 chance to stay in Klang long, because soon after we moved to Kuala Terengganu.
 
 According to my mum, there is an interesting story connected to my stay here
-when I was about 1 years old.
+when I was about 1 year old.
 
 We moved to a rented house and the rent was apparently surprisingly affordable.
 However, I would wake up every night crying at around 11pm. No matter what my
@@ -68,9 +69,9 @@ storage room and garage.
 Once I was peddling along in my toy motorcar down our driveway. According to
 my mum, a very large snake crawled across the driveway. I patiently waited for
 the snake to finish crossing the driveway, then proceeded along as if nothing
-has happened.
+unusual has happened.
 
-I remember buying a picture book of Chitty Chitty Bang Bang, and it was my
+I remember getting a picture book of Chitty Chitty Bang Bang, and it was my
 favourite book. I was fascinated by the coloured pictures in it. I took it
 everywhere with me. One day, we parked the car at the Lake Garden for an
 afternoon stroll. Of course, I had the book with me. I left it on the roof
@@ -150,7 +151,7 @@ later on Famous Five books. When I accompanied my father to visit Penang on
 his many audiophile trips, I would spend time at the second hand bookshops
 on the beach and bought many books there.
 
-However, I stayed at my aunt's room for several weeks during one school
+I stayed at my aunt's room for several weeks during one school
 vacation when I was living with my grandma. She had gone to the UK to study.
 I discovered she had a whole bookshelf full of romance novels, primarily
 Mills and Book but also some Harlequin. I devoured her entire bookshelf, and
@@ -185,6 +186,8 @@ etc.
 
 I studied in KGV for 6 years, became the school monitor in Form 6, and the
 editor of the school magazine.
+
+## I, Nerd
 
 I became interested in calculators and computers during my high school. I
 remember my Dad bringing home an HP calculator that the department was

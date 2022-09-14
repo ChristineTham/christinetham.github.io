@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/doc.astro
 section: My Life
-title: University
+title: University (1984-1987)
 description: University Years in Australia
-weight: 110
+weight: 200
 ---
 
 I was pretty happy when my parents said they were planning to send me to
@@ -183,7 +183,7 @@ starving student.
 
 I started cutting down on meals and lost a lot of weight. I stopped buying
 records, or watching movies. It was not enough. I couldn't face the prospect
-of asking my father for more money as he had been very clear that there were
+of asking my father for more money as he had been very clear that there was
 none left. I began to think I need to get a part time job.
 
 I saw an ad on the university noticeboards looking for a casual programmer. I
@@ -213,6 +213,31 @@ I went and met his boss, who also asked me when I could start. They also paid
 better - $15 an hour (around minimum wage).
 
 Very soon, my money problems were solved.
+
+I have the dubious honour of introducing Bain & Co to the Internet. At that
+time, there was no pervasive TCP/IP network in Australia. Sites in the US
+connected to each other via dedicated lines and dial up modems using the UUCP
+protocol.
+
+In Australia, the academic insitutions created an alternative network called
+ACSnet (Australian Computer Society networtk), and the software for ACSnet
+happened to be written by Bob Kummerfeld and Piers Dick Lauder at the University
+of Sydney. ACSnet connected to the ARPAnet and UUCP backbone in the US and
+other countries to form a mega network that people called "the Internet."
+
+The cost of getting onto ACSnet was borne by participating institutions. The
+licence fee for the software was A$3,000 and in addition one had to pay for
+either a dedicated line or dialup modem.
+
+I convinced Bain & Co in my role as system administrator that there would
+be benefits of joining ACSnet. I talked about email, and the possibility of
+downloading open source software. The mentioned of free software convinced
+my boss.
+
+So Bain & Co became one of the first non-academic organisation in Australia
+to become part of the Internet (bain.oz.au was our domain name) and I was
+listed in WHOIS as the administrator. In those days, the number of nodes in
+Australia were few and a full network map could be drawn on an A4 sheet.
 
 ## Year 4
 
@@ -332,6 +357,9 @@ work in the last few weeks and all was forgiven. I then had the luxury of
 relaxing for the next few weeks whilst others were frantically trying to
 complete their work.
 
+If you want to read more about my honours year adventures, I have a website
+dedicated to that: [Hons87](https://hons87.github.io).
+
 ## Graduation
 
 When the results were announced, I was very pleased to discover not only have
@@ -342,7 +370,7 @@ I was even more surprised that most of the original 5 recipients of the E
 Trenchard Miller Memorial Scholarships had also won medals in their respective
 majors - Mathematics, Physics and Chemistry. I was very happy for my friends.
 
-I discovered later on that the award of the university medal to me was highly
+I found later on that the award of the university medal to me was highly
 controversial. The professor who was doing research on Chinese language
 translation did not understand my paper at all and wanted to fail me. I was
 told Bruce Ellis made a spirited defence on my behalf and argued that what
