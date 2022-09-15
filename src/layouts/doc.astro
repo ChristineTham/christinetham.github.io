@@ -5,6 +5,7 @@ import Base from './base.astro'
 import PageContent from '../components/pagecontent.astro'
 import LeftSidebar from '../components/leftsidebar.astro'
 import RightSidebar from '../components/rightsidebar.astro'
+import NextPrev from '../components/nextprev.astro'
 import * as CONFIG from '../config'
 import type { MarkdownHeading } from 'astro'
 
@@ -64,30 +65,7 @@ docs.forEach((doc, i) => {
       >
         <slot />
       </section>
-      <dl class="mt-12 flex border-t border-roselyA pt-6 dark:border-rosely8">
-        {prev &&
-          <div class="mr-auto text-left">
-              <dt class="font-display text-sm font-medium text-rosely1 dark:text-rosely3">Prev</dt>
-              <dd class="mt-1">
-                  <a class="text-base font-semibold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5" href={prev.url}>
-                    <span aria-hidden="true">←</span>
-                      {prev.frontmatter.title}
-                  </a>
-              </dd>
-          </div>
-        }
-        {next &&
-          <div class="ml-auto text-right">
-              <dt class="font-display text-sm font-medium text-rosely1 dark:text-rosely3">Next</dt>
-              <dd class="mt-1">
-                  <a class="text-base font-semibold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5" href={next.url}>
-                      {next.frontmatter.title}
-                      <span aria-hidden="true">→</span>
-                  </a>
-              </dd>
-          </div>
-        }
-      </dl>
+      <NextPrev prev={prev} next={next} />
       </PageContent>
     </div>
     <aside id="grid-right" class="grid-sidebar" title="Table of Contents">

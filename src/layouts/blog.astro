@@ -1,13 +1,39 @@
 ---
+import type { MarkdownInstance } from 'astro'
 import type { Frontmatter } from '../config'
 import Base from '../layouts/base.astro'
 import BlogHero from '../components/bloghero.astro'
+import NextPrev from '../components/nextprev.astro'
 
 export interface Props {
   frontmatter: Frontmatter
 }
 
 const { frontmatter } = Astro.props
+
+const currentPage = Astro.url.toString()
+const allPosts = (await Astro.glob<MarkdownInstance<Frontmatter>>(
+    '../pages/blog/**/*.{md,mdx}'
+  ))
+const posts = allPosts
+  .sort(
+    (a, b) =>
+      new Date(b.frontmatter.publishDate).valueOf() -
+      new Date(a.frontmatter.publishDate).valueOf()
+  )
+  .filter(post => !post.frontmatter.draft)
+let prev: MarkdownInstance<Frontmatter>
+let next: MarkdownInstance<Frontmatter>
+posts.forEach((post, i) => {
+  if (currentPage.search(post.url as string) >= 0) {
+    if (i > 0) {
+      prev = posts[i - 1]
+    }
+    if (i < posts.length - 1) {
+      next = posts[i + 1]
+    }
+  }
+})
 ---
 
 <Base frontmatter={frontmatter}>
@@ -21,4 +47,5 @@ const { frontmatter } = Astro.props
       </section>
     </article>
   </main>
+  <NextPrev slot="before-footer" prev={prev} next={next} />
 </Base>

@@ -1,0 +1,50 @@
+---
+import type { MarkdownInstance } from 'astro'
+import type { Frontmatter } from '../config'
+
+export interface Props {
+  prev: MarkdownInstance<Frontmatter>
+  next: MarkdownInstance<Frontmatter>
+}
+
+const { prev, next } = Astro.props
+---
+
+<dl class="mt-12 flex border-t border-roselyA pt-6 dark:border-rosely8" >
+  {
+    prev && (
+      <div class="mr-auto text-left">
+        <dt class="font-display text-sm font-medium text-rosely1 dark:text-rosely3">
+          Prev
+        </dt>
+        <dd class="mt-1">
+          <a
+            class="text-base font-semibold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5"
+            href={prev.url}
+          >
+            <span aria-hidden="true">←</span>
+            {prev.frontmatter.title}
+          </a>
+        </dd>
+      </div>
+    )
+  }
+  {
+    next && (
+      <div class="ml-auto text-right">
+        <dt class="font-display text-sm font-medium text-rosely1 dark:text-rosely3">
+          Next
+        </dt>
+        <dd class="mt-1">
+          <a
+            class="text-base font-semibold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5"
+            href={next.url}
+          >
+            {next.frontmatter.title}
+            <span aria-hidden="true">→</span>
+          </a>
+        </dd>
+      </div>
+    )
+  }
+</dl>

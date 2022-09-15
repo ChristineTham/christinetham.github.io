@@ -64,6 +64,7 @@ const { frontmatter } = Astro.props
       <Header />
       <slot />
       {frontmatter.gallery && <Gallery folder={frontmatter.gallery} />}
+      <slot name="before-footer" />
       <Footer />
       {frontmatter.extra?.includes('markmap') &&
         <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
