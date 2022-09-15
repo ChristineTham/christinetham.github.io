@@ -1,14 +1,14 @@
 ---
 layout: ../../layouts/doc.astro
 section: My Life
-title: Work (1989-2019)
+title: Work (1988-2019)
 description: My work history, from a personal perspective
 weight: 300
 ---
 
 This section is not a resume. If you want to read my resume, you can visit
 my profile on [LinkedIn](https://www.linkedin.com/in/christham/). It is a
-recounting of my work history but from a personal perspective.
+anecdotal retelling of highlights from my work life from a personal perspective.
 
 ## Option Technology
 
@@ -490,6 +490,37 @@ the staff started calling me by name as soon as I came on board a flight.
 In the evenings, to while away my time, I used to compose music and also studied
 Japanese. I became overweight from fine dining too many nights in a week.
 
+I remember working on the Group IT Strategy in 2005 and also leading the
+Corporate Centre IT Strategy in 2007.
+
+Around 2006, I went on a business trip to the US with a group of NAB colleagues.
+We visited the usual technology vendors: Microsoft, Sun, Oracle, IBM. Towards
+the end of the trip, I received a call from my manager saying I have been
+requested to assist with the European wealth management strategy and instead
+of returning home, I should catch a flight to London.
+
+When I arrived in London, it was an unseasonably warm and sunny day in February.
+Birds were chirping, flowers were blooming at Buckingham Palace. Little did I
+realise that would have been the only sunny day for the next 6-8 weeks. The
+rest of my stay was miserable, and I was homesick.
+
+NAB offices in London were located on Wood St, pretty much in centre of
+the London financial district. It was located near the Moorgate on the old
+London Wall, and very close to St. Paul's. Also nearly was the famous
+Barbican Centre, known for having superb acoustics. I spent a lot of my
+evenings attendings concerts and operas at the Royal Festival Hall, Covent
+Garden and the famous St-Martin-in-the-Fields, also known for great acoustics.
+
+I also flew to Glasgow on the invitation of the Head of Architecture for
+Clydesdale and Yorkshire banks. I enjoyed my time there, and was amused that
+the taxi driver who took me to the airport for the return journey thought
+I was a local Scottish resident.
+
+Although I enjoyed my stay in London, in the end I was very homesick and
+pleaded to be allowed to return home. My manager said that was awkward because
+the UK management liked me and was requesting for an extension. I remember
+crying and said I really miss my family.
+
 ## ING Australia
 
 One day I received a call from an executive search firm. They said there was
@@ -508,8 +539,123 @@ we were both on a business trip to the US.
 
 I accepted the position, and soon was deep in a lot of work. The new CIO
 wanted to outsource the IT organisation, and the organisation was also
-in the middle of large eBusiness software design.
+in the middle of large eBusiness app design.
 
-I went with a group of executives to a business trip to India to assess
+I visited the ING regional headquarters at Hong Kong for a regional
+architecture conference. It was the first time I had returned to Hong Kong
+after the Lend Lease CIO conference in 2000, and I was pleasantly surprised
+to see that the intervening years had completely transformed the city state.
+It is now a bustling metropolis with some amazing architecture and lots of
+great places to eat and shop. The ING office was located at IFC 2, which is
+above the Hong Station Station with the express train to the airport.
+
+I felt like a jetsetter, checking in to my flight in the morning at Hong
+Kong Station, then working at ING right up till 5pm, then casually boarded
+the Airport Express carrying nothing but a handbag and satchel, to the lounge
+to have a shower and meal before boarding the plane home.
+
+I also went with a group of executives to a business trip to India to assess
 potential partners for outsourcing. It was a really interesting trip as I
-have never been to India before.
+have never been to India before. It was only a few weeks after the Mumbai
+2008 attacks, so security was very tight. We stayed at the Leela Palace hotel,
+a luxury hotel set amongst a lovely garden complete with waterfalls and
+fountain. It really looked like a palace, and initially I thought it must
+be centuries old, then I discovered it was built in 1986.
+
+We visited Infosys at Bangalore. The Infosys campus looked like a theme park.
+We found out later employees were allowed to bring their parents to stay at
+the in-campus accommodation, so it was in fact run as a resort. Then we
+visited Microsoft at Hyderabad, and a small software development company
+at Chennai that prided themselves on employing disabled people (or, as the
+founder proudly says, "differently abled").
+
+Unfortunately, I caught a cold around this time, and could not shake it off.
+Eventually it developed into pneumonia, and I could not really enter an
+air conditioned room without hugh coughing fits.
+
+Then the Global Financial Crisis came. People who do not work in the finance
+industry probably don't really realise what a shock this was to the
+global finance community. People seemed to think the world was ending, and
+finance will never be the same again.
+
+ING in particular suffered badly. Their share price plummeted to only a few
+cents, and the call centre was swamped with retirees calling in to say they
+need their distributions otherwise they will starve. It was not a good time
+for everyone.
+
+ING negotiated an exit for me, and I was glad because I could not get rid of
+the pneumonia.
+
+## Cycling
+
+For the next two years I did not work and focused on regaining my health. I was
+overweight, and sick, with high blood pressure and a fatty liver. My health
+problems were affecting even my eyes - they became very astigmatic and I no
+longer have 20/20 vision.
+
+I took up cycling again. I remember enjoying cycling when I was young, and I
+needed a way to get fit.
+
+My first ride, just up and down the street, was both elating and humbling.
+I rode down the street, not realising it was slightly downhill, and marveled
+at how easy cycling was. I barely needed to pedal, and I was going so fast.
+Whee!
+
+I then turned around at the end of the street and started cycling back. That's
+when I realised cycling was tough. I could barely rotate the pedals. Eventually
+I gave up and walked up the hill. That was very humbling, and told me how
+unfit I was.
+
+Over the next few months, I cycled every day and gradually improved my fitness
+and strength. I started cycling longer distances: to North Sydney and back,
+to Eastwood, around Sydney Olympic Park, and even around Lake Burley Griffin
+in Canberra (which has long been on the bucket list for me).
+
+I soon became brave enough to consider joining cycling groups. The first bunch
+ride I did was shameful. The guys laughed at me when they saw my hybrid bicycle
+and said I would not be able to keep up with them but I could certainly try.
+
+As soon as they left, they immediately dropped me. I valiantly tried to follow
+them all the way to Roseville Bridge, and realised it was hopeless, and turned
+around to cycle back.
+
+My next attempt at joining a cycling bunch was a little better. They started
+at 6:30am, which was just after sunrise, so I had to cycle to the starting
+point in darknesss. I had lights on the bicyle, but they don't work on corners.
+I made the mistake of cycling there on a bike path, and crashed my bike
+navigating the corner. So I made it to the start with bleeding legs, which
+wasn't a good impression. The ride leader was so concerned with my
+inexperience he opted to stay with me for the entire ride just to make sure
+I was okay. Luckily I managed to survive the ride to Taronga Zoo and back
+reasonably well.
+
+After that, I was a regular participant on bunch rides on my Giant hybrid.
+Eventually I decided I needed to upgrade to a real road bike, so I bought
+a second hand Giant TCR from Ebay.
+
+I had developed the cycling bug. I upgraded all the components of that bike
+over time, and continued to ride it for more than 5 years. I eventually
+progressed from riding with the "C" group (slowest) to the "A" group. I was
+cycling 400-500 km per week. I was really fit.
+
+## Hello Tham
+
+However, the money was starting to run out. I did some day trading and made
+some money, and this convinced me to sell our investment property and go
+all in on shares and fixed income. This helped stabilised our finances but
+I realise I need to get a job.
+
+I reconnected with a friend who I met when he was working at Accenture and
+assisting NAB with the IT Strategy in 2007. He managed to get me a few days
+consulting for the University of New England. That was a nice taste, but
+I really needed more money.
+
+A former MLC colleague had recently become the CIO at Transfield Services.
+He invited me to do some consulting to help define an IT Strategy and
+migration roadmap to assist the organisation in getting approval for an
+SAP implementation. It was supposed to be 6-12 weeks of work, because I
+liked because it was just enough money to buy a new bicycle. I ended up
+working there for over 6 years, in various roles.
+
+I then started my own consulting company, called Hello Tham, and did various
+consulting assignments for Broadspectrum as well as TransportNSW.

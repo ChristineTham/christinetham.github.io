@@ -13,6 +13,9 @@ CSS utility framework.
 I use [Visual Studio Code](https://code.visualstudio.com)
 as the development environment.
 
+Credit goes to [Undraw](https://undraw.co/) for the illustrations and to
+[Freepik](https://www.freepik.com) for the Kawaii Flat icon designs.
+
 The code for the website is open source (MIT licence) and available in a
 [GitHub repository](https://github.com/ChristineTham/christinetham.github.io).
 
