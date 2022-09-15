@@ -110,7 +110,7 @@ export const CategoryDetail = [
     coverSVG: '../svg/undraw/deconstructed.svg',
     socialImage: '../images/undraw/deconstructed.png',
     description: 'I love creating things, and this page summarises posts where I have created things.',
-    content: ''
+    content: 'This includes art, music, software and design.'
   },
   {
     category: 'Cycling',
@@ -129,6 +129,30 @@ export const CategoryDetail = [
     content: 'I love good design, whether it’s a product, clothes, personal accessories or even design as art. I generally like design to be simple, functional, classic, but not necessarily tradition. I also like designing things. My favourite colour is pink, and I try and incorporate that in all my designs. All my websites are designed by me.'
   },
   {
+    category: 'Dreams',
+    icon: '../svg/kawaii/vortex.svg',
+    coverSVG: '../svg/undraw/dreamer.svg',
+    socialImage: '../images/undraw/dreamer.png',
+    description: 'I often remember the more interesting dreams.',
+    content: 'I tend to have lucid dreams, eg. I realise that I am dreaming and often I both live the dream as well as observe and analyse it. I\'ve tried to document some of the more interesting dreams I have had.'
+  },
+  {
+    category: 'Events',
+    icon: '../svg/kawaii/cherry-blossom.svg',
+    coverSVG: '../svg/undraw/online_calendar.svg',
+    socialImage: '../images/undraw/online_calendar.png',
+    description: 'Events that we have attended, including concerts, exhibitions, parties etc.',
+    content: 'This includes art shows, concerts, exhibitions, parties, special events or any other occasion I have attended.'
+  },
+  {
+    category: 'Fashion',
+    icon: '../svg/kawaii/clothes.svg',
+    coverSVG: '../svg/undraw/jewellery.svg',
+    socialImage: '../images/undraw/jewelley.png',
+    description: 'I am not a fashionista, but I do like beautiful clothes.',
+    content: 'Here are some of the more interesting outfits I have worn.'
+  },
+  {
     category: 'Food',
     icon: '../svg/kawaii/noodles.svg',
     coverSVG: '../svg/undraw/breakfast.svg',
@@ -142,7 +166,7 @@ export const CategoryDetail = [
     coverSVG: '../svg/undraw/blooming.svg',
     socialImage: '../images/undraw/blooming.png',
     description: 'We love beautiful gardens and try and visit as many as we can wherever we travel.',
-    content: 'My favourite cuisines are Thai, Malaysian, Vietnamese, Japanese but also love Modern Australian. When I cook, I generally try to recreate classic Malaysian dishes but with a twist.'
+    content: 'We love visiting gardens, even though I am not a garderner. There is something peaceful and tranquil about the garden, as well as beauty.'
   },
   {
     category: 'Music',
@@ -161,12 +185,20 @@ export const CategoryDetail = [
     content: 'I started taking photos in high school using my father\'s Yashica rangefinder. I had a series of Pentax SLR bodies and a variety of lenses. With digital photography, I bought a Kodak DC220 in 1999 and currently uses a variety of brands including Sony (α9, α7r, α6500, NEX-F3, NEX-5N, RX100MkIV, HS50V), Leica (M10), Panasonic (GX9), Nikon 1 (J5, V3, V2, J1) and Pentax (K-01).'
   },
   {
+    category: 'Software',
+    icon: '../svg/kawaii/programming.svg',
+    coverSVG: '../svg/undraw/progressive_app.svg',
+    socialImage: '../images/undraw/progressive_app.png',
+    description: 'Code that I have written.',
+    content: 'Software that I have either been directly or indirectly involved in.'
+  },
+  {
     category: 'Travel',
     icon: '../svg/kawaii/map.svg',
     coverSVG: '../svg/undraw/travel_mode.svg',
     socialImage: '../images/undraw/travel_mode.png',
     description: 'I love traveling.',
-    content: ''
+    content: 'We have travelled around Australia and Asia as well as visited parts of US and Europe.'
   },
   {
     category: 'Website',
@@ -174,7 +206,7 @@ export const CategoryDetail = [
     coverSVG: '../svg/undraw/personal_website.svg',
     socialImage: '../images/undraw/personal_website.png',
     description: 'I love building websites as a hobby.',
-    content: ''
+    content: 'These are some websites that I have built over the years.'
   },
 ]
 
