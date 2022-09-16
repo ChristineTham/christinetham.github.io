@@ -5,14 +5,14 @@ import 'photoswipe/style.css'
 import 'photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css'
 
 export interface Props {
-  folder: string
+  images: string[]
 }
 
-const { folder } = Astro.props
+const { images } = Astro.props
 
-const imageFiles = import.meta.glob<ImageMetadata>('../images/gallery/**/*.{png,webp,jpg,jpeg}', { import: 'default', eager: true })
-const folderFiles = Object.keys(imageFiles).filter(image => image.search(folder) >= 0)
-const images = folderFiles.map(image => imageFiles[image])
+const imageFiles = import.meta.glob<ImageMetadata>('../images/**/*.{png,webp,jpg,jpeg}', { import: 'default', eager: true })
+const folderFiles = Object.keys(imageFiles).filter(image => images.includes(image))
+const imageSrc = folderFiles.map(image => imageFiles[image])
 const imagetitles = folderFiles.map(image => image.slice(0, image.lastIndexOf('.')).slice(image.lastIndexOf('/') + 1))
 // console.log(images)
 const exifs = [] as Record<string, any>[]
@@ -20,6 +20,8 @@ for (let i in folderFiles) {
   const exif = await exifr.parse(folderFiles[i].replace('../', './src/'))
   exifs.push(exif)
 }
+// console.log(exifs)
+
 ---
 <style>
   .pswp--custom-icon-colors {
@@ -43,12 +45,12 @@ for (let i in folderFiles) {
     padding: 10px 15px;
   }
 </style>
-<p class="text-sm text-rosely1 dark:rosely7 italic p-4">Please click on any photo to view in a lightbox. Use arrow keys or swipe to navigate.</p>
-<div id="gallery" class="w-full block mx-auto columns-1 gap-1 sm:columns-2 lg:columns-3 not-prose" itemscope itemtype="http://schema.org/ImageGallery">
-  {images.map((image, i) => (
+<p class="text-sm text-rosely1 dark:rosely7 italic p-4">Please click on photo to view in a lightbox. Use arrow keys or swipe to navigate.</p>
+<div id="gallery" class="w-full block not-prose" itemscope itemtype="http://schema.org/ImageGallery">
+  {imageSrc.map((image, i) => (
     <figure itemscope itemtype="http://schema.org/ImageObject" class="inline-block text-rosely0 dark:text-rosely3 bg-rosely7 dark:bg-rosely1 text-sm text-center italic rounded">
     <a href={image.src} itemprop="contentUrl" data-pswp-width={image.width} data-pswp-height={image.height}>
-      <Image src={image} alt={imagetitles[i]} width={600} height={image.height * 600/image.width} format="webp" class="rounded" />
+      <Image src={image} alt={imagetitles[i]} format="webp" class="rounded" />
       <span class="pswp-caption-content">
         {imagetitles[i]}
         {exifs[i] && exifs[i].Make && <span>{' (' + exifs[i].Make + ' ' + exifs[i].Model  + ')'}</span>}

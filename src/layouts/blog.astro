@@ -4,6 +4,7 @@ import type { Frontmatter } from '../config'
 import Base from '../layouts/base.astro'
 import BlogHero from '../components/bloghero.astro'
 import NextPrev from '../components/nextprev.astro'
+import Images from '../components/images.astro'
 
 export interface Props {
   frontmatter: Frontmatter
@@ -43,6 +44,7 @@ posts.forEach((post, i) => {
         <BlogHero frontmatter={frontmatter} />
       </header>
       <section class="px-4 py-8 max-w-screen-lg mx-auto prose prose-purple lg:prose-xl dark:prose-invert" >
+        {frontmatter.images && <Images images={frontmatter.images} />}
         <slot />
       </section>
     </article>

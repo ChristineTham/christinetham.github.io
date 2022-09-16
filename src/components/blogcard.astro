@@ -13,8 +13,8 @@ export interface Props {
 }
 
 const { post } = Astro.props
-const image = post.frontmatter.coverImage || post.frontmatter.socialImage || categoryDetail(post.frontmatter.categories && post.frontmatter.categories[0]).socialImage
-const svgimg = post.frontmatter.coverSVG || (post.frontmatter.coverImage ? null : categoryDetail(post.frontmatter.categories && post.frontmatter.categories[0]).coverSVG)
+const image = post.frontmatter.coverImage || post.frontmatter.socialImage || (post.frontmatter.images && post.frontmatter.images[0]) || categoryDetail(post.frontmatter.categories && post.frontmatter.categories[0]).socialImage
+const svgimg = post.frontmatter.coverSVG || (post.frontmatter.coverImage || post.frontmatter.images ? null : categoryDetail(post.frontmatter.categories && post.frontmatter.categories[0]).coverSVG)
 ---
 
 <section>
@@ -33,7 +33,7 @@ const svgimg = post.frontmatter.coverSVG || (post.frontmatter.coverImage ? null 
           <Img
             src={image}
             alt={post.frontmatter.title + ' featured image'}
-            class="relative w-full h-64 rounded-lg overflow-hidden group-hover:opacity-75 object-center object-cover"
+            class="relative w-full h-64 rounded-lg overflow-hidden group-hover:opacity-75 object-top object-cover"
           />
         )
       }

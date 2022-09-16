@@ -9,6 +9,7 @@ export interface Frontmatter {
   coverSVG?: string
   coverImage?: string
   socialImage?: string
+  images?: string[]
   categories?: string[]
   tags?: string[]
   file?: string

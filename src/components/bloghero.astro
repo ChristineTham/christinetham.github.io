@@ -11,8 +11,8 @@ export interface Props {
 }
 
 const { frontmatter } = Astro.props
-const image = frontmatter.coverImage || frontmatter.socialImage || categoryDetail(frontmatter.categories && frontmatter.categories[0]).socialImage
-const svgimg = frontmatter.coverSVG || (frontmatter.coverImage ? null : categoryDetail(frontmatter.categories && frontmatter.categories[0]).coverSVG)
+const image = frontmatter.coverImage || frontmatter.socialImage || (frontmatter.images && frontmatter.images[0]) || (categoryDetail(frontmatter.categories && frontmatter.categories[0]).socialImage)
+const svgimg = frontmatter.coverSVG || (frontmatter.coverImage || frontmatter.images ? null : categoryDetail(frontmatter.categories && frontmatter.categories[0]).coverSVG)
 ---
 
 <div class="w-full max-w-none relative h-96 bg-rosely7 dark:bg-rosely8">
@@ -31,7 +31,7 @@ const svgimg = frontmatter.coverSVG || (frontmatter.coverImage ? null : category
       <Img
         src={image}
         alt="featured image"
-        class="absolute left-0 w-full h-full top-0 z-0 object-cover object-top"
+        class="absolute left-0 w-full h-full top-0 z-0 object-cover"
       />
     )
   }
