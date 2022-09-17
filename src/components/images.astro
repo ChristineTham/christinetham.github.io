@@ -12,7 +12,7 @@ const { images } = Astro.props
 
 const imageFiles = import.meta.glob<ImageMetadata>('../images/**/*.{png,webp,jpg,jpeg}', { import: 'default', eager: true })
 const folderFiles = Object.keys(imageFiles).filter(image => images.includes(image))
-const imageSrc = folderFiles.map(image => imageFiles[image])
+const imageSrc = images.map(image => imageFiles[image])
 const imagetitles = folderFiles.map(image => image.slice(0, image.lastIndexOf('.')).slice(image.lastIndexOf('/') + 1))
 // console.log(images)
 const exifs = [] as Record<string, any>[]
@@ -45,7 +45,7 @@ for (let i in folderFiles) {
     padding: 10px 15px;
   }
 </style>
-<p class="text-sm text-rosely1 dark:rosely7 italic p-4">Please click on photo to view in a lightbox. Use arrow keys or swipe to navigate.</p>
+<p class="text-sm text-rosely1 dark:rosely7 italic py-4">Please click on photo to view in a lightbox. Use arrow keys or swipe to navigate.</p>
 <div id="gallery" class="w-full block not-prose" itemscope itemtype="http://schema.org/ImageGallery">
   {imageSrc.map((image, i) => (
     <figure itemscope itemtype="http://schema.org/ImageObject" class="inline-block text-rosely0 dark:text-rosely3 bg-rosely7 dark:bg-rosely1 text-sm text-center italic rounded">

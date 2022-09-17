@@ -14,7 +14,7 @@ const { categories } = Astro.props
         categories.map(category => (
           <div class="group">
             <a href={`${import.meta.env.BASE_URL}category/${category}/`}>
-              <div class="relative mb-4 bg-rosely7 dark:bg-rosely8 rounded-lg overflow-hidden group-hover:opacity-75 aspect-w-1 aspect-h-1 shadow-xl">
+              <div class="relative mb-4 bg-rosely5 dark:bg-rosely8 rounded-lg overflow-hidden group-hover:opacity-75 aspect-w-1 aspect-h-1 shadow-xl">
                 <SVGImg
                 src={categoryDetail(category).icon}
                 alt={categoryDetail(category).description}

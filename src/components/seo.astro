@@ -21,7 +21,7 @@ const siteurl = new URL(import.meta.env.BASE_URL, Astro.url)
 const type = Astro.url.toString().includes('blog') ? 'post' : 'page'
 const year = parseInt(SiteMetadata.buildTime.slice(0, 4))
 const images = import.meta.glob<ImageMetadata>('../images/**/*', { import: 'default' })
-const image = await images[frontmatter.socialImage || frontmatter.coverImage || DefaultImage]()
+const image = await images[frontmatter.socialImage || frontmatter.coverImage || (frontmatter.images && frontmatter.images[0]) || DefaultImage]()
 const logo = siteurl + LogoImage.slice(1)
 
 const openGraph = {

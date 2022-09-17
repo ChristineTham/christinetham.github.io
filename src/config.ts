@@ -138,7 +138,7 @@ export const CategoryDetail = [
     content: 'I tend to have lucid dreams, eg. I realise that I am dreaming and often I both live the dream as well as observe and analyse it. I\'ve tried to document some of the more interesting dreams I have had.'
   },
   {
-    category: 'Events',
+    category: 'Event',
     icon: '../svg/kawaii/cherry-blossom.svg',
     coverSVG: '../svg/undraw/online_calendar.svg',
     socialImage: '../images/undraw/online_calendar.png',
@@ -148,8 +148,8 @@ export const CategoryDetail = [
   {
     category: 'Fashion',
     icon: '../svg/kawaii/clothes.svg',
-    coverSVG: '../svg/undraw/jewellery.svg',
-    socialImage: '../images/undraw/jewelley.png',
+    coverSVG: '../svg/undraw/jewelry.svg',
+    socialImage: '../images/undraw/jewelry.png',
     description: 'I am not a fashionista, but I do like beautiful clothes.',
     content: 'Here are some of the more interesting outfits I have worn.'
   },

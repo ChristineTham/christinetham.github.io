@@ -3,9 +3,9 @@ layout: ../../layouts/blog.astro
 title: Lunch at Laura's Malaysian Kitchen
 description: Catchup with friends
 author: Chris Tham
-publishDate: 2022-09-12T00:00:00.000Z
-coverImage: ../images/gallery/2022-09-12-laura-kitchen/Laura's Malaysian Kitchen.jpeg
-gallery: 2022-09-12-laura-kitchen
+publishDate: 2022-09-11T13:00:00+10:00
+coverImage: ../images/gallery/2022-09-11-laura-kitchen/Laura's Malaysian Kitchen.jpeg
+gallery: 2022-09-11-laura-kitchen
 categories:
   - Food
   - Event
