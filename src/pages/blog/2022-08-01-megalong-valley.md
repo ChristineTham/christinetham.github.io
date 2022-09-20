@@ -17,6 +17,8 @@ tags:
   - saffron
   - risotto
   - duck ragu
+  - dinner
+  - breakfast
 ---
 
 In the morning, we tucked into a big breakfast of bacon, eggs, sausages,

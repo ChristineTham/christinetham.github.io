@@ -11,6 +11,7 @@ tags:
   - Temasek Club
   - Zilver
   - kebaya
+  - dinner
 ---
 
 I wore my kebaya to the dinner, along with the other ladies at our table. The gentlemen wore batik shirts.

@@ -11,7 +11,7 @@ categories:
   - Event
 tags:
   - lunch
-  - birthday
+  - Hurtsville
 ---
 
 Great catchup and lunch at Laura's Malaysian Kitchen with Karen Leong, Jit Koay, Luci Peranakan, Karen Ong and Madeleine.

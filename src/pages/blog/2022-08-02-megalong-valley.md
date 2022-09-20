@@ -13,6 +13,7 @@ tags:
   - Megalong Valley
   - scones
   - sunrise
+  - breakfast
 ---
 
 Woke up in the morning to a beautiful sunrise, and did yoga whilst watching
