@@ -8,7 +8,6 @@ coverImage: ../images/gallery/2022-07-02-kingsford/Kingsford (8).jpeg
 gallery: 2022-07-02-kingsford
 categories:
   - Food
-  - Event
 tags:
   - lunch
   - family

@@ -8,7 +8,6 @@ coverImage: ../images/gallery/2022-09-11-laura-kitchen/Laura's Malaysian Kitchen
 gallery: 2022-09-11-laura-kitchen
 categories:
   - Food
-  - Event
 tags:
   - lunch
   - Hurtsville

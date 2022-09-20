@@ -2,7 +2,7 @@
 layout: ../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Spice World
-publishDate: 2022-07-07T13:00:00+10:00
+publishDate: 2022-07-05T13:00:00+10:00
 description: Lunch at a Malatang restaurant in Chinatown
 images:
   - ../images/food/Spice World (1).jpeg

@@ -2,7 +2,7 @@
 layout: ../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Cindy's place
-publishDate: 2022-07-06T13:00:00+10:00
+publishDate: 2022-07-04T13:00:00+10:00
 description: Buying takeaway lunch for Cindy
 images:
   - ../images/food/Cindy lunch (1).jpeg
