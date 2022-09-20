@@ -9,7 +9,7 @@ images:
   - ../images/cycling/Wong Time Again Lunch (2).jpeg
 description: Celebration of Lance Wong
 categories: [Cycling, Food, Event]
-tags: [Zeal of Zebras, lunch, Malaya, Lance Wong]
+tags: [Zeal of Zebras, lunch, Malaya, Lance Wong, Malaysian]
 ---
 
 Wong Time Again Lunch: What a beautiful way to celebrate the life and friendship of a dear friend, Lance Wong, who owned The Malaya. Besides being a successful restaurateur who established one of the earliest and most well known and frequented Malaysian restaurants in Sydney, at a period of time when some people probably couldn't spell Malaysia, or know where it was, let alone sampled the cuisine.

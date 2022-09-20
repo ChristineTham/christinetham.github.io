@@ -9,6 +9,7 @@ categories: [Food]
 tags:
   - lunch
   - Parklea
+  - Malaysian
   - nasi kandar
 ---
 

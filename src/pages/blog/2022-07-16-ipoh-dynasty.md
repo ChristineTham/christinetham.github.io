@@ -10,6 +10,7 @@ categories: [Food]
 tags:
   - lunch
   - Campsie
+  - Malaysian
   - Ipoh Dynasty
 ---
 

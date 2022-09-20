@@ -12,6 +12,8 @@ categories:
 tags:
   - lunch
   - Hurtsville
+  - Malaysian
+  - Laura
 ---
 
 Great catchup and lunch at Laura's Malaysian Kitchen with Karen Leong, Jit Koay, Luci Peranakan, Karen Ong and Madeleine.
