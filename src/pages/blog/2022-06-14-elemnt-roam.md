@@ -18,7 +18,6 @@ tags:
 ---
 
 My Garmin Edge 510 broke and can no longer charge, so I took advantage of a
-sale at bikebug to buy the Wahoo ELEMNT Roam. I really like the screen, it's
-so clear even in broad daylight, but didn't realise the unit is so large.
+sale at bikebug to buy the Wahoo ELEMNT Roam.
 
-I have it fitted on the Ruby.
+Managed to get the Wahoo Fitness ELMNT Roam installed and working on Ruby. Only took a few minutes to pair all the sensors (including the Di2), and its so easy to configure! The high resolution display is so bright and easy to read. Did my first ride with it at LCNP and tested all the pages. I thought the LEDs were a gimmick but they turned out to be useful - I configured them to show HR zone, and manage to control all my climbs so that I don't reach max HR until the top, thus minimising lactic acid buildup, so that I am fresh for the entire ride.
