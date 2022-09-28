@@ -15,7 +15,7 @@
     "@akebifiky/remark-simple-plantuml": "^1.0.2",
     "@astrojs/alpinejs": "^0.1.2",
     "@astrojs/image": "^0.7.1",
-    "@astrojs/mdx": "^0.11.1",
+    "@astrojs/mdx": "^0.11.2",
     "@astrojs/sitemap": "^1.0.0",
     "@astrojs/tailwind": "^2.0.1",
     "@tailwindcss/aspect-ratio": "^0.4.2",
@@ -46,7 +46,7 @@
     "astro-seo": "^0.6.0",
     "hero-patterns": "^2.1.0",
     "katex": "^0.16.2",
-    "leaflet": "^1.8.0",
+    "leaflet": "^1.9.1",
     "lunr": "^2.3.9",
     "photoswipe": "^5.3.2",
     "photoswipe-dynamic-caption-plugin": "^1.2.7"
