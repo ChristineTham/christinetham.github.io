@@ -23,6 +23,7 @@ const allDocs = (await Astro.glob(
   '../pages/bio/**/*.{md,mdx}'
 )) as MarkdownInstance<Frontmatter>[]
 const docs = allDocs
+  .map(post => ({ file: post.file, url: post.url, frontmatter: post.frontmatter }))
   .filter(doc => !doc.frontmatter.draft)
   .sort((d1, d2) => d1.frontmatter.weight! - d2.frontmatter.weight!)
 const sections = Array.from(

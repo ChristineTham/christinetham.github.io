@@ -27,6 +27,7 @@ const posts = (await Astro.glob(
   './blog/**/*.{md,mdx}'
 )) as MarkdownInstance<Frontmatter>[]
 const latestPosts = posts
+  .map(post => ({ file: post.file, url: post.url, frontmatter: post.frontmatter }))
   .sort(
     (a, b) =>
       new Date(b.frontmatter.publishDate).valueOf() -
@@ -34,7 +35,7 @@ const latestPosts = posts
   )
   .filter(post => !post.frontmatter.draft)
   .slice(0,6)
-
+// console.log(latestPosts)
 const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories))).sort() as string[]
 ---
 
@@ -93,7 +94,7 @@ const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.cat
   </h2>
   <CategoryRoll categories={categories} />
   <div class="flex flex-row items-center p-4 sm:px-6 lg:px-8 bg-rosely7 dark:bg-rosely1">
-    <h2˝ class="text-2xl md:text-4xl font-extrabold text-rosely8 dark:text-roselyB" >
+    <h2 class="text-2xl md:text-4xl font-extrabold text-rosely8 dark:text-roselyB" >
       My Latest Articles
     </h2>
     <a

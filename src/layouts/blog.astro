@@ -17,6 +17,7 @@ const allPosts = (await Astro.glob<MarkdownInstance<Frontmatter>>(
     '../pages/blog/**/*.{md,mdx}'
   ))
 const posts = allPosts
+  .map(post => ({ file: post.file, url: post.url, frontmatter: post.frontmatter }))
   .sort(
     (a, b) =>
       new Date(b.frontmatter.publishDate).valueOf() -
