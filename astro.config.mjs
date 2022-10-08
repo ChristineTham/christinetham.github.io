@@ -20,7 +20,9 @@ export default defineConfig({
     },
   },
   site: 'https://christham.net',
-  integrations: [tailwind(), sitemap(), image(), mdx(), alpinejs(), robotsTxt()],
+  integrations: [tailwind(), sitemap(), image({
+    serviceEntryPoint: '@astrojs/image/sharp'
+  }), mdx(), alpinejs(), robotsTxt()],
   experimental: {
     integrations: true,
   },
