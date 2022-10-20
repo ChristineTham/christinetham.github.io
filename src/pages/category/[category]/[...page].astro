@@ -25,6 +25,8 @@ const frontmatter: Frontmatter = {
   publishDate: SiteMetadata.buildTime,
 }
 
+const currentPage = Astro.url.toString().replace(/\/\d*$/, '')
+
 export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
   const allPosts = (await Astro.glob(
     '../../blog/*.{md,mdx}'
@@ -58,7 +60,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
       socialImage={frontmatter.socialImage}
     >
     <SVGImg slot="before" src={detail.icon} alt={category as string} class="h-32 w-32" />
-    <PaginateControl page={page} />
+    <PaginateControl base={currentPage} page={page} />
   </PageHero>
   </header>
   <main>
