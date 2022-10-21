@@ -22,8 +22,8 @@ const frontmatter: Frontmatter = {
   publishDate: SiteMetadata.buildTime,
 }
 
-const currentPage = Astro.url.toString().replace(/\/\d+$/, '')
-
+const currentPage = Astro.url.toString().replace(/\/\d+\/?$/, '')
+// console.log(currentPage)
 export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
   const allPosts = (await Astro.glob<MarkdownInstance<Frontmatter>>(
     '../blog/**/*.{md,mdx}'
