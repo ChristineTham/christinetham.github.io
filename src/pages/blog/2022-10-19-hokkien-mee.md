@@ -8,8 +8,8 @@ images: [../images/food/Hokkien Mee.jpeg]
 categories: [Food,Event]
 tags:
   - Malaysian
-  - Radika
-  - birthday
+  - Hokkien mee
+  - gotong royong
 ---
 
 It's been a while since we had our last gotong royong. Today we are focused on making that classic Petaling St street food: KL Hokkien mee.
