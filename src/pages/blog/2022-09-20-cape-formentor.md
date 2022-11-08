@@ -2,9 +2,9 @@
 layout: ../../layouts/blog.astro
 author: Chris Tham
 title: Reverse Cape Formentor on Wahoo RGT
-publishDate: 2022-09-19T12:35:00+10:00
+publishDate: 2022-09-20T11:00:00+10:00
 images: [../images/cycling/Cape Formentor.png]
-description: Exploring new routes
+description: Cycling Cape Formentor from cape to beach
 categories: [Cycling]
 tags: [Cape Formentor,Wahoo,RGT]
 ---
