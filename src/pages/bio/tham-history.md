@@ -11,7 +11,7 @@ ___
 
 *The following is extracted and adapted from the
 [Tom Genealogy](https://web.archive.org/web/20080404194404/http://mysite.verizon.net/vzepzaui/index.html)
-web site, which unfortunately no longer exists, but can be retrived from
+web site, which unfortunately no longer exists, but can be retrieved from
 [The Internet Archive](https://web.archive.org). I have permission from the
 author of that website (Henry Tom) for the following extract (I have converted
 mentions of the "Tom" surname to "Tham" for clarity).*
@@ -131,7 +131,7 @@ The dominance of Han Chinese in the Guangdong region resulted from several perio
 
 Tan Hong-zhi ( 譚 宏 帙 ) was born in 901 AD and died in 974 AD and is acknowledged in various Tan clan genealogy books as the *first Tan to arrive in Guangdong province*. He had lived in Qianzhou [ current name: Ganzhou ( 贛 州 ) ], Jiangxi and to avoid social turmoil and moved to Shashui( 沙 水 ) Village, Nanxiong ( 南 雄 ), and subsequently returned to Qianzhou. Genealogy books for the Tan clan in Guangdong begin with Tan Hong-zhi as the first generation. 
 
-![GuangDong](/images/about/GuangDong.jpg)
+![GuangDong](/images/about/Guangdong.jpg)
 
 The Tan clan settled in four locations prior to the migration to the Pearl River Delta: Shixing (始 興 ), Conghua (  從 化 ), Longmen ( 龍 門 ), and Renhua ( 仁化 ).
 
