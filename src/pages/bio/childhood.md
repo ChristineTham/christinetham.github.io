@@ -8,6 +8,8 @@ weight: 100
 
 ## Birth
 
+![Modern Klang](/images/about/Klang.jpg)
+
 I was born on 8 August 1964 in Klang General Hospital (now renamed to Hospital
 Tengku Ampuan
 Rahimah). Klang is a royal city and former capital of the state of Selangor,
@@ -29,6 +31,8 @@ my parents decided to move elsewhere and I stopped waking up at 11pm.
 
 ## Penang
 
+![Chew Jetty](/images/about/Penang.jpg)
+
 We then moved to Penang when I was about 2-3 years old. My brother was born in
 Penang. My earliest childhoold memories were of my brother's birth. I was in
 the car with Grandma whilst my father went up to the hospital to see mum. For
@@ -44,6 +48,8 @@ Another early memory was my Grandma painting my nails red. I was so proud I
 rushed out and showed my nails to all my friends.
 
 ## Taiping
+
+![Taiping Lake Gardens](/images/about/Taiping.jpg)
 
 We moved to Taiping for a brief period when I was in kindergarten, just before
 I started primary school. Taiping was an old tin mining town that developed
@@ -79,6 +85,8 @@ to tie my shoes, then forgot about it completely, so when the car drove off,
 I lost the book. I cried for a long time and to this date still miss the book.
 
 ## Kuala Kangsar
+
+![Kuala Kangsar home](/images/about/kk.jpg)
 
 I started primary school in Taiping but we soon moved to Kuala Kangsar, the
 royal town of Perak, Malaysia, where the Sultan of Perak has a palace.
@@ -159,10 +167,14 @@ read a few other books as well.
 
 ## Seremban
 
+![Bukit Rasah home](/images/about/bukitrasah.jpg)
+
 In my last year of primary school, my parents finally moved back to their
 hometown, Seremban. I finished my primary school here and enrolled in the same
 school as the one my father attended, the King George V School, or KGV as
 the locals call it.
+
+![King George V school](/images/about/kgv.jpg)
 
 KGV is one of the top schools in Malaysia, and had facilities that few
 schools had. It had its own full sized athletics ground located across Birch
@@ -188,6 +200,8 @@ I studied in KGV for 6 years, became the school monitor in Form 6, and the
 editor of the school magazine.
 
 ## I, Nerd
+
+![HP67](/images/about/HP67.jpg)
 
 I became interested in calculators and computers during my high school. I
 remember my Dad bringing home an HP calculator that the department was

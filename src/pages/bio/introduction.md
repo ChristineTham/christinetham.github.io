@@ -5,6 +5,9 @@ title: Introduction
 description: "Hello world"
 weight: 1
 ---
+
+![Hello world](/images/about/me.jpg)
+
 I live in Sydney, and love art, cycling, design, fashion, photography, music,
 and travel (not necessarily in those order). My work life has focused on
 technology and strategy, mainly in the finance industry, but I recently

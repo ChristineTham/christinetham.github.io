@@ -4,7 +4,10 @@ section: Background
 title: My mother
 description: Liew Shut Ngo (1931-2021)
 weight: 14
+gallery: mother
 ---
+
+![My mother](/images/about/mother.jpg)
 
 
 She is the most beautiful woman I have ever known.
