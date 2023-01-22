@@ -3,8 +3,7 @@ layout: ../../layouts/blog.astro
 author: Chris Tham
 title: Mt Ventoux
 publishDate: 2023-01-20T10:00:00+10:00
-images:
-  - ../images/cycling/Mt Ventoux.jpeg
+coverImage: ../images/cycling/Mt Ventoux.jpeg
 description: Climbing the last 7km to reach the summit, then descent
 categories: [Cycling]
 tags: [Mt Ventoux,Wahoo,RGT]
