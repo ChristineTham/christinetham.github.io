@@ -13,6 +13,8 @@ tags:
   - Chinese New Year
   - family
   - dinner
+  - Sydney
+  - Haymarket
 ---
 
 Chinese New Year family dinner - we decided to do something different and had Thai food at KHAO KANG Maruay - luckily a spare table was vacated as we walked in. Had a mixture of dishes including boat noodle, tom yum noodle, rad na mhee krob and salt and pepper prawns with rice. The shaved ice dessert was delicious!

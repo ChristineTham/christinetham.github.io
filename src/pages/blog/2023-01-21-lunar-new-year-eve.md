@@ -2,7 +2,7 @@
 layout: ../../layouts/blog.astro
 author: Chris Tham
 title: Lunar New Year Eve
-publishDate: 2023-01-21T18:00:00+10:00
+publishDate: 2023-01-21T17:00:00+10:00
 description: Various activities at Chatswood and Haymarket
 coverImage: ../images/gallery/2023-01-21-lny/Haymarket LNY (7).jpeg
 gallery: 2023-01-21-lny
