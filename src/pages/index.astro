@@ -1,5 +1,5 @@
 ---
-import type { MarkdownInstance } from 'astro'
+import { getCollection } from 'astro:content'
 import type { Frontmatter } from '../config'
 import { SiteMetadata, Websites } from '../config'
 import Base from '../layouts/base.astro'
@@ -23,20 +23,11 @@ const carouselPages = [
   { name: 'Oberon Dam', image: '../images/gallery/carousel/Oberon-Dam.jpeg' },
 ]
 
-const posts = (await Astro.glob(
-  './blog/**/*.{md,mdx}'
-)) as MarkdownInstance<Frontmatter>[]
-const latestPosts = posts
-  .map(post => ({ file: post.file, url: post.url, frontmatter: post.frontmatter }))
-  .sort(
-    (a, b) =>
-      new Date(b.frontmatter.publishDate).valueOf() -
-      new Date(a.frontmatter.publishDate).valueOf()
-  )
-  .filter(post => !post.frontmatter.draft)
-  .slice(0,6)
+const posts = await getCollection('blog')
+const latestPosts = posts.sort((a, b) => +b.data.publishDate - +a.data.publishDate).filter(p => !p.data.draft)
+
 // console.log(latestPosts)
-const categories = Array.from(new Set(posts.flatMap(post => post.frontmatter.categories))).sort() as string[]
+const categories = Array.from(new Set(latestPosts.flatMap(post => post.data.categories))).sort() as string[]
 ---
 
 <Base frontmatter={frontmatter}>

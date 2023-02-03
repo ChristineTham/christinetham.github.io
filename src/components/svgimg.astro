@@ -13,6 +13,7 @@ const images = import.meta.glob<string>('../svg/**/*', { import: 'default' })
 //     console.log(path, image)
 //   })
 // }
+// console.log(src)
 const image = await images[src || DefaultSVG]()
 ---
 

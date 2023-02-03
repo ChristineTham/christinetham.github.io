@@ -1,13 +1,13 @@
 ---
-import type { MarkdownInstance } from 'astro'
-import type { Frontmatter } from '../config'
+import type { CollectionEntry } from 'astro:content'
 
 export interface Props {
-  prev: MarkdownInstance<Frontmatter>
-  next: MarkdownInstance<Frontmatter>
+  base: string
+  prev: CollectionEntry<'blog'>
+  next: CollectionEntry<'blog'>
 }
 
-const { prev, next } = Astro.props
+const { base, prev, next } = Astro.props
 ---
 
 <dl class="mt-12 flex border-t border-roselyA pt-6 dark:border-rosely8" >
@@ -20,10 +20,10 @@ const { prev, next } = Astro.props
         <dd class="mt-1">
           <a
             class="text-base font-semibold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5"
-            href={prev.url}
+            href={base + prev.slug}
           >
             <span aria-hidden="true">←</span>
-            {prev.frontmatter.title}
+            {prev.data.title}
           </a>
         </dd>
       </div>
@@ -38,9 +38,9 @@ const { prev, next } = Astro.props
         <dd class="mt-1">
           <a
             class="text-base font-semibold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5"
-            href={next.url}
+            href={base + next.slug}
           >
-            {next.frontmatter.title}
+            {next.data.title}
             <span aria-hidden="true">→</span>
           </a>
         </dd>

@@ -11,8 +11,9 @@ export interface Props {
 }
 
 const { frontmatter } = Astro.props
-const image = frontmatter.coverImage || frontmatter.socialImage || (frontmatter.images && frontmatter.images[0]) || (categoryDetail(frontmatter.categories && frontmatter.categories[0]).socialImage)
-const svgimg = frontmatter.coverSVG || (frontmatter.coverImage || frontmatter.images ? null : categoryDetail(frontmatter.categories && frontmatter.categories[0]).coverSVG)
+
+const image = frontmatter.coverImage || (frontmatter.images && frontmatter.images[0]) || frontmatter.socialImage || categoryDetail(frontmatter.categories && frontmatter.categories[0]).socialImage
+const svgimg = frontmatter.coverSVG || ((frontmatter.coverImage || frontmatter.images) ? null : categoryDetail(frontmatter.categories && frontmatter.categories[0]).coverSVG)
 ---
 
 <div class="w-full max-w-none relative h-96 bg-rosely7 dark:bg-rosely8">
@@ -60,7 +61,7 @@ const svgimg = frontmatter.coverSVG || (frontmatter.coverImage || frontmatter.im
       <span class="flex items-center mr-6">
         <Icon class="w-6 h-6 mr-1 text-rosely6" pack="heroicons-outline" name="calendar" />
         <span class="font-semibold text-rosely6 ml-1">
-          {frontmatter.publishDate?.slice(0, 10)}
+          {new Date(frontmatter.publishDate).toLocaleString('en-AU', { dateStyle: 'full', timeStyle: 'long', timeZone: 'Australia/Sydney' })}
         </span>
       </span>
       <span class="flex items-center">

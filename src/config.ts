@@ -1,30 +1,11 @@
-import type { MarkdownInstance } from 'astro'
+import type { CollectionEntry } from 'astro:content'
 
-export interface Frontmatter {
-  draft?: boolean
-  title: string
-  description?: string
-  author?: string
-  publishDate: string
-  coverSVG?: string
-  coverImage?: string
-  socialImage?: string
-  images?: string[]
-  categories?: string[]
-  tags?: string[]
-  file?: string
-  url?: string
-  minutesRead?: string
-  extra?: string[]
-  section?: string
-  gallery?: string
-  weight?: number
-}
+export type Frontmatter = CollectionEntry<'blog'>['data']
 
 export interface TagType {
   tag: string
   count: number
-  pages: MarkdownInstance<Frontmatter>[]
+  pages: CollectionEntry<'blog'>[]
 }
 
 export const SiteMetadata = {
@@ -80,7 +61,7 @@ export const SiteMetadata = {
       icon: 'github',
     },
   ],
-  buildTime: new Date().toString(),
+  buildTime: new Date(),
 }
 
 export const Logo = '../svg/logo.svg'
@@ -367,7 +348,7 @@ export const Websites = [
 
 export const PAGE_SIZE = 24
 
-export const GITHUB_EDIT_URL = `https://github.com/ChristineTham/christham-astro`
+export const GITHUB_EDIT_URL = `https://github.com/ChristineTham/christinetham.github.io`
 
 export const COMMUNITY_INVITE_URL = null // `https://astro.build/chat`
 
