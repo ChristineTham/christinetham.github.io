@@ -8,6 +8,6 @@ export interface Props {
 const { images } = Astro.props
 ---
 <p class="text-sm text-rosely1 dark:rosely7 italic py-4">Please click on photo to view in a lightbox. Use arrow keys or swipe to navigate.</p>
-<div id="gallery" class="w-full block not-prose" itemscope itemtype="http://schema.org/ImageGallery">
+<div id="images" class="w-full block not-prose" itemscope itemtype="http://schema.org/ImageGallery">
   <Lightbox id="images" images={images} />
 </div>
