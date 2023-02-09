@@ -18,6 +18,9 @@
     "esModuleInterop": true,
     "strict": true,
     // Error when a value import is only used as a type.
-    "importsNotUsedAsValues": "error"
+    "importsNotUsedAsValues": "error",
+    "paths": {
+      "photoswipe/lightbox": ["./node_modules/photoswipe/dist/types/lightbox/lightbox.d.ts"]
+    }
   }
 }

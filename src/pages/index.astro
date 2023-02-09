@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content'
 import type { Frontmatter } from '../config'
-import { SiteMetadata, Websites } from '../config'
+import { SiteMetadata, Websites, PAGE_SIZE } from '../config'
 import Base from '../layouts/base.astro'
 import Carousel from '../components/carousel.astro'
 import BlogRoll from '../components/blogroll.astro'
@@ -107,5 +107,5 @@ const categories = Array.from(new Set(latestPosts.flatMap(post => post.data.cate
       Tags
     </a>
   </div>
-  <BlogRoll posts={latestPosts} />
+  <BlogRoll posts={latestPosts.slice(0,PAGE_SIZE)} />
 </Base>

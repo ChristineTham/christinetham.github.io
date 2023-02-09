@@ -2,7 +2,7 @@
 import { categoryDetail } from '../config'
 import SVGImg from './svgimg.astro'
 export interface Props {
-  categories: string[]
+  categories: (string | undefined)[]
 }
 
 const { categories } = Astro.props

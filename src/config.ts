@@ -5,7 +5,7 @@ export type Frontmatter = CollectionEntry<'blog'>['data']
 export interface TagType {
   tag: string
   count: number
-  pages: CollectionEntry<'blog'>[]
+  // pages: CollectionEntry<'blog'>[]
 }
 
 export const SiteMetadata = {

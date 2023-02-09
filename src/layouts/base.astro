@@ -24,7 +24,7 @@ const { frontmatter } = Astro.props
     />
     <meta name="generator" content={Astro.generator} />
     <SEO frontmatter={frontmatter} />
-    <script is-inline>
+    <script is:inline>
       if (
         localStorage.theme === 'dark' ||
         (!('theme' in localStorage) &&
@@ -38,9 +38,6 @@ const { frontmatter } = Astro.props
     <style is:inline>
       [x-cloak] { display: none !important; }
       </style>
-      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-        crossorigin=""/>
     {frontmatter.extra?.includes('math') &&
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.1/dist/katex.min.css" integrity="sha384-pe7s+HmY6KvqRkrRRUr4alQJ0SkmzCft3RpK1ttGMa7qk8Abp/MEa/4wgceRHloO" crossorigin="anonymous">
     }
@@ -56,8 +53,8 @@ const { frontmatter } = Astro.props
     </head>
     <body class="bg-rosely3 dark:bg-rosely0">
       {frontmatter.extra?.includes('mermaid') &&
-        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-        <script>
+        <script type="module">
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.esm.min.mjs'
           mermaid.initialize({startOnLoad:true});
         </script>
       }

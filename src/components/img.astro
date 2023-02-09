@@ -6,11 +6,10 @@ export type Props = astroHTML.JSX.ImgHTMLAttributes
 
 const { src, alt, width, height, ...attrs } = Astro.props
 
-// console.log(src)
 // ugly hack to circumvent astro issue with dynamic import
 // https://github.com/withastro/astro/issues/3373
 const images = import.meta.glob<ImageMetadata>('../images/**/*', { import: 'default' })
 const image = await images[src || DefaultImage]()
 ---
 
-<Image src={image} alt={alt as string} {width} {height} class={attrs.class} />
+<Image src={image} alt={alt!} width={Number(width)} height={Number(height)} class={attrs.class} />

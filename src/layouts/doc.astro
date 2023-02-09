@@ -11,7 +11,7 @@ import * as CONFIG from '../config'
 import type { MarkdownHeading } from 'astro'
 
 type Props = {
-  frontmatter: Frontmatter
+  frontmatter: CollectionEntry<'bio'>['data']
   headings: MarkdownHeading[]
 }
 
@@ -32,8 +32,8 @@ sections.forEach(
       .filter(doc => doc.data.section == section)
       .map(doc => ({ text: doc.data.title, link: import.meta.env.BASE_URL + "bio/" + doc.slug })))
 )
-let prev: CollectionEntry<'bio'>
-let next: CollectionEntry<'bio'>
+let prev: CollectionEntry<'bio'> | undefined
+let next: CollectionEntry<'bio'> | undefined
 docs.forEach((doc, i) => {
   if (currentPage.search(doc.slug) >= 0) {
     if (i > 0) {
@@ -44,10 +44,17 @@ docs.forEach((doc, i) => {
     }
   }
 })
+const basefm: Frontmatter = {
+  draft: frontmatter.draft,
+  layout: frontmatter.layout,
+  title: frontmatter.title,
+  description: frontmatter.description,
+  publishDate: new Date(),
+}
 ---
 
-<Base frontmatter={frontmatter}>
-  <main class="relative mx-auto flex max-w-8xl justify-center sm:px-2 lg:px-8 xl:px-12 bg-white dark:bg-rosely0">
+<Base frontmatter={basefm}>
+  <main class="relative mx-auto flex max-w-8xl justify-center sm:px-2 lg:px-8 xl:px-12 bg-white dark:bg-slate-900">
     <aside id="grid-left" class="grid-sidebar" title="Site Navigation">
       <LeftSidebar currentPage={currentPage} sidebar={sidebar} />
     </aside>
