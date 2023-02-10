@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Pink outfit
 publishDate: 2022-12-18T10:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Ave Maria (Vavilov)
 description: Rearranged for woodwinds, strings and harp, voiced using the EWQL Symphonic Orchestra.
 author: Chris Tham

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: This Website
 title: Evolution
 description: Evolution of my personal website to the current version

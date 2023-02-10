@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: My Life
 title: Work (1988-2019)
 description: My work history, from a personal perspective

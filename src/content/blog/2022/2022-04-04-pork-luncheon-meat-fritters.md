@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Pork luncheon meat fritters
 publishDate: 2022-04-04T12:00:00+10:00

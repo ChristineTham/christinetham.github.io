@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Muswellbrook Family Road Trip Day 3 - Historic walk
 description: We did two walks around the town, followed by dinner
 author: Chris Tham

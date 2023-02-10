@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: LEGO Friends
 publishDate: 2022-04-10T10:00:00+10:00

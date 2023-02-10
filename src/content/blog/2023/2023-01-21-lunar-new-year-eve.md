@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunar New Year Eve
 publishDate: 2023-01-21T17:00:00+10:00

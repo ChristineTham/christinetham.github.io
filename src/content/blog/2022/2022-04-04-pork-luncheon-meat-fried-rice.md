@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Pork Luncheon Meat fried rice
 description: Fried rice with pork luncheon meat and vegetables
 author: Chris Tham

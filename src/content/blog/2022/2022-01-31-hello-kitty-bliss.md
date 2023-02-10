@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Hello Kitty on Bliss
 publishDate: 2022-01-31T10:00:00+10:00

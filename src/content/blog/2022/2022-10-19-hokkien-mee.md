@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Hokkien Mee Gotong Royong
 publishDate: 2022-10-19T17:00:00+10:00

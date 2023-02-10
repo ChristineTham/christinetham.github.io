@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Andantino Op. 44 No. 3 (Fernando Sor)
 description: Pieces played on my guitar
 author: Chris Tham

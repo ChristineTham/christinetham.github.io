@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Bear Runner
 publishDate: 2014-02-15T12:35:00+10:00

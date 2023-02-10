@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Banana, yogurt, blueberry and muesli
 publishDate: 2022-01-06T08:00:00+10:00

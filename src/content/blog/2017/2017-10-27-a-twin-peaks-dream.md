@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: A Twin Peaks dream
 description: Inspired by watching Twin Peaks The Return, here is a short electronic track, done in Logic Pro X and Native Instruments Komplete 11.
 author: Chris Tham

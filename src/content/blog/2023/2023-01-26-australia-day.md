@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Australia Day
 publishDate: 2023-01-26T13:00:00+10:00

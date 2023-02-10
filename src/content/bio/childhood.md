@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: My Life
 title: Childhood (1964-1983)
 description: Early Childhood through to university

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Hello Kitty
 publishDate: 2022-10-19T10:00:00+10:00

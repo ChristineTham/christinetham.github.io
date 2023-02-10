@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Satay at Guildford
 publishDate: 2022-10-30T18:00:00+10:00

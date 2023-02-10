@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Megalong Valley Day 2
 description: Breakfast, walk, dinner
 author: Chris Tham

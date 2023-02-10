@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Completed the Sufferfest
 publishDate: 2022-07-30T10:00:00+10:00

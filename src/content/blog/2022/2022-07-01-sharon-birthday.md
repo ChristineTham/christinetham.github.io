@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Happy birthday Sharon Whitney
 description: Celebrating Sharon's birthday at the House of Tong
 author: Chris Tham

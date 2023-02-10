@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Megalong Valley Day 1
 description: Stay at a winery homestead with friends
 author: Chris Tham

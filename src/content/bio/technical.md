@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: This Website
 title: Technical Details
 description: Technologies used in creating this website

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Reverse Cape Formentor on Wahoo RGT
 publishDate: 2022-09-20T11:00:00+10:00

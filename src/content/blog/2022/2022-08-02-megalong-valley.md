@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Megalong Valley Day 3
 description: Sunrise, and breakfast of scones
 author: Chris Tham

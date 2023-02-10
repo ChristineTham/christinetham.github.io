@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at VN Street Food
 publishDate: 2022-09-22T13:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Nurragingy Reserve
 description: Testing my recently cleaned Leica lenses
 author: Chris Tham

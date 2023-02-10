@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: 35th year Graduation Reunion
 publishDate: 2022-05-25T21:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Cape Formentor
 publishDate: 2023-01-27T10:00:00+10:00

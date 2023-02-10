@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Recovery ride at Parramatta
 publishDate: 2022-09-19T12:35:00+10:00

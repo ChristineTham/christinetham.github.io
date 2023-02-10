@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Nasi Kandar Parklea
 publishDate: 2022-07-23T13:00:00+10:00

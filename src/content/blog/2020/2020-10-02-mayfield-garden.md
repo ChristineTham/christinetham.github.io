@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Mayfield Garden
 description: Mayfield Garden is a 65-hectare cool climate garden located in NSW between Oberon and Bathurst.
 author: Chris Tham

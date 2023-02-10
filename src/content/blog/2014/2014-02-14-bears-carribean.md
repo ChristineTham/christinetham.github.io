@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Bears of the Carribean
 publishDate: 2014-02-14T12:35:00+10:00

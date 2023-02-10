@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Cowra/Floriade Trip Day 2
 description: Cowra Japanese Garden Sakura Festival
 author: Chris Tham

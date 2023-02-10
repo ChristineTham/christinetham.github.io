@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Winter Music
 description: Transcribed and orchestrated using Notion and EWQL Symphonic Orchestra Gold.
 author: Chris Tham

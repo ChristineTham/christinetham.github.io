@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Cheongsam
 publishDate: 2022-09-10T10:00:00+10:00

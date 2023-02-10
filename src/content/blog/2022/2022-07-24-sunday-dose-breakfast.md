@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Sunday Dose Breakfast
 publishDate: 2022-07-24T12:35:00+10:00

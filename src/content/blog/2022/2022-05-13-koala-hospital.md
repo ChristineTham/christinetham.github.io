@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Koala Hospital
 description: Exploring the town in the afternoon
 author: Chris Tham

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Indian outfit
 publishDate: 2022-10-17T10:00:00+10:00

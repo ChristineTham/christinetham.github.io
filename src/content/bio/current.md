@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: This Website
 title: Current Design
 description: Design of this web site

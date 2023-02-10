@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Spring blossom at Nurragingy Reserve
 description: Chang Lai Yuan Garden in a kimono
 author: Chris Tham

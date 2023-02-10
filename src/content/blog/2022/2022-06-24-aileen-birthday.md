@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Happy birthday Aileen Lim
 description: Celebrating Aileen's birthday at Amah
 author: Chris Tham

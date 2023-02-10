@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Parramatta River after the rain
 description: Debris on the weir
 author: Chris Tham

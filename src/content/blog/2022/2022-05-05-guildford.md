@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Guildford Open Day
 publishDate: 2022-05-05T18:00:00+10:00

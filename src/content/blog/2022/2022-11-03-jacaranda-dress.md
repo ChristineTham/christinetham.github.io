@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Jacaranda dress
 publishDate: 2022-11-03T11:00:00+10:00

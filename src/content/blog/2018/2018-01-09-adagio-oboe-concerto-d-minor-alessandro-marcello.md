@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Adagio (2nd movement) from Oboe Concerto in D minor
 description: Adagio (2nd movement) from Oboe Concerto in D minor (Alessandro Marcello)
 author: Chris Tham

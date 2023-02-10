@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Ave Maria (Vavilov) – Logic Pro X, EWQL
 description: This is the same arrangement as previously posted, but revoiced.
 author: Chris Tham

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Artarmon Bike Path
 description: Cycle through Artarmon Reserve, Naremburn Cycleway, and then on to Hallstrom park.
 author: Chris Tham

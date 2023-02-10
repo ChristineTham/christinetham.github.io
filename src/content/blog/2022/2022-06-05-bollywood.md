@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Bollywood movie at Hoyts
 publishDate: 2022-06-05T14:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Mt Ventoux
 publishDate: 2023-01-20T10:00:00+10:00

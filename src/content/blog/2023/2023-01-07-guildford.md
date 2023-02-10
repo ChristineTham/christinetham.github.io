@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Satay et al at Guildford
 publishDate: 2023-01-07T18:00:00+10:00

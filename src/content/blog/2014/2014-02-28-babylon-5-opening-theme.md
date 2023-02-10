@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Babylon 5 opening theme
 description: Original MIDI file downloaded from Chris Franke web site, reorchestrated using EWQL Gold and Logic Pro X.
 author: Chris Tham

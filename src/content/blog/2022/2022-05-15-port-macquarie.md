@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Final day
 description: Wandering around the town before leaving
 author: Chris Tham

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Rita's birthday at 678
 publishDate: 2022-05-16T13:00:00+10:00

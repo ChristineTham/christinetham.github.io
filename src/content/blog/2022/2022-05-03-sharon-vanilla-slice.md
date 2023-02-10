@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Sharon's Vanilla slice
 publishDate: 2022-05-03T18:00:00+10:00

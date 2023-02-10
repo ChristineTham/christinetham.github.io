@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Cindy's place
 publishDate: 2022-07-04T13:00:00+10:00

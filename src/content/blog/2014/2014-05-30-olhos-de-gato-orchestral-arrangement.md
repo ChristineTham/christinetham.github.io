@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Olhos De Gato (orchestral arrangement)
 description: I have arranged Olhos de Gato, by Carla Bley (one of the pieces studied in class) for orchestra.
 author: Chris Tham

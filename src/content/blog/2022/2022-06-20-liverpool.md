@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Liverpool Street Art
 description: Exploring Liverpool street art
 author: Chris Tham

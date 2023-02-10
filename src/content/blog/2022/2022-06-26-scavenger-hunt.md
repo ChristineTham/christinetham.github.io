@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Temasek Club Scavenger Hunt
 description: Fun day exploring Sydney through a scavenger hunt followed by lunch
 author: Chris Tham

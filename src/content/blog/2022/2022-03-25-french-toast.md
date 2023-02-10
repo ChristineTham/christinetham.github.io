@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: French toast
 publishDate: 2022-03-25T12:00:00+10:00

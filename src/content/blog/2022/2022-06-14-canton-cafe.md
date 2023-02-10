@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Canton Cafe
 publishDate: 2022-06-14T13:00:00+10:00

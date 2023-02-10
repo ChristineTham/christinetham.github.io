@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: My new bike - Specialized Ruby Expert :-)
 description: "I have finally decided to replace my commuter bike. It's the the 2017 top of the range Specialized women's bike; The Ruby Expert Ultegra Di2"
 author: Chris Tham

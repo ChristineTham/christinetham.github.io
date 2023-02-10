@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Snow Apple
 publishDate: 2022-03-31T12:00:00+10:00

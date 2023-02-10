@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Passo dello Stelvio
 description: Climbing the famous mountain on RGT
 author: Chris Tham

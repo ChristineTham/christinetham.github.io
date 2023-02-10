@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: CKT fried rice
 publishDate: 2023-01-20T13:00:00+10:00

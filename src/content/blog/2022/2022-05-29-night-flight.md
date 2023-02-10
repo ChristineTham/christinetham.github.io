@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Vivid Night Flight
 description: One night drone light show 
 author: Chris Tham

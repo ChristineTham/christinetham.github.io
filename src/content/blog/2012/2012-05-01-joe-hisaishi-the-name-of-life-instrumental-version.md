@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: '久石譲：いのちの名前 – Instrumental version'
 description: 'Joe Hisaishi: The Name of Life - Instrumental piano solo'
 author: Chris Tham

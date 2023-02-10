@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Spice World
 publishDate: 2022-07-05T13:00:00+10:00

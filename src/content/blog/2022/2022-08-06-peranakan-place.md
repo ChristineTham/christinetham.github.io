@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Dinner at Peranakan Place
 publishDate: 2022-08-06T21:00:00+10:00

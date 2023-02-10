@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: How to Draw Almost Every Day
 description: 'I bought a book called "How to Draw Almost Every Day : An Illustrated Sourcebook" by "Kamo" and have been practising some of the drawings.'
 author: Chris Tham

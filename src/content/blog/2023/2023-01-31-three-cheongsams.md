@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Three cheongsams
 publishDate: 2023-01-31T10:00:00+10:00

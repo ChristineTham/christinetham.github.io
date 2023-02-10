@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Court House
 description: Dressing up abd play acting
 author: Chris Tham

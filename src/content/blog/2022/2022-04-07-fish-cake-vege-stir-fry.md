@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Fish cake and vegetables stir fry
 description: A healthy lunch
 author: Chris Tham

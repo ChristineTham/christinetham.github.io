@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Karen's birthday
 publishDate: 2023-01-06T21:00:00+10:00

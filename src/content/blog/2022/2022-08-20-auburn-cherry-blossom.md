@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Cherry Blossom Festival 2022
 publishDate: 2022-08-22T12:35:00+10:00

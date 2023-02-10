@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Commuting to Work 29 July 2015
 description: Last few minutes of ride to and from work
 author: Chris Tham

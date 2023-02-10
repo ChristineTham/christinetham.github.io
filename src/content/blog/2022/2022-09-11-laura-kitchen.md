@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Lunch at Laura's Malaysian Kitchen
 description: Catchup with friends
 author: Chris Tham

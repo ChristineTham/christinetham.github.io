@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: My Life
 title: University (1984-1987)
 description: University Years in Australia

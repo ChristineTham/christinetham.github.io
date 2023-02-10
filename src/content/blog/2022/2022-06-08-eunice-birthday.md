@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Happy birthday Eunice Fong
 description: Celebrating Eunice's birthday at Amah
 author: Chris Tham

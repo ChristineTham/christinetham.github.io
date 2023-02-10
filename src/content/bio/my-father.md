@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: Background
 title: My father
 description: Tham Baba (1931-2021)

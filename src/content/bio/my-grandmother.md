@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: Background
 title: My grandmother
 description: A memory

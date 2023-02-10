@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: An American in Paris
 publishDate: 2022-06-01T20:00:00+10:00

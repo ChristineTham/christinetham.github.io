@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Mona Vale Rd at 40-55 km/h
 description: "We tried to draft behind Kymbal's car ..."
 author: Chris Tham

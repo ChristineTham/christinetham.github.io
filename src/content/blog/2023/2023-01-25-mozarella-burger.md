@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Mozarella and Tomato Burger
 publishDate: 2023-01-25T12:00:00+10:00

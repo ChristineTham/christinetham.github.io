@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Columbia Ravenous rescued
 publishDate: 2022-02-22T10:00:00+10:00

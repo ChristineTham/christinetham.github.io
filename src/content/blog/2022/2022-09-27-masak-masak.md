@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Masak Masak
 description: Cooking at Ee-vonne
 author: Chris Tham

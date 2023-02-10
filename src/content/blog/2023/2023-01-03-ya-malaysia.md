@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Ya Malaysia lunch
 publishDate: 2023-01-03T13:00:00+10:00

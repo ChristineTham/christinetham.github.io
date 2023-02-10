@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Cooking with wok and gas!
 publishDate: 2022-06-23T12:00:00+10:00

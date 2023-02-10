@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Hunter Valley trip - Hunter Valley Gardens
 description: Wandering around the gardens relatively rain-free
 author: Chris Tham

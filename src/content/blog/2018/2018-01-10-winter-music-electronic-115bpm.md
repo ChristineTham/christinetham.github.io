@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Winter Music (electronic 115bpm)
 description: "My first project in Maschine 3 - a dance arrangement of Roger Eno's track from Between Tides album."
 author: Chris Tham

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Coastal Walk
 description: Doing the famous 9km walk
 author: Chris Tham

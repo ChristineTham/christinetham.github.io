@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Wong Time Again Lunch
 publishDate: 2022-09-07T12:35:00+10:00

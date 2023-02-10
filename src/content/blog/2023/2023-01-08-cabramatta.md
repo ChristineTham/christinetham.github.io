@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Cabramatta lunch
 publishDate: 2023-01-08T13:00:00+10:00

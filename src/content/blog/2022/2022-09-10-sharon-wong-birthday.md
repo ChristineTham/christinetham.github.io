@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Birthday for Sharon Wong
 description: Celebration at Bornga plus lanterns!
 author: Chris Tham

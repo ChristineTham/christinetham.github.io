@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Family lunch
 description: Get together with Lyn's sisters, mum and family
 author: Chris Tham

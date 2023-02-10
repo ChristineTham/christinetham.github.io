@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Day 1
 description: We drove to Port Macquarie in the rain
 author: Chris Tham

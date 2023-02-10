@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Radika's birthday
 publishDate: 2022-10-09T17:00:00+10:00

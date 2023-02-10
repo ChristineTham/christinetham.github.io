@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Bakkwa Burger
 publishDate: 2023-01-23T12:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Chinatown
 publishDate: 2022-06-15T13:00:00+10:00

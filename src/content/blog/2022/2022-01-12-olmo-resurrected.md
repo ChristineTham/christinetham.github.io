@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Olmo resurrected
 publishDate: 2022-01-12T10:00:00+10:00

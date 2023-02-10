@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Taro Soy Latte
 publishDate: 2023-01-10T11:00:00+10:00

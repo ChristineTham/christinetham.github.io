@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: Background
 title: History of the Tham (譚) clan
 description: Origins and history, by Henry Tom, extracted from the Tom Genealogy web site.

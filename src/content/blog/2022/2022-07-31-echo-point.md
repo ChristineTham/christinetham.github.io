@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Echo Point in the morning
 description: Jamison Valley covered in mist
 author: Chris Tham

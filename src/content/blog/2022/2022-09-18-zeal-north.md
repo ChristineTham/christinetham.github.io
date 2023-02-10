@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Zeal of Zebras North ride
 description: Ride to Church Point via Northern Beaches and back via Terrey Hills
 author: Chris Tham

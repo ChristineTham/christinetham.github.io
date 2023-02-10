@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Mei and Totoro
 publishDate: 2014-03-06T12:35:00+10:00

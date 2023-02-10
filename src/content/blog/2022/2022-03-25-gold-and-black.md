@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Gold and Black
 publishDate: 2022-03-25T17:00:00+10:00

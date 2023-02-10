@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Temasek Club Singapore National Day Dinner
 publishDate: 2022-08-13T21:00:00+10:00

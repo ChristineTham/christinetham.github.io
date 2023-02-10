@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Day 2
 description: Exploring the town in the afternoon
 author: Chris Tham

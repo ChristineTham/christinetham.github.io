@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Ave Maria (Vavilov) – Finale/GPO4
 description: This is my attempt at transcribing and arranging one of the most beautiful melodies I have heard.
 author: Chris Tham

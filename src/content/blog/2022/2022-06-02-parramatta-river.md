@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Parramatta River
 publishDate: 2022-06-02T12:35:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Adagio from Concerto for solo keyboard No. 3 in D minor
 description: This is the second movement from J S Bach's arrangement of Alessandro Marcello's Oboe Concerto BWV 974 (BC L194).
 author: Chris Tham

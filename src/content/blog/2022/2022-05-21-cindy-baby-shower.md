@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Cindy's Baby Shower
 publishDate: 2022-05-21T17:00:00+10:00

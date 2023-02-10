@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Chinese sausage fried rice
 description: Premium chinese sausage and vegetables
 author: Chris Tham

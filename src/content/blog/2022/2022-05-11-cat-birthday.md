@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Cat's Birthday
 description: Celebrating Cat's special day at Margaret's house and at Dhakshin
 author: Chris Tham

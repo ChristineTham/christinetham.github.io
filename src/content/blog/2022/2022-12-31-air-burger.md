@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Air Burger
 publishDate: 2022-12-31T12:00:00+10:00

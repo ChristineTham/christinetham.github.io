@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Spring has arrived
 publishDate: 2022-09-08T10:00:00+10:00

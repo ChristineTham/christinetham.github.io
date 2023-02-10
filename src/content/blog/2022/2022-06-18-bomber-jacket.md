@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Bomber jacket
 publishDate: 2022-06-18T11:00:00+10:00

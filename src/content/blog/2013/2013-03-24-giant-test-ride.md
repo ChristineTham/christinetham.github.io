@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Giant Test Ride
 description: Ride around Royal National Park on Giant bicycles
 author: Chris Tham

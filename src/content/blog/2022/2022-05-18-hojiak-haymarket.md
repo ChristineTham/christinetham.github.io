@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Dinner at Ho Jiak Haymarket
 publishDate: 2022-05-18T20:00:00+10:00

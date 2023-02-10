@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Roto House
 description: Famous historic house at Port Macquarie
 author: Chris Tham

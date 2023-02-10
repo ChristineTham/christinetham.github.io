@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at My Malaysian Kitchen
 publishDate: 2022-06-17T13:00:00+10:00

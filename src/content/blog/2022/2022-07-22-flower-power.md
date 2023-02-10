@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Flower Power
 publishDate: 2022-07-22T13:00:00+10:00

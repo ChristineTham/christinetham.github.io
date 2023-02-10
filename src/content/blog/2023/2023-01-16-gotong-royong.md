@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Gotong Royong for Lunar New Year 2023
 publishDate: 2023-01-16T21:00:00+10:00

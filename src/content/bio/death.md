@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: My Life
 title: Death
 description: The end of my life

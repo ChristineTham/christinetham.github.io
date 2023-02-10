@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Cinema Paradiso (string Orchestra)
 description: In memory of Ennio Morricone, a string orchestra arrangement of Cinema Paradiso, transcribed by me into Finale.
 author: Chris Tham

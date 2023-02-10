@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Andante in E minor (Fernando Sor)
 description: Pieces played on my guitar
 author: Chris Tham

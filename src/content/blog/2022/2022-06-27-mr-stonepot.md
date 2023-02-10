@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunch at Mr. Stonepot Eastwood
 publishDate: 2022-06-27T13:00:00+10:00

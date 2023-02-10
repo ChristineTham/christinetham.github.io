@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Bach Two Part Invention No. 1
 description: Piano solo
 author: Chris Tham

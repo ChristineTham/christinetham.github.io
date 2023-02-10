@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: My Life
 title: Retirement (2020-)
 description: Life beyond working

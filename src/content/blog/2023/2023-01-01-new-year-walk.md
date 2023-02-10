@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: New Year walk across Sydney
 publishDate: 2023-01-01T13:00:00+10:00

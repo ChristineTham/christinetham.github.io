@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Muswellbrook Family Road Trip Day 4 - Hunter Valley
 description: Leaving Muswellbrook and returning home via Hunter Valley
 author: Chris Tham

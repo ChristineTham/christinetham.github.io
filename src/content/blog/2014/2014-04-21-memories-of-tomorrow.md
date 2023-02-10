@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Memories of Tomorrow
 description: "This my attempt at jazz arrangement and improvisation, inspired by an assignment from Gary Burton's Jazz Improvisation course at Coursera."
 author: Chris Tham

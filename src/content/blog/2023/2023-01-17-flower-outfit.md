@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Flower outfit for lunch
 publishDate: 2023-01-17T10:00:00+10:00

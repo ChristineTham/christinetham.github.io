@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Wahoo ELEMNT Roam
 publishDate: 2022-06-14T10:00:00+10:00

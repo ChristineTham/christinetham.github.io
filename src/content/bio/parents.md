@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/doc.astro
 section: Background
 title: Photos of my parents
 description: Various photos of my parents together.

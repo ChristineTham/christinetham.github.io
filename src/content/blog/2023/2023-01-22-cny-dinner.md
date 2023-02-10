@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Lunar New Year dinner
 publishDate: 2023-01-22T21:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Day out at Parramatta
 description: Spending time with Lyn's mum and sister
 author: Chris Tham

@@ -1,6 +1,5 @@
 ---
 draft: false
-layout: ../../../layouts/blog.astro
 title: Home Network
 description: A new year to usher in a reconfiguration of our home network
 author: Chris Tham

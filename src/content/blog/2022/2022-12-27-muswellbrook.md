@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Muswellbrook Family Road Trip Day 1
 description: Lunch in Newcastle, then drive to Muswellbrook
 author: Chris Tham

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Leather outfit
 publishDate: 2022-10-03T10:00:00+10:00

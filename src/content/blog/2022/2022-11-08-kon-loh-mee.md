@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Kon Loh Mee with minced pork and mushroom/fungus
 publishDate: 2022-11-08T12:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Flower lace dress
 publishDate: 2022-10-30T10:00:00+10:00

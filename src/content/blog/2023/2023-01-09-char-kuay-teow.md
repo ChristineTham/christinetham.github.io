@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Char Kuay Teow
 publishDate: 2023-01-09T13:00:00+10:00

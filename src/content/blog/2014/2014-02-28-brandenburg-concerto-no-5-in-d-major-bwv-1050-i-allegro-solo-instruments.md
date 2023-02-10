@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: 'Brandenburg Concerto No.5 in D major (1st movement)'
 description: Brandenburg Concerto No.5 in D major, BWV 1050 – I. Allegro [solo instruments]
 author: Chris Tham

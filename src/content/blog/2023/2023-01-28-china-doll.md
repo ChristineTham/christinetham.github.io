@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Dinner at China Doll and drinks at Alibi
 publishDate: 2023-01-28T22:00:00+10:00

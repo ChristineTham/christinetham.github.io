@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Port Macquarie trip - Old Bottlebutt
 description: Largest red bloodwood tree in the Southern Hemisphere
 author: Chris Tham

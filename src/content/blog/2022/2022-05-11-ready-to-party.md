@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 author: Chris Tham
 title: Ready to party
 publishDate: 2022-05-10T17:00:00+10:00

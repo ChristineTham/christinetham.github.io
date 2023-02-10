@@ -1,5 +1,4 @@
 ---
-layout: ../../../layouts/blog.astro
 title: Muswellbrook Family Road Trip Day 2 - Burning Mountain
 description: Walk to a coal seam fire that has been burning for 5000 years
 author: Chris Tham
