@@ -1784,6 +1784,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2001-12-01-language-models.md": {
+  id: "2023/2001-12-01-language-models.md",
+  slug: "2023/2001-12-01-language-models",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-01-01-new-year-walk.md": {
   id: "2023/2023-01-01-new-year-walk.md",
   slug: "2023/2023-01-01-new-year-walk",
@@ -2071,9 +2078,72 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-01-eastwood.md": {
+  id: "2023/2023-02-01-eastwood.md",
+  slug: "2023/2023-02-01-eastwood",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-04-mopoke.md": {
+  id: "2023/2023-02-04-mopoke.md",
+  slug: "2023/2023-02-04-mopoke",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-04-nanyang.md": {
+  id: "2023/2023-02-04-nanyang.md",
+  slug: "2023/2023-02-04-nanyang",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-05-temasek-cny.md": {
+  id: "2023/2023-02-05-temasek-cny.md",
+  slug: "2023/2023-02-05-temasek-cny",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-06-kueh bangkit.md": {
+  id: "2023/2023-02-06-kueh bangkit.md",
+  slug: "2023/2023-02-06-kueh-bangkit",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-07-masak-masak.md": {
+  id: "2023/2023-02-07-masak-masak.md",
+  slug: "2023/2023-02-07-masak-masak",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-07-nails.md": {
+  id: "2023/2023-02-07-nails.md",
+  slug: "2023/2023-02-07-nails",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-10-charlie-chan.md": {
+  id: "2023/2023-02-10-charlie-chan.md",
+  slug: "2023/2023-02-10-charlie-chan",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-13-burwood-yumcha.md": {
   id: "2023/2023-02-13-burwood-yumcha.md",
   slug: "2023/2023-02-13-burwood-yumcha",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-13-plaid.md": {
+  id: "2023/2023-02-13-plaid.md",
+  slug: "2023/2023-02-13-plaid",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
