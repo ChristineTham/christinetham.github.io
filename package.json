@@ -52,6 +52,6 @@
     "lunr": "^2.3.9",
     "photoswipe": "^5.3.5",
     "photoswipe-dynamic-caption-plugin": "^1.2.7",
-    "swiper": "^9.0.4"
+    "swiper": "^9.0.5"
   }
 }

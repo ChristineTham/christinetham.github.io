@@ -2071,6 +2071,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-13-burwood-yumcha.md": {
+  id: "2023/2023-02-13-burwood-yumcha.md",
+  slug: "2023/2023-02-13-burwood-yumcha",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 },
 
 	};
