@@ -7,7 +7,7 @@ import { SiteMetadata, categoryDetail, PAGE_SIZE } from '../../../config'
 import Base from '../../../layouts/base.astro'
 import PageHero from '../../../components/pagehero.astro'
 import BlogRoll from '../../../components/blogroll.astro'
-import SVGImg from '../../../components/svgimg.astro'
+import Img from '../../../components/img.astro'
 import PaginateControl from '../../../components/paginatecontrol.astro'
 
 export interface Props {
@@ -22,7 +22,7 @@ const detail = categoryDetail(category as string)
 const frontmatter: Frontmatter = {
   title: 'Category: ' + category + (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
   description: detail.description,
-  coverSVG: detail.coverSVG,
+  coverImage: detail.coverImage,
   socialImage: detail.socialImage,
   publishDate: SiteMetadata.buildTime,
 }
@@ -49,10 +49,10 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
     <PageHero
       title={frontmatter.title}
       description={frontmatter.description}
-      coverSVG={frontmatter.coverSVG}
+      coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
     >
-    <SVGImg slot="before" src={detail.icon} alt={category as string} class="h-32 w-32" />
+    <Img slot="before" src={detail.icon} alt={category as string} class="h-32 w-32" />
     <PaginateControl base={currentPage} page={page} />
   </PageHero>
   </header>

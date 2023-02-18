@@ -9,7 +9,7 @@ import CategoryRoll from '../components/categoryroll.astro'
 const frontmatter: Frontmatter = {
   title: 'Categories',
   description: 'Categories for articles',
-  coverSVG: '../svg/undraw/windows.svg',
+  coverImage: '../images/svg/undraw/windows.svg',
   socialImage: '../images/undraw/windows.png',
   publishDate: SiteMetadata.buildTime,
 }
@@ -25,7 +25,7 @@ const categories = Array.from(new Set(latestPosts.flatMap(post => post.data.cate
     <PageHero
       title={frontmatter.title}
       description={frontmatter.description}
-      coverSVG={frontmatter.coverSVG}
+      coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
     />
   </header>

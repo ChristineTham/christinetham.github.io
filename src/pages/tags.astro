@@ -93,7 +93,7 @@ const patterns = [
 const frontmatter: Frontmatter = {
   title: 'Tags',
   description: 'Articles by tags',
-  coverSVG: '../svg/undraw/add_notes.svg',
+  coverImage: '../images/svg/undraw/add_notes.svg',
   socialImage: '../images/undraw/add_notes.png',
   publishDate: SiteMetadata.buildTime,
 }
@@ -127,7 +127,7 @@ const tags = Array.from(tagmap.values())
     <PageHero
       title={frontmatter.title}
       description={frontmatter.description}
-      coverSVG={frontmatter.coverSVG}
+      coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
     />
   </header>

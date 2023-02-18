@@ -7,7 +7,7 @@ import PageHero from '../components/pagehero.astro'
 const frontmatter: Frontmatter = {
   title: '404: Not found',
   description: "You just hit a route that doesn't exist... the sadness.",
-  coverSVG: '../svg/undraw/page_not_found.svg',
+  coverImage: '../images/svg/undraw/page_not_found.svg',
   socialImage: '../images/undraw/page_not_found.png',
   publishDate: SiteMetadata.buildTime,
 }
@@ -18,7 +18,7 @@ const frontmatter: Frontmatter = {
     <PageHero
       title={frontmatter.title}
       description={frontmatter.description}
-      coverSVG={frontmatter.coverSVG}
+      coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
     />
   </header>

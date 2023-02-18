@@ -3,7 +3,7 @@ layout: ../layouts/page.astro
 title: Privacy
 description: Our policy regarding information collection and use
 publishDate: '2022-08-08T00:00:00.000Z'
-coverSVG: ../svg/undraw/private_data.svg
+coverImage: ../images/svg/undraw/private_data.svg
 socialImage: ../images/undraw/private_data.png
 ---
 

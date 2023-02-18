@@ -26,7 +26,7 @@ const frontmatter: Frontmatter = {
     ' (total ' +
     page.total +
     ')',
-  coverSVG: '../svg/undraw/add_notes.svg',
+  coverImage: '../images/svg/undraw/add_notes.svg',
   socialImage: '../images/undraw/add_notes.png',
   publishDate: SiteMetadata.buildTime,
 }
@@ -53,7 +53,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
     <PageHero
       title={frontmatter.title}
       description={frontmatter.description}
-      coverSVG={frontmatter.coverSVG}
+      coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
     >
     <PaginateControl base={currentPage} page={page} />

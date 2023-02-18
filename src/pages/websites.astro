@@ -8,7 +8,7 @@ import WebRoll from '../components/webroll.astro'
 const frontmatter: Frontmatter = {
   title: 'Websites',
   description: 'Websites I have built',
-  coverSVG: '../svg/undraw/building_websites.svg',
+  coverImage: '../images/svg/undraw/building_websites.svg',
   socialImage: '../images/undraw/building_websites.png',
   publishDate: SiteMetadata.buildTime,
 }
@@ -20,7 +20,7 @@ const frontmatter: Frontmatter = {
     <PageHero
       title={frontmatter.title}
       description={frontmatter.description}
-      coverSVG={frontmatter.coverSVG}
+      coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
     />
   </header>
