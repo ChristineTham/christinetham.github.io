@@ -8,6 +8,8 @@ categories: [Food]
 tags:
   - Burwood
   - yumcha
+  - lunch
+  - Royal Treasure
 ---
 
 Yumcha at Burwood (Royal Treasure Seafood Restaurant, on the 1st floor of Emerald Square) - I can't name every dish we ordered, but it was a lot. I actually liked the seafood congee, and the chicken feet were very well cooked.
