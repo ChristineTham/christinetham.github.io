@@ -1784,13 +1784,6 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
-"2023/2001-12-01-language-models.md": {
-  id: "2023/2001-12-01-language-models.md",
-  slug: "2023/2001-12-01-language-models",
-  body: string,
-  collection: "blog",
-  data: InferEntrySchema<"blog">
-},
 "2023/2023-01-01-new-year-walk.md": {
   id: "2023/2023-01-01-new-year-walk.md",
   slug: "2023/2023-01-01-new-year-walk",
@@ -2134,6 +2127,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-12-language-models.md": {
+  id: "2023/2023-02-12-language-models.md",
+  slug: "2023/2023-02-12-language-models",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-13-burwood-yumcha.md": {
   id: "2023/2023-02-13-burwood-yumcha.md",
   slug: "2023/2023-02-13-burwood-yumcha",
@@ -2144,6 +2144,48 @@ declare module 'astro:content' {
 "2023/2023-02-13-plaid.md": {
   id: "2023/2023-02-13-plaid.md",
   slug: "2023/2023-02-13-plaid",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-14-margaret-birthday.md": {
+  id: "2023/2023-02-14-margaret-birthday.md",
+  slug: "2023/2023-02-14-margaret-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-15-gumshara.md": {
+  id: "2023/2023-02-15-gumshara.md",
+  slug: "2023/2023-02-15-gumshara",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-17-axi.md": {
+  id: "2023/2023-02-17-axi.md",
+  slug: "2023/2023-02-17-axi",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-17-cindy-birthday.md": {
+  id: "2023/2023-02-17-cindy-birthday.md",
+  slug: "2023/2023-02-17-cindy-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-18-chatgpt.md": {
+  id: "2023/2023-02-18-chatgpt.md",
+  slug: "2023/2023-02-18-chatgpt",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-18-heroes-of-hollywood.md": {
+  id: "2023/2023-02-18-heroes-of-hollywood.md",
+  slug: "2023/2023-02-18-heroes-of-hollywood",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">

@@ -1003,10 +1003,10 @@ astro-robots-txt@^0.4.0:
     valid-filename "^4.0.0"
     zod "^3.20.6"
 
-astro-seo@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/astro-seo/-/astro-seo-0.7.0.tgz#74ff0accfbc0eb52475418988683f2a259fe9112"
-  integrity sha512-G7zJUr4lfKLeqfWx2g5rfuBsOsIOfqxIOqErQfrMsMchDFfLFxNKAuW8yAo8hynJJwBvtGyS/vOXgGdMVVCFrA==
+astro-seo@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/astro-seo/-/astro-seo-0.7.1.tgz#b1921ba94bc80319f091d3dbf93d9450f3fa5ffe"
+  integrity sha512-8Yo1nQrl2iB5zj+VUAHrvGIck8bZ4WAmXQgJOeF9FuAZGQD5qK6DtSZaRbpBXsFfZYHA6tE8pjs3btHhLbC1zQ==
 
 astro@^2.0.14:
   version "2.0.14"
@@ -3828,10 +3828,10 @@ reusify@^1.0.4:
   resolved "https://registry.yarnpkg.com/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
-rollup@^3.10.0, rollup@^3.16.0:
-  version "3.16.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.16.0.tgz#2ca49e0f8015dda814f2cb93015775e58134611b"
-  integrity sha512-9wE1H5N1SJqnROpQanBGJ7lrIitwlUYGj4Va4eyf3+vNhoIHLPLag2/CUGIiq3V9lHOBJB6zTsGsPvc50oeihg==
+rollup@^3.10.0, rollup@^3.17.1:
+  version "3.17.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.17.1.tgz#4be78852c2689d8ce5a21efbc2a45879bac75362"
+  integrity sha512-8RnSms6rNqHmZK+wiqgnPCqen+rRnUHXkciGDirh7B00g1rX1vpKbPDhuxCvAG2bburoI+W4Q9/PlUB/zYkiYA==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -4301,9 +4301,9 @@ undici@5.18.0:
     busboy "^1.6.0"
 
 undici@^5.14.0:
-  version "5.19.1"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-5.19.1.tgz#92b1fd3ab2c089b5a6bd3e579dcda8f1934ebf6d"
-  integrity sha512-YiZ61LPIgY73E7syxCDxxa3LV2yl3sN8spnIuTct60boiiRaE1J8mNWHO8Im2Zi/sFrPusjLlmRPrsyraSqX6A==
+  version "5.20.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-5.20.0.tgz#6327462f5ce1d3646bcdac99da7317f455bcc263"
+  integrity sha512-J3j60dYzuo6Eevbawwp1sdg16k5Tf768bxYK4TUJRH7cBM4kFCbf3mOnM/0E3vQYXvpxITbbWmBafaDbxLDz3g==
   dependencies:
     busboy "^1.6.0"
 
