@@ -2190,6 +2190,83 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-19-ho-jiak-strathfield.md": {
+  id: "2023/2023-02-19-ho-jiak-strathfield.md",
+  slug: "2023/2023-02-19-ho-jiak-strathfield",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-20-world-pride.md": {
+  id: "2023/2023-02-20-world-pride.md",
+  slug: "2023/2023-02-20-world-pride",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-21-emperors-garden.md": {
+  id: "2023/2023-02-21-emperors-garden.md",
+  slug: "2023/2023-02-21-emperors-garden",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-22-masak-masak.md": {
+  id: "2023/2023-02-22-masak-masak.md",
+  slug: "2023/2023-02-22-masak-masak",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-23-yee-sang.md": {
+  id: "2023/2023-02-23-yee-sang.md",
+  slug: "2023/2023-02-23-yee-sang",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-24-dyke-bar.md": {
+  id: "2023/2023-02-24-dyke-bar.md",
+  slug: "2023/2023-02-24-dyke-bar",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-24-mr-fat-duck.md": {
+  id: "2023/2023-02-24-mr-fat-duck.md",
+  slug: "2023/2023-02-24-mr-fat-duck",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-25-kl-flavors.md": {
+  id: "2023/2023-02-25-kl-flavors.md",
+  slug: "2023/2023-02-25-kl-flavors",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-26-february-babies.md": {
+  id: "2023/2023-02-26-february-babies.md",
+  slug: "2023/2023-02-26-february-babies",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-27-durango.md": {
+  id: "2023/2023-02-27-durango.md",
+  slug: "2023/2023-02-27-durango",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-27-egan-poke-bowl.md": {
+  id: "2023/2023-02-27-egan-poke-bowl.md",
+  slug: "2023/2023-02-27-egan-poke-bowl",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 },
 
 	};
