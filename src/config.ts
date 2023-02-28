@@ -345,7 +345,7 @@ export const Websites = [
   },
 ]
 
-export const PAGE_SIZE = 24
+export const PAGE_SIZE = 32
 
 export const GITHUB_EDIT_URL = `https://github.com/ChristineTham/christinetham.github.io`
 

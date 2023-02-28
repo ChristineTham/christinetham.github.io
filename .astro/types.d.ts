@@ -2078,6 +2078,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-01-target.md": {
+  id: "2023/2023-02-01-target.md",
+  slug: "2023/2023-02-01-target",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-04-mopoke.md": {
   id: "2023/2023-02-04-mopoke.md",
   slug: "2023/2023-02-04-mopoke",
@@ -2099,9 +2106,23 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-05-two-cheongsams.md": {
+  id: "2023/2023-02-05-two-cheongsams.md",
+  slug: "2023/2023-02-05-two-cheongsams",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-06-kueh bangkit.md": {
   id: "2023/2023-02-06-kueh bangkit.md",
   slug: "2023/2023-02-06-kueh-bangkit",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-06-summer-outfit.md": {
+  id: "2023/2023-02-06-summer-outfit.md",
+  slug: "2023/2023-02-06-summer-outfit",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -2120,9 +2141,23 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-07-school-outfit.md": {
+  id: "2023/2023-02-07-school-outfit.md",
+  slug: "2023/2023-02-07-school-outfit",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-10-charlie-chan.md": {
   id: "2023/2023-02-10-charlie-chan.md",
   slug: "2023/2023-02-10-charlie-chan",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-10-marcs.md": {
+  id: "2023/2023-02-10-marcs.md",
+  slug: "2023/2023-02-10-marcs",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -2162,6 +2197,20 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-15-katherine.md": {
+  id: "2023/2023-02-15-katherine.md",
+  slug: "2023/2023-02-15-katherine",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-16-peach-polka-dot.md": {
+  id: "2023/2023-02-16-peach-polka-dot.md",
+  slug: "2023/2023-02-16-peach-polka-dot",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-17-axi.md": {
   id: "2023/2023-02-17-axi.md",
   slug: "2023/2023-02-17-axi",
@@ -2172,6 +2221,13 @@ declare module 'astro:content' {
 "2023/2023-02-17-cindy-birthday.md": {
   id: "2023/2023-02-17-cindy-birthday.md",
   slug: "2023/2023-02-17-cindy-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-17-sarong.md": {
+  id: "2023/2023-02-17-sarong.md",
+  slug: "2023/2023-02-17-sarong",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -2190,9 +2246,23 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-18-mink-pink.md": {
+  id: "2023/2023-02-18-mink-pink.md",
+  slug: "2023/2023-02-18-mink-pink",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-19-ho-jiak-strathfield.md": {
   id: "2023/2023-02-19-ho-jiak-strathfield.md",
   slug: "2023/2023-02-19-ho-jiak-strathfield",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-19-yours-truly.md": {
+  id: "2023/2023-02-19-yours-truly.md",
+  slug: "2023/2023-02-19-yours-truly",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -2246,9 +2316,23 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-25-transparent.md": {
+  id: "2023/2023-02-25-transparent.md",
+  slug: "2023/2023-02-25-transparent",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-26-february-babies.md": {
   id: "2023/2023-02-26-february-babies.md",
   slug: "2023/2023-02-26-february-babies",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-26-ghanda-shift.md": {
+  id: "2023/2023-02-26-ghanda-shift.md",
+  slug: "2023/2023-02-26-ghanda-shift",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -2263,6 +2347,13 @@ declare module 'astro:content' {
 "2023/2023-02-27-egan-poke-bowl.md": {
   id: "2023/2023-02-27-egan-poke-bowl.md",
   slug: "2023/2023-02-27-egan-poke-bowl",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-28-flower-blouse.md": {
+  id: "2023/2023-02-28-flower-blouse.md",
+  slug: "2023/2023-02-28-flower-blouse",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
