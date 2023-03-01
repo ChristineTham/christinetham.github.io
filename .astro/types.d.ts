@@ -1742,6 +1742,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-12-22-noel-xmas.md": {
+  id: "2022/2022-12-22-noel-xmas.md",
+  slug: "2022/2022-12-22-noel-xmas",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-12-24-buddha bowl.md": {
   id: "2022/2022-12-24-buddha bowl.md",
   slug: "2022/2022-12-24-buddha-bowl",
@@ -1784,6 +1791,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-12-31-mr-stonepot.md": {
+  id: "2022/2022-12-31-mr-stonepot.md",
+  slug: "2022/2022-12-31-mr-stonepot",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-01-01-new-year-walk.md": {
   id: "2023/2023-01-01-new-year-walk.md",
   slug: "2023/2023-01-01-new-year-walk",
@@ -1801,6 +1815,13 @@ declare module 'astro:content' {
 "2023/2023-01-02-rogue.md": {
   id: "2023/2023-01-02-rogue.md",
   slug: "2023/2023-01-02-rogue",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-01-02-sausage-burger.md": {
+  id: "2023/2023-01-02-sausage-burger.md",
+  slug: "2023/2023-01-02-sausage-burger",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -1864,6 +1885,13 @@ declare module 'astro:content' {
 "2023/2023-01-11-dream.md": {
   id: "2023/2023-01-11-dream.md",
   slug: "2023/2023-01-11-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-01-13-sydney-walk.md": {
+  id: "2023/2023-01-13-sydney-walk.md",
+  slug: "2023/2023-01-13-sydney-walk",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
