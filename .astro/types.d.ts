@@ -2288,9 +2288,23 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-02-23-carriageworks.md": {
+  id: "2023/2023-02-23-carriageworks.md",
+  slug: "2023/2023-02-23-carriageworks",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-02-23-yee-sang.md": {
   id: "2023/2023-02-23-yee-sang.md",
   slug: "2023/2023-02-23-yee-sang",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-02-24-braving-time.md": {
+  id: "2023/2023-02-24-braving-time.md",
+  slug: "2023/2023-02-24-braving-time",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -2344,9 +2358,9 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
-"2023/2023-02-27-egan-poke-bowl.md": {
-  id: "2023/2023-02-27-egan-poke-bowl.md",
-  slug: "2023/2023-02-27-egan-poke-bowl",
+"2023/2023-02-27-vegan-poke-bowl.md": {
+  id: "2023/2023-02-27-vegan-poke-bowl.md",
+  slug: "2023/2023-02-27-vegan-poke-bowl",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
