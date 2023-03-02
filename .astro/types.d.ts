@@ -1735,9 +1735,226 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-11-15-pink-lace.md": {
+  id: "2022/2022-11-15-pink-lace.md",
+  slug: "2022/2022-11-15-pink-lace",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-11-19-pink-swirl.md": {
+  id: "2022/2022-11-19-pink-swirl.md",
+  slug: "2022/2022-11-19-pink-swirl",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-11-25-blue-kaftan.md": {
+  id: "2022/2022-11-25-blue-kaftan.md",
+  slug: "2022/2022-11-25-blue-kaftan",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-11-29-jeans.md": {
+  id: "2022/2022-11-29-jeans.md",
+  slug: "2022/2022-11-29-jeans",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-11-29-new-shanghai.md": {
+  id: "2022/2022-11-29-new-shanghai.md",
+  slug: "2022/2022-11-29-new-shanghai",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-01-dream.md": {
+  id: "2022/2022-12-01-dream.md",
+  slug: "2022/2022-12-01-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-02-dream.md": {
+  id: "2022/2022-12-02-dream.md",
+  slug: "2022/2022-12-02-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-02-sydney-xmas.md": {
+  id: "2022/2022-12-02-sydney-xmas.md",
+  slug: "2022/2022-12-02-sydney-xmas",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-03-campsie.md": {
+  id: "2022/2022-12-03-campsie.md",
+  slug: "2022/2022-12-03-campsie",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-03-dream.md": {
+  id: "2022/2022-12-03-dream.md",
+  slug: "2022/2022-12-03-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-03-lane-covelo-bbq.md": {
+  id: "2022/2022-12-03-lane-covelo-bbq.md",
+  slug: "2022/2022-12-03-lane-covelo-bbq",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-03-tinkerbelle.md": {
+  id: "2022/2022-12-03-tinkerbelle.md",
+  slug: "2022/2022-12-03-tinkerbelle",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-04-coal-loader.md": {
+  id: "2022/2022-12-04-coal-loader.md",
+  slug: "2022/2022-12-04-coal-loader",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-04-kopi-tiam.md": {
+  id: "2022/2022-12-04-kopi-tiam.md",
+  slug: "2022/2022-12-04-kopi-tiam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-06-sydney-xmas.md": {
+  id: "2022/2022-12-06-sydney-xmas.md",
+  slug: "2022/2022-12-06-sydney-xmas",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-07-jennifer-birthday.md": {
+  id: "2022/2022-12-07-jennifer-birthday.md",
+  slug: "2022/2022-12-07-jennifer-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-07-mickey-mouse.md": {
+  id: "2022/2022-12-07-mickey-mouse.md",
+  slug: "2022/2022-12-07-mickey-mouse",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-09-noel-xmas.md": {
+  id: "2022/2022-12-09-noel-xmas.md",
+  slug: "2022/2022-12-09-noel-xmas",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-10-investment.md": {
+  id: "2022/2022-12-10-investment.md",
+  slug: "2022/2022-12-10-investment",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-10-surry-hills.md": {
+  id: "2022/2022-12-10-surry-hills.md",
+  slug: "2022/2022-12-10-surry-hills",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-11-zeal-xmas-ride.md": {
+  id: "2022/2022-12-11-zeal-xmas-ride.md",
+  slug: "2022/2022-12-11-zeal-xmas-ride",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-13-zeal-west-head.md": {
+  id: "2022/2022-12-13-zeal-west-head.md",
+  slug: "2022/2022-12-13-zeal-west-head",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-14-borgnis-st-xmas.md": {
+  id: "2022/2022-12-14-borgnis-st-xmas.md",
+  slug: "2022/2022-12-14-borgnis-st-xmas",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-14-ncr-reunion.md": {
+  id: "2022/2022-12-14-ncr-reunion.md",
+  slug: "2022/2022-12-14-ncr-reunion",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-15-nan-tien.md": {
+  id: "2022/2022-12-15-nan-tien.md",
+  slug: "2022/2022-12-15-nan-tien",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-16-chilly-spring.md": {
+  id: "2022/2022-12-16-chilly-spring.md",
+  slug: "2022/2022-12-16-chilly-spring",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-16-grounds-alexandria.md": {
+  id: "2022/2022-12-16-grounds-alexandria.md",
+  slug: "2022/2022-12-16-grounds-alexandria",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-12-18-pink-outfit.md": {
   id: "2022/2022-12-18-pink-outfit.md",
   slug: "2022/2022-12-18-pink-outfit",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-18-sydney-park.md": {
+  id: "2022/2022-12-18-sydney-park.md",
+  slug: "2022/2022-12-18-sydney-park",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-18-westconnex.md": {
+  id: "2022/2022-12-18-westconnex.md",
+  slug: "2022/2022-12-18-westconnex",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-19-half-monty.md": {
+  id: "2022/2022-12-19-half-monty.md",
+  slug: "2022/2022-12-19-half-monty",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-21-cat-xmas.md": {
+  id: "2022/2022-12-21-cat-xmas.md",
+  slug: "2022/2022-12-21-cat-xmas",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -1756,6 +1973,20 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-12-25-family-xmas-lunch.md": {
+  id: "2022/2022-12-25-family-xmas-lunch.md",
+  slug: "2022/2022-12-25-family-xmas-lunch",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-26-burwood.md": {
+  id: "2022/2022-12-26-burwood.md",
+  slug: "2022/2022-12-26-burwood",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-12-27-muswellbrook.md": {
   id: "2022/2022-12-27-muswellbrook.md",
   slug: "2022/2022-12-27-muswellbrook",
@@ -1766,6 +1997,13 @@ declare module 'astro:content' {
 "2022/2022-12-28-burning-mountain.md": {
   id: "2022/2022-12-28-burning-mountain.md",
   slug: "2022/2022-12-28-burning-mountain",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-12-28-dream.md": {
+  id: "2022/2022-12-28-dream.md",
+  slug: "2022/2022-12-28-dream",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -2396,6 +2634,20 @@ declare module 'astro:content' {
 "2023/2023-02-28-flower-blouse.md": {
   id: "2023/2023-02-28-flower-blouse.md",
   slug: "2023/2023-02-28-flower-blouse",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-02-dream.md": {
+  id: "2023/2023-03-02-dream.md",
+  slug: "2023/2023-03-02-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-02-vietnamese-poke-bowl.md": {
+  id: "2023/2023-03-02-vietnamese-poke-bowl.md",
+  slug: "2023/2023-03-02-vietnamese-poke-bowl",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
