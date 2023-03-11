@@ -1,7 +1,7 @@
 ---
 author: Chris Tham
 title: Portfolio Performance
-publishDate: 2022-11-03T11:00:00+10:00
+publishDate: 2022-11-01T11:00:00+10:00
 description: Analysis of our portfolio November 2021-October 2022
 images:
   - ../images/blog/Portfolio performance.jpg

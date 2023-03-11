@@ -1595,6 +1595,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-10-05-investment-update.md": {
+  id: "2022/2022-10-05-investment-update.md",
+  slug: "2022/2022-10-05-investment-update",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-10-06-hunter-valley-gardens.md": {
   id: "2022/2022-10-06-hunter-valley-gardens.md",
   slug: "2022/2022-10-06-hunter-valley-gardens",
@@ -1640,6 +1647,13 @@ declare module 'astro:content' {
 "2022/2022-10-09-radika-birthday.md": {
   id: "2022/2022-10-09-radika-birthday.md",
   slug: "2022/2022-10-09-radika-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-10-11-travel.md": {
+  id: "2022/2022-10-11-travel.md",
+  slug: "2022/2022-10-11-travel",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -1693,9 +1707,37 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-10-21-dream.md": {
+  id: "2022/2022-10-21-dream.md",
+  slug: "2022/2022-10-21-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-10-23-kirribilli.md": {
   id: "2022/2022-10-23-kirribilli.md",
   slug: "2022/2022-10-23-kirribilli",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-10-23-ryoko-100.md": {
+  id: "2022/2022-10-23-ryoko-100.md",
+  slug: "2022/2022-10-23-ryoko-100",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-10-24-patricia-birthday.md": {
+  id: "2022/2022-10-24-patricia-birthday.md",
+  slug: "2022/2022-10-24-patricia-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-10-25-luci.md": {
+  id: "2022/2022-10-25-luci.md",
+  slug: "2022/2022-10-25-luci",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -1710,6 +1752,20 @@ declare module 'astro:content' {
 "2022/2022-10-27-sculpture-by-the-sea.md": {
   id: "2022/2022-10-27-sculpture-by-the-sea.md",
   slug: "2022/2022-10-27-sculpture-by-the-sea",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-10-29-radika-birthday.md": {
+  id: "2022/2022-10-29-radika-birthday.md",
+  slug: "2022/2022-10-29-radika-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-10-30-bundanoon.md": {
+  id: "2022/2022-10-30-bundanoon.md",
+  slug: "2022/2022-10-30-bundanoon",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -1763,9 +1819,30 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-11-03-grace-of-india.md": {
+  id: "2022/2022-11-03-grace-of-india.md",
+  slug: "2022/2022-11-03-grace-of-india",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-11-03-jacaranda-dress.md": {
   id: "2022/2022-11-03-jacaranda-dress.md",
   slug: "2022/2022-11-03-jacaranda-dress",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-11-03-kirribilli.md": {
+  id: "2022/2022-11-03-kirribilli.md",
+  slug: "2022/2022-11-03-kirribilli",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-11-03-sub-base-platypus.md": {
+  id: "2022/2022-11-03-sub-base-platypus.md",
+  slug: "2022/2022-11-03-sub-base-platypus",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">

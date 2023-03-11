@@ -3,7 +3,8 @@ author: Chris Tham
 title: Hokkien Mee Gotong Royong
 publishDate: 2022-10-19T17:00:00+10:00
 description: Making that classic Petaling St hawker dish.
-images: [../images/food/Hokkien Mee.jpeg]
+coverImage: ../images/food/Hokkien Mee.jpeg
+gallery: 2022-10-19-hokkien-mee
 categories: [Food,Event]
 tags:
   - Malaysian
