@@ -6,7 +6,7 @@ description: A group of us gathered at the University of Sydney
 images: [../images/blog/Hons Reunion (1).jpeg]
 categories: [Event,Food]
 tags:
-  - uniersity
+  - university
   - reunion
   - honours
 ---
