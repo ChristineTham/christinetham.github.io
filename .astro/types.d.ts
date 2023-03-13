@@ -3142,9 +3142,51 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-03-06-preloved.md": {
+  id: "2023/2023-03-06-preloved.md",
+  slug: "2023/2023-03-06-preloved",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-03-08-holi.md": {
   id: "2023/2023-03-08-holi.md",
   slug: "2023/2023-03-08-holi",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-11-etf-performance.md": {
+  id: "2023/2023-03-11-etf-performance.md",
+  slug: "2023/2023-03-11-etf-performance",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-12-sivb.md": {
+  id: "2023/2023-03-12-sivb.md",
+  slug: "2023/2023-03-12-sivb",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-12-sydney.md": {
+  id: "2023/2023-03-12-sydney.md",
+  slug: "2023/2023-03-12-sydney",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-12-yum-cha.md": {
+  id: "2023/2023-03-12-yum-cha.md",
+  slug: "2023/2023-03-12-yum-cha",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-13-bond-etf.md": {
+  id: "2023/2023-03-13-bond-etf.md",
+  slug: "2023/2023-03-13-bond-etf",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
