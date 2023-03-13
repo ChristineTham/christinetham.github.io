@@ -3156,6 +3156,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2023/2023-03-10-trivia.md": {
+  id: "2023/2023-03-10-trivia.md",
+  slug: "2023/2023-03-10-trivia",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2023/2023-03-11-etf-performance.md": {
   id: "2023/2023-03-11-etf-performance.md",
   slug: "2023/2023-03-11-etf-performance",
@@ -3187,6 +3194,13 @@ declare module 'astro:content' {
 "2023/2023-03-13-bond-etf.md": {
   id: "2023/2023-03-13-bond-etf.md",
   slug: "2023/2023-03-13-bond-etf",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2023/2023-03-14-cred.md": {
+  id: "2023/2023-03-14-cred.md",
+  slug: "2023/2023-03-14-cred",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
