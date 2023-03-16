@@ -14,5 +14,7 @@ tags:
   - fried rice
 ---
 
-Another fried rice dish, cooked with premium chinese sausage and vegetables
-(broccoli, beans and carrots). I also added some olive greens in the final mix.
+Next up in the fried rice department: lap cheong fried rice with olive green and vegetables (broccoli, beans and carrots). Put more olives this time, it's not very salty. And used Arleen's premium lap cheong.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid02tyyH1aTHPhZGZ3KebmiHNWEdvLCs1QdkwHwWGQh2kEEb2prJw71eLWYqhU7z9F92l&show_text=true&width=500" width="500" height="601" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+

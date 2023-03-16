@@ -552,6 +552,20 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-03-19-powerhouse-museum.md": {
+  id: "2022/2022-03-19-powerhouse-museum.md",
+  slug: "2022/2022-03-19-powerhouse-museum",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-03-23-leica.md": {
+  id: "2022/2022-03-23-leica.md",
+  slug: "2022/2022-03-23-leica",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-03-25-french-toast.md": {
   id: "2022/2022-03-25-french-toast.md",
   slug: "2022/2022-03-25-french-toast",
@@ -569,6 +583,48 @@ declare module 'astro:content' {
 "2022/2022-03-31-snow-apple.md": {
   id: "2022/2022-03-31-snow-apple.md",
   slug: "2022/2022-03-31-snow-apple",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-02-dream.md": {
+  id: "2022/2022-04-02-dream.md",
+  slug: "2022/2022-04-02-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-02-james-taylor.md": {
+  id: "2022/2022-04-02-james-taylor.md",
+  slug: "2022/2022-04-02-james-taylor",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-02-lilong.md": {
+  id: "2022/2022-04-02-lilong.md",
+  slug: "2022/2022-04-02-lilong",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-03-dream.md": {
+  id: "2022/2022-04-03-dream.md",
+  slug: "2022/2022-04-03-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-03-sydney-walk.md": {
+  id: "2022/2022-04-03-sydney-walk.md",
+  slug: "2022/2022-04-03-sydney-walk",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-04-dream.md": {
+  id: "2022/2022-04-04-dream.md",
+  slug: "2022/2022-04-04-dream",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -594,6 +650,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
+"2022/2022-04-05-dream.md": {
+  id: "2022/2022-04-05-dream.md",
+  slug: "2022/2022-04-05-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
 "2022/2022-04-06-chinese-sausage-fried-rice.md": {
   id: "2022/2022-04-06-chinese-sausage-fried-rice.md",
   slug: "2022/2022-04-06-chinese-sausage-fried-rice",
@@ -611,6 +674,181 @@ declare module 'astro:content' {
 "2022/2022-04-10-lego-friends.md": {
   id: "2022/2022-04-10-lego-friends.md",
   slug: "2022/2022-04-10-lego-friends",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-10-royal-easter-show.md": {
+  id: "2022/2022-04-10-royal-easter-show.md",
+  slug: "2022/2022-04-10-royal-easter-show",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-12-bistro-59.md": {
+  id: "2022/2022-04-12-bistro-59.md",
+  slug: "2022/2022-04-12-bistro-59",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-12-easter-girls-road-trip.md": {
+  id: "2022/2022-04-12-easter-girls-road-trip.md",
+  slug: "2022/2022-04-12-easter-girls-road-trip",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-12-lincoln-rock.md": {
+  id: "2022/2022-04-12-lincoln-rock.md",
+  slug: "2022/2022-04-12-lincoln-rock",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-12-oberon-dam.md": {
+  id: "2022/2022-04-12-oberon-dam.md",
+  slug: "2022/2022-04-12-oberon-dam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-12-unique-patisserie.md": {
+  id: "2022/2022-04-12-unique-patisserie.md",
+  slug: "2022/2022-04-12-unique-patisserie",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-13-mayfield-garden.md": {
+  id: "2022/2022-04-13-mayfield-garden.md",
+  slug: "2022/2022-04-13-mayfield-garden",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-14-frenchies.md": {
+  id: "2022/2022-04-14-frenchies.md",
+  slug: "2022/2022-04-14-frenchies",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-16-paul-landa.md": {
+  id: "2022/2022-04-16-paul-landa.md",
+  slug: "2022/2022-04-16-paul-landa",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-16-pearl-beach.md": {
+  id: "2022/2022-04-16-pearl-beach.md",
+  slug: "2022/2022-04-16-pearl-beach",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-17-galleria.md": {
+  id: "2022/2022-04-17-galleria.md",
+  slug: "2022/2022-04-17-galleria",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-17-ikhwan.md": {
+  id: "2022/2022-04-17-ikhwan.md",
+  slug: "2022/2022-04-17-ikhwan",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-18-newcastle.md": {
+  id: "2022/2022-04-18-newcastle.md",
+  slug: "2022/2022-04-18-newcastle",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-19-dream.md": {
+  id: "2022/2022-04-19-dream.md",
+  slug: "2022/2022-04-19-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-20-mt-wilson.md": {
+  id: "2022/2022-04-20-mt-wilson.md",
+  slug: "2022/2022-04-20-mt-wilson",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-21-rhodes-central.md": {
+  id: "2022/2022-04-21-rhodes-central.md",
+  slug: "2022/2022-04-21-rhodes-central",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-22-chinta-ria.md": {
+  id: "2022/2022-04-22-chinta-ria.md",
+  slug: "2022/2022-04-22-chinta-ria",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-22-museum-of-sydney.md": {
+  id: "2022/2022-04-22-museum-of-sydney.md",
+  slug: "2022/2022-04-22-museum-of-sydney",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-23-southern-highlands.md": {
+  id: "2022/2022-04-23-southern-highlands.md",
+  slug: "2022/2022-04-23-southern-highlands",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-24-southern-highlands.md": {
+  id: "2022/2022-04-24-southern-highlands.md",
+  slug: "2022/2022-04-24-southern-highlands",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-25-casarecce.md": {
+  id: "2022/2022-04-25-casarecce.md",
+  slug: "2022/2022-04-25-casarecce",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-26-assam-laksa.md": {
+  id: "2022/2022-04-26-assam-laksa.md",
+  slug: "2022/2022-04-26-assam-laksa",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-27-amah.md": {
+  id: "2022/2022-04-27-amah.md",
+  slug: "2022/2022-04-27-amah",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-30-guildford.md": {
+  id: "2022/2022-04-30-guildford.md",
+  slug: "2022/2022-04-30-guildford",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+},
+"2022/2022-04-30-investment.md": {
+  id: "2022/2022-04-30-investment.md",
+  slug: "2022/2022-04-30-investment",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
