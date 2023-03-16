@@ -17,10 +17,10 @@ I am using COPIC markers to replicate the drawings in the book.
 
 This is what Book Depository says about it:
 
->The perfect book for budding artists, How to Draw Almost Every Day challenges and inspires you to draw one simple illustration each day of the year.
+> The perfect book for budding artists, How to Draw Almost Every Day challenges and inspires you to draw one simple illustration each day of the year.
 >
->Don't let your artistic aspirations come to an end before they start! Everyone wants to draw stylish, evocative pictures, but between busy schedules, not knowing basic techniques, and simply feeling like their art isn't "good enough," many people quickly give up on learning to draw.
+> Don't let your artistic aspirations come to an end before they start! Everyone wants to draw stylish, evocative pictures, but between busy schedules, not knowing basic techniques, and simply feeling like their art isn't "good enough," many people quickly give up on learning to draw.
 >
->This is where How to Draw Almost Every Day comes in! Each image in this technique-driven book is broken down with step-by-step diagrams, making the process of creating the image easy to understand. You'll learn to draw items from everyday life, like food and clothing, as well as seasonal images, including snowmen and pumpkins. We have also included inspiring project photos to show you how to incorporate the doodles into greeting cards, calendars, invitations, gift wrap, and just about anything you can imagine. So stop putting it off and get drawing!
+> This is where How to Draw Almost Every Day comes in! Each image in this technique-driven book is broken down with step-by-step diagrams, making the process of creating the image easy to understand. You'll learn to draw items from everyday life, like food and clothing, as well as seasonal images, including snowmen and pumpkins. We have also included inspiring project photos to show you how to incorporate the doodles into greeting cards, calendars, invitations, gift wrap, and just about anything you can imagine. So stop putting it off and get drawing!
 >
->Each book in the Almost Everything series offers readers a fun, comprehensive, and charmingly illustrated visual directory of ideas to inspire skill building in their creative endeavors.
+> Each book in the Almost Everything series offers readers a fun, comprehensive, and charmingly illustrated visual directory of ideas to inspire skill building in their creative endeavors.

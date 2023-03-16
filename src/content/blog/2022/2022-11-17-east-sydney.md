@@ -16,7 +16,7 @@ McDougall St in Kirribilli has moderate car traffic and drivers are annoyed by j
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid0nWWBUupNXi6ktcQYDRxqKoBTfpH8Tk2FuRiAEL2Z62FKSwx5ZEs3oS1WL56zp6Lgl&show_text=true&width=500" width="500" height="444" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-At the centre of attention at Five Ways, Paddington - LOL passing cars were wondering what the **** I was doing ...
+At the centre of attention at Five Ways, Paddington - LOL passing cars were wondering what the \*\*\*\* I was doing ...
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid02edttWLNVazGJBz5iHZ8W4CfZXaLJEgC52fu7m8n6StVbidcdh8V2ho5yNJuAbSu2l&show_text=true&width=500" width="500" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 

@@ -6,7 +6,7 @@ coverImage: ../images/gallery/2023-01-27-cape-formentor/Cape Formentor (3).jpeg
 gallery: 2023-01-27-cape-formentor
 description: Finally managed to cycle the whole route on Wahoo RGT
 categories: [Cycling]
-tags: [Cape Formentor,Wahoo,RGT]
+tags: [Cape Formentor, Wahoo, RGT]
 ---
 
 Another New Year's resolution unlocked - managed to cycle the 22km from the beach to Cape Formentor on Wahoo RGT - climbing over 500m and breaking a personal record in the process, without exceeding my Functional Threshold Power (FTP).

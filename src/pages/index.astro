@@ -107,5 +107,12 @@ const categories = Array.from(new Set(latestPosts.flatMap(post => post.data.cate
       Tags
     </a>
   </div>
-  <BlogRoll posts={latestPosts.slice(0,PAGE_SIZE)} />
+  <BlogRoll posts={latestPosts.slice(0,PAGE_SIZE)}>
+    <a
+      href={import.meta.env.BASE_URL + 'blog/2'}
+      class="inline-block p-2 mt-4 rounded-md bg-rosely9 hover:bg-roselyC text-white dark:bg-roselyB dark:hover:brosely5 dark:text-rosely0 font-semibold text-base md:text-lg"
+    >
+      More Articles
+    </a>
+  </BlogRoll>
 </Base>

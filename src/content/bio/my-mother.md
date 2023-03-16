@@ -8,7 +8,6 @@ gallery: mother
 
 ![My mother](/images/about/mother.jpg)
 
-
 She is the most beautiful woman I have ever known.
 
 The 3rd daughter of a family of eight siblings, she has a bubbly, vivacious personality as well as strikingly beautiful looks, so she was guaranteed to be the centre of attention in any gathering. My cousin tells me she was famous for her "cat eyes" makeup long before Ariana Grande. As a child, I loved trying on her clothes and makeup, but I quickly outgrew them as I was taller than her (same height as my Dad, but shorter than my brother).

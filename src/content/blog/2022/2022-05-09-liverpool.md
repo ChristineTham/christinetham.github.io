@@ -3,9 +3,9 @@ author: Chris Tham
 title: Bollywood shopping in Liverpool
 publishDate: 2022-05-09T13:00:00+10:00
 description: Searching for costumes for Cat's birthday party
-images: 
+images:
   - ../images/fashion/Liverpool.jpeg
-categories: [Fashion,Food]
+categories: [Fashion, Food]
 tags:
   - Liverpool
   - shopping

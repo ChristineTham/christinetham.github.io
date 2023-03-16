@@ -16,6 +16,7 @@ tags:
 I bought my portable gas cooker and wok set last year, intending to cook the famous Malaysian dish Char Kuay Teow on it, but for various reasons never really got around to it. Well, finally decided to cook a batch in 2023. This dish takes a long time to prepare but only seconds to cook, so everything has to be ready before the gas is lighted up.
 
 Some tips:
+
 1. The little things matter. Separate the rice noodles into individual strands, and remove tails from bean sprouts.
 2. Use the best ingredients. I used king prawns and premium lap cheong.
 3. I also sprinkled the prawns with a bit of cornflour and salt to make them slightly crispy. I like them this way.
@@ -27,8 +28,8 @@ Some tips:
 
 ### Equipment
 
-* Cast iron wok and stirrer
-* Gas cooker
+- Cast iron wok and stirrer
+- Gas cooker
 
 ### Ingredients
 
@@ -38,23 +39,23 @@ but it is also possible to make your own.
 
 Sauce (balance to taste):
 
-* dark soy sauce
-* light soy sauce
-* oyster sauce
-* kecap manis (or use sugar)
+- dark soy sauce
+- light soy sauce
+- oyster sauce
+- kecap manis (or use sugar)
 
 Main dish:
 
-* Flat rice noodles - a handful per serve
-* Chinese sausage (lap cheong) - 1 per serve, sliced
-* Fish cake - about 4-5 thin slices per serve
-* Fresh prawns, deshelled and cleaned - about 2-3 per serve
-* garlic - about 1-2 cloves, cut into tiny pieces
-* cooking oil - use your judgement, perhaps a few tablespoons
-* chilli paste or sambal belachan - 1 tablespoon or according to taste
-* pork "croutons" (chee yau char) - essentially deep fried tiny pork fat (I substituted with deep fried crispy pork crackling)
-* fresh bean sprouts, with tails removed - about a handful
-* garlic chives, cut into 1 inch pieces - about a handful
+- Flat rice noodles - a handful per serve
+- Chinese sausage (lap cheong) - 1 per serve, sliced
+- Fish cake - about 4-5 thin slices per serve
+- Fresh prawns, deshelled and cleaned - about 2-3 per serve
+- garlic - about 1-2 cloves, cut into tiny pieces
+- cooking oil - use your judgement, perhaps a few tablespoons
+- chilli paste or sambal belachan - 1 tablespoon or according to taste
+- pork "croutons" (chee yau char) - essentially deep fried tiny pork fat (I substituted with deep fried crispy pork crackling)
+- fresh bean sprouts, with tails removed - about a handful
+- garlic chives, cut into 1 inch pieces - about a handful
 
 ### Instructions
 

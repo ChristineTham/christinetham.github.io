@@ -4,7 +4,7 @@ title: Cindy's Baby Shower
 publishDate: 2022-05-21T17:00:00+10:00
 description: Celebrating the anticipated arrival of baby koala
 images: [../images/food/Cindy baby shower (35).jpeg]
-categories: [Food,Event]
+categories: [Food, Event]
 tags:
   - baby
   - shower

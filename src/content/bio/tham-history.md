@@ -5,16 +5,18 @@ description: Origins and history, by Henry Tom, extracted from the Tom Genealogy
 weight: 6
 ---
 
-___
-***NOTE***
+---
 
-*The following is extracted and adapted from the
+**_NOTE_**
+
+_The following is extracted and adapted from the
 [Tom Genealogy](https://web.archive.org/web/20080404194404/http://mysite.verizon.net/vzepzaui/index.html)
 web site, which unfortunately no longer exists, but can be retrieved from
 [The Internet Archive](https://web.archive.org). I have permission from the
 author of that website (Henry Tom) for the following extract (I have converted
-mentions of the "Tom" surname to "Tham" for clarity).*
-___
+mentions of the "Tom" surname to "Tham" for clarity)._
+
+---
 
 Information on the Tham clan are found in genealogy documents, books on Chinese surnames, legends, and clan folklore. This scattered information, however, needs to be systematically compiled, integrated, and translated from these Chinese sources into an authoritative treatise. Beyond the difficulties associated with Chinese-English translations, historical discrepancies also require adjudication and explanation. These notes on the Tham clan should be considered as a composite of English translations of some of the Chinese sources. As initial notes, there is, hopefully, a recognition and acceptance that they are imperfect, provisional, and a work in progress that is frequently updated. Currenly, the intent is just to provide an general overview and coherent understanding of the origins and history of the Tham clan.
 
@@ -22,7 +24,7 @@ In general, there seem to be two prevailing views on the origins and history of 
 
 ## Tom (Tham) Origins from Four Brothers
 
-The first view is the basis for the Chew Lun Association ( 昭 倫 公 所 ) This is a four clan association that includes the four surnames--Hom (譚 ), Tom ( 談 ), Huey ( 許 ), Der ( 謝 ). The characters for all the surnames used the radical yan 言 on the left. These surnames were all alleged to be derived from a descendant of Chiang Tai Kung ( 姜 太 公 ) (1210-1120BC), one of the most celebrated generals in Chinese history and worshipped even today in China as a god who protects homes and shops. This descendant, Wei, was the father of four sons. As they were living in the times of political strife, Wei was afraid to bequeath his clan name to his progeny. He therefore only gave them first names, which were Hom, Tom, Huey and Der. When these sons grew up the father cautioned them about revealing their real clan name, but always come to the aid of each other. Later, these sons took their first names as family names, but always remembered their father's injunction to help each other. The Chew Lun four-family alliance came about many centuries later to reunite the descendants of the sons of Wei, who started out as blood brothers. The Tom, Hom, Huey and Tse clans are found throughout the world and there are also Chew Lun Association branches in many cities and countries. This was initially described under Clan Associations under Genealogy. This information was made available by Washington Tom Lee, Bet Lai, Him Mark Lai, and Lawrence Tom. 
+The first view is the basis for the Chew Lun Association ( 昭 倫 公 所 ) This is a four clan association that includes the four surnames--Hom (譚 ), Tom ( 談 ), Huey ( 許 ), Der ( 謝 ). The characters for all the surnames used the radical yan 言 on the left. These surnames were all alleged to be derived from a descendant of Chiang Tai Kung ( 姜 太 公 ) (1210-1120BC), one of the most celebrated generals in Chinese history and worshipped even today in China as a god who protects homes and shops. This descendant, Wei, was the father of four sons. As they were living in the times of political strife, Wei was afraid to bequeath his clan name to his progeny. He therefore only gave them first names, which were Hom, Tom, Huey and Der. When these sons grew up the father cautioned them about revealing their real clan name, but always come to the aid of each other. Later, these sons took their first names as family names, but always remembered their father's injunction to help each other. The Chew Lun four-family alliance came about many centuries later to reunite the descendants of the sons of Wei, who started out as blood brothers. The Tom, Hom, Huey and Tse clans are found throughout the world and there are also Chew Lun Association branches in many cities and countries. This was initially described under Clan Associations under Genealogy. This information was made available by Washington Tom Lee, Bet Lai, Him Mark Lai, and Lawrence Tom.
 
 ![Provinces](/images/about/Provinces.jpg)
 ![Henan Province](/images/about/HenanProvince.jpg)
@@ -61,7 +63,7 @@ Research reveals several surnames as sources for the Tan surname.
 
 The Yellow Emperor ( Huang Di ) ( 黃 帝 ), also known as Xuan Yuan ( 軒 轅 ) reigned from 2698 – 2598 BC and is considered to be the ancestor of all Han Chinese. The surname of the Yellow Emperor was Ji ( 姬 ). The Cantonese romanization of Ji is “Gay or Kay”.
 
-It is said that the Tan ( 譚 ) lineage came from the Yellow Emperor's descendants: his grandson, Zhuan Xu ( 顓 頊 ) in 2513 BC appointed one of his sons to be a ruler of a tribe called Jie Chu ( 杰   出) in an area located just east of present day Jinan, the capital of Shandong province. This area was renamed the settlement of Tan.
+It is said that the Tan ( 譚 ) lineage came from the Yellow Emperor's descendants: his grandson, Zhuan Xu ( 顓 頊 ) in 2513 BC appointed one of his sons to be a ruler of a tribe called Jie Chu ( 杰 出) in an area located just east of present day Jinan, the capital of Shandong province. This area was renamed the settlement of Tan.
 
 Thereafter, from Zhuan Xu’s grandson, Xia Yu ( 夏 禹 ), whose surname was changed to Si ( 姒 ). Xia Yu ( 夏 禹 ) had successfully tamed the Yellow River floods and came to be known as the Great Yu ( 大 禹 ). For this accomplishment, he was bestowed the surname Si ( 姒 ) by the Emperor Shun ( 帝 舜 ). HIs name was Si Wenming ( 姒 文 命 ). Yu ( 禹 ) was the founder of the Xia Dynasty ( 夏 朝 ) ( 2207 – 1766 BC ).
 
@@ -96,7 +98,7 @@ It was during the Tang ( 唐 朝 , 618 -907 AD ) and the early Song ( 宋 朝 ) 
 
 ![Migrations map](/images/about/MigrationsMap.jpg)
 
- One Tham genealogy source indicates that there were members of the Tham clan living in Hunan ( 湖 南 ) province during the Han Dynasty ( 漢 朝 , 140 BC - 220 AD). Another genealogical source reveals that southern migrations Chinese came through the provinces of Jiangxi and Zhejiang. The reference to Jiangxi province is also confirmed by another Tham clan genealogy history which states: " a scholar by the name of Hing Bon ( 興 邦 ) aka Yiu Sang ( 裔 生 ) lived in Sheung Tam Village ( 湘 潭 ­), Changsha City ( 長 沙 市 ) Hunan Province. In 1007 AD he moved to Jian City () in Jiangxi Province." [^1] Tham Fang Ett, a direct descendant of Hing Bon, emigrated from Jiangxi province to Guangdong province. The Sheung District, ( English translation did not provide the Chinese characters ) in Shaanxi ( 陝 西 )province has also identified as one of the places where the Tham Clan lived during the Han ( 漢 朝 ) Dynasty ( 206 BC - 220 AD ). During the fourth and fifth centuries, deteriorating political conditions in northern China provided the impetus for the continued southward migrations. Afterwards, the Mongol invasion of northern China during the 12 th century also initiated major migrations of Chinese southward.
+One Tham genealogy source indicates that there were members of the Tham clan living in Hunan ( 湖 南 ) province during the Han Dynasty ( 漢 朝 , 140 BC - 220 AD). Another genealogical source reveals that southern migrations Chinese came through the provinces of Jiangxi and Zhejiang. The reference to Jiangxi province is also confirmed by another Tham clan genealogy history which states: " a scholar by the name of Hing Bon ( 興 邦 ) aka Yiu Sang ( 裔 生 ) lived in Sheung Tam Village ( 湘 潭 ­), Changsha City ( 長 沙 市 ) Hunan Province. In 1007 AD he moved to Jian City () in Jiangxi Province." [^1] Tham Fang Ett, a direct descendant of Hing Bon, emigrated from Jiangxi province to Guangdong province. The Sheung District, ( English translation did not provide the Chinese characters ) in Shaanxi ( 陝 西 )province has also identified as one of the places where the Tham Clan lived during the Han ( 漢 朝 ) Dynasty ( 206 BC - 220 AD ). During the fourth and fifth centuries, deteriorating political conditions in northern China provided the impetus for the continued southward migrations. Afterwards, the Mongol invasion of northern China during the 12 th century also initiated major migrations of Chinese southward.
 
 Zhang Jiuling (678-740 AD), a prime minister of the Tang Dynasty. Zhang is regarded as the highest official among the Cantonese of all times, ever appointed in China by the central government.
 
@@ -128,11 +130,11 @@ The dominance of Han Chinese in the Guangdong region resulted from several perio
 
 ## Tham Origins in Guangdong province
 
-Tan Hong-zhi ( 譚 宏 帙 ) was born in 901 AD and died in 974 AD and is acknowledged in various Tan clan genealogy books as the *first Tan to arrive in Guangdong province*. He had lived in Qianzhou [ current name: Ganzhou ( 贛 州 ) ], Jiangxi and to avoid social turmoil and moved to Shashui( 沙 水 ) Village, Nanxiong ( 南 雄 ), and subsequently returned to Qianzhou. Genealogy books for the Tan clan in Guangdong begin with Tan Hong-zhi as the first generation. 
+Tan Hong-zhi ( 譚 宏 帙 ) was born in 901 AD and died in 974 AD and is acknowledged in various Tan clan genealogy books as the _first Tan to arrive in Guangdong province_. He had lived in Qianzhou [ current name: Ganzhou ( 贛 州 ) ], Jiangxi and to avoid social turmoil and moved to Shashui( 沙 水 ) Village, Nanxiong ( 南 雄 ), and subsequently returned to Qianzhou. Genealogy books for the Tan clan in Guangdong begin with Tan Hong-zhi as the first generation.
 
 ![GuangDong](/images/about/Guangdong.jpg)
 
-The Tan clan settled in four locations prior to the migration to the Pearl River Delta: Shixing (始 興 ), Conghua (  從 化 ), Longmen ( 龍 門 ), and Renhua ( 仁化 ).
+The Tan clan settled in four locations prior to the migration to the Pearl River Delta: Shixing (始 興 ), Conghua ( 從 化 ), Longmen ( 龍 門 ), and Renhua ( 仁化 ).
 
 The group in Shixing began with General Tan Tian ( 談 瑱 ), of South & North Dynasty ( 南 北 朝 ) (479-581 AD). They resided in Shixing and nearby counties. The population was about 10,000. The genealogy of this group was compiled.
 
@@ -142,9 +144,9 @@ The group in Longmen ( 龍 門 ) began with scholar Tan Rui Qi ( 譚 銳 奇 ) w
 
 The fourth group is the largest in Guangdong who resided in Renhua ( 仁化 ), Guangdong. The White Water (Bai-shui) ( 白水 ) Tham family is in this group. The Renhua group began with Tan Bak Tong ( 譚 伯 倉 ), the Minister of Department of Justice in Sung Dynasty. He was the grandson of Tham Fan Ett and was born in 988 AD and died in 1061 AD. He retired in Pengshanli, Renhua. This group compiled immaculate genealogical records, and each family of this group has kept up with their genealogical studies. The history of this branch of Tham family can be traced, by ancestor, as early as 901 AD.
 
-Tham Bak Tong had eight sons. His sixth son, Tan Jale An ( 譚 朝 安 ), had the most descendants and became the *first Tan to settle in Taishan* ( 台 山 ).
+Tham Bak Tong had eight sons. His sixth son, Tan Jale An ( 譚 朝 安 ), had the most descendants and became the _first Tan to settle in Taishan_ ( 台 山 ).
 
-Starting with Tan Hong-zhi, it was during the first 12th generation that Tan Hen Lin ( 譚 天 麟 ) became the *first Tan to settled in White Water ( 白水 ), Taishan*. He moved from a place near Shaoguan ( 韶 关 ), just south of Renhua. Tan Hen Lin lived in a village named "Old Village" ( 舊 村 ), just outside the northwestern part of Taicheng ( 台 山 市 ) an area now known as "5 horse returning to the trough" ( 五 馬 歸 槽 ) . In all the Tham genealogy books I have seen, Tan Hen Lin as the 12th generation is now used as the first generation of the Tan clan in Taishan - one genealogy book has both the generational orders running in parallel, i.e., the 12th generation has a 1st generation beside it and so on.
+Starting with Tan Hong-zhi, it was during the first 12th generation that Tan Hen Lin ( 譚 天 麟 ) became the _first Tan to settled in White Water ( 白水 ), Taishan_. He moved from a place near Shaoguan ( 韶 关 ), just south of Renhua. Tan Hen Lin lived in a village named "Old Village" ( 舊 村 ), just outside the northwestern part of Taicheng ( 台 山 市 ) an area now known as "5 horse returning to the trough" ( 五 馬 歸 槽 ) . In all the Tham genealogy books I have seen, Tan Hen Lin as the 12th generation is now used as the first generation of the Tan clan in Taishan - one genealogy book has both the generational orders running in parallel, i.e., the 12th generation has a 1st generation beside it and so on.
 
 ## Henry Tom's comments on the Origins and History of the Tom (Tham) Clan:
 
@@ -156,21 +158,18 @@ Starting with Tan Hong-zhi, it was during the first 12th generation that Tan Hen
 >
 > In essence, I see the origins and history of the Tom Clan in the following segments:
 >
->1. Origins, history and migrations within Shandong province.
->2. History of Tom Clan migrations out of Shandong - relationship to the Hakka migrations
->3. Origins, history, and migration within Guangdong province.
->4. History of the Tom Clan, as part of the overall overseas Chinese migrations, out of China to various countries.
+> 1.  Origins, history and migrations within Shandong province.
+> 2.  History of Tom Clan migrations out of Shandong - relationship to the Hakka migrations
+> 3.  Origins, history, and migration within Guangdong province.
+> 4.  History of the Tom Clan, as part of the overall overseas Chinese migrations, out of China to various countries.
 
 ## The Tham clan in Malaysia
 
-In Malaysia, tin mining was operated by Chinese from the late 18th century and became a Chinese monopoly, attracting migrants from the Sam Yap and Sze Yap counties of Guangdong province. Perhaps, because of this historic experience, many Chinese from the Pearl River Delta region were accustomed to mining overseas in America and Australia. With the California gold rush in the mid 19 th century, America became known as Gold Mountain (Gim-san ), while afterwards, around the city of Melbourne – Australia became known as the New Gold Mountain ( Hsin Gim-san). Chinese miners were highly independent and Chinese mining communities were well armed and led by courageous men of enterprise. 
+In Malaysia, tin mining was operated by Chinese from the late 18th century and became a Chinese monopoly, attracting migrants from the Sam Yap and Sze Yap counties of Guangdong province. Perhaps, because of this historic experience, many Chinese from the Pearl River Delta region were accustomed to mining overseas in America and Australia. With the California gold rush in the mid 19 th century, America became known as Gold Mountain (Gim-san ), while afterwards, around the city of Melbourne – Australia became known as the New Gold Mountain ( Hsin Gim-san). Chinese miners were highly independent and Chinese mining communities were well armed and led by courageous men of enterprise.
 
-___
+---
 
 [^1]: Raymond Tom, et al, "10000 miles & 100 years Journey from JIshi village to Gold Mountain 萬里世紀之旅"
-
 [^2]: http://yutopian.net/names/19/19Tan262.html
-
 [^3]: Him Mark Lai, Becoming Chinese American: A History of Communities and Institutions, Alta Mira Press, 2004, ISBN 0-7591-0458-1
-
 [^4]: C. P. FitzGerald, The Southern Expansion of the Chinese People , Praeger Publishers, 1972

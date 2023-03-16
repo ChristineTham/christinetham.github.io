@@ -340,7 +340,7 @@ When I arrived at San Francisco, I rented the car from Hertz, and sure enough
 I had to do three left turns, which I managed to do carefully. I became
 more confident. What my colleagues did not tell me though was that the road
 then immediately ramps up to the freeway. Remember that scene from the film
-Clueless when Cher and  Dionne were screaming when they accidentally got onto
+Clueless when Cher and Dionne were screaming when they accidentally got onto
 the freeway? Well, that was me, all the way to the hotel freeway exit.
 
 However, after a few weeks of driving, I became to used to it that I started

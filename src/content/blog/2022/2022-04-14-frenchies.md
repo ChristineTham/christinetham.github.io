@@ -7,7 +7,7 @@ images:
   - ../images/blog/Frenchies (3).jpeg
   - ../images/blog/Frenchies (2).jpeg
   - ../images/blog/Frenchies (4).jpeg
-categories: [Event,Food]
+categories: [Event, Food]
 tags:
   - Frenchies
   - wedding anniversary

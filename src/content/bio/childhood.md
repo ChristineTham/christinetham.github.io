@@ -13,7 +13,7 @@ I was born on 8 August 1964 in Klang General Hospital (now renamed to Hospital
 Tengku Ampuan
 Rahimah). Klang is a royal city and former capital of the state of Selangor,
 Malaysia. Port Klang is the 12th busiest container port in the world
-(according to [Wikipedia](https://en.wikipedia.org/wiki/Klang_(city))).
+(according to [Wikipedia](<https://en.wikipedia.org/wiki/Klang_(city)>)).
 
 My father was a land surveyor attached to the Survey Department of Malaysia.
 Every few years, he will get posted to a different city. So I did not get a
@@ -142,11 +142,11 @@ quadrophonic craze swept through the late 1970s, my father invested not only
 in a fully configured quad system, but he had multiple units capable of
 decoding not just one Quad format, but three different ones:
 
-* JVC's CD4 system (the only discrete quadrophonic system where the rear
+- JVC's CD4 system (the only discrete quadrophonic system where the rear
   channels are frequency modulated with a 30kHz carrier and a special Shibata
   stylus that can track ultrasonic frequencies is required in the turntable),
-* The SQ system promoted by Columbia Records
-* The QS system promoted by Sansui
+- The SQ system promoted by Columbia Records
+- The QS system promoted by Sansui
 
 I also started playing music, by learning the classical guitar, and also the
 mellodion. I was the melodionist in the school band and remember performing

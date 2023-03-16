@@ -11,7 +11,7 @@ tags:
   - sunglasses
 ---
 
- ﾐ・◦・ﾐ   
+ﾐ・◦・ﾐ  
 ハローキティ
 
 I bought this outfit from SOGO in Hong Kong a few years ago.

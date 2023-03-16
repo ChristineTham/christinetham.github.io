@@ -12,6 +12,7 @@ tags:
   - AI
   - language models
 ---
+
 Given the recent hype over ChatGPT and generative AI models such as DALL-E and Midjourney, it is instructive to remember Google fired two researchers who wrote a paper that pointed out potential issues with such models. A letter protesting the termination was signed by over 2700 Google employees and 4300 academics. It's worthwhile reading this paper (On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?).
 
 These language models are big - GPT3 (the precursor to ChatGPT) was trained on a dataset of 570GB (essentially the whole Wikipedia and most of the Internet) and contains 100s of billions of parameters.

@@ -42,7 +42,7 @@ It uses the following official and third party Astro integrations:
 - Carousel component using Swiper
 - Documentation pages (modelled after astro docs starter but using Tailwind)
 
-## External Packages 
+## External Packages
 
 The start uses the following external packages:
 

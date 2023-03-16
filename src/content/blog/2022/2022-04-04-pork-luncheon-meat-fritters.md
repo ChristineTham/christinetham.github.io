@@ -9,6 +9,7 @@ tags:
   - lunch
   - pork luncheon meat
 ---
+
 Replicating another of my mum's dishes - pork luncheon meat fritters. Sliced thinly, lightly coated with egg and cornflour batter. The secret is to cook them until they are almost crispy but not quite, so the outside is slightly crunchy but the inside is soft and moist.
 
 I am not ashamed to admit it, my favourite food when I was a child is

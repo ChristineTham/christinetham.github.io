@@ -1,7 +1,7 @@
 ---
 section: Background
 title: Introduction
-description: "Hello world"
+description: 'Hello world'
 weight: 1
 ---
 

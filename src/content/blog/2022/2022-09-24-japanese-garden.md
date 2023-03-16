@@ -32,4 +32,3 @@ relatively new suburb of Taylor to look at the water tower art called One Tree H
 We couldn't actually access the water tower for a close up photo, but we tried our best.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid02V94gsPjMP4Hzp4NPck58EMx79wNXDbSZkEZW5hKcoHqvqFG85aC8pF5o6EMMzLFrl&show_text=true&width=500" width="500" height="684" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-

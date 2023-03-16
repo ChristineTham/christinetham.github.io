@@ -27,22 +27,22 @@ can easily be hacked to provide root access using
 
 The specs are:
 
-| Category | Specification |
-| --- | --- |
-Wi-Fi | 802.11ac
-| | Dual Band Concurrent Wi-Fi
-| | 4x4 2.4ghz, 4x4 5ghz
-LTE-Backup| Yes – Voice & Data
-Voice | 2x FXS ports
-Capability | Bandsteering
-| | Automatic Channel Selection
-| | WPS
-| | Wi-Fi Dr enabled
-Ports | 1 x USB 2.0
-| | 1 x Gigabit WAN
-| | 4 x Gigabit LAN
-Security | WPA3
-Mesh | EasyMesh
+| Category   | Specification               |
+| ---------- | --------------------------- |
+| Wi-Fi      | 802.11ac                    |
+|            | Dual Band Concurrent Wi-Fi  |
+|            | 4x4 2.4ghz, 4x4 5ghz        |
+| LTE-Backup | Yes – Voice & Data          |
+| Voice      | 2x FXS ports                |
+| Capability | Bandsteering                |
+|            | Automatic Channel Selection |
+|            | WPS                         |
+|            | Wi-Fi Dr enabled            |
+| Ports      | 1 x USB 2.0                 |
+|            | 1 x Gigabit WAN             |
+|            | 4 x Gigabit LAN             |
+| Security   | WPA3                        |
+| Mesh       | EasyMesh                    |
 
 I used [tch-gui-unhide](https://github.com/seud0nym/tch-gui-unhide) to unlock
 the GUI to access additional features and to configure
@@ -157,8 +157,8 @@ nwdiag {
 
   group {
     description = "Peripherals";
-    printer [description="<$device_printer>\nprinter\nEpson WT-7750"];    
-    scanner [description="<$device_fax>\nscanner\nEpson DS-570"];    
+    printer [description="<$device_printer>\nprinter\nEpson WT-7750"];
+    scanner [description="<$device_fax>\nscanner\nEpson DS-570"];
   }
 }
 @enduml
@@ -197,8 +197,8 @@ nwdiag {
 
   group {
     description = "HomeKit Cameras";
-    living [description="<$video_camera>\nliving\nD-Link Omna"];    
-    kitchen [description="<$video_camera>\nkitchen\nD-Link Omna"];       
+    living [description="<$video_camera>\nliving\nD-Link Omna"];
+    kitchen [description="<$video_camera>\nkitchen\nD-Link Omna"];
   }
 }
 @enduml

@@ -4,7 +4,7 @@ title: An American in Paris
 publishDate: 2022-06-01T20:00:00+10:00
 description: Dinner at Roast Republic followed by musical
 images: [../images/blog/An American in Paris (3).jpeg]
-categories: [Event,Food]
+categories: [Event, Food]
 tags:
   - Theatre Royal
   - An American in Paris

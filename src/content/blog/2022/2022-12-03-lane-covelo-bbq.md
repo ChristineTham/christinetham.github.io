@@ -7,7 +7,7 @@ images:
   - ../images/cycling/Lane Covelo Xmas BBQ.jpeg
   - ../images/cycling/Lane Covelo Xmas BBQ (1).jpeg
   - ../images/cycling/Lane Covelo Xmas BBQ (2).jpeg
-categories: [Cycling,Food]
+categories: [Cycling, Food]
 tags:
   - Lane Covelo
   - BBQ

@@ -13,11 +13,11 @@ tags:
   - walk
 ---
 
-Morning walk to Flat Rock Gully - this is within our 5km  zone and one of our favourite walks during lockdown.
+Morning walk to Flat Rock Gully - this is within our 5km zone and one of our favourite walks during lockdown.
 
 Flat Rock Gully (FRG) is rich in both natural and cultural heritage. The name originates from the large flat rock where the creek was crossed (now hidden under Flat Rock Bridge, Willoughby Road). Remnant bushland, approximately 14 hectares, occurs within the Flat Rock Creek Catchment Area.
 
-Flat Rock Gully is bounded by Flat Rock Drive to the west and extends beyond the historic Cammeray Bridge to the east, adjacent to Tunks Park. Private property backs on to the remaining boundaries of the Reserve. 
+Flat Rock Gully is bounded by Flat Rock Drive to the west and extends beyond the historic Cammeray Bridge to the east, adjacent to Tunks Park. Private property backs on to the remaining boundaries of the Reserve.
 
 FRG contributes to a habitat linkage (non-continuous) that includes Tunks Park, Northbridge Park, Cliff Ave Reserve, Bicentennial Reserve and Artarmon Reserve. The Reserve is classified as a Wildlife Protection Area due to having significant habitats that support a wide range of small birds, reptiles and frogs. It is a major and central part to the east-west ecological linkage between Middle Harbour and Lane Cove River Catchments.
 

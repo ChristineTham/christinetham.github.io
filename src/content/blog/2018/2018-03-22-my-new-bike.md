@@ -3,7 +3,11 @@ title: My new bike - Specialized Ruby Expert :-)
 description: "I have finally decided to replace my commuter bike. It's the the 2017 top of the range Specialized women's bike; The Ruby Expert Ultegra Di2"
 author: Chris Tham
 publishDate: 2018-03-21T13:37:50+00:00
-images: [../images/gallery/2018-03-22-my-new-bike/Specialized-Ruby-Expert-side-view.jpeg,../images/gallery/2018-03-22-my-new-bike/Specialized-Ruby-Expert-angled-view.jpeg]
+images:
+  [
+    ../images/gallery/2018-03-22-my-new-bike/Specialized-Ruby-Expert-side-view.jpeg,
+    ../images/gallery/2018-03-22-my-new-bike/Specialized-Ruby-Expert-angled-view.jpeg,
+  ]
 categories:
   - Cycling
 tags:
@@ -30,6 +34,7 @@ Here is a video of my first ride on the bike &#8211; wet conditions after heavy 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/464613622?h=a5b0757f8f" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 And here is an example of a commute on the new bike:
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fvideos%2F10213582491289440%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
- [1]: https://www.specialized.com/au/en/ruby-expert-ultegra-di2/p/115588?color=214379-115588
+[1]: https://www.specialized.com/au/en/ruby-expert-ultegra-di2/p/115588?color=214379-115588

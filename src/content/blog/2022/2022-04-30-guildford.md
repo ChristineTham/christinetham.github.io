@@ -6,7 +6,7 @@ description: Eating Malaysian at Guildford on Hari Raya Aidilfitri
 images:
   - ../images/food/Guildford (1).jpeg
   - ../images/food/Guildford.jpeg
-categories: [Event,Food]
+categories: [Event, Food]
 tags:
   - Guildford
   - Hari Raya

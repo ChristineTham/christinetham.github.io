@@ -31,7 +31,7 @@ Originally built around the 1930s, this fragment of an older garden feels like a
 
 A large pond reflects the sky and countless emerald shades, the dark water sustains the trees and encourages diverse microclimates. Elements like sandstone retaining walls, a timber pergola, grass terraces and granite boulders are unassuming additions to the graceful landscape.
 
-Dwarf conifers, maples, camelias and magnolias together with old roses and  dry shade species enrich the original plantings. Perennials, self-seeders, and bulbs bring seasonal interest.
+Dwarf conifers, maples, camelias and magnolias together with old roses and dry shade species enrich the original plantings. Perennials, self-seeders, and bulbs bring seasonal interest.
 
 Filled with birdsong, frogs, and the buzz of insects, the garden is a treasured haven.
 

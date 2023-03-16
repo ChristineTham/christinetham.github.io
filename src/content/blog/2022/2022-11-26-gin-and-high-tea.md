@@ -6,7 +6,7 @@ description: not so annual event
 images:
   - ../images/food/Gin and High Tea.jpeg
   - ../images/food/Gin High Tea 2022.jpg
-categories: [Event,Food]
+categories: [Event, Food]
 tags:
   - gin
   - high tea

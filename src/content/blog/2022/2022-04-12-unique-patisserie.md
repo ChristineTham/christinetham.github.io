@@ -5,7 +5,7 @@ publishDate: 2022-04-12T13:00:00+10:00
 description: Lunch at Unique Patisserie, Katoomba
 images:
   - ../images/food/Unique Patisserie.jpeg
-categories: [Travel,Food]
+categories: [Travel, Food]
 tags:
   - Malaysian
   - Katoomba

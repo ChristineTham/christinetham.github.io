@@ -4,7 +4,7 @@ title: University Reunion yum cha
 publishDate: 2023-03-05T16:00:00+10:00
 description: Yum cha at East Ocean, followed by afternoon tea at Kurtosh
 images: [../images/blog/Hons reunion (2).jpeg]
-categories: [Event,Food]
+categories: [Event, Food]
 tags:
   - university
   - reunion

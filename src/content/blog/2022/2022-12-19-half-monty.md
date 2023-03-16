@@ -6,7 +6,7 @@ images:
   - ../images/cycling/Half Monty.png
 description: My FTP has improved slightly
 categories: [Cycling]
-tags: [Wahoo,SYSTM,Half Monty,FTP,MAP,THR]
+tags: [Wahoo, SYSTM, Half Monty, FTP, MAP, THR]
 ---
 
 Did the Wahoo SYSTM Half Monty fitness test this morning. Looks like my FTP have finally improved to 181 watts. I've given up on trying to reach 200 - at my age I'll take whatever results I get. My Threshold Heart Rate has also reduced to 162 - this sounds about right - it's actually my theoretical maximum.

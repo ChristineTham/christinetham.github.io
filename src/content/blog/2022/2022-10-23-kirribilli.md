@@ -19,4 +19,4 @@ Visiting McDougall St in Kirribilli to view the blooming jacaranda flowers.
 
 Also incorporated a visit to Sub Base Platypus.
 
-Formerly a torpedo factory, submarine base and gasworks, Sub Base Platypus is a community recreation and work hub in North Sydney, homeland of the Cammeraygal People. 
+Formerly a torpedo factory, submarine base and gasworks, Sub Base Platypus is a community recreation and work hub in North Sydney, homeland of the Cammeraygal People.

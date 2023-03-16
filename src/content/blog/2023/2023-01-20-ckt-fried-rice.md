@@ -20,8 +20,8 @@ Made fried rice from Char Kuay Teow ingredients (minus chee yau char). I didn't 
 
 ### Equipment
 
-* Cast iron wok and stirrer
-* Gas cooker
+- Cast iron wok and stirrer
+- Gas cooker
 
 ### Ingredients
 
@@ -31,21 +31,21 @@ but it is also possible to make your own.
 
 Sauce (balance to taste):
 
-* dark soy sauce
-* light soy sauce
-* oyster sauce
-* kecap manis (or use sugar)
+- dark soy sauce
+- light soy sauce
+- oyster sauce
+- kecap manis (or use sugar)
 
 Main dish:
 
-* Cooked rice, cooled - 1 cup
-* Chinese sausage (lap cheong) - 2 per serve, sliced
-* Fish cake - about 10 thin slices per serve (half a packet)
-* Dried prawns, soaked in warm water and then cut into tiny pieces
-* garlic - about 1-2 cloves, cut into tiny pieces
-* cooking oil - use your judgement, perhaps a few tablespoons
-* chilli paste or sambal belachan - 1 tablespoon or according to taste
-* iceberg lettuce
+- Cooked rice, cooled - 1 cup
+- Chinese sausage (lap cheong) - 2 per serve, sliced
+- Fish cake - about 10 thin slices per serve (half a packet)
+- Dried prawns, soaked in warm water and then cut into tiny pieces
+- garlic - about 1-2 cloves, cut into tiny pieces
+- cooking oil - use your judgement, perhaps a few tablespoons
+- chilli paste or sambal belachan - 1 tablespoon or according to taste
+- iceberg lettuce
 
 ### Instructions
 

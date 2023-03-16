@@ -4,7 +4,7 @@ title: 35th year Graduation Reunion
 publishDate: 2022-05-25T21:00:00+10:00
 description: A group of us gathered at the University of Sydney
 images: [../images/blog/Hons Reunion (1).jpeg]
-categories: [Event,Food]
+categories: [Event, Food]
 tags:
   - university
   - reunion
@@ -13,7 +13,7 @@ tags:
 
 Celebrating the 35th anniversary of our graduation with B.Sc. honours at University of Sydney. The university graciously allocated two rooms for us to meet, at the Madsen building where we had our common room in 1987, and at Carslaw building where we had many lectures.
 
-6 of us managed to meet physically, and another 4 joined via Zoom. It was really good to catch up with everyone and hear everyone’s stories and what they have been up for the past 35 years. 
+6 of us managed to meet physically, and another 4 joined via Zoom. It was really good to catch up with everyone and hear everyone’s stories and what they have been up for the past 35 years.
 We also managed to get some students to take photos of us around campus.
 
 Afterwards we decided to have dinner in Chinatown. We ended up at Emperor’s Garden which I remember we have visited a few times for yum cha in the 1980s plus also some late night/early morning dinners after a whole night working on our thesis. We were so hungry we half devoured the food before I remembered to take pictures.

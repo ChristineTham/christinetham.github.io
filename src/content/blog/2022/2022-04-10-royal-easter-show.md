@@ -13,6 +13,7 @@ tags:
   - Easter
   - Autumn
 ---
+
 Sydney Royal Easter Show - we haven't visited for 10 years, so its good to see everyone enjoying themselves - here to see Amy dance.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid0WvMeiuV3GuVLCtPQvwf8A6oQ2fWwcZV1QKJERtSMmc3SC6uiDWeMEmdrZbSFR78kl&show_text=true&width=500" width="500" height="582" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -30,15 +31,14 @@ MasterChef video take 1
 <video width="500" height="500" controls>
   <source src="/videos/Masterchef video (1).mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video> 
+</video>
 
 MasterChef video take 2
 
 <video width="500" height="500" controls>
   <source src="/videos/Masterchef video (2).mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video> 
-
+</video>
 
 The parade at Sydney Royal Easter Show
 

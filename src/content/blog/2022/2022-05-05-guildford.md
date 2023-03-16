@@ -5,7 +5,7 @@ publishDate: 2022-05-05T18:00:00+10:00
 description: Open House at Guildford
 images:
   - ../images/food/Guildford Open Day.jpeg
-categories: [Event,Food]
+categories: [Event, Food]
 tags:
   - Guildford
   - Hari Raya
@@ -29,7 +29,7 @@ So, being surrounded by Malays and hearing Malay spoken, whilst eating delicious
 
 Yes, all the food and drinks were free and offered with a warm smile and kind generosity. We were careful not to grab more than we can comfortably eat, we did not want to offend our kind hosts.
 
->“Semoga sinar Aidilfitri membawa kemeriahan dan kebahagiaan di samping orang yang tersayang. Selamat Hari Raya Aidilfitri! Dengan ingatan tulus ikhlas, maaf zahir batin.”
+> “Semoga sinar Aidilfitri membawa kemeriahan dan kebahagiaan di samping orang yang tersayang. Selamat Hari Raya Aidilfitri! Dengan ingatan tulus ikhlas, maaf zahir batin.”
 
 Facebook post:
 

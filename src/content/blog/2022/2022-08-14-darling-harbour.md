@@ -7,7 +7,7 @@ images:
   - ../images/blog/Lego minifigs (2).jpeg
   - ../images/blog/Whale Tales.jpeg
   - ../images/blog/Whale Tales (2).jpeg
-categories: [Event,Fashion]
+categories: [Event, Fashion]
 tags:
   - Darling Harbour
   - LEGO

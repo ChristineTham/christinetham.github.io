@@ -25,26 +25,26 @@ My recipe is a simple ones based on a combination of various recipes I have foun
 
 ### Equipment
 
-* Pot
-* Saucepan
-* Stove
+- Pot
+- Saucepan
+- Stove
 
 ### Ingredients
 
 Sauce:
 
-* 1 tablespoon soy sauce
-* 1 tablespoon oyster sauce (can subsitute with vegetarian oyster sauce)
-* 1 tablespoon dark soy sauce (kechap manis)
-* 1 teaspoon Vietnamese fish sauce (nuoc mam)
-* 1 teaspoon sesame oil
+- 1 tablespoon soy sauce
+- 1 tablespoon oyster sauce (can subsitute with vegetarian oyster sauce)
+- 1 tablespoon dark soy sauce (kechap manis)
+- 1 teaspoon Vietnamese fish sauce (nuoc mam)
+- 1 teaspoon sesame oil
 
 Other:
 
-* 125-150 g egg noodles (you can typically buy this fresh from Asian supermarkets, the one I tend to use is called “Ever Green” from a company called “Unigreen” which I buy from Miracle Supermarket)
-* cooking oil (any type will do – I use sunflower oil)
-* 1 stalk broccoli leaves (or similar, I use broccolini for an elevated presentation)
-* 1 pot water (boiling)
+- 125-150 g egg noodles (you can typically buy this fresh from Asian supermarkets, the one I tend to use is called “Ever Green” from a company called “Unigreen” which I buy from Miracle Supermarket)
+- cooking oil (any type will do – I use sunflower oil)
+- 1 stalk broccoli leaves (or similar, I use broccolini for an elevated presentation)
+- 1 pot water (boiling)
 
 ### Instructions
 

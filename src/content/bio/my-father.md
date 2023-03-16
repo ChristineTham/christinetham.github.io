@@ -5,6 +5,7 @@ description: Tham Baba (1931-2021)
 weight: 12
 gallery: father
 ---
+
 ![My father](/images/about/father.jpg)
 My father was born on 17 June 1931, in Malaya under British rule. He was the grandson of Kapitan Tam Yeong, a successful tin miner who founded Seremban (now the capital of Negeri Sembilan) and was appointed the Chinese Captain by the British (leader of the Chinese community).
 

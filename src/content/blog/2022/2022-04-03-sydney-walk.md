@@ -14,6 +14,7 @@ tags:
   - Art Gallery
   - Leica M10
 ---
+
 Interesting exhibition at the Art Gallery on the topic of the Way We Eat (as you know, a favourite subject of mine). I love the nyonya container, as well as the artificial but life looking strawberries.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid0HoP3LiVSQ1NBYWUa1xiXosKWyqRrJqdRoDjA14hJDXR5Ug6FdYYDNCddg4fWeMW3l&show_text=true&width=500" width="500" height="601" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>

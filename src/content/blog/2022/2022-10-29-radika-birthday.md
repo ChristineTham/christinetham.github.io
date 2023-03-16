@@ -6,7 +6,7 @@ description: Second Radika's birthday celeberation at Bicentennial Park
 images:
   - ../images/food/Radika birthday.jpeg
   - ../images/food/Chris and Ryoko.jpeg
-categories: [Food,Event]
+categories: [Food, Event]
 tags:
   - Malaysian
   - Radika

@@ -16,7 +16,7 @@ tags:
 ---
 
 Celebrating the wonderful birthday of the sultry and beautiful Sharon Whitney. The dress theme was Top Gun, and for one night we all looked like members of an elite female pilot squadron. So much fun, and the food was fantastic. If I had one extra mouthful I think I would have burst out of my outfit. Thank you to Aileen Lim for organising, and congratulations
- to Karen Lim for winning the paper plane competition and Margaret Stow for providing the 'entertainment.'
+to Karen Lim for winning the paper plane competition and Margaret Stow for providing the 'entertainment.'
 
 For more photos, view Facebook post:
 

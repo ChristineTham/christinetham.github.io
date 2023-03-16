@@ -22,7 +22,7 @@ Marri Madung Butbut (pronounced: Mah-ree Mah-dung, Bootboot) is the largest Abor
 
 Located on Gadigal land, the renowned multi-arts organisation Carriageworks will come alive with six days of global First Nations creativity.
 
-From free exhibits, to theatre, dining and drag, Marri Madung Butbut:  the First Nations Gathering Space will be the place where everyone is welcome to experience the rainbow heart of the oldest surviving culture on the planet. This is Marri Madung Butbut – Many Brave Hearts. 
+From free exhibits, to theatre, dining and drag, Marri Madung Butbut: the First Nations Gathering Space will be the place where everyone is welcome to experience the rainbow heart of the oldest surviving culture on the planet. This is Marri Madung Butbut – Many Brave Hearts.
 
 ## Amsterdam Rainbow Dress
 
@@ -36,7 +36,7 @@ The dress’s arrival in Sydney comes as the harbour city prepares to welcome 1,
 
 Paul Yore: WORD MADE FLESH is a major new immersive installation by one of Australia’s most provocative multidisciplinary artists.
 
-Paul Yore’s work engages with the histories of religious art and ritual, queer identity, pop-culture and neo-liberal capitalism, recasting a vast array of found images, materials and texts into sexually and politically loaded tableaux and sculptural assemblages which celebrate hybrid and fluid identities, unstable and contradictory meanings, and the glowing horizon of queer worldmaking. 
+Paul Yore’s work engages with the histories of religious art and ritual, queer identity, pop-culture and neo-liberal capitalism, recasting a vast array of found images, materials and texts into sexually and politically loaded tableaux and sculptural assemblages which celebrate hybrid and fluid identities, unstable and contradictory meanings, and the glowing horizon of queer worldmaking.
 
 WORD MADE FLESH is a new architecturally-scaled installation, anarchically composed of improvised makeshift structures, mixed media sculpture and found objects, collage and assemblage, painting, video, and pulsating sound and light. Conceived as a cacophonous, kaleidoscopic ‘gesamtkunstwerk’, WORD MADE FLESH imagines a queer alternative reality, erected from the wasteland of the Anthropocene, performatively implicating itself into the debased spectacle of hyper-capitalist society.  Curated by Max Delany, in collaboration with Paul Yore and Devon Ackerman.
 

@@ -15,6 +15,7 @@ tags:
   - orchestra
   - Soundcloud
 ---
+
 To celebrate the completion of the Jazz Improvisation class I am taking, I have arranged Olhos de Gato, by Carla Bley (one of the pieces studied in class) for orchestra. I have created a string backing for the melody, then added the melody from &#8220;Memories of Tomorrow&#8221; (another piece studied in class) as a counterpoint, and also my own melody as a further counterpoint. Finally, I created a new ending, based on a descending harmonic progression.
 
 The arrangement is scored in Notion, orchestrated using EWQL Symphony Orchestra Gold and mastered using Ozone 5.
