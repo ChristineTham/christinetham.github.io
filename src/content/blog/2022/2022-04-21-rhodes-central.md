@@ -6,7 +6,8 @@ publishDate: 2022-04-21T13:00:00+10:00
 coverImage: ../images/gallery/2022-04-21-rhodes/Rhodes Central (4).jpeg
 gallery: 2022-04-21-rhodes
 categories:
-  - Food,Event
+  - Food
+  - Event
 tags:
   - Chinese
   - Hong Kong Street Food

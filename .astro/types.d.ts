@@ -3259,6 +3259,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-02-24-oxford-st.md": {
+  id: "2023/2023-02-24-oxford-st.md",
+  slug: "2023/2023-02-24-oxford-st",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-02-24-qtopia.md": {
   id: "2023/2023-02-24-qtopia.md",
   slug: "2023/2023-02-24-qtopia",
@@ -3343,9 +3350,30 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-03-03-art-gallery.md": {
+  id: "2023/2023-03-03-art-gallery.md",
+  slug: "2023/2023-03-03-art-gallery",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-03-03-jatz-anchovy.md": {
   id: "2023/2023-03-03-jatz-anchovy.md",
   slug: "2023/2023-03-03-jatz-anchovy",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-03-mca.md": {
+  id: "2023/2023-03-03-mca.md",
+  slug: "2023/2023-03-03-mca",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-03-salesforce.md": {
+  id: "2023/2023-03-03-salesforce.md",
+  slug: "2023/2023-03-03-salesforce",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -3455,9 +3483,30 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-03-13-cat-cooking.md": {
+  id: "2023/2023-03-13-cat-cooking.md",
+  slug: "2023/2023-03-13-cat-cooking",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-03-14-cred.md": {
   id: "2023/2023-03-14-cred.md",
   slug: "2023/2023-03-14-cred",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-14-flgourmet.md": {
+  id: "2023/2023-03-14-flgourmet.md",
+  slug: "2023/2023-03-14-flgourmet",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-15-masak-masak.md": {
+  id: "2023/2023-03-15-masak-masak.md",
+  slug: "2023/2023-03-15-masak-masak",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
