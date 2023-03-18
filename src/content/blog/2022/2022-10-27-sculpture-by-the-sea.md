@@ -7,6 +7,7 @@ coverImage: ../images/gallery/2022-10-27-sculpture-by-the-sea/Wanderer Above the
 gallery: 2022-10-27-sculpture-by-the-sea
 categories:
   - Event
+  - Art
 tags:
   - Sculpture by the Sea
   - sculpture

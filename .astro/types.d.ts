@@ -550,9 +550,30 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-02-28-lotr.md": {
+  id: "2022/2022-02-28-lotr.md",
+  slug: "2022/2022-02-28-lotr",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-05-small-chillies.md": {
+  id: "2022/2022-03-05-small-chillies.md",
+  slug: "2022/2022-03-05-small-chillies",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-03-06-breakfast.md": {
   id: "2022/2022-03-06-breakfast.md",
   slug: "2022/2022-03-06-breakfast",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-09-captains-log.md": {
+  id: "2022/2022-03-09-captains-log.md",
+  slug: "2022/2022-03-09-captains-log",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -564,6 +585,20 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-03-10-turandot.md": {
+  id: "2022/2022-03-10-turandot.md",
+  slug: "2022/2022-03-10-turandot",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-11-lai-lai.md": {
+  id: "2022/2022-03-11-lai-lai.md",
+  slug: "2022/2022-03-11-lai-lai",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-03-12-char-siew.md": {
   id: "2022/2022-03-12-char-siew.md",
   slug: "2022/2022-03-12-char-siew",
@@ -571,9 +606,121 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-03-13-enlighten.md": {
+  id: "2022/2022-03-13-enlighten.md",
+  slug: "2022/2022-03-13-enlighten",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-13-googong-dam.md": {
+  id: "2022/2022-03-13-googong-dam.md",
+  slug: "2022/2022-03-13-googong-dam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-13-lake-george.md": {
+  id: "2022/2022-03-13-lake-george.md",
+  slug: "2022/2022-03-13-lake-george",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-14-balloon.md": {
+  id: "2022/2022-03-14-balloon.md",
+  slug: "2022/2022-03-14-balloon",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-14-canberra-street-art.md": {
+  id: "2022/2022-03-14-canberra-street-art.md",
+  slug: "2022/2022-03-14-canberra-street-art",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-14-cotter-dam.md": {
+  id: "2022/2022-03-14-cotter-dam.md",
+  slug: "2022/2022-03-14-cotter-dam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-14-mt-stromlo.md": {
+  id: "2022/2022-03-14-mt-stromlo.md",
+  slug: "2022/2022-03-14-mt-stromlo",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-15-death-on-the-nile.md": {
+  id: "2022/2022-03-15-death-on-the-nile.md",
+  slug: "2022/2022-03-15-death-on-the-nile",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-16-bos23.md": {
+  id: "2022/2022-03-16-bos23.md",
+  slug: "2022/2022-03-16-bos23",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-16-palisade.md": {
+  id: "2022/2022-03-16-palisade.md",
+  slug: "2022/2022-03-16-palisade",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-18-bos23.md": {
+  id: "2022/2022-03-18-bos23.md",
+  slug: "2022/2022-03-18-bos23",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-18-malay-chinese.md": {
+  id: "2022/2022-03-18-malay-chinese.md",
+  slug: "2022/2022-03-18-malay-chinese",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-19-dream.md": {
+  id: "2022/2022-03-19-dream.md",
+  slug: "2022/2022-03-19-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-03-19-powerhouse-museum.md": {
   id: "2022/2022-03-19-powerhouse-museum.md",
   slug: "2022/2022-03-19-powerhouse-museum",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-20-dream.md": {
+  id: "2022/2022-03-20-dream.md",
+  slug: "2022/2022-03-20-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-21-lai-lai.md": {
+  id: "2022/2022-03-21-lai-lai.md",
+  slug: "2022/2022-03-21-lai-lai",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-23-ckt-party.md": {
+  id: "2022/2022-03-23-ckt-party.md",
+  slug: "2022/2022-03-23-ckt-party",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -595,6 +742,90 @@ declare module 'astro:content' {
 "2022/2022-03-25-gold-and-black.md": {
   id: "2022/2022-03-25-gold-and-black.md",
   slug: "2022/2022-03-25-gold-and-black",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-25-motown.md": {
+  id: "2022/2022-03-25-motown.md",
+  slug: "2022/2022-03-25-motown",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-26-biryani-corner.md": {
+  id: "2022/2022-03-26-biryani-corner.md",
+  slug: "2022/2022-03-26-biryani-corner",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-27-david-jones.md": {
+  id: "2022/2022-03-27-david-jones.md",
+  slug: "2022/2022-03-27-david-jones",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-27-dream.md": {
+  id: "2022/2022-03-27-dream.md",
+  slug: "2022/2022-03-27-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-27-old-school-kafey.md": {
+  id: "2022/2022-03-27-old-school-kafey.md",
+  slug: "2022/2022-03-27-old-school-kafey",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-27-ping-birthday.md": {
+  id: "2022/2022-03-27-ping-birthday.md",
+  slug: "2022/2022-03-27-ping-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-28-hayden-orpheum.md": {
+  id: "2022/2022-03-28-hayden-orpheum.md",
+  slug: "2022/2022-03-28-hayden-orpheum",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-29-cataract-dam.md": {
+  id: "2022/2022-03-29-cataract-dam.md",
+  slug: "2022/2022-03-29-cataract-dam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-29-cordeaux-dam.md": {
+  id: "2022/2022-03-29-cordeaux-dam.md",
+  slug: "2022/2022-03-29-cordeaux-dam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-29-nepean-dam.md": {
+  id: "2022/2022-03-29-nepean-dam.md",
+  slug: "2022/2022-03-29-nepean-dam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-29-woronora-dam.md": {
+  id: "2022/2022-03-29-woronora-dam.md",
+  slug: "2022/2022-03-29-woronora-dam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-03-30-rhodes-central.md": {
+  id: "2022/2022-03-30-rhodes-central.md",
+  slug: "2022/2022-03-30-rhodes-central",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">

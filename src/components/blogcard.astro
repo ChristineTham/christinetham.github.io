@@ -55,15 +55,9 @@ const image = post.data.coverImage ||
         </span>
         )}
         {post.data.author && (
-          <span
-          class="text-rosely1 dark:text-rosely7 inline-flex items-center leading-none text-xs"
-          >
-          <Icon
-          class="w-4 h-4 mr-1"
-          pack="heroicons-outline"
-          name="user-circle"
-          />
-          {post.data.author}
+          <Icon class="text-rosely1 dark:text-rosely7 w-4 h-4 mr-1" pack="heroicons-outline" name="user-circle" />
+          <span class="text-rosely1 dark:text-rosely7 inline-flex items-center leading-none text-xs" >
+            {post.data.author}
           </span>
         )}
       </div>

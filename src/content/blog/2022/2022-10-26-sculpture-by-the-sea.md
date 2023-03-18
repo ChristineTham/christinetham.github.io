@@ -7,6 +7,7 @@ coverImage: ../images/gallery/2022-10-26-sculpture-by-the-sea/Long Division (Mar
 gallery: 2022-10-26-sculpture-by-the-sea
 categories:
   - Event
+  - Art
 tags:
   - Sculpture by the Sea
   - sculpture

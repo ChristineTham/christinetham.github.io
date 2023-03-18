@@ -5,7 +5,7 @@ description: The Art Gallery of NSW has been transformed into an art museum camp
 publishDate: 2023-03-03T15:00:00+10:00
 coverImage: ../images/gallery/2023-03-03-art-gallery/Flowers that Bloom in the Cosmos (Yayoi Kusama) (1).jpeg
 gallery: 2023-03-03-art-gallery
-categories: [Travel]
+categories: [Art]
 tags:
   - Sydney
   - Art Gallery

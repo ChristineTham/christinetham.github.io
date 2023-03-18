@@ -5,7 +5,7 @@ publishDate: 2023-02-24T14:00:00+10:00
 coverImage: ../images/gallery/2023-02-24-braving-time/Braving Time.jpeg
 gallery: 2023-02-24-braving-time
 description: Contemporary Queer Exhibition at the National Art School
-categories: [Event]
+categories: [Event,Art]
 tags:
   - art
   - World Pride
