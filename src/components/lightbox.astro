@@ -22,45 +22,6 @@ for (let i in images) {
 
 ---
 <style>
-  .gallery {
-      width: 100%;
-      display: block;
-      margin: 0 auto;
-  }
-
-  /* Extra Small Devices, Phones */
-  @media only screen and (min-width: 480px) {
-      .gallery {
-          column-count: 1;
-          column-gap: 3px;
-      }
-  }
-
-  /* Small Devices, Tablets */
-  @media only screen and (min-width: 768px) {
-      .gallery {
-          column-count: 2;
-          column-gap: 3px;
-      }
-  }
-
-  /* Medium Devices, Desktops */
-  @media only screen and (min-width: 992px) {
-      .gallery { /* Masonry container */
-          column-count: 2;
-          column-gap: 3px;
-      }
-  }
-
-  /* Large Devices, Wide Screens */
-  @media only screen and (min-width: 1200px) {
-      .gallery {
-          column-count: 3;
-          column-gap: 0.2rem;
-          width: 100%;
-      }
-  }
-
   .pswp--custom-icon-colors {
       --pswp-icon-color: #eee;
       --pswp-icon-color-secondary: #663399;
@@ -84,7 +45,7 @@ for (let i in images) {
 </style>
 <lightbox-inner data-id={id}>
   {imageSrcs.map((image, i) => (
-    <figure itemscope itemtype="http://schema.org/ImageObject" class="inline-block text-gray-800 dark:text-gray-300 bg-gray-300 dark:bg-gray-800 text-sm text-center italic rounded">
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="inline-block text-gray-800 dark:text-gray-300 bg-gray-300 dark:bg-gray-800 text-sm text-center italic rounded my-1 lg:my-2 shadow-lg shadow-gray-400 dark:shadow-black">
       <a href={image.src} itemprop="contentUrl" data-pswp-width={image.width} data-pswp-height={image.height}>
         <Image src={image} alt={imagetitles[i]} width={600} height={image.height * 600/image.width} format="webp" class="rounded" />
         <span class="pswp-caption-content">
@@ -114,14 +75,14 @@ for (let i in images) {
         gallerySelector: '#' + id,
         childSelector: 'a',
         pswpModule: () => import('photoswipe'),
-        paddingFn: (viewportSize) => {
+        paddingFn: () => {
           return {
             top: 0, bottom: 30, left: 0, right: 0
           }
         }
       })
       
-      const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+      new PhotoSwipeDynamicCaption(lightbox, {
         captionContent: '.pswp-caption-content',
         type: 'below',
       });
