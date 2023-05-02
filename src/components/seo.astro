@@ -1,5 +1,5 @@
 ---
-import { SEO } from 'astro-seo'
+import { SEO, TwitterCardType } from 'astro-seo'
 import type { Frontmatter } from '../config'
 import type {
   Article,
@@ -45,7 +45,7 @@ const openGraph = {
   },
 }
 const twitter = {
-  card: frontmatter.socialImage ? 'summary_large_image' : 'summary',
+  card: (frontmatter.socialImage ? 'summary_large_image' : 'summary') as TwitterCardType,
   site: SiteMetadata.org.twitter,
   creator: SiteMetadata.author.twitter,
 }
@@ -184,8 +184,8 @@ const article: WithContext<Article> = {
 <SEO
   title={SiteMetadata.title + ' | ' + frontmatter.title}
   description={frontmatter.description}
-  {openGraph}
-  {twitter}
+  openGraph={openGraph}
+  twitter={twitter}
 />
 <script is:inline set:html={JSON.stringify(website)} type="application/ld+json"
 ></script>

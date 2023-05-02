@@ -583,6 +583,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-03-01-armidale-trip.md": {
+  id: "2022/2022-03-01-armidale-trip.md",
+  slug: "2022/2022-03-01-armidale-trip",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-03-05-small-chillies.md": {
   id: "2022/2022-03-05-small-chillies.md",
   slug: "2022/2022-03-05-small-chillies",
@@ -3635,6 +3642,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-03-03-ses-zara.md": {
+  id: "2023/2023-03-03-ses-zara.md",
+  slug: "2023/2023-03-03-ses-zara",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-03-03-spirit-house.md": {
   id: "2023/2023-03-03-spirit-house.md",
   slug: "2023/2023-03-03-spirit-house",
@@ -3652,6 +3666,13 @@ declare module 'astro:content' {
 "2023/2023-03-04-queens-cross-hotel.md": {
   id: "2023/2023-03-04-queens-cross-hotel.md",
   slug: "2023/2023-03-04-queens-cross-hotel",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-04-ses-zara.md": {
+  id: "2023/2023-03-04-ses-zara.md",
+  slug: "2023/2023-03-04-ses-zara",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -3684,6 +3705,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-03-06-pleated-skirt.md": {
+  id: "2023/2023-03-06-pleated-skirt.md",
+  slug: "2023/2023-03-06-pleated-skirt",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-03-06-preloved.md": {
   id: "2023/2023-03-06-preloved.md",
   slug: "2023/2023-03-06-preloved",
@@ -3691,9 +3719,23 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-03-08-holi-virgin.md": {
+  id: "2023/2023-03-08-holi-virgin.md",
+  slug: "2023/2023-03-08-holi-virgin",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-03-08-holi.md": {
   id: "2023/2023-03-08-holi.md",
   slug: "2023/2023-03-08-holi",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-10-swirly-shift.md": {
+  id: "2023/2023-03-10-swirly-shift.md",
+  slug: "2023/2023-03-10-swirly-shift",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -3708,6 +3750,13 @@ declare module 'astro:content' {
 "2023/2023-03-11-etf-performance.md": {
   id: "2023/2023-03-11-etf-performance.md",
   slug: "2023/2023-03-11-etf-performance",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-12-chequered.md": {
+  id: "2023/2023-03-12-chequered.md",
+  slug: "2023/2023-03-12-chequered",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -3761,6 +3810,13 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-03-14-pink-trail.md": {
+  id: "2023/2023-03-14-pink-trail.md",
+  slug: "2023/2023-03-14-pink-trail",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-03-15-masak-masak.md": {
   id: "2023/2023-03-15-masak-masak.md",
   slug: "2023/2023-03-15-masak-masak",
@@ -3768,9 +3824,275 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-03-16-ho-jiak.md": {
+  id: "2023/2023-03-16-ho-jiak.md",
+  slug: "2023/2023-03-16-ho-jiak",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-16-katherine.md": {
+  id: "2023/2023-03-16-katherine.md",
+  slug: "2023/2023-03-16-katherine",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-16-mlc-reunion.md": {
+  id: "2023/2023-03-16-mlc-reunion.md",
+  slug: "2023/2023-03-16-mlc-reunion",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-18-stanley-st.md": {
+  id: "2023/2023-03-18-stanley-st.md",
+  slug: "2023/2023-03-18-stanley-st",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-18-summer-dress.md": {
+  id: "2023/2023-03-18-summer-dress.md",
+  slug: "2023/2023-03-18-summer-dress",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-19-vegan-poke-bowl.md": {
+  id: "2023/2023-03-19-vegan-poke-bowl.md",
+  slug: "2023/2023-03-19-vegan-poke-bowl",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-19-zeal-aborted.md": {
+  id: "2023/2023-03-19-zeal-aborted.md",
+  slug: "2023/2023-03-19-zeal-aborted",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-20-eight-yumcha.md": {
+  id: "2023/2023-03-20-eight-yumcha.md",
+  slug: "2023/2023-03-20-eight-yumcha",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-22-gossip-gal.md": {
+  id: "2023/2023-03-22-gossip-gal.md",
+  slug: "2023/2023-03-22-gossip-gal",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-22-porkfat.md": {
+  id: "2023/2023-03-22-porkfat.md",
+  slug: "2023/2023-03-22-porkfat",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-22-serenity.md": {
+  id: "2023/2023-03-22-serenity.md",
+  slug: "2023/2023-03-22-serenity",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-23-nanyang.md": {
+  id: "2023/2023-03-23-nanyang.md",
+  slug: "2023/2023-03-23-nanyang",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-24-izakaya-nakano.md": {
+  id: "2023/2023-03-24-izakaya-nakano.md",
+  slug: "2023/2023-03-24-izakaya-nakano",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-25-amah.md": {
+  id: "2023/2023-03-25-amah.md",
+  slug: "2023/2023-03-25-amah",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-03-26-zeal.md": {
+  id: "2023/2023-03-26-zeal.md",
+  slug: "2023/2023-03-26-zeal",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-04-02-tasmania-trip.md": {
   id: "2023/2023-04-02-tasmania-trip.md",
   slug: "2023/2023-04-02-tasmania-trip",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-04-aws-summit.md": {
+  id: "2023/2023-04-04-aws-summit.md",
+  slug: "2023/2023-04-04-aws-summit",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-05-pork-lard.md": {
+  id: "2023/2023-04-05-pork-lard.md",
+  slug: "2023/2023-04-05-pork-lard",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-06-mama-mulan.md": {
+  id: "2023/2023-04-06-mama-mulan.md",
+  slug: "2023/2023-04-06-mama-mulan",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-06-modern-cheongsam.md": {
+  id: "2023/2023-04-06-modern-cheongsam.md",
+  slug: "2023/2023-04-06-modern-cheongsam",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-10-kl-hokkien-mee.md": {
+  id: "2023/2023-04-10-kl-hokkien-mee.md",
+  slug: "2023/2023-04-10-kl-hokkien-mee",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-11-nanyang.md": {
+  id: "2023/2023-04-11-nanyang.md",
+  slug: "2023/2023-04-11-nanyang",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-12-black.md": {
+  id: "2023/2023-04-12-black.md",
+  slug: "2023/2023-04-12-black",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-13-dolar.md": {
+  id: "2023/2023-04-13-dolar.md",
+  slug: "2023/2023-04-13-dolar",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-14-air.md": {
+  id: "2023/2023-04-14-air.md",
+  slug: "2023/2023-04-14-air",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-15-lane-covelo-zoo.md": {
+  id: "2023/2023-04-15-lane-covelo-zoo.md",
+  slug: "2023/2023-04-15-lane-covelo-zoo",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-16-lamy.md": {
+  id: "2023/2023-04-16-lamy.md",
+  slug: "2023/2023-04-16-lamy",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-17-baby-g.md": {
+  id: "2023/2023-04-17-baby-g.md",
+  slug: "2023/2023-04-17-baby-g",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-18-wowo.md": {
+  id: "2023/2023-04-18-wowo.md",
+  slug: "2023/2023-04-18-wowo",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-22-temasek-walk.md": {
+  id: "2023/2023-04-22-temasek-walk.md",
+  slug: "2023/2023-04-22-temasek-walk",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-24-thornleigh-to-eastwood-walk.md": {
+  id: "2023/2023-04-24-thornleigh-to-eastwood-walk.md",
+  slug: "2023/2023-04-24-thornleigh-to-eastwood-walk",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-25-nurragingy.md": {
+  id: "2023/2023-04-25-nurragingy.md",
+  slug: "2023/2023-04-25-nurragingy",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-25-tokito.md": {
+  id: "2023/2023-04-25-tokito.md",
+  slug: "2023/2023-04-25-tokito",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-26-ee-vonne-birthday.md": {
+  id: "2023/2023-04-26-ee-vonne-birthday.md",
+  slug: "2023/2023-04-26-ee-vonne-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-27-black-dress.md": {
+  id: "2023/2023-04-27-black-dress.md",
+  slug: "2023/2023-04-27-black-dress",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-28-wai-kitchen.md": {
+  id: "2023/2023-04-28-wai-kitchen.md",
+  slug: "2023/2023-04-28-wai-kitchen",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-04-29-hot-dog.md": {
+  id: "2023/2023-04-29-hot-dog.md",
+  slug: "2023/2023-04-29-hot-dog",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-05-01-leaf-cafe.md": {
+  id: "2023/2023-05-01-leaf-cafe.md",
+  slug: "2023/2023-05-01-leaf-cafe",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-05-02-enjoy-mie.md": {
+  id: "2023/2023-05-02-enjoy-mie.md",
+  slug: "2023/2023-05-02-enjoy-mie",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
