@@ -6,7 +6,8 @@ publishDate: 2022-02-14T15:00:00+10:00
 coverImage: ../images/gallery/2022-02-14-margaret-birthday/Margaret's birthday (4).jpeg
 gallery: 2022-02-14-margaret-birthday
 categories:
-  - Food,Event
+  - Food
+  - Event
 tags:
   - Japanese
   - Kuru

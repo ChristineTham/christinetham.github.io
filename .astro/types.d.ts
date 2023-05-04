@@ -506,9 +506,23 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-01-01-epson.md": {
+  id: "2022/2022-01-01-epson.md",
+  slug: "2022/2022-01-01-epson",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-01-05-breakfast.md": {
   id: "2022/2022-01-05-breakfast.md",
   slug: "2022/2022-01-05-breakfast",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-05-honours-reunion.md": {
+  id: "2022/2022-01-05-honours-reunion.md",
+  slug: "2022/2022-01-05-honours-reunion",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -520,6 +534,20 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-01-05-parade.md": {
+  id: "2022/2022-01-05-parade.md",
+  slug: "2022/2022-01-05-parade",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-05-tolkien.md": {
+  id: "2022/2022-01-05-tolkien.md",
+  slug: "2022/2022-01-05-tolkien",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-01-06-breakfast.md": {
   id: "2022/2022-01-06-breakfast.md",
   slug: "2022/2022-01-06-breakfast",
@@ -527,9 +555,51 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-01-06-karen-birthday.md": {
+  id: "2022/2022-01-06-karen-birthday.md",
+  slug: "2022/2022-01-06-karen-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-01-06-passo-dello-stelvio.md": {
   id: "2022/2022-01-06-passo-dello-stelvio.md",
   slug: "2022/2022-01-06-passo-dello-stelvio",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-07-carpenters.md": {
+  id: "2022/2022-01-07-carpenters.md",
+  slug: "2022/2022-01-07-carpenters",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-07-dream.md": {
+  id: "2022/2022-01-07-dream.md",
+  slug: "2022/2022-01-07-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-08-fagan-park.md": {
+  id: "2022/2022-01-08-fagan-park.md",
+  slug: "2022/2022-01-08-fagan-park",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-09-men-at-work.md": {
+  id: "2022/2022-01-09-men-at-work.md",
+  slug: "2022/2022-01-09-men-at-work",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-10-suzie-wong.md": {
+  id: "2022/2022-01-10-suzie-wong.md",
+  slug: "2022/2022-01-10-suzie-wong",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
@@ -548,9 +618,65 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2022/2022-01-16-ya-malaysia.md": {
+  id: "2022/2022-01-16-ya-malaysia.md",
+  slug: "2022/2022-01-16-ya-malaysia",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-21-cafe-rumah.md": {
+  id: "2022/2022-01-21-cafe-rumah.md",
+  slug: "2022/2022-01-21-cafe-rumah",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-01-22-fitzroy-falls.md": {
   id: "2022/2022-01-22-fitzroy-falls.md",
   slug: "2022/2022-01-22-fitzroy-falls",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-24-yumcha-eight.md": {
+  id: "2022/2022-01-24-yumcha-eight.md",
+  slug: "2022/2022-01-24-yumcha-eight",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-25-gotong-royong.md": {
+  id: "2022/2022-01-25-gotong-royong.md",
+  slug: "2022/2022-01-25-gotong-royong",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-27-cycling.md": {
+  id: "2022/2022-01-27-cycling.md",
+  slug: "2022/2022-01-27-cycling",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-28-hokkian-kia.md": {
+  id: "2022/2022-01-28-hokkian-kia.md",
+  slug: "2022/2022-01-28-hokkian-kia",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-29-kingsford-lunch.md": {
+  id: "2022/2022-01-29-kingsford-lunch.md",
+  slug: "2022/2022-01-29-kingsford-lunch",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2022/2022-01-30-cny-lunch.md": {
+  id: "2022/2022-01-30-cny-lunch.md",
+  slug: "2022/2022-01-30-cny-lunch",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
