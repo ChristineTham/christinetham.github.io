@@ -506,6 +506,279 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2021/2021-11-25-bershka-skirt.md": {
+  id: "2021/2021-11-25-bershka-skirt.md",
+  slug: "2021/2021-11-25-bershka-skirt",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-30-hot-lap.md": {
+  id: "2021/2021-11-30-hot-lap.md",
+  slug: "2021/2021-11-30-hot-lap",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-01-bicycles.md": {
+  id: "2021/2021-12-01-bicycles.md",
+  slug: "2021/2021-12-01-bicycles",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-01-stationary-bike.md": {
+  id: "2021/2021-12-01-stationary-bike.md",
+  slug: "2021/2021-12-01-stationary-bike",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-02-cafe-rumah.md": {
+  id: "2021/2021-12-02-cafe-rumah.md",
+  slug: "2021/2021-12-02-cafe-rumah",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-02-pleated skirt.md": {
+  id: "2021/2021-12-02-pleated skirt.md",
+  slug: "2021/2021-12-02-pleated-skirt",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-03-dosa-hut.md": {
+  id: "2021/2021-12-03-dosa-hut.md",
+  slug: "2021/2021-12-03-dosa-hut",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-04-killiney.md": {
+  id: "2021/2021-12-04-killiney.md",
+  slug: "2021/2021-12-04-killiney",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-07-dream.md": {
+  id: "2021/2021-12-07-dream.md",
+  slug: "2021/2021-12-07-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-08-4dp-profile.md": {
+  id: "2021/2021-12-08-4dp-profile.md",
+  slug: "2021/2021-12-08-4dp-profile",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-11-chilli-jam-nasi-goreng.md": {
+  id: "2021/2021-12-11-chilli-jam-nasi-goreng.md",
+  slug: "2021/2021-12-11-chilli-jam-nasi-goreng",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-11-family-xmas-lights.md": {
+  id: "2021/2021-12-11-family-xmas-lights.md",
+  slug: "2021/2021-12-11-family-xmas-lights",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-11-trail-shoes.md": {
+  id: "2021/2021-12-11-trail-shoes.md",
+  slug: "2021/2021-12-11-trail-shoes",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-12-hello-kitty-cycling.md": {
+  id: "2021/2021-12-12-hello-kitty-cycling.md",
+  slug: "2021/2021-12-12-hello-kitty-cycling",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-12-rita-xmas-party.md": {
+  id: "2021/2021-12-12-rita-xmas-party.md",
+  slug: "2021/2021-12-12-rita-xmas-party",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-12-zeal-xmas.md": {
+  id: "2021/2021-12-12-zeal-xmas.md",
+  slug: "2021/2021-12-12-zeal-xmas",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-13-vintage-pantry.md": {
+  id: "2021/2021-12-13-vintage-pantry.md",
+  slug: "2021/2021-12-13-vintage-pantry",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-15-stir-fry-veges.md": {
+  id: "2021/2021-12-15-stir-fry-veges.md",
+  slug: "2021/2021-12-15-stir-fry-veges",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-16-dyson.md": {
+  id: "2021/2021-12-16-dyson.md",
+  slug: "2021/2021-12-16-dyson",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-17-fitzroy-falls.md": {
+  id: "2021/2021-12-17-fitzroy-falls.md",
+  slug: "2021/2021-12-17-fitzroy-falls",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-17-suckling-pig.md": {
+  id: "2021/2021-12-17-suckling-pig.md",
+  slug: "2021/2021-12-17-suckling-pig",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-18-banh-cuon.md": {
+  id: "2021/2021-12-18-banh-cuon.md",
+  slug: "2021/2021-12-18-banh-cuon",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-18-loader-nights.md": {
+  id: "2021/2021-12-18-loader-nights.md",
+  slug: "2021/2021-12-18-loader-nights",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-19-lunch-kingsford.md": {
+  id: "2021/2021-12-19-lunch-kingsford.md",
+  slug: "2021/2021-12-19-lunch-kingsford",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-19-simplest-fried-rice.md": {
+  id: "2021/2021-12-19-simplest-fried-rice.md",
+  slug: "2021/2021-12-19-simplest-fried-rice",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-20-cat-lunch.md": {
+  id: "2021/2021-12-20-cat-lunch.md",
+  slug: "2021/2021-12-20-cat-lunch",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-21-lcnp.md": {
+  id: "2021/2021-12-21-lcnp.md",
+  slug: "2021/2021-12-21-lcnp",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-22-char-siew-siew-yoke.md": {
+  id: "2021/2021-12-22-char-siew-siew-yoke.md",
+  slug: "2021/2021-12-22-char-siew-siew-yoke",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-22-waterfall-walk.md": {
+  id: "2021/2021-12-22-waterfall-walk.md",
+  slug: "2021/2021-12-22-waterfall-walk",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-24-haircut.md": {
+  id: "2021/2021-12-24-haircut.md",
+  slug: "2021/2021-12-24-haircut",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-24-leuven-city.md": {
+  id: "2021/2021-12-24-leuven-city.md",
+  slug: "2021/2021-12-24-leuven-city",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-24-sydney.md": {
+  id: "2021/2021-12-24-sydney.md",
+  slug: "2021/2021-12-24-sydney",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-25-family-xmas-lunch.md": {
+  id: "2021/2021-12-25-family-xmas-lunch.md",
+  slug: "2021/2021-12-25-family-xmas-lunch",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-26-ivan-boxing-day.md": {
+  id: "2021/2021-12-26-ivan-boxing-day.md",
+  slug: "2021/2021-12-26-ivan-boxing-day",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-27-cabramatta.md": {
+  id: "2021/2021-12-27-cabramatta.md",
+  slug: "2021/2021-12-27-cabramatta",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-28-daggy-lunch.md": {
+  id: "2021/2021-12-28-daggy-lunch.md",
+  slug: "2021/2021-12-28-daggy-lunch",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-29-katoomba-falls.md": {
+  id: "2021/2021-12-29-katoomba-falls.md",
+  slug: "2021/2021-12-29-katoomba-falls",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-30-botanic-gardens.md": {
+  id: "2021/2021-12-30-botanic-gardens.md",
+  slug: "2021/2021-12-30-botanic-gardens",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-12-31-cumberland-state-forest.md": {
+  id: "2021/2021-12-31-cumberland-state-forest.md",
+  slug: "2021/2021-12-31-cumberland-state-forest",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2022/2022-01-01-epson.md": {
   id: "2022/2022-01-01-epson.md",
   slug: "2022/2022-01-01-epson",
@@ -684,13 +957,6 @@ declare module 'astro:content' {
 "2022/2022-01-31-chatswood-cny.md": {
   id: "2022/2022-01-31-chatswood-cny.md",
   slug: "2022/2022-01-31-chatswood-cny",
-  body: string,
-  collection: "blog",
-  data: InferEntrySchema<"blog">
-} & { render(): Render[".md"] },
-"2022/2022-01-31-cumberland-state-forest.md": {
-  id: "2022/2022-01-31-cumberland-state-forest.md",
-  slug: "2022/2022-01-31-cumberland-state-forest",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
