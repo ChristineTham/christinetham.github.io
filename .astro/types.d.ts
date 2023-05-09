@@ -506,9 +506,128 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2021/2021-10-17-radika-birthday.md": {
+  id: "2021/2021-10-17-radika-birthday.md",
+  slug: "2021/2021-10-17-radika-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-04-dhakshin-diwali.md": {
+  id: "2021/2021-11-04-dhakshin-diwali.md",
+  slug: "2021/2021-11-04-dhakshin-diwali",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-06-berrima.md": {
+  id: "2021/2021-11-06-berrima.md",
+  slug: "2021/2021-11-06-berrima",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-07-soong-birthday.md": {
+  id: "2021/2021-11-07-soong-birthday.md",
+  slug: "2021/2021-11-07-soong-birthday",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-08-sydney.md": {
+  id: "2021/2021-11-08-sydney.md",
+  slug: "2021/2021-11-08-sydney",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-11-lcnp.md": {
+  id: "2021/2021-11-11-lcnp.md",
+  slug: "2021/2021-11-11-lcnp",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-11-post-cycling-dessert.md": {
+  id: "2021/2021-11-11-post-cycling-dessert.md",
+  slug: "2021/2021-11-11-post-cycling-dessert",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-13-north-head.md": {
+  id: "2021/2021-11-13-north-head.md",
+  slug: "2021/2021-11-13-north-head",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-14-dams.md": {
+  id: "2021/2021-11-14-dams.md",
+  slug: "2021/2021-11-14-dams",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-15-cat-lunch.md": {
+  id: "2021/2021-11-15-cat-lunch.md",
+  slug: "2021/2021-11-15-cat-lunch",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-19-breakfast.md": {
+  id: "2021/2021-11-19-breakfast.md",
+  slug: "2021/2021-11-19-breakfast",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-19-dream.md": {
+  id: "2021/2021-11-19-dream.md",
+  slug: "2021/2021-11-19-dream",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-21-small-chillies.md": {
+  id: "2021/2021-11-21-small-chillies.md",
+  slug: "2021/2021-11-21-small-chillies",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-23-new-tyres.md": {
+  id: "2021/2021-11-23-new-tyres.md",
+  slug: "2021/2021-11-23-new-tyres",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2021/2021-11-25-bershka-skirt.md": {
   id: "2021/2021-11-25-bershka-skirt.md",
   slug: "2021/2021-11-25-bershka-skirt",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-25-mlc-reunion.md": {
+  id: "2021/2021-11-25-mlc-reunion.md",
+  slug: "2021/2021-11-25-mlc-reunion",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-26-lane-covelo-xmas.md": {
+  id: "2021/2021-11-26-lane-covelo-xmas.md",
+  slug: "2021/2021-11-26-lane-covelo-xmas",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2021/2021-11-28-thanksgiving-tumpeng.md": {
+  id: "2021/2021-11-28-thanksgiving-tumpeng.md",
+  slug: "2021/2021-11-28-thanksgiving-tumpeng",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
