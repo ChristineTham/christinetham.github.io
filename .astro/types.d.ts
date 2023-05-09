@@ -4804,9 +4804,51 @@ declare module 'astro:content' {
   collection: "blog",
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] },
+"2023/2023-05-02-bobbin-head.md": {
+  id: "2023/2023-05-02-bobbin-head.md",
+  slug: "2023/2023-05-02-bobbin-head",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
 "2023/2023-05-02-enjoy-mie.md": {
   id: "2023/2023-05-02-enjoy-mie.md",
   slug: "2023/2023-05-02-enjoy-mie",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-05-03-omela.md": {
+  id: "2023/2023-05-03-omela.md",
+  slug: "2023/2023-05-03-omela",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-05-04-upperroom.md": {
+  id: "2023/2023-05-04-upperroom.md",
+  slug: "2023/2023-05-04-upperroom",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-05-05-mt-tomah.md": {
+  id: "2023/2023-05-05-mt-tomah.md",
+  slug: "2023/2023-05-05-mt-tomah",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-05-06-annie.md": {
+  id: "2023/2023-05-06-annie.md",
+  slug: "2023/2023-05-06-annie",
+  body: string,
+  collection: "blog",
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] },
+"2023/2023-05-07-rita-birthday.md": {
+  id: "2023/2023-05-07-rita-birthday.md",
+  slug: "2023/2023-05-07-rita-birthday",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
