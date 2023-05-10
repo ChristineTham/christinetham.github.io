@@ -6,7 +6,7 @@ publishDate: 2021-11-13T10:00:00+10:00
 images:
   - ../images/cycling/North Head.png
 categories:
-  - Cyling
+  - Cycling
 tags:
   - Lane Covelo
   - North Head

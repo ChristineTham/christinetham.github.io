@@ -8,7 +8,7 @@ images:
   - ../images/cycling/Post cycling dessert (1).jpeg
 categories:
   - Food
-  - Cyling
+  - Cycling
 tags:
   - Leaf Cafe
   - dessert
