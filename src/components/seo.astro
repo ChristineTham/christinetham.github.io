@@ -38,7 +38,7 @@ const openGraph = {
   image: {
     alt: frontmatter.title,
     height: image.height,
-    wifth: image.width,
+    width: image.width,
   },
   article: {
     author: frontmatter.author,
@@ -95,7 +95,7 @@ const organization: WithContext<Organization> = {
   description: SiteMetadata.org.summary,
   email: SiteMetadata.org.email,
   founder: {
-    '@id': SiteMetadata.org.url,
+    '@id': SiteMetadata.author.url,
   },
   location: SiteMetadata.location,
   image: {
