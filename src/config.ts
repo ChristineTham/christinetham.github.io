@@ -10,7 +10,7 @@ export interface TagType {
 
 export const SiteMetadata = {
   title: 'Chris Tham',
-  description: 'Personal Web Site',
+  description: 'artist, consultant, cyclist, designer, musician, photographer, world traveller',
   author: {
     name: 'Chris Tham',
     twitter: '@chris1tham',

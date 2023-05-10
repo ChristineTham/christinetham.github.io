@@ -23,5 +23,6 @@ export async function get() {
     })),
     // (optional) inject custom xml
     customData: `<language>en</language>`,
+    stylesheet: '/rssstyle.xsl',
   })
 }

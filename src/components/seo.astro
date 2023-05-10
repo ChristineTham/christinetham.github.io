@@ -29,7 +29,7 @@ const openGraph = {
   basic: {
     title: frontmatter.title,
     type: 'website',
-    image: image.src,
+    image: new URL(image.src, siteurl).toString(),
   },
   optional: {
     description: frontmatter.description,
@@ -37,6 +37,8 @@ const openGraph = {
   },
   image: {
     alt: frontmatter.title,
+    height: image.height,
+    wifth: image.width,
   },
   article: {
     author: frontmatter.author,
@@ -71,7 +73,7 @@ const website: WithContext<WebSite> = {
   description: SiteMetadata.description,
   image: {
     '@type': 'ImageObject',
-    url: image.src,
+    url: new URL(image.src, siteurl).toString(),
   },
   inLanguage: 'en',
   name: SiteMetadata.title,
@@ -169,7 +171,7 @@ const article: WithContext<Article> = {
   keywords: frontmatter.tags && frontmatter.tags.join(', '),
   image: {
     '@type': 'ImageObject',
-    url: image.src,
+    url: new URL(image.src, siteurl).toString(),
   },
   inLanguage: 'en',
   mainEntityOfPage: SiteMetadata.org.url,
