@@ -23,9 +23,6 @@ export default defineConfig({
   integrations: [tailwind(), sitemap(), image({
     serviceEntryPoint: '@astrojs/image/sharp'
   }), mdx(), alpinejs(), robotsTxt()],
-  experimental: {
-    integrations: true,
-  },
   markdown: {
     extendDefaultPlugins: true,
     remarkPlugins: [
