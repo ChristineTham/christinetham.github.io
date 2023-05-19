@@ -29,7 +29,7 @@ const categories = Array.from(new Set(latestPosts.flatMap(post => post.data.cate
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main class="bg-rosely3 dark:bg-rosely0">
+  <main itemprop="mainContentOfPage" class="bg-rosely3 dark:bg-rosely0">
     <CategoryRoll categories={categories} />
   </main>
 </Base>

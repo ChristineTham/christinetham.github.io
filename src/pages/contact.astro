@@ -15,7 +15,7 @@ const frontmatter = {
 }
 ---
 
-<Base frontmatter={frontmatter}>
+<Base frontmatter={frontmatter} schema="ContactPage">
   <header>
     <PageHero
       title={frontmatter.title}
@@ -24,7 +24,7 @@ const frontmatter = {
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main>
+  <main itemprop="mainContentOfPage">
     <section class="mb-20 text-rosely0 dark:text-rosely3 mx-auto max-w-7xl">
       <div class="block lg:my-8">
         <div class="flex flex-wrap items-center">

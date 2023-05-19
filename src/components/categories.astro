@@ -10,6 +10,7 @@ const { categories } = Astro.props
     {
       categories.map(category => (
         <a
+          itemprop="articleSection"
           href={`${import.meta.env.BASE_URL}category/${encodeURIComponent(category)}/`}
           class="inline-block py-1 px-3 rounded bg-rosely9 hover:bg-roselyC text-white text-xs font-medium tracking-tight uppercase"
         >

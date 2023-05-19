@@ -30,7 +30,7 @@ posts.forEach((post, i) => {
 })
 ---
 
-<Base frontmatter={frontmatter}>
+<Base frontmatter={frontmatter} schema="Article">
   <main>
     <article class="post">
       <header>
@@ -38,7 +38,7 @@ posts.forEach((post, i) => {
       </header>
       <section class="px-4 py-8 max-w-screen-lg mx-auto prose prose-purple lg:prose-xl dark:prose-invert" >
         {frontmatter.images && <Images images={frontmatter.images} />}
-        <slot />
+        <slot itemprop="articleBody" />
       </section>
     </article>
   </main>

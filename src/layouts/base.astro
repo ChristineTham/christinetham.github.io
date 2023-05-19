@@ -7,13 +7,14 @@ import Gallery from '../components/gallery.astro'
 
 export interface Props {
   frontmatter: Frontmatter
+  schema?: string
 }
 
-const { frontmatter } = Astro.props
+const { frontmatter, schema="WebPage" } = Astro.props
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" itemscope itemtype={`https://schema.org/${schema}`}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />

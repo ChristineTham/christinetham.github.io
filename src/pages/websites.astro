@@ -15,7 +15,7 @@ const frontmatter: Frontmatter = {
 
 ---
 
-<Base frontmatter={frontmatter}>
+<Base frontmatter={frontmatter} schema="CollectionPage">
   <header>
     <PageHero
       title={frontmatter.title}
@@ -24,7 +24,7 @@ const frontmatter: Frontmatter = {
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main class="bg-rosely3 dark:bg-rosely0">
+  <main itemprop="mainContentOfPage" class="bg-rosely3 dark:bg-rosely0">
     <WebRoll websites={Websites} />
   </main>
 </Base>

@@ -28,12 +28,13 @@ const image = post.data.coverImage ||
         alt={post.data.title + ' featured image'}
         class="relative w-full h-64 rounded-lg overflow-hidden group-hover:opacity-75 object-top object-cover"
       />
-      <p class="sr-only">{post.data.title}</p>
+      <p itemprop="name" class="sr-only">{post.data.title}</p>
     </a>
     <div class="p-4">
       <Categories categories={post.data.categories} />
-      <a href={import.meta.env.BASE_URL + 'blog/' + post.slug}>
+      <a itemprop="url" href={import.meta.env.BASE_URL + 'blog/' + post.slug}>
         <h1
+          itemprop="name"
           class="title-font text-xl font-bold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5 mt-2"
         >
           {post.data.title}
@@ -41,6 +42,7 @@ const image = post.data.coverImage ||
       </a>
       <div class="flex items-center flex-wrap">
         <span
+          itemprop="datePublished"
           class="text-rosely1 dark:text-rosely7 mr-3 inline-flex items-center leading-none text-xs pr-3 py-1 border-r-2 border-roselyA dark:border-rosely8"
         >
           <Icon class="w-4 h-4 mr-1" pack="heroicons-outline" name="calendar" />
@@ -56,13 +58,13 @@ const image = post.data.coverImage ||
         )}
         {post.data.author && (
           <Icon class="text-rosely1 dark:text-rosely7 w-4 h-4 mr-1" pack="heroicons-outline" name="user-circle" />
-          <span class="text-rosely1 dark:text-rosely7 inline-flex items-center leading-none text-xs" >
+          <span itemprop="author" class="text-rosely1 dark:text-rosely7 inline-flex items-center leading-none text-xs" >
             {post.data.author}
           </span>
         )}
       </div>
 
-      <p class="mt-3 italic text-sm text-rosely1 dark:text-rosely6">
+      <p itemprop="abstract description" class="mt-3 italic text-sm text-rosely1 dark:text-rosely6">
         {post.data.description}
       </p>
       <Tags tags={post.data.tags} />

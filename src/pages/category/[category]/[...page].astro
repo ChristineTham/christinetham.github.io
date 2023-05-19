@@ -44,7 +44,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
 }
 ---
 
-<Base frontmatter={frontmatter}>
+<Base frontmatter={frontmatter} schema="CollectionPage">
   <header>
     <PageHero
       title={frontmatter.title}
@@ -56,7 +56,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
     <PaginateControl base={currentPage} page={page} />
   </PageHero>
   </header>
-  <main>
+  <main itemprop="mainContentOfPage">
     <section class="px-4 py-8 max-w-screen-lg mx-auto prose prose-purple lg:prose-xl dark:prose-invert" >
       {detail.content}
     </section>

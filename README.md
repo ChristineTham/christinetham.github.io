@@ -1,7 +1,7 @@
 # Chris Tham Personal Web Site
 ![deploy](https://github.com/ChristineTham/christinetham.github.io/actions/workflows/deploy.yml/badge.svg)
 
-This is a version of my personal blog/web site written in Markdown and [Astro](https://astro.build) using the [Hello Astro](https://github.com/hellotham/hello-astro) starter as a template.
+This is  my personal blog/web site written in Markdown and [Astro](https://astro.build) using the [Hello Astro](https://github.com/hellotham/hello-astro) starter as a template.
 
 It is hosted on [Github Pages](https://pages.github.com) and deployed via Github Action workflow.
 
