@@ -1,13 +1,13 @@
 ---
 title: Temasek Club Scavenger Hunt
 description: Fun day exploring Sydney through a scavenger hunt followed by lunch
-author: Chris Tham
+author: christie
 publishDate: 2022-06-26T13:00:00+10:00
-coverImage: ../images/gallery/2022-06-26-scavenger-hunt/Gotong royong girls.jpeg
+coverImage: ../../../images/gallery/2022-06-26-scavenger-hunt/Gotong royong girls.jpeg
 gallery: 2022-06-26-scavenger-hunt
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - Temasek Club
   - scavenger hunt

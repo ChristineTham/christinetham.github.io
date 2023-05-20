@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Satay et al at Guildford
 publishDate: 2023-01-07T18:00:00+10:00
 description: Wow the queue was so long
 images:
-  - ../images/food/Guildford (2).jpeg
-categories: [Food]
+  - ../../../images/food/Guildford (2).jpeg
+categories: [food]
 tags:
   - Guildford
   - Malaysian

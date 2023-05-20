@@ -1,13 +1,13 @@
 ---
 title: Happy birthday Eunice Fong
 description: Celebrating Eunice's birthday at Amah
-author: Chris Tham
+author: christie
 publishDate: 2022-06-08T13:00:00+10:00
-coverImage: ../images/gallery/2022-06-08-eunice-birthday/Eunice Birthday (6).jpeg
+coverImage: ../../../images/gallery/2022-06-08-eunice-birthday/Eunice Birthday (6).jpeg
 gallery: 2022-06-08-eunice-birthday
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - lunch
   - Church Point

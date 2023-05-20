@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Olmo resurrected
 publishDate: 2022-01-12T10:00:00+10:00
 description: Cadel lives another day!
-images: [../images/cycling/Olmo resurrected.jpeg]
-categories: [Cycling]
+images: [../../../images/cycling/Olmo resurrected.jpeg]
+categories: [cycling]
 tags:
   - bicycle
   - Olmo

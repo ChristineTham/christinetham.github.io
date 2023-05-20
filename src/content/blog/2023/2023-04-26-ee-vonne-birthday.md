@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Ee Vonne's birthday
 publishDate: 2023-04-26T13:00:00+10:00
 description: Birthday celebration at Ee Vonne's house.
 images:
-  - ../images/food/Ee Vonne birthday.jpeg
-categories: [Food,Event]
+  - ../../../images/food/Ee Vonne birthday.jpeg
+categories: [food,event]
 tags:
   - lunch
   - birthday

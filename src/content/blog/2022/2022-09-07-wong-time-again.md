@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Wong Time Again Lunch
 publishDate: 2022-09-07T12:35:00+10:00
 images:
-  - ../images/cycling/Wong Time Again Lunch.jpeg
-  - ../images/cycling/Wong Time Again Lunch (1).jpeg
-  - ../images/cycling/Wong Time Again Lunch (2).jpeg
+  - ../../../images/cycling/Wong Time Again Lunch.jpeg
+  - ../../../images/cycling/Wong Time Again Lunch (1).jpeg
+  - ../../../images/cycling/Wong Time Again Lunch (2).jpeg
 description: Celebration of Lance Wong
-categories: [Cycling, Food, Event]
+categories: [cycling, food, event]
 tags: [Zeal of Zebras, lunch, Malaya, Lance Wong, Malaysian]
 ---
 

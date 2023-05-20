@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Cindy's place
 publishDate: 2022-07-04T13:00:00+10:00
 description: Buying takeaway lunch for Cindy
 images:
-  - ../images/food/Cindy lunch (1).jpeg
-  - ../images/food/Cindy lunch.jpeg
-categories: [Food]
+  - ../../../images/food/Cindy lunch (1).jpeg
+  - ../../../images/food/Cindy lunch.jpeg
+categories: [food]
 tags:
   - lunch
   - Cindy

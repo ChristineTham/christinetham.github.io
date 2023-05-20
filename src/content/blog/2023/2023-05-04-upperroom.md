@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Upper Room RestoCafe
 publishDate: 2023-05-04T13:00:00+10:00
 description: Popular Malaysian restaurant in the city is closing down
 images:
-  - ../images/food/Upper Room RestoCafe.jpeg
-categories: [Food]
+  - ../../../images/food/Upper Room RestoCafe.jpeg
+categories: [food]
 tags:
   - Malaysian
   - Upper Room

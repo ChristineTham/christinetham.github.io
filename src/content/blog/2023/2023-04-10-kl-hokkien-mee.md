@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: KL Hokkien mee
 publishDate: 2023-04-10T13:00:00+10:00
 description: Finally managed to cook my own version of hokkien mee at home.
 images:
-  - ../images/food/KL hokkien mee (2).jpeg
-  - ../images/food/KL hokkien mee.jpeg
-  - ../images/food/KL hokkien mee (1).jpeg
-categories: [Food]
+  - ../../../images/food/KL hokkien mee (2).jpeg
+  - ../../../images/food/KL hokkien mee.jpeg
+  - ../../../images/food/KL hokkien mee (1).jpeg
+categories: [food]
 tags:
   - Malaysian
   - hokkien mee

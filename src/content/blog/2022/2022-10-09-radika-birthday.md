@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Radika's birthday
 publishDate: 2022-10-09T17:00:00+10:00
 description: Radika's birthday celeberation at Adeline's house
-images: [../images/food/Radika's birthday (27).jpeg]
-categories: [Food, Event]
+images: [../../../images/food/Radika's birthday (27).jpeg]
+categories: [food, event]
 tags:
   - Malaysian
   - Radika

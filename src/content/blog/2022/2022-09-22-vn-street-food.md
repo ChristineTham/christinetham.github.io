@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at VN Street Food
 publishDate: 2022-09-22T13:00:00+10:00
 description: Delightful place at Marrickville
-images: [../images/food/VN Vietnamese Street Foods.jpeg]
-categories: [Food]
+images: [../../../images/food/VN Vietnamese Street Foods.jpeg]
+categories: [food]
 tags:
   - Vietnamese
   - Marrickville

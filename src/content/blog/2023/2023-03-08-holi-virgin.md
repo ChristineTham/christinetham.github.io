@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Holi Virgin
 publishDate: 2023-03-08T08:00:00+10:00
 description: Dressed in all white for the Holi Festival of Colours
 images:
-  - ../images/fashion/Holi virgin.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Holi virgin.jpeg
+categories: [fashion]
 tags:
   - dress
   - white

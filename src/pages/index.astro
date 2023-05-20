@@ -1,19 +1,20 @@
 ---
 import { getCollection } from 'astro:content'
 import type { Frontmatter } from '../config'
-import { SiteMetadata, Websites, PAGE_SIZE } from '../config'
+import { SiteMetadata, PAGE_SIZE } from '../config'
 import Base from '../layouts/base.astro'
 import Carousel from '../components/carousel.astro'
 import BlogRoll from '../components/blogroll.astro'
 import CategoryRoll from '../components/categoryroll.astro'
 import WebRoll from '../components/webroll.astro'
+import coverImage from '../images/me/home.jpeg'
 
 const frontmatter: Frontmatter = {
   title: SiteMetadata.title,
   description: SiteMetadata.description,
-  coverImage: '../images/me/home.jpeg',
-  socialImage: '../images/me/home.jpeg',
+  coverImage: coverImage,
   publishDate: SiteMetadata.buildTime,
+  categories: []
 }
 
 const carouselPages = [
@@ -27,7 +28,7 @@ const posts = await getCollection('blog')
 const latestPosts = posts.sort((a, b) => +b.data.publishDate - +a.data.publishDate).filter(p => !p.data.draft)
 
 // console.log(latestPosts)
-const categories = Array.from(new Set(latestPosts.flatMap(post => post.data.categories))).sort() as string[]
+const categories = await getCollection('category')
 ---
 
 <Base frontmatter={frontmatter}>
@@ -77,7 +78,7 @@ const categories = Array.from(new Set(latestPosts.flatMap(post => post.data.cate
         All Websites
       </a>
     </div>
-    <WebRoll websites={Websites.filter(site => site.featured)} />
+    <WebRoll featured={true} />
   <h2
     class="text-2xl md:text-4xl font-extrabold text-rosely8 dark:text-roselyB mx-auto p-4 sm:mx-2 lg:mx-4"
   >

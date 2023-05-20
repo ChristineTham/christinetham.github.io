@@ -1,14 +1,14 @@
 ---
 title: ETF performance
 description: Compared to holding the underlying physical assets
-author: Chris Tham
+author: christie
 publishDate: 2023-03-11T00:00:00.000Z
 images:
-  - ../images/blog/Rising Market.png
-  - ../images/blog/Falling Market.png
-  - ../images/blog/Mixed Market.png
+  - ../../../images/blog/Rising Market.png
+  - ../../../images/blog/Falling Market.png
+  - ../../../images/blog/Mixed Market.png
 categories:
-  - Create
+  - create
 tags:
   - investment
   - ETF

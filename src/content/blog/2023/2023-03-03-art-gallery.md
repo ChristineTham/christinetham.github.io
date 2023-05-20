@@ -1,14 +1,14 @@
 ---
-author: Chris Tham
+author: christie
 title: The North Building of the Art Gallery
 description: The Art Gallery of NSW has been transformed into an art museum campus with the addition of the new North Building.
 publishDate: 2023-03-03T15:00:00+10:00
-coverImage: ../images/gallery/2023-03-03-art-gallery/Flowers that Bloom in the Cosmos (Yayoi Kusama) (1).jpeg
+coverImage: ../../../images/gallery/2023-03-03-art-gallery/Flowers that Bloom in the Cosmos (Yayoi Kusama) (1).jpeg
 gallery: 2023-03-03-art-gallery
-categories: [Art]
+categories: [art]
 tags:
   - Sydney
-  - Art Gallery
+  - art Gallery
 ---
 
 The new North building of the Art Gallery - some really impressive large scale artworks here. I particularly liked the Infinite Skyscraper (Guts) and the End of Imagination.

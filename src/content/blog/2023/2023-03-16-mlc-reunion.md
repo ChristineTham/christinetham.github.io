@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: MLC Reunion
 publishDate: 2023-03-16T21:00:00+10:00
 images:
-  - ../images/blog/MLC Reunion.jpeg
-  - ../images/blog/MLC Reunion (1).jpeg
+  - ../../../images/blog/MLC Reunion.jpeg
+  - ../../../images/blog/MLC Reunion (1).jpeg
 description: Good to catch up with ex work colleagues for a drink (or several)
-categories: [Event]
+categories: [event]
 tags: [MLC,reunion]
 ---
 Had a few drinks with some ex-work colleages from MLC and reminiscing about the good old days at Billy Barry's Hotel in North Sydney.

@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Cheongsam
 publishDate: 2022-09-10T10:00:00+10:00
 description: Mini cheongsam
-images: [../images/fashion/Cheongsam.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Cheongsam.jpeg]
+categories: [fashion]
 tags:
   - cheongsam
 ---

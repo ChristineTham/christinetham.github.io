@@ -1,10 +1,10 @@
 ---
 title: Investment Update
 description: Update on our investment strategy
-author: Chris Tham
+author: christie
 publishDate: 2022-04-30T00:00:00.000Z
 categories:
-  - Create
+  - create
 tags:
   - investment
 ---

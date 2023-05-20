@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Yum cha at Mama Mulan
 publishDate: 2023-04-06T13:00:00+10:00
 description: Modern yum cha in Chatswood.
 images:
-  - ../images/food/Mama mulan.jpeg
-  - ../images/food/Mama Mulan (1).jpeg
-  - ../images/food/Mama Mulan (2).jpeg
-categories: [Food]
+  - ../../../images/food/Mama mulan.jpeg
+  - ../../../images/food/Mama Mulan (1).jpeg
+  - ../../../images/food/Mama Mulan (2).jpeg
+categories: [food]
 tags:
   - Chinese
   - lunch

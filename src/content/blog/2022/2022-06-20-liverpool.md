@@ -1,13 +1,13 @@
 ---
 title: Liverpool Street Art
 description: Exploring Liverpool street art
-author: Chris Tham
+author: christie
 publishDate: 2022-06-20T16:00:00+10:00
-coverImage: ../images/gallery/2022-06-20-liverpool/Westfield Dog Photograhers (1).jpeg
+coverImage: ../../../images/gallery/2022-06-20-liverpool/Westfield Dog Photograhers (1).jpeg
 gallery: 2022-06-20-liverpool
 categories:
-  - Fashion
-  - Photography
+  - fashion
+  - photography
 tags:
   - Liverpool
   - street art

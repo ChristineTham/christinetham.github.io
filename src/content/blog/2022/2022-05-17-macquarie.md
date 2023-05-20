@@ -1,15 +1,15 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Khao Pla plus movie
 publishDate: 2022-05-17T17:00:00+10:00
 description: Watching Everything, Everywhere, All at Once
 images:
-  - ../images/blog/Khao Pla.jpeg
-  - ../images/blog/Event Cinemas.jpeg
-categories: [Event, Food]
+  - ../../../images/blog/Khao Pla.jpeg
+  - ../../../images/blog/Event Cinemas.jpeg
+categories: [event, food]
 tags:
   - Macquarie Centre
-  - Event Cinemas
+  - event Cinemas
   - Khao Pla
   - Thai
   - lunch

@@ -192,7 +192,7 @@ In Seremban, I continued my book reading habit and typically read one book a
 day. I borrowed books not only from the school library but also from the library
 at the Sungei Ujong Club which my father was a member of. I became addicted to
 Agatha Christie mysteries, discovered science fiction and soon became
-addicted to all the "masters": Isaac Asimov, Arthur C Clarke, Robert Heinlein
+addicted to all the "masters": Isaac Asimov, arthur C Clarke, Robert Heinlein
 etc.
 
 I studied in KGV for 6 years, became the school monitor in Form 6, and the

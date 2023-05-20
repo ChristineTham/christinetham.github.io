@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Bakkwa Burger
 publishDate: 2023-01-23T12:00:00+10:00
 description: A fusion burger made with Aussie toppings and bakkwa
 images:
-  - ../images/food/Bakkwa burger.jpeg
-  - ../images/food/Bakkwa burger (1).jpeg
-categories: [Food]
+  - ../../../images/food/Bakkwa burger.jpeg
+  - ../../../images/food/Bakkwa burger (1).jpeg
+categories: [food]
 tags:
   - burger
   - bakkwa

@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Temasek Club Chinese New Year Dinner
 publishDate: 2023-02-05T21:00:00+10:00
 description: A sumptuous banquet at the Palace Chinese Restaurant
-coverImage: ../images/gallery/2023-02-05-temasek-cny/Temasek club Lunar New Year dinner (4).jpeg
+coverImage: ../../../images/gallery/2023-02-05-temasek-cny/Temasek club Lunar New Year dinner (4).jpeg
 gallery: 2023-02-05-temasek-cny
-categories: [Food, Event]
+categories: [food, event]
 tags:
   - Chinese New Year
   - Temasek Club

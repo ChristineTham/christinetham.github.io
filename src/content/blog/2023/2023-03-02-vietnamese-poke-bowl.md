@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Vietnamese inspired poke bowl
 publishDate: 2023-03-02T13:00:00+10:00
 description: Fish cake based poke bowl
 images:
-  - ../images/food/Fish cake poke bowl (1).jpeg
-  - ../images/food/Fish cake poke bowl.jpeg
-categories: [Food]
+  - ../../../images/food/Fish cake poke bowl (1).jpeg
+  - ../../../images/food/Fish cake poke bowl.jpeg
+categories: [food]
 tags:
   - recipe
   - poke bowl

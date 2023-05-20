@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Dinner at Mr Fat Duck
 publishDate: 2023-02-24T21:00:00+10:00
 description: Chinese restaurant in Chatswood
 images:
-  - ../images/food/Mr Fat Duck.jpeg
-categories: [Food]
+  - ../../../images/food/Mr Fat Duck.jpeg
+categories: [food]
 tags:
   - Chinese
   - dinner

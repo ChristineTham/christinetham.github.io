@@ -22,7 +22,8 @@ type Props = {
 // 2. When its time to render, you can get the entry directly from the prop
 const { entry } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await entry.render()
+entry.data.minutesRead = remarkPluginFrontmatter.minutesRead
 ---
-<Layout frontmatter={remarkPluginFrontmatter as CollectionEntry<'blog'>['data']}>
+<Layout frontmatter={entry.data}>
   <Content />
 </Layout>

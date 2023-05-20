@@ -1,12 +1,12 @@
 ---
 title: Cotter Dam
 description: Waterfall spillway operating
-author: Chris Tham
+author: christie
 publishDate: 2022-03-14T10:00:00+10:00
-coverImage: ../images/gallery/2022-03-14-cotter-dam/Cotter Dam.jpeg
+coverImage: ../../../images/gallery/2022-03-14-cotter-dam/Cotter Dam.jpeg
 gallery: 2022-03-14-cotter-dam
 categories:
-  - Travel
+  - travel
 tags:
   - Canberra
   - Cotter

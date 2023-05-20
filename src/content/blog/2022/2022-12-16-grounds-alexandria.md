@@ -1,12 +1,12 @@
 ---
 title: The Grounds of Alexandria
 description: Naughty or nice?
-author: Chris Tham
+author: christie
 publishDate: 2022-12-16T14:00:00+10:00
-coverImage: ../images/gallery/2022-12-16-grounds-xmas/The Grounds Xmas.jpeg
+coverImage: ../../../images/gallery/2022-12-16-grounds-xmas/The Grounds Xmas.jpeg
 gallery: 2022-12-16-grounds-xmas
 categories:
-  - Event
+  - event
 tags:
   - Grounds of Alexandria
   - Alexandria

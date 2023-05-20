@@ -1,12 +1,12 @@
 ---
 title: Lake George
 description: Lake George is a lake once more ...
-author: Chris Tham
+author: christie
 publishDate: 2022-03-13T11:00:00+10:00
-coverImage: ../images/gallery/2022-03-13-lake-george/Lake George.jpeg
+coverImage: ../../../images/gallery/2022-03-13-lake-george/Lake George.jpeg
 gallery: 2022-03-13-lake-george
 categories:
-  - Travel
+  - travel
 tags:
   - Canberra
   - lake

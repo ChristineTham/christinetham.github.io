@@ -16,6 +16,8 @@ export interface Props {
 const { tag } = Astro.params
 const { page } = Astro.props
 
+import coverImage from '../../../images/svg/undraw/add_notes.svg'
+import socialImage from '../../../images/undraw/add_notes.png'
 const frontmatter: Frontmatter = {
   title: 'Tag: ' + tag + (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
   description:
@@ -26,9 +28,10 @@ const frontmatter: Frontmatter = {
     ' (total ' +
     page.total +
     ')',
-  coverImage: '../images/svg/undraw/add_notes.svg',
-  socialImage: '../images/undraw/add_notes.png',
+  coverImage: coverImage,
+  socialImage: socialImage,
   publishDate: SiteMetadata.buildTime,
+  categories: []
 }
 
 const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/?$/, '')

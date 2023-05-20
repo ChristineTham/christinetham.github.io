@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Spice World
 publishDate: 2022-07-05T13:00:00+10:00
 description: Lunch at a Malatang restaurant in Chinatown
 images:
-  - ../images/food/Spice World (1).jpeg
-  - ../images/food/Spice World.jpeg
-  - ../images/food/Spice World (2).jpeg
-categories: [Food]
+  - ../../../images/food/Spice World (1).jpeg
+  - ../../../images/food/Spice World.jpeg
+  - ../../../images/food/Spice World (2).jpeg
+categories: [food]
 tags:
   - lunch
   - Malatang

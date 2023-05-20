@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Hong Kong Street Food
 publishDate: 2022-03-30T13:00:00+10:00
 description: New restaurant at Rhodes Central that evokes memories of Hong Kong
 images:
-  - ../images/food/Hong Kong Street Food.jpeg
-categories: [Food]
+  - ../../../images/food/Hong Kong Street Food.jpeg
+categories: [food]
 tags:
   - Hong Kong Street Food
   - lunch

@@ -1,14 +1,14 @@
 ---
 title: Gotong Royong
 description: Gotong royong (group project) at Cat-town making bakwa (loong yoke) and kueh kapek (love letters)
-author: Chris Tham
+author: christie
 publishDate: 2022-01-25T16:00:00+10:00
 images:
-  - ../images/food/Gotong Royong (3).jpeg
-  - ../images/food/Gotong Royong (4).jpeg
-  - ../images/food/Yee Sang.jpeg
+  - ../../../images/food/Gotong Royong (3).jpeg
+  - ../../../images/food/Gotong Royong (4).jpeg
+  - ../../../images/food/Yee Sang.jpeg
 categories:
-  - Food
+  - food
 tags:
   - gotong royong
   - bakwa

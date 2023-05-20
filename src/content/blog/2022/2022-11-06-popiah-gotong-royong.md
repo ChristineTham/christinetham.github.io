@@ -1,13 +1,13 @@
 ---
 title: Popiah Gotong Royong
 description: Cooking a variety of dishes at Ee Vonne's place
-author: Chris Tham
+author: christie
 publishDate: 2022-11-06T21:00:00+10:00
-coverImage: ../images/gallery/2022-11-06-popiah-gotong-royong/Popiah Gotong Royong (1).jpeg
+coverImage: ../../../images/gallery/2022-11-06-popiah-gotong-royong/Popiah Gotong Royong (1).jpeg
 gallery: 2022-11-06-popiah-gotong-royong
 categories:
-  - Event
-  - Food
+  - event
+  - food
 tags:
   - Malaysian
   - dinner

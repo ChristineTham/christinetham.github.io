@@ -1,12 +1,12 @@
 ---
 title: Hong Kong Bing Sutt
 description: Soft opening at 香港冰室 Hong Kong Bing Sutt in Eastwood.
-author: Chris Tham
+author: christie
 publishDate: 2022-02-22T15:00:00+10:00
 images:
-  - ../images/food/Hong Kong Bing Sutt.jpeg
+  - ../../../images/food/Hong Kong Bing Sutt.jpeg
 categories:
-  - Food
+  - food
 tags:
   - Hong Kong
   - afternoon tea

@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Pink Bershka Skirt
 publishDate: 2021-11-25T10:00:00+11:00
 description: This is a Bershka skirt I bought from Malaysia in 2019.
-images: [../images/fashion/Bershka skirt.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Bershka skirt.jpeg]
+categories: [fashion]
 tags:
   - Berhka
   - Malaysia

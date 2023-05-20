@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lane Covelo zoo ride
 publishDate: 2023-04-15T10:00:00+10:00
 images:
-  - ../images/cycling/Lane Covelo zoo.jpeg
+  - ../../../images/cycling/Lane Covelo zoo.jpeg
 description: It's been a while since I showed up for a Saturday ride.
-categories: [Cycling]
+categories: [cycling]
 tags: [Lane Covelo,zoo]
 ---
 Had a good and gentle ride, and afterwards had breakfast at Salt and Jam cafe in Crows Nest.

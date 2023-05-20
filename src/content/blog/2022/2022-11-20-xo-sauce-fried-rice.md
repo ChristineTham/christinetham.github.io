@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: XO Sauce fried rice
 publishDate: 2022-11-20T12:00:00+10:00
 description: From ingredients to wok
-coverImage: ../images/gallery/2022-11-20-xo-sauce-fried-rice/XO sauce fried rice (6).jpeg
+coverImage: ../../../images/gallery/2022-11-20-xo-sauce-fried-rice/XO sauce fried rice (6).jpeg
 gallery: 2022-11-20-xo-sauce-fried-rice
-categories: [Food]
+categories: [food]
 tags:
   - XO sauce
   - rice

@@ -1,13 +1,13 @@
 ---
 title: Day out at Parramatta
 description: Spending time with Lyn's mum and sister
-author: Chris Tham
+author: christie
 publishDate: 2022-10-02T17:00:00+10:00
-coverImage: ../images/gallery/2022-10-02-parramatta/Parramatta (2).jpeg
+coverImage: ../../../images/gallery/2022-10-02-parramatta/Parramatta (2).jpeg
 gallery: 2022-10-02-parramatta
 categories:
-  - Food
-  - Travel
+  - food
+  - travel
 tags:
   - Parramatta
   - Vietnamese

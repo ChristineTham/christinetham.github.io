@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Gold and Black
 publishDate: 2022-03-25T17:00:00+10:00
 description: Attending the Motown concert and harbour cruise
-images: [../images/fashion/Gold and black.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Gold and black.jpeg]
+categories: [fashion]
 tags:
   - gold
   - black

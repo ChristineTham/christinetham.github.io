@@ -2,11 +2,11 @@
 draft: false
 title: Home Network
 description: A new year to usher in a reconfiguration of our home network
-author: Chris Tham
+author: christie
 publishDate: 2023-01-30T00:00:00.000Z
 categories:
-  - Create
-  - Software
+  - create
+  - software
 tags:
   - plantuml
   - home

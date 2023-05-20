@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Hello Kitty on Bliss
 publishDate: 2022-01-31T10:00:00+10:00
 description: My new riding buddy
 images:
-  - ../images/cycling/Hello Kitty on Bliss (1).jpeg
-  - ../images/cycling/Hello Kitty on Bliss.jpeg
-categories: [Cycling]
+  - ../../../images/cycling/Hello Kitty on Bliss (1).jpeg
+  - ../../../images/cycling/Hello Kitty on Bliss.jpeg
+categories: [cycling]
 tags:
   - bicycle
   - Olmo

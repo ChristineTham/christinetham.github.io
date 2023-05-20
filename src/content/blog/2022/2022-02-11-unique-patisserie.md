@@ -1,13 +1,13 @@
 ---
 title: Unique Patisserie
 description: Well known place in Katoomba that serves Malaysian food along with cakes.
-author: Chris Tham
+author: christie
 publishDate: 2022-02-11T13:00:00+10:00
 images:
-  - ../images/food/Unique Patisserie (1).jpeg
-  - ../images/food/Unique Patisserie (2).jpeg
+  - ../../../images/food/Unique Patisserie (1).jpeg
+  - ../../../images/food/Unique Patisserie (2).jpeg
 categories:
-  - Food
+  - food
 tags:
   - Unique Patisserie
   - Malaysian

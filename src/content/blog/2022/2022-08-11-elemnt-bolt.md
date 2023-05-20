@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Wahoo ELEMNT Bolt
 publishDate: 2022-08-11T10:00:00+10:00
 description: Bought the Bolt for Bliss
 images:
-  - ../images/cycling/ELEMNT Bolt.jpeg
-  - ../images/cycling/ELEMNT Bolt (1).jpeg
-  - ../images/cycling/ELEMNT Bolt (2).jpeg
-categories: [Cycling]
+  - ../../../images/cycling/ELEMNT Bolt.jpeg
+  - ../../../images/cycling/ELEMNT Bolt (1).jpeg
+  - ../../../images/cycling/ELEMNT Bolt (2).jpeg
+categories: [cycling]
 tags:
   - Wahoo
   - ELEMNT

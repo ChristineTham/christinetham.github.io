@@ -1,11 +1,11 @@
 ---
 title: Bach Two Part Invention No. 1
 description: Piano solo
-author: Chris Tham
+author: christie
 publishDate: 2012-05-02T06:49:55+00:00
 categories:
-  - Music
-  - Create
+  - music
+  - create
 tags:
   - JS Bach
   - music

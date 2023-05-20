@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Casarecce
 publishDate: 2022-04-25T12:00:00+10:00
 description: Quick and delicious lunch
 images:
-  - ../images/food/Casarecce.jpeg
-categories: [Food]
+  - ../../../images/food/Casarecce.jpeg
+categories: [food]
 tags:
   - vegetarian
   - Italian

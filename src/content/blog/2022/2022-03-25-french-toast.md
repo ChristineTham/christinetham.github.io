@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: French toast
 publishDate: 2022-03-25T12:00:00+10:00
 images:
-  - ../images/food/French toast.jpeg
-  - ../images/food/French toast (1).jpeg
+  - ../../../images/food/French toast.jpeg
+  - ../../../images/food/French toast (1).jpeg
 description: Cooking my mum's version of French toast
-categories: [Food]
+categories: [food]
 tags:
   - lunch
   - french toast

@@ -1,13 +1,13 @@
 ---
 title: Hunter Valley trip - Hunter Valley Gardens
 description: Wandering around the gardens relatively rain-free
-author: Chris Tham
+author: christie
 publishDate: 2022-10-06T13:00:00+10:00
-coverImage: ../images/gallery/2022-10-06-hunter-valley-gardens/Amphitheatre (1).jpeg
+coverImage: ../../../images/gallery/2022-10-06-hunter-valley-gardens/Amphitheatre (1).jpeg
 gallery: 2022-10-06-hunter-valley-gardens
 categories:
-  - Travel
-  - Garden
+  - travel
+  - garden
 tags:
   - Hunter Valley
   - Hunter Valley Gardens

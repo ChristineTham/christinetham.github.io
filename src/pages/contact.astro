@@ -5,13 +5,16 @@ import Map from '../components/map.astro'
 import PageHero from '../components/pagehero.astro'
 import { SiteMetadata } from '../config'
 
+import coverImage from '../images/svg/undraw/contact_us.svg'
+import socialImage from '../images/undraw/contact_us.png'
 const frontmatter = {
   title: 'Contact',
   description:
     'You can contact me through the following ways.',
-  coverImage: '../images/svg/undraw/contact_us.svg',
-  socialImage: '../images/undraw/contact_us.png',
+  coverImage: coverImage,
+  socialImage: socialImage,
   publishDate: SiteMetadata.buildTime,
+  categories: []
 }
 ---
 

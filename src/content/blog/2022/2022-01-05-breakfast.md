@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Banana, yogurt, blueberry and muesli
 publishDate: 2022-01-05T08:00:00+10:00
 description: Who says breakfast can't look like dessert
-images: [../images/food/Banana yogurt blueberry muesli.jpeg]
-categories: [Food]
+images: [../../../images/food/Banana yogurt blueberry muesli.jpeg]
+categories: [food]
 tags:
   - banana
   - yogurt

@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Ho Jiak Strathfield
 publishDate: 2023-02-19T17:00:00+10:00
 description: Late lunch/early dinner with 15% promotion
 images:
-  - ../images/food/Ho Jiak Strathfield.jpeg
-categories: [Food]
+  - ../../../images/food/Ho Jiak Strathfield.jpeg
+categories: [food]
 tags:
   - Malaysian
   - lunch

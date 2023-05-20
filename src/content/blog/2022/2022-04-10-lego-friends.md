@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: LEGO Friends
 publishDate: 2022-04-10T10:00:00+10:00
 description: I love this combo - reminds me of LEGO Friends
-images: [../images/fashion/LEGO Friends (1).jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/LEGO Friends (1).jpeg]
+categories: [fashion]
 tags:
   - LEGO
   - Friends

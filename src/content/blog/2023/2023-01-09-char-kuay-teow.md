@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Char Kuay Teow
 publishDate: 2023-01-09T13:00:00+10:00
 description: Recreating a famous Malaysian dish
 images:
-  - ../images/food/Char Kuay Teow.jpeg
-categories: [Food]
+  - ../../../images/food/Char Kuay Teow.jpeg
+categories: [food]
 tags:
   - char kuay teow
   - wok

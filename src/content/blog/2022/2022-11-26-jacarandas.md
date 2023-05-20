@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Jacarandas in Chatswood
 publishDate: 2022-11-26T07:00:00+10:00
 description: Sign of spring
 images:
-  - ../images/blog/Chatswood Jacaranda.jpeg
-categories: [Event]
+  - ../../../images/blog/Chatswood Jacaranda.jpeg
+categories: [event]
 tags:
   - Chatswood
   - Jacarandas

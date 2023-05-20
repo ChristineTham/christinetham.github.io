@@ -1,14 +1,14 @@
 ---
-author: Chris Tham
+author: christie
 title: Nepean Dam
 publishDate: 2022-03-29T15:00:00+10:00
 description: Majestic spillway after rain
 images:
-  - ../images/blog/Nepean Dam.jpeg
-  - ../images/blog/Nepean Dam (1).jpeg
-  - ../images/blog/Nepean Dam (2).jpeg
-  - ../images/blog/Nepean Dam (3).jpeg
-categories: [Travel]
+  - ../../../images/blog/Nepean Dam.jpeg
+  - ../../../images/blog/Nepean Dam (1).jpeg
+  - ../../../images/blog/Nepean Dam (2).jpeg
+  - ../../../images/blog/Nepean Dam (3).jpeg
+categories: [travel]
 tags:
   - Nepean
   - dam

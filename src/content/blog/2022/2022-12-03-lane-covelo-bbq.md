@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Lane Covelo Post ride BBQ
 publishDate: 2022-12-03T11:00:00+10:00
 description: Lunch at Hokkian Kia, followed by dessert at Albee's Kitchen
 images:
-  - ../images/cycling/Lane Covelo Xmas BBQ.jpeg
-  - ../images/cycling/Lane Covelo Xmas BBQ (1).jpeg
-  - ../images/cycling/Lane Covelo Xmas BBQ (2).jpeg
-categories: [Cycling, Food]
+  - ../../../images/cycling/Lane Covelo Xmas BBQ.jpeg
+  - ../../../images/cycling/Lane Covelo Xmas BBQ (1).jpeg
+  - ../../../images/cycling/Lane Covelo Xmas BBQ (2).jpeg
+categories: [cycling, food]
 tags:
   - Lane Covelo
   - BBQ

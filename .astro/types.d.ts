@@ -198,7 +198,16 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"bio": {
+		"author": {
+"christie.md": {
+	id: "christie.md";
+  slug: "christie";
+  body: string;
+  collection: "author";
+  data: InferEntrySchema<"author">
+} & { render(): Render[".md"] };
+};
+"bio": {
 "childhood.md": {
 	id: "childhood.md";
   slug: "childhood";
@@ -4939,6 +4948,229 @@ declare module 'astro:content' {
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+};
+"category": {
+"art.md": {
+	id: "art.md";
+  slug: "art";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"create.md": {
+	id: "create.md";
+  slug: "create";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"cycling.md": {
+	id: "cycling.md";
+  slug: "cycling";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"design.md": {
+	id: "design.md";
+  slug: "design";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"dream.md": {
+	id: "dream.md";
+  slug: "dream";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"event.md": {
+	id: "event.md";
+  slug: "event";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"fashion.md": {
+	id: "fashion.md";
+  slug: "fashion";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"food.md": {
+	id: "food.md";
+  slug: "food";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"garden.md": {
+	id: "garden.md";
+  slug: "garden";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"music.md": {
+	id: "music.md";
+  slug: "music";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"photography.md": {
+	id: "photography.md";
+  slug: "photography";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"software.md": {
+	id: "software.md";
+  slug: "software";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"travel.md": {
+	id: "travel.md";
+  slug: "travel";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+"website.md": {
+	id: "website.md";
+  slug: "website";
+  body: string;
+  collection: "category";
+  data: InferEntrySchema<"category">
+} & { render(): Render[".md"] };
+};
+"page": {
+"privacy.md": {
+	id: "privacy.md";
+  slug: "privacy";
+  body: string;
+  collection: "page";
+  data: InferEntrySchema<"page">
+} & { render(): Render[".md"] };
+};
+"website": {
+"buddhavacana.md": {
+	id: "buddhavacana.md";
+  slug: "buddhavacana";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"chakra.md": {
+	id: "chakra.md";
+  slug: "chakra";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"christham-hugo.md": {
+	id: "christham-hugo.md";
+  slug: "christham-hugo";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"hello-astro.md": {
+	id: "hello-astro.md";
+  slug: "hello-astro";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"hello-gatsby.md": {
+	id: "hello-gatsby.md";
+  slug: "hello-gatsby";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"hello-jekyll.md": {
+	id: "hello-jekyll.md";
+  slug: "hello-jekyll";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"hellotham.md": {
+	id: "hellotham.md";
+  slug: "hellotham";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"hons87.md": {
+	id: "hons87.md";
+  slug: "hons87";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"learningjamstack.md": {
+	id: "learningjamstack.md";
+  slug: "learningjamstack";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"portfolio.md": {
+	id: "portfolio.md";
+  slug: "portfolio";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"prismatic.md": {
+	id: "prismatic.md";
+  slug: "prismatic";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"record.md": {
+	id: "record.md";
+  slug: "record";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"rosebay.md": {
+	id: "rosebay.md";
+  slug: "rosebay";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"rosely.md": {
+	id: "rosely.md";
+  slug: "rosely";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"travel.md": {
+	id: "travel.md";
+  slug: "travel";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
+} & { render(): Render[".md"] };
+"visualvoyager.md": {
+	id: "visualvoyager.md";
+  slug: "visualvoyager";
+  body: string;
+  collection: "website";
+  data: InferEntrySchema<"website">
 } & { render(): Render[".md"] };
 };
 

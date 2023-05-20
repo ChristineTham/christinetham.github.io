@@ -1,13 +1,13 @@
 ---
 title: Bundanoon Garden Ramble
 description: Visiting the gardens at Bundanoon
-author: Chris Tham
+author: christie
 publishDate: 2022-10-30T16:00:00+10:00
-coverImage: ../images/gallery/2022-10-30-bundanoon/The Old Orchard (20).jpeg
+coverImage: ../../../images/gallery/2022-10-30-bundanoon/The Old Orchard (20).jpeg
 gallery: 2022-10-30-bundanoon
 categories:
-  - Travel
-  - Event
+  - travel
+  - event
 tags:
   - Bundanoon
   - garden

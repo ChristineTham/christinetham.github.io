@@ -1,10 +1,10 @@
 ---
 title: Captain's Log
 description: Missing dry land
-author: Chris Tham
+author: christie
 publishDate: 2022-03-09T00:00:00.000Z
 categories:
-  - Create
+  - create
 tags:
   - rain
 ---

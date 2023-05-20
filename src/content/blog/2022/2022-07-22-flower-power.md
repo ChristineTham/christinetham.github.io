@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Flower Power
 publishDate: 2022-07-22T13:00:00+10:00
 description: Lunch at Terrey Hills after kimono shopping
 images:
-  - ../images/food/Flower Power.jpeg
-  - ../images/food/Flower Power (1).jpeg
-categories: [Food]
+  - ../../../images/food/Flower Power.jpeg
+  - ../../../images/food/Flower Power (1).jpeg
+categories: [food]
 tags:
   - lunch
   - Terrey Hills

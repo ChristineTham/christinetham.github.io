@@ -1,13 +1,13 @@
 ---
 title: Xmas Party at Rita's house
 description: Delightful Xmas lunch with Thai food hosted by Cat Bowrey
-author: Chris Tham
+author: christie
 publishDate: 2021-12-12T16:00:00+10:00
 images:
-  - ../images/food/Rita Xmas party.jpeg
+  - ../../../images/food/Rita Xmas party.jpeg
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - Malaysian
   - lunch

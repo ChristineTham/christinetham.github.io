@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Black dress
 publishDate: 2023-04-27T08:00:00+10:00
 description: Trying on an old dress that barely fits.
 images:
-  - ../images/fashion/Black dress.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Black dress.jpeg
+categories: [fashion]
 tags:
   - black
   - dress

@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Braving Time
 publishDate: 2023-02-24T14:00:00+10:00
-coverImage: ../images/gallery/2023-02-24-braving-time/Braving Time.jpeg
+coverImage: ../../../images/gallery/2023-02-24-braving-time/Braving Time.jpeg
 gallery: 2023-02-24-braving-time
 description: Contemporary Queer Exhibition at the National Art School
-categories: [Event,Art]
+categories: [event,art]
 tags:
   - art
   - World Pride

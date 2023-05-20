@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Various Photos taken around Darling Harbour
 publishDate: 2022-08-14T15:00:00+10:00
 description: Featuring LEGO minifigs and Whale Tales
 images:
-  - ../images/blog/Lego minifigs (2).jpeg
-  - ../images/blog/Whale Tales.jpeg
-  - ../images/blog/Whale Tales (2).jpeg
-categories: [Event, Fashion]
+  - ../../../images/blog/Lego minifigs (2).jpeg
+  - ../../../images/blog/Whale Tales.jpeg
+  - ../../../images/blog/Whale Tales (2).jpeg
+categories: [event, fashion]
 tags:
   - Darling Harbour
   - LEGO

@@ -1,12 +1,12 @@
 ---
 title: Guildford Dinner
 description: A Malaysian roadstill staff experience
-author: Chris Tham
+author: christie
 publishDate: 2022-11-24T21:00:00+10:00
 images:
-  - ../images/food/Guildford (3).jpeg
+  - ../../../images/food/Guildford (3).jpeg
 categories:
-  - Food
+  - food
 tags:
   - Malaysian
   - dinner

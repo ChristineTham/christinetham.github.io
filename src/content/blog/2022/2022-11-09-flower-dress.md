@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Flower dress
 publishDate: 2022-11-09T11:00:00+10:00
 description: Reflections on my health
 images:
-  - ../images/fashion/Flower dress (1).jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Flower dress (1).jpeg
+categories: [fashion]
 tags:
   - Tokito
   - flower

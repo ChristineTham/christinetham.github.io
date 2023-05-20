@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Bankstown lunch at Huong Xua
 publishDate: 2023-03-06T14:00:00+10:00
 description: Lunch, followed by drinks at Bankstown Sports Club
 images:
-  - ../images/food/Huong Xua.jpeg
-  - ../images/food/Huong Xua (2).jpeg
-  - ../images/food/Bankstown Sports Club.jpeg
-categories: [Food]
+  - ../../../images/food/Huong Xua.jpeg
+  - ../../../images/food/Huong Xua (2).jpeg
+  - ../../../images/food/Bankstown Sports Club.jpeg
+categories: [food]
 tags:
   - Vietnamese
   - lunch

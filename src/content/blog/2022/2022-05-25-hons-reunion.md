@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: 35th year Graduation Reunion
 publishDate: 2022-05-25T21:00:00+10:00
 description: A group of us gathered at the University of Sydney
-images: [../images/blog/Hons Reunion (1).jpeg]
-categories: [Event, Food]
+images: [../../../images/blog/Hons Reunion (1).jpeg]
+categories: [event, food]
 tags:
   - university
   - reunion

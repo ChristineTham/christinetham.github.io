@@ -1,15 +1,16 @@
 ---
-import Img from '../components/img.astro'
-
+import type { ImageMetadata } from 'astro'
+import { Image } from 'astro:assets'
+import { defaultImage } from '../config'
 export interface Props {
   title: string
   description?: string
-  coverImage?: string
-  socialImage?: string
+  coverImage?: ImageMetadata
+  socialImage?: ImageMetadata
 }
 
-const { title, description, coverImage, socialImage } =
-  Astro.props
+const { title, description, coverImage, socialImage } = Astro.props
+const image = coverImage || socialImage || defaultImage
 ---
 
 <div class="w-full max-w-none relative h-96 bg-rosely7 dark:bg-rosely8">
@@ -17,12 +18,20 @@ const { title, description, coverImage, socialImage } =
     class="absolute left-0 bottom-0 w-full h-full z-10 bg-gradient-to-t from-rosely0"
   >
   </div>
-    <Img
-      itemprop="image"
-      src={coverImage || socialImage}
-      alt={title}
-      class="absolute left-0 top-0 w-full h-full z-0 object-contain"
-    />
+    {image.format == 'svg'
+      ? <img
+          itemprop="image"
+          src={image.src}
+          alt={title}
+          class="absolute left-0 top-0 w-full h-full z-0 object-contain"
+        />
+      : <Image
+          itemprop="image"
+          src={image}
+          alt={title}
+          class="absolute left-0 top-0 w-full h-full z-0 object-contain"
+        />
+    }
   <div class="p-4 absolute bottom-0 left-0 z-20">
     <slot name="before" />
     <h2 itemprop="name" class="text-4xl font-bold text-rosely3 leading-tight">{title}</h2>

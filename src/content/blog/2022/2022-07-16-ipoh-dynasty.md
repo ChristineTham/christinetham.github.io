@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Ipoh Dynasty
 publishDate: 2022-07-16T13:00:00+10:00
 description: New Malaysian restaurant at Campsie
 images:
-  - ../images/food/Ipoh Dynasty.jpeg
-categories: [Food]
+  - ../../../images/food/Ipoh Dynasty.jpeg
+categories: [food]
 tags:
   - lunch
   - Campsie

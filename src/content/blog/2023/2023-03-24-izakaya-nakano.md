@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Dinner at Izakaya Nakano
 publishDate: 2023-03-24T21:00:00+10:00
 description: An authentic Japanese izakaya tucked away in a quiet part of Chatswood.
 images:
-  - ../images/food/Izakaya Nakano.jpeg
-categories: [Food]
+  - ../../../images/food/Izakaya Nakano.jpeg
+categories: [food]
 tags:
   - Japanese
   - Izakaya Nakano

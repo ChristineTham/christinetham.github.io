@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: SydneyStreets Stanley St Festival
 description: Wandering around the city, and ending up at Stanley St
 publishDate: 2023-03-18T11:00:00+10:00
-coverImage: ../images/gallery/2023-03-18-stanley-st/Sydney Streets on Stanley.jpeg
+coverImage: ../../../images/gallery/2023-03-18-stanley-st/Sydney Streets on Stanley.jpeg
 gallery: 2023-03-18-stanley-st
-categories: [Travel]
+categories: [travel]
 tags:
   - Sofitel
   - SydneyStreets

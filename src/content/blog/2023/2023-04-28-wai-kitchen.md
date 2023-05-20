@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Ee Vonne's birthday lunch at Wai's Kitchen
 publishDate: 2023-04-28T13:00:00+10:00
 description: Surprise birthday lunch organised at this suburban Chinese restaurant at Pennant Hills.
 images:
-  - ../images/food/Wai's Kitchen.jpeg
-categories: [Food,Event]
+  - ../../../images/food/Wai's Kitchen.jpeg
+categories: [food,event]
 tags:
   - Chinese
   - lunch

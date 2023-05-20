@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Ya Malaysia lunch
 publishDate: 2023-01-03T13:00:00+10:00
 description: Eating at Pho Saigon with family
 images:
-  - ../images/food/Ya Malaysia (2).jpeg
-categories: [Food]
+  - ../../../images/food/Ya Malaysia (2).jpeg
+categories: [food]
 tags:
   - Ya Malaysia
   - Malaysian

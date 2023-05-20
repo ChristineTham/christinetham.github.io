@@ -1,13 +1,13 @@
 ---
 title: Spring blossom at Nurragingy Reserve
 description: Chang Lai Yuan Garden in a kimono
-author: Chris Tham
+author: christie
 publishDate: 2022-09-17T15:00:00+10:00
-coverImage: ../images/gallery/2022-09-17-nurragingy-reserve/Nurragingy Reserve (1).jpeg
+coverImage: ../../../images/gallery/2022-09-17-nurragingy-reserve/Nurragingy Reserve (1).jpeg
 gallery: 2022-09-17-nurragingy-reserve
 categories:
-  - Garden
-  - Fashion
+  - garden
+  - fashion
 tags:
   - spring
   - blossom

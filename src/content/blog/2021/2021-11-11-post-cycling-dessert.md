@@ -1,14 +1,14 @@
 ---
 title: Post cycling dessert
 description: Post cycling taro latte and lychee and rose cake
-author: Chris Tham
+author: christie
 publishDate: 2021-11-11T11:00:00+10:00
 images:
-  - ../images/cycling/Post cycling dessert.jpeg
-  - ../images/cycling/Post cycling dessert (1).jpeg
+  - ../../../images/cycling/Post cycling dessert.jpeg
+  - ../../../images/cycling/Post cycling dessert (1).jpeg
 categories:
-  - Food
-  - Cycling
+  - food
+  - cycling
 tags:
   - Leaf Cafe
   - dessert

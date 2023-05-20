@@ -1,12 +1,12 @@
 ---
 title: Lunch at Malay Chinese
 description: Visiting memory lane by eating at an old haunt
-author: Chris Tham
+author: christie
 publishDate: 2022-03-18T13:00:00+10:00
 images:
-  - ../images/food/Malay Chinese.jpeg
+  - ../../../images/food/Malay Chinese.jpeg
 categories:
-  - Food
+  - food
 tags:
   - Malaysian
   - Malay Chinese

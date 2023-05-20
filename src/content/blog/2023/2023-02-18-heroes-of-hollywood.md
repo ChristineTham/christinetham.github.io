@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Heroes of Hollywood
 publishDate: 2023-02-18T21:00:00+10:00
 description: Willoughby Symphony Orchestra performance at the Concourse Chatswood concert hall
 images:
-  - ../images/blog/Heroes of Hollywood.jpeg
-  - ../images/blog/Heroes of Hollywood (2).jpeg
-categories: [Event]
+  - ../../../images/blog/Heroes of Hollywood.jpeg
+  - ../../../images/blog/Heroes of Hollywood (2).jpeg
+categories: [event]
 tags:
   - Chatswood
   - Concourse

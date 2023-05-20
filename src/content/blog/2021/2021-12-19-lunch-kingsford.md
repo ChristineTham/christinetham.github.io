@@ -1,12 +1,12 @@
 ---
 title: Lunch at Kingsford
 description: Simple lunch with Ma
-author: Chris Tham
+author: christie
 publishDate: 2021-12-19T13:00:00+10:00
 images:
-  - ../images/food/Kingsford lunch (1).jpeg
+  - ../../../images/food/Kingsford lunch (1).jpeg
 categories:
-  - Food
+  - food
 tags:
   - family
   - Kingsford

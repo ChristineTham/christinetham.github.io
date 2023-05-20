@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Buddha Bowl
 publishDate: 2022-12-24T11:00:00+10:00
 description: Pretty bowl with lots of avocado at Salt & Jam
 images:
-  - ../images/food/Buddha Bowl.jpeg
-categories: [Food]
+  - ../../../images/food/Buddha Bowl.jpeg
+categories: [food]
 tags:
   - vegetarian
   - brunch

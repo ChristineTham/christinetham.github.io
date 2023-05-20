@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: AWS Summit
 publishDate: 2023-04-04T18:00:00+10:00
 images:
-  - ../images/blog/AWS Summit.jpeg
-  - ../images/blog/AWS Summit (1).jpeg
+  - ../../../images/blog/AWS Summit.jpeg
+  - ../../../images/blog/AWS Summit (1).jpeg
 description: AWS Summit is back to being in person at the Sydney International Convention Centre.
-categories: [Event]
+categories: [event]
 tags: [AWS]
 ---
 AWS Summit this year is back to being an in person event, so it was good to visit it and see life returning to normal.

@@ -1,12 +1,12 @@
 ---
 title: Lunch at Kingsford
 description: Lunch with the family
-author: Chris Tham
+author: christie
 publishDate: 2022-01-29T13:00:00+10:00
 images:
-  - ../images/food/Kingsford Lunch.jpeg
+  - ../../../images/food/Kingsford Lunch.jpeg
 categories:
-  - Food
+  - food
 tags:
   - family
   - Kingsford

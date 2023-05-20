@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Summer dress
 publishDate: 2023-03-18T08:00:00+10:00
 description: I bought this summery mini dress from JB Premium Outlets in Malaysia.
 images:
-  - ../images/fashion/Summer dress.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Summer dress.jpeg
+categories: [fashion]
 tags:
   - Summer
   - dress

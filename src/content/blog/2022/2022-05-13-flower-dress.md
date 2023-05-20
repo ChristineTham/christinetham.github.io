@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Flower dress
 publishDate: 2022-05-13T17:00:00+10:00
 description: Pretty and feminine
-images: [../images/fashion/Flower dress.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Flower dress.jpeg]
+categories: [fashion]
 tags:
   - dress
   - flower

@@ -90,12 +90,15 @@ const patterns = [
   wallpaper('#d2386c', 0.5),
 ]
 
+import coverImage from '../images/svg/undraw/add_notes.svg'
+import socialImage from '../images/undraw/add_notes.png'
 const frontmatter: Frontmatter = {
   title: 'Tags',
   description: 'Articles by tags',
-  coverImage: '../images/svg/undraw/add_notes.svg',
-  socialImage: '../images/undraw/add_notes.png',
+  coverImage: coverImage,
+  socialImage: socialImage,
   publishDate: SiteMetadata.buildTime,
+  categories: []
 }
 
 const posts = await getCollection('blog')

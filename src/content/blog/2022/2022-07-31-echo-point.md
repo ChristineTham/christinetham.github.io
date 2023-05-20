@@ -1,12 +1,12 @@
 ---
 title: Echo Point in the morning
 description: Jamison Valley covered in mist
-author: Chris Tham
+author: christie
 publishDate: 2022-07-31T08:00:00+10:00
-coverImage: ../images/gallery/2022-07-31-echo-point/Echo Point (3).jpeg
+coverImage: ../../../images/gallery/2022-07-31-echo-point/Echo Point (3).jpeg
 gallery: 2022-07-31-echo-point
 categories:
-  - Travel
+  - travel
 tags:
   - Echo Point
   - morning

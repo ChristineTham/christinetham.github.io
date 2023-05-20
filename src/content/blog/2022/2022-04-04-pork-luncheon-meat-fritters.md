@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Pork luncheon meat fritters
 publishDate: 2022-04-04T12:00:00+10:00
-images: [../images/food/Pork luncheon meat fritters.jpeg]
+images: [../../../images/food/Pork luncheon meat fritters.jpeg]
 description: My favourite childhood food
-categories: [Food]
+categories: [food]
 tags:
   - lunch
   - pork luncheon meat

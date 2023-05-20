@@ -1,12 +1,12 @@
 ---
 title: Port Macquarie trip - Coastal Walk
 description: Doing the famous 9km walk
-author: Chris Tham
+author: christie
 publishDate: 2022-05-14T17:00:00+10:00
-coverImage: ../images/gallery/2022-05-14-coastal-walk/Little Bay (7).jpeg
+coverImage: ../../../images/gallery/2022-05-14-coastal-walk/Little Bay (7).jpeg
 gallery: 2022-05-14-coastal-walk
 categories:
-  - Travel
+  - travel
 tags:
   - Port Macquarie
   - coastal walk

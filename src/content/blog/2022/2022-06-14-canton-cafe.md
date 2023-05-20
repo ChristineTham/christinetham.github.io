@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Canton Cafe
 publishDate: 2022-06-14T13:00:00+10:00
 description: Hong Kong style food at Eastwood
 images:
-  - ../images/food/Canton Cafe.jpeg
-categories: [Food]
+  - ../../../images/food/Canton Cafe.jpeg
+categories: [food]
 tags:
   - lunch
   - Eastwood

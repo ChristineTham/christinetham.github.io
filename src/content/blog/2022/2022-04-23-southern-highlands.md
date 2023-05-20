@@ -1,13 +1,13 @@
 ---
 title: Southern Highlands trip Day 1
 description: Girls road trip to Southern Highlands to visit Open Gardens
-author: Chris Tham
+author: christie
 publishDate: 2022-04-23T21:00:00+10:00
-coverImage: ../images/gallery/2022-04-23-southern-highlands/Highdown (7).jpeg
+coverImage: ../../../images/gallery/2022-04-23-southern-highlands/Highdown (7).jpeg
 gallery: 2022-04-23-southern-highlands
 categories:
-  - Travel
-  - Garden
+  - travel
+  - garden
 tags:
   - Southern Highlands
   - autumn

@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Ma Po Tofu with Abalone and Mushrooms
 publishDate: 2022-01-31T12:00:00+10:00
 images:
-  - ../images/food/Ma Po Tofu with mushroom (1).jpeg
-  - ../images/food/Ma Po Tofu with mushroom.jpeg
-  - ../images/food/Ma Po Tofu with mushroom (2).jpeg
+  - ../../../images/food/Ma Po Tofu with mushroom (1).jpeg
+  - ../../../images/food/Ma Po Tofu with mushroom.jpeg
+  - ../../../images/food/Ma Po Tofu with mushroom (2).jpeg
 description: A variation of a popular Szechuan dish
-categories: [Food]
+categories: [food]
 tags:
   - tofu
   - abalone

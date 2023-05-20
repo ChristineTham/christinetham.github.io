@@ -1,12 +1,12 @@
 ---
 title: Fagan Park
 description: Gardens of Many Nations
-author: Chris Tham
+author: christie
 publishDate: 2022-01-08T12:00:00+10:00
-coverImage: ../images/gallery/2022-01-08-fagan-park/Australian Garden (1).jpeg
+coverImage: ../../../images/gallery/2022-01-08-fagan-park/Australian Garden (1).jpeg
 gallery: 2022-01-08-fagan-park
 categories:
-  - Travel
+  - travel
 tags:
   - Fagan Park
   - Galston

@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Bomber jacket
 publishDate: 2022-06-18T11:00:00+10:00
 description: Bought from Ebay
-images: [../images/fashion/Bomber jacket.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Bomber jacket.jpeg]
+categories: [fashion]
 tags:
   - bomber jacket
   - black

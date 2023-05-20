@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Cat Cooking Class
 publishDate: 2023-03-13T16:00:00+10:00
 description: Three Thai appetisers featuring pork
 images:
-  - ../images/food/Thai Appetizers cooking class.jpeg
-  - ../images/food/Pork toast (5).jpeg
-categories: [Food]
+  - ../../../images/food/Thai Appetizers cooking class.jpeg
+  - ../../../images/food/Pork toast (5).jpeg
+categories: [food]
 tags:
   - Chinese
   - lunch

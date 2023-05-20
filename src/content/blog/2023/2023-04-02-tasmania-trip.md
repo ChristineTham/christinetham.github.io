@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Tasmania Trip
 publishDate: 2023-04-03T18:00:00+11:00
 description: We returned back to Tasmania after 5 years on 27 March-3 April 2023 to discover what has changed since the COVID lockdown.
-coverImage: ../images/blog/Tasmania 2023.jpeg
-categories: [Travel]
+coverImage: ../../../images/blog/Tasmania 2023.jpeg
+categories: [travel]
 tags:
   - Tasmania
   - Hobart

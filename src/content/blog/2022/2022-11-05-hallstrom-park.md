@@ -1,12 +1,12 @@
 ---
 title: Hallstrom Park and the Incinerator
 description: Relaxing at Willoughby after our walk
-author: Chris Tham
+author: christie
 publishDate: 2022-11-05T14:00:00+10:00
-coverImage: ../images/gallery/2022-11-05-hallstrom-park/Hallstrom Park (2).jpeg
+coverImage: ../../../images/gallery/2022-11-05-hallstrom-park/Hallstrom Park (2).jpeg
 gallery: 2022-11-05-hallstrom-park
 categories:
-  - Travel
+  - travel
 tags:
   - Hallstrom Park
   - Incinerator

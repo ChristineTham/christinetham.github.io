@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Karen's birthday
 publishDate: 2023-01-06T21:00:00+10:00
 description: Celebrating with dinner at Nanako Darling
 images:
-  - ../images/food/Karen's birthday (2).jpeg
-categories: [Food, Event]
+  - ../../../images/food/Karen's birthday (2).jpeg
+categories: [food, event]
 tags:
   - Nanako Darling
   - Japanese

@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Pink Kebaya
 publishDate: 2022-11-12T18:00:00+10:00
 description: Kebaya set from Penang
 images:
-  - ../images/fashion/Pink kebaya.jpeg
-  - ../images/fashion/Pink Kebaya (1).jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Pink kebaya.jpeg
+  - ../../../images/fashion/Pink Kebaya (1).jpeg
+categories: [fashion]
 tags:
   - pink
   - kebaya

@@ -1,13 +1,13 @@
 ---
 title: Suckling Pig Xmas lunch
 description: Second year of feasting on suckling pig at Four in Hand
-author: Chris Tham
+author: christie
 publishDate: 2021-12-17T18:00:00+10:00
-coverImage: ../images/gallery/2021-12-17-suckling-pig/Suckling Pig (6).jpeg
+coverImage: ../../../images/gallery/2021-12-17-suckling-pig/Suckling Pig (6).jpeg
 gallery: 2021-12-17-suckling-pig
 categories:
-  - Event
-  - Food
+  - event
+  - food
 tags:
   - Xmas
   - suckling pig

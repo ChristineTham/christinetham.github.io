@@ -1,13 +1,13 @@
 ---
 title: Enlighten Festival
 description: Canberra's culture and creativity festival
-author: Chris Tham
+author: christie
 publishDate: 2022-03-13T21:00:00+10:00
-coverImage: ../images/gallery/2022-03-13-enlighten/Enlighten Canberra.jpeg
+coverImage: ../../../images/gallery/2022-03-13-enlighten/Enlighten Canberra.jpeg
 gallery: 2022-03-13-enlighten
 categories:
-  - Travel
-  - Event
+  - travel
+  - event
 tags:
   - Canberra
   - Enlighten festival

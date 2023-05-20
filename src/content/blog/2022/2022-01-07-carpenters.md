@@ -1,12 +1,12 @@
 ---
 title: Carpenters
 description: Classic Carpenters self titled album
-author: Chris Tham
+author: christie
 publishDate: 2022-01-07T00:00:00.000Z
 images:
-  - ../images/blog/Carpenters.jpeg
+  - ../../../images/blog/Carpenters.jpeg
 categories:
-  - Music
+  - music
 tags:
   - LP
   - Carpenters

@@ -1,9 +1,9 @@
 ---
-author: Chris Tham
+author: christie
 title: Investment Update
 publishDate: 2022-10-05T11:00:00+10:00
 description: Reflections on our investment portfolio
-categories: [Create]
+categories: [create]
 tags:
   - portfolio
   - performance

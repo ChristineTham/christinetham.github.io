@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Snow Apple
 publishDate: 2022-03-31T12:00:00+10:00
 description: Pink fluffy top and skirt
-images: [../images/fashion/Snow Apple.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Snow Apple.jpeg]
+categories: [fashion]
 tags:
   - pink
   - fluffy

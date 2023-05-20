@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Tinkerbelle outfit
 publishDate: 2022-12-03T10:00:00+10:00
 description: An old favourite
 images:
-  - ../images/fashion/Tinkerbelle.jpeg
-  - ../images/fashion/Tinkerbelle (1).jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Tinkerbelle.jpeg
+  - ../../../images/fashion/Tinkerbelle (1).jpeg
+categories: [fashion]
 tags:
   - Tinkerbelle
 ---

@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Half Monty results
 publishDate: 2022-12-19T11:00:00+10:00
 images:
-  - ../images/cycling/Half Monty.png
+  - ../../../images/cycling/Half Monty.png
 description: My FTP has improved slightly
-categories: [Cycling]
+categories: [cycling]
 tags: [Wahoo, SYSTM, Half Monty, FTP, MAP, THR]
 ---
 

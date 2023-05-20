@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at My Malaysian Kitchen
 publishDate: 2022-06-17T13:00:00+10:00
 description: Restaurant in Campsie
 images:
-  - ../images/food/My Malaysian Kitchen.jpeg
-categories: [Food]
+  - ../../../images/food/My Malaysian Kitchen.jpeg
+categories: [food]
 tags:
   - lunch
   - Campsie

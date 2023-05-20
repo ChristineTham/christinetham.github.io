@@ -1,12 +1,12 @@
 ---
 title: Royal Easter Show
 description: Sydney's Easter extravaganza
-author: Chris Tham
+author: christie
 publishDate: 2022-04-10T16:00:00+10:00
-coverImage: ../images/gallery/2022-04-10-royal-easter-show/Royal Easter Show (4).jpeg
+coverImage: ../../../images/gallery/2022-04-10-royal-easter-show/Royal Easter Show (4).jpeg
 gallery: 2022-04-10-royal-easter-show
 categories:
-  - Event
+  - event
 tags:
   - Sydney
   - Royal Easter Show

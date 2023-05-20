@@ -1,12 +1,12 @@
 ---
 title: Surry Hills
 description: Walking around Surry Hills
-author: Chris Tham
+author: christie
 publishDate: 2022-12-10T14:00:00+10:00
-coverImage: ../images/gallery/2022-12-10-surry-hills/Crafternoons (1).jpeg
+coverImage: ../../../images/gallery/2022-12-10-surry-hills/Crafternoons (1).jpeg
 gallery: 2022-12-10-surry-hills
 categories:
-  - Travel
+  - travel
 tags:
   - Surry Hills
   - walk

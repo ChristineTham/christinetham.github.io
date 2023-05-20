@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Bollywood movie at Hoyts
 publishDate: 2022-06-05T14:00:00+10:00
 description: Samrat Prithviraj
-images: [../images/blog/Hoyts Bollywood (3).jpeg]
-categories: [Event]
+images: [../../../images/blog/Hoyts Bollywood (3).jpeg]
+categories: [event]
 tags:
   - Samrat Prithviraj
   - film

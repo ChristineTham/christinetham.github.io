@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Kon Loh Mee with minced pork and mushroom/fungus
 publishDate: 2022-11-08T12:00:00+10:00
 description: Creating a dish from yesterday's leftove minced meet
 images:
-  - ../images/food/Kon Loh Mee with minced pork.jpeg
-categories: [Food]
+  - ../../../images/food/Kon Loh Mee with minced pork.jpeg
+categories: [food]
 tags:
   - minced pork
   - mushroom

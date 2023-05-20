@@ -1,12 +1,12 @@
 ---
 title: Breakfast
 description: A breakfast that is very sweet
-author: Chris Tham
+author: christie
 publishDate: 2021-11-19T08:00:00+10:00
 images:
-  - ../images/food/Breakfast dessert.jpeg
+  - ../../../images/food/Breakfast dessert.jpeg
 categories:
-  - Food
+  - food
 tags:
   - breakfast
   - dessert

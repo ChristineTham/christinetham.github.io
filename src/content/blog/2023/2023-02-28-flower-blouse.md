@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Flower blouse
 publishDate: 2023-02-28T08:00:00+10:00
 description: Purchased from a Korean shop
 images:
-  - ../images/fashion/Flower blouse.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Flower blouse.jpeg
+categories: [fashion]
 tags:
   - flower
   - blouse

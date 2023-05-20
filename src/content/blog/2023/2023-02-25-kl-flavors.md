@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Authentic KL Flavors
 publishDate: 2023-02-25T14:00:00+10:00
 description: Malay cafe at Marrickville
 images:
-  - ../images/food/Authentic KL Flavours.jpeg
-  - ../images/food/Authentic KL Flavours (1).jpeg
-categories: [Food]
+  - ../../../images/food/Authentic KL Flavours.jpeg
+  - ../../../images/food/Authentic KL Flavours (1).jpeg
+categories: [food]
 tags:
   - Malaysian
   - lunch
