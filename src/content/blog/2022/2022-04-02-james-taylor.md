@@ -1,12 +1,12 @@
 ---
 title: James Taylor and Carole King tribute concert
 description: Held at the Chatswood Concourse concert hall
-author: Chris Tham
+author: christie
 publishDate: 2022-04-02T21:00:00+10:00
-coverImage: ../images/gallery/2022-04-02-james-taylor/James Taylor and Carole King Concert (8).jpeg
+coverImage: ../../../images/gallery/2022-04-02-james-taylor/James Taylor and Carole King Concert (8).jpeg
 gallery: 2022-04-02-james-taylor
 categories:
-  - Event
+  - event
 tags:
   - concert
   - James Taylor

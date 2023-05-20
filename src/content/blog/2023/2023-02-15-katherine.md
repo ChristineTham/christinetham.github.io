@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Katherine dress
 publishDate: 2023-02-15T08:00:00+10:00
 description: Another thrift shop purchase
 images:
-  - ../images/fashion/Katherine.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Katherine.jpeg
+categories: [fashion]
 tags:
   - Katherine
   - dress

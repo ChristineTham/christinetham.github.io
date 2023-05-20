@@ -1,12 +1,12 @@
 ---
 title: Easter Girls Road trip - Oberon Dam
 description: Finishing off the afternoon with a visit to the dam
-author: Chris Tham
+author: christie
 publishDate: 2022-04-12T17:00:00+10:00
-coverImage: ../images/gallery/2022-04-12-oberon-dam/Oberon Dam (13).jpeg
+coverImage: ../../../images/gallery/2022-04-12-oberon-dam/Oberon Dam (13).jpeg
 gallery: 2022-04-12-oberon-dam
 categories:
-  - Travel
+  - travel
 tags:
   - Oberon Dam
   - Easter

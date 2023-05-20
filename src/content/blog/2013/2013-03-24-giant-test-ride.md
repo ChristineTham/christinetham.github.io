@@ -1,12 +1,12 @@
 ---
 title: Giant Test Ride
 description: Ride around Royal National Park on Giant bicycles
-author: Chris Tham
+author: christie
 publishDate: 2013-03-24T08:00:35+00:00
-coverImage: ../images/gallery/2013-03-24-giant-test-ride/579942_543709955651315_1744278406_n.jpg
+coverImage: ../../../images/gallery/2013-03-24-giant-test-ride/group.jpg
 gallery: 2013-03-24-giant-test-ride
 categories:
-  - Cycling
+  - cycling
 tags:
   - Giant
   - Royal National Park

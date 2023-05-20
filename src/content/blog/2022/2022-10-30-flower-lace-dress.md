@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Flower lace dress
 publishDate: 2022-10-30T10:00:00+10:00
 description: Visiting the Bundanoon Garden Ramble
 images:
-  - ../images/fashion/Flower lace dress.jpeg
-  - ../images/fashion/Pink flower dress.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Flower lace dress.jpeg
+  - ../../../images/fashion/Pink flower dress.jpeg
+categories: [fashion]
 tags:
   - lace
   - flower

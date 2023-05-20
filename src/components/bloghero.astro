@@ -1,20 +1,26 @@
 ---
 import { Icon } from 'astro-icon'
-import { authorDetail, categoryDetail, Frontmatter } from '../config'
+import type { CollectionEntry } from 'astro:content'
+import { getEntry } from 'astro:content'
 import Categories from '../components/categories.astro'
 import Tags from '../components/tags.astro'
-import Img from '../components/img.astro'
+import { Image } from 'astro:assets'
 
 export interface Props {
-  frontmatter: Frontmatter
+  frontmatter: CollectionEntry<'blog'>['data']
 }
 
 const { frontmatter } = Astro.props
 
+const cat = await getEntry(frontmatter.categories[0])
 const image = frontmatter.coverImage ||
   (frontmatter.images && frontmatter.images[0]) ||
   frontmatter.socialImage ||
-  (categoryDetail(frontmatter.categories && frontmatter.categories[0]).coverImage)
+  cat.data.coverImage
+let author = await getEntry('author', 'christie')
+if (frontmatter.author) {
+  author = await getEntry(frontmatter.author)
+}
 ---
 
 <div class="w-full max-w-none relative h-96 bg-rosely7 dark:bg-rosely8">
@@ -22,12 +28,20 @@ const image = frontmatter.coverImage ||
     class="absolute left-0 bottom-0 w-full h-full z-10 bg-gradient-to-t from-rosely0"
   >
   </div>
-  <Img
-    itemprop="image"
-    src={image}
-    alt="featured image"
-    class="absolute left-0 w-full h-full top-0 z-0 object-cover"
-  />
+  {image.format == 'svg'
+    ? <img
+        itemprop="image"
+        src={image.src}
+        alt="featured image"
+        class="absolute left-0 w-full h-full top-0 z-0 object-cover"
+      />
+    : <Image
+        itemprop="image"
+        src={image}
+        alt="featured image"
+        class="absolute left-0 w-full h-full top-0 z-0 object-cover"
+      />
+  }
   <div class="p-4 absolute bottom-0 left-0 z-20">
     <Categories categories={frontmatter.categories} />
     <h2 class="text-4xl font-bold text-rosely3 leading-tight">
@@ -39,21 +53,20 @@ const image = frontmatter.coverImage ||
     <span class="flex mt-3">
       {frontmatter.author && (
         <span class="flex items-center mr-6">
-          <Img
-            src={authorDetail(frontmatter.author).image}
-            alt={frontmatter.author}
+          <Image
+            src={author.data.image}
+            alt={author.data.title}
             class="h-10 w-10 rounded-full mr-2 object-cover"
           />
-          <Icon class="w-6 h-6 mr-1 text-rosely6" pack="heroicons-outline" name="user-circle" />
           <span class="font-semibold text-rosely6">
-            {frontmatter.author}
+            {author.data.title}
           </span>
         </span>
       )}
       <span class="flex items-center mr-6">
         <Icon class="w-6 h-6 mr-1 text-rosely6" pack="heroicons-outline" name="calendar" />
         <span class="font-semibold text-rosely6 ml-1">
-          {new Date(frontmatter.publishDate).toLocaleString('en-AU', { dateStyle: 'full', timeStyle: 'long', timeZone: 'Australia/Sydney' })}
+          {frontmatter.publishDate.toLocaleString('en-AU', { dateStyle: 'full', timeStyle: 'long', timeZone: 'Australia/Sydney' })}
         </span>
       </span>
       <span class="flex items-center">

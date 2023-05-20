@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Thai lunch at Charlie Chan
 publishDate: 2023-02-10T13:00:00+10:00
 description: Pub located in Haymarket featuring a Thai menu
-coverImage: ../images/food/Charlie Chan.jpeg
-categories: [Food]
+coverImage: ../../../images/food/Charlie Chan.jpeg
+categories: [food]
 tags:
   - Charlie Chan
   - Thai

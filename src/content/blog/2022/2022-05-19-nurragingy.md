@@ -1,13 +1,13 @@
 ---
 title: Nurragingy Reserve
 description: Testing my recently cleaned Leica lenses
-author: Chris Tham
+author: christie
 publishDate: 2022-05-19T17:00:00+10:00
-coverImage: ../images/gallery/2022-05-19-nurragingy/Nurragingy Reserve (22).jpeg
+coverImage: ../../../images/gallery/2022-05-19-nurragingy/Nurragingy Reserve (22).jpeg
 gallery: 2022-05-19-nurragingy
 categories:
-  - Garden
-  - Photography
+  - garden
+  - photography
 tags:
   - Nurragingy Reserve
   - Chang Lai Yuan Garden

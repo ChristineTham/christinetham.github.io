@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Oxford St Party
 description: Oxford St - when the whole street parties ... #worldpride2023
 publishDate: 2023-03-04T16:00:00+10:00
-coverImage: ../images/gallery/2023-03-04-oxford-st-party/Oxford St Party.jpeg
+coverImage: ../../../images/gallery/2023-03-04-oxford-st-party/Oxford St Party.jpeg
 gallery: 2023-03-04-oxford-st-party
-categories: [Event]
+categories: [event]
 tags:
   - World Pride
   - Oxford St

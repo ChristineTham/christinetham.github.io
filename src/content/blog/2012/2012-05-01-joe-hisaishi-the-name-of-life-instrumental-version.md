@@ -1,11 +1,11 @@
 ---
 title: '久石譲：いのちの名前 – Instrumental version'
 description: 'Joe Hisaishi: The Name of Life - Instrumental piano solo'
-author: Chris Tham
+author: christie
 publishDate: 2012-05-01T06:42:40+00:00
 categories:
-  - Music
-  - Create
+  - music
+  - create
 tags:
   - instrumental
   - Joe Hisaishi

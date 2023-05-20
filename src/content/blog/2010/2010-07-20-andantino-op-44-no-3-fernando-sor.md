@@ -1,11 +1,11 @@
 ---
 title: Andantino Op. 44 No. 3 (Fernando Sor)
 description: Pieces played on my guitar
-author: Chris Tham
+author: christie
 publishDate: 2010-07-20T06:01:20+00:00
 categories:
-  - Music
-  - Create
+  - music
+  - create
 tags:
   - Andantino
   - Fernando Sor

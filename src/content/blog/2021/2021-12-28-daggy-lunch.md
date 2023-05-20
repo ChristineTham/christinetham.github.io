@@ -1,12 +1,12 @@
 ---
 title: Daggy Lunch at Cat Town
 description: Post Xmas lunch where we are supposed to show our daggy selves.
-author: Chris Tham
+author: christie
 publishDate: 2021-12-28T13:00:00+10:00
 images:
-  - ../images/food/Daggy Lunch.jpeg
+  - ../../../images/food/Daggy Lunch.jpeg
 categories:
-  - Food
+  - food
 tags:
   - Thai
   - lunch

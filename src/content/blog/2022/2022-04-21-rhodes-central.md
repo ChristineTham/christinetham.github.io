@@ -1,13 +1,13 @@
 ---
 title: Lunch at Hong Kong Street Food
 description: Celebrating our wedding anniversary at Rhodes Central
-author: Chris Tham
+author: christie
 publishDate: 2022-04-21T13:00:00+10:00
-coverImage: ../images/gallery/2022-04-21-rhodes/Rhodes Central (4).jpeg
+coverImage: ../../../images/gallery/2022-04-21-rhodes/Rhodes Central (4).jpeg
 gallery: 2022-04-21-rhodes
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - Chinese
   - Hong Kong Street Food

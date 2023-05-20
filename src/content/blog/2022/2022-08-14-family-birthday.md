@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Birthday lunch with family
 publishDate: 2022-08-14T13:00:00+10:00
 description: Celebrating our birthday with the family at Toyosu Suisan
-images: [../images/blog/Toyosu Suisan Birthday Lunch.jpeg]
-categories: [Event, Food]
+images: [../../../images/blog/Toyosu Suisan Birthday Lunch.jpeg]
+categories: [event, food]
 tags:
   - birthday
   - family

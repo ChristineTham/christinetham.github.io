@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Three vegan poke bowls
 publishDate: 2023-03-19T13:00:00+10:00
 description: Fish cake based poke bowl
 images:
-  - ../images/food/Vegan poke bowl (2).jpeg
-  - ../images/food/Vegan poke bowl (3).jpeg
-  - ../images/food/Poke bowl (1).jpeg
-categories: [Food]
+  - ../../../images/food/Vegan poke bowl (2).jpeg
+  - ../../../images/food/Vegan poke bowl (3).jpeg
+  - ../../../images/food/Poke bowl (1).jpeg
+categories: [food]
 tags:
   - vegan
   - poke bowl

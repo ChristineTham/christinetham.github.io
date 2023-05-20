@@ -1,13 +1,13 @@
 ---
 title: Megalong Valley Day 3
 description: Sunrise, and breakfast of scones
-author: Chris Tham
+author: christie
 publishDate: 2022-08-02T10:00:00+10:00
-coverImage: ../images/gallery/2022-08-02-scones/Breakfast at Megalong Valley Tearooms.jpeg
+coverImage: ../../../images/gallery/2022-08-02-scones/Breakfast at Megalong Valley Tearooms.jpeg
 gallery: 2022-08-02-scones
 categories:
-  - Travel
-  - Food
+  - travel
+  - food
 tags:
   - Megalong Valley
   - scones

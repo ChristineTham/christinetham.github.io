@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Guildford Hari Raya
 publishDate: 2022-04-30T18:00:00+10:00
 description: Eating Malaysian at Guildford on Hari Raya Aidilfitri
 images:
-  - ../images/food/Guildford (1).jpeg
-  - ../images/food/Guildford.jpeg
-categories: [Event, Food]
+  - ../../../images/food/Guildford (1).jpeg
+  - ../../../images/food/Guildford.jpeg
+categories: [event, food]
 tags:
   - Guildford
   - Hari Raya

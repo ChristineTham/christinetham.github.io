@@ -1,14 +1,14 @@
 ---
 title: Canberra Street Art
 description: Tocumwal Lane and elsewhere
-author: Chris Tham
+author: christie
 publishDate: 2022-03-14T13:00:00+10:00
 images:
-  - ../images/blog/Canberra.jpeg
-  - ../images/blog/Wild Beasts.jpeg
+  - ../../../images/blog/Canberra.jpeg
+  - ../../../images/blog/Wild Beasts.jpeg
 categories:
-  - Travel
-  - Art
+  - travel
+  - art
 tags:
   - Canberra
   - street art

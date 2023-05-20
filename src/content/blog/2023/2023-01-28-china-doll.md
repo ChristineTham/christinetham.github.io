@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Dinner at China Doll and drinks at Alibi
 publishDate: 2023-01-28T22:00:00+10:00
 description: Good to try out this restaurant I have heard so much about.
-coverImage: ../images/food/China Doll.jpeg
+coverImage: ../../../images/food/China Doll.jpeg
 gallery: 2023-01-28-china-doll
-categories: [Food]
+categories: [food]
 tags:
   - Modern Asian Fusion
   - China Doll

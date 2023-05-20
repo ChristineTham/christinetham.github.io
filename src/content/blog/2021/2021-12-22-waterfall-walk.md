@@ -1,12 +1,12 @@
 ---
 title: Waterfall Walk
 description: Started from Richard Webb Reserve and did the Waterfall Walk in West Pennant Hills
-author: Chris Tham
+author: christie
 publishDate: 2021-12-22T12:00:00+10:00
-coverImage: ../images/gallery/2021-12-22-waterfall-walk/Chris (4).jpeg
+coverImage: ../../../images/gallery/2021-12-22-waterfall-walk/Chris (4).jpeg
 gallery: 2021-12-22-waterfall-walk
 categories:
-  - Travel
+  - travel
 tags:
   - Richard Webb Reserve
   - Waterfall Walk

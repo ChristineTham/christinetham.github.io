@@ -1,12 +1,12 @@
 ---
 title: Muswellbrook Family Road Trip Day 4 - Hunter Valley
 description: Leaving Muswellbrook and returning home via Hunter Valley
-author: Chris Tham
+author: christie
 publishDate: 2022-12-30T16:00:00+10:00
-coverImage: ../images/gallery/2022-12-30-hunter-valley/Two Rivers (16).jpeg
+coverImage: ../../../images/gallery/2022-12-30-hunter-valley/Two Rivers (16).jpeg
 gallery: 2022-12-30-hunter-valley
 categories:
-  - Travel
+  - travel
 tags:
   - Muswellbrook
   - Hunter Valley

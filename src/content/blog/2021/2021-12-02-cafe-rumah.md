@@ -1,13 +1,13 @@
 ---
 title: Lunch at Cafe Rumah
 description: Lunch with Ivan and Julia
-author: Chris Tham
+author: christie
 publishDate: 2021-12-02T13:00:00+10:00
 images:
-  - ../images/food/Lunch with Julia and Ivan.jpeg
+  - ../../../images/food/Lunch with Julia and Ivan.jpeg
 gallery: 2021-12-02-sydney
 categories:
-  - Food
+  - food
 tags:
   - Malaysian
   - Cafe Rumah

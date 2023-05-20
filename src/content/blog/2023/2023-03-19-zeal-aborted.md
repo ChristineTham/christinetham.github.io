@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: A very short ride
 publishDate: 2023-03-19T08:00:00+10:00
 images:
-  - ../images/cycling/Zeal short ride.png
+  - ../../../images/cycling/Zeal short ride.png
 description: Decided to abort a ride after someone had an accident
-categories: [Cycling]
+categories: [cycling]
 tags: [Zeal]
 ---
 A short ride today. Another rider had an accident involving a car descending into Northbridge. He's been taken to hospital, suspected broken collarbone. Luckily I was at the back of the bunch and slowed down well ahead of time, but saw everything. After that I didn't want to ride anymore, so I went back by myself via Pacific Highway.

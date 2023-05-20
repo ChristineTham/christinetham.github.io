@@ -1,13 +1,13 @@
 ---
 title: Sawmillers Reserve
 description: Visiting the Sculpture exhibition in the aftermppm
-author: Chris Tham
+author: christie
 publishDate: 2022-02-19T16:00:00+10:00
-coverImage: ../images/gallery/2022-02-19-sawmillers-reserve/Glass Groper - Barbara Gruber.jpeg
+coverImage: ../../../images/gallery/2022-02-19-sawmillers-reserve/Glass Groper - Barbara Gruber.jpeg
 gallery: 2022-02-19-sawmillers-reserve
 categories:
-  - Travel
-  - Event
+  - travel
+  - event
 tags:
   - Sawmillers Reserve
   - sculpture

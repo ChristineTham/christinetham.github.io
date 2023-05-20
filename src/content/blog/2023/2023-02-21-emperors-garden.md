@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Emperor's Garden
 publishDate: 2023-02-21T15:00:00+10:00
 description: Chinese restaurant in Chatswood
 images:
-  - ../images/food/Emperor's Garden.jpeg
-  - ../images/food/Ho Jiak.jpeg
-categories: [Food]
+  - ../../../images/food/Emperor's Garden.jpeg
+  - ../../../images/food/Ho Jiak.jpeg
+categories: [food]
 tags:
   - Chinese
   - lunch

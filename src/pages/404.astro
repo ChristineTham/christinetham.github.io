@@ -4,12 +4,15 @@ import { SiteMetadata } from '../config'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
 
+import coverImage from '../images/svg/undraw/page_not_found.svg'
+import socialImage from '../images/undraw/page_not_found.png'
 const frontmatter: Frontmatter = {
   title: '404: Not found',
   description: "You just hit a route that doesn't exist... the sadness.",
-  coverImage: '../images/svg/undraw/page_not_found.svg',
-  socialImage: '../images/undraw/page_not_found.png',
+  coverImage: coverImage,
+  socialImage: socialImage,
   publishDate: SiteMetadata.buildTime,
+  categories: []
 }
 ---
 

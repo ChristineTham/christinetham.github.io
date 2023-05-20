@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Rita's birthday
 publishDate: 2023-05-07T16:00:00+10:00
 description: Celebration with 50 friends and family
-coverImage: ../images/gallery/2023-05-07-rita-birthday/Rita's birthday (58).jpeg
+coverImage: ../../../images/gallery/2023-05-07-rita-birthday/Rita's birthday (58).jpeg
 gallery: 2023-05-07-rita-birthday
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - Rita
   - birthday

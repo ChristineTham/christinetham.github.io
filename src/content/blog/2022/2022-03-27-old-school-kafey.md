@@ -1,16 +1,16 @@
 ---
 title: Bing Su Dessert
 description: at the Old School Kafey
-author: Chris Tham
+author: christie
 publishDate: 2022-03-27T15:00:00+10:00
 images:
-  - ../images/food/Old School Kafey.jpeg
-  - ../images/food/Old School Kafey (1).jpeg
-  - ../images/food/Old School Kafey (2).jpeg
-  - ../images/food/Old School Kafey (3).jpeg
+  - ../../../images/food/Old School Kafey.jpeg
+  - ../../../images/food/Old School Kafey (1).jpeg
+  - ../../../images/food/Old School Kafey (2).jpeg
+  - ../../../images/food/Old School Kafey (3).jpeg
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - dessert
   - Bing Su

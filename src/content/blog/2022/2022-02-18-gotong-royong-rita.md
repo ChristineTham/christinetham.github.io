@@ -1,12 +1,12 @@
 ---
 title: Gotong Royong at Rita's House
 description: Impromptu get together to help Rita prepare for a big wedding feast
-author: Chris Tham
+author: christie
 publishDate: 2022-02-18T13:00:00+10:00
 images:
-  - ../images/food/Gotong Royong Rita.jpeg
+  - ../../../images/food/Gotong Royong Rita.jpeg
 categories:
-  - Food
+  - food
 tags:
   - gotong royong
   - Rita

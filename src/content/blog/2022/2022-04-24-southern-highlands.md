@@ -1,13 +1,13 @@
 ---
 title: Southern Highlands trip Day 2
 description: Continuing our visit to Southern Highlands Open Gardens
-author: Chris Tham
+author: christie
 publishDate: 2022-04-24T18:00:00+10:00
-coverImage: ../images/gallery/2022-04-24-southern-highlands/Upper Woodlands (13).jpeg
+coverImage: ../../../images/gallery/2022-04-24-southern-highlands/Upper Woodlands (13).jpeg
 gallery: 2022-04-24-southern-highlands
 categories:
-  - Travel
-  - Garden
+  - travel
+  - garden
 tags:
   - Southern Highlands
   - autumn

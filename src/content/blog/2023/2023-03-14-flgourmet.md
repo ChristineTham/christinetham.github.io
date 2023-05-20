@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at F&L Gourmet
 publishDate: 2023-03-14T13:00:00+10:00
 description: Established Chinese eatery at Macquarie Centre
 images:
-  - ../images/food/FL Gourmet.jpeg
-categories: [Food]
+  - ../../../images/food/FL Gourmet.jpeg
+categories: [food]
 tags:
   - Chinese
   - lunch

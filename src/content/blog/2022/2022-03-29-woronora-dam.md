@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Woronora Dam
 publishDate: 2022-03-29T17:00:00+10:00
 description: Magnificent serpentine spillway
 images:
-  - ../images/blog/Woronora Dam.jpeg
-  - ../images/blog/Woronora Dam (1).jpeg
-  - ../images/blog/Woronora Dam (2).jpeg
-categories: [Travel]
+  - ../../../images/blog/Woronora Dam.jpeg
+  - ../../../images/blog/Woronora Dam (1).jpeg
+  - ../../../images/blog/Woronora Dam (2).jpeg
+categories: [travel]
 tags:
   - Woronora
   - dam

@@ -1,12 +1,12 @@
 ---
 title: Easter Girls Road trip - Lincoln Rock
 description: Amazing rock with a sheer drop to the valley
-author: Chris Tham
+author: christie
 publishDate: 2022-04-12T11:00:00+10:00
-coverImage: ../images/gallery/2022-04-12-lincoln-rock/Lincoln's Rock.jpeg
+coverImage: ../../../images/gallery/2022-04-12-lincoln-rock/Lincoln's Rock.jpeg
 gallery: 2022-04-12-lincoln-rock
 categories:
-  - Travel
+  - travel
 tags:
   - Lincoln Rock
   - Easter

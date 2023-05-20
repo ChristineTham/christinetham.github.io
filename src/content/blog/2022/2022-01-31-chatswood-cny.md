@@ -1,12 +1,12 @@
 ---
 title: Lunar New Year at Chatswood
 description: Chatswood has various activities including light installations, lion dances and performances.
-author: Chris Tham
+author: christie
 publishDate: 2022-01-31T20:00:00+10:00
-coverImage: ../images/gallery/2022-01-31-chatswood-cny/Curious Tiger (1).jpeg
+coverImage: ../../../images/gallery/2022-01-31-chatswood-cny/Curious Tiger (1).jpeg
 gallery: 2022-01-31-chatswood-cny
 categories:
-  - Event
+  - event
 tags:
   - Chatswood
   - Lunar New Year

@@ -1,13 +1,13 @@
 ---
 title: Vivid Night Flight
 description: One night drone light show
-author: Chris Tham
+author: christie
 publishDate: 2022-05-29T21:00:00+10:00
-coverImage: ../images/blog/2022_ParamountPlus_HelloSocial_VIVID_Drone-Show_Cahill_025.jpg
+coverImage: ../../../images/blog/2022_ParamountPlus_HelloSocial_VIVID_Drone-Show_Cahill_025.jpg
 gallery: 2022-06-02-vivid
 categories:
-  - Photography
-  - Event
+  - photography
+  - event
 tags:
   - Sydney
   - Vivid

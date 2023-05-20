@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Bobbin Head
 publishDate: 2023-05-02T11:00:00+10:00
 description: Ku-ring-gai National Park scenic spot near the river
-coverImage: ../images/gallery/2023-05-02-bobbin-head/Bobbin Head (8).jpeg
+coverImage: ../../../images/gallery/2023-05-02-bobbin-head/Bobbin Head (8).jpeg
 gallery: 2023-05-02-bobbin-head
-categories: [Travel]
+categories: [travel]
 tags:
   - Bobbin Head
 ---

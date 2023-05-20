@@ -1,12 +1,12 @@
 ---
 title: Botanic Gardens
 description: Annual post Xmas walk
-author: Chris Tham
+author: christie
 publishDate: 2021-12-30T12:00:00+10:00
-coverImage: ../images/gallery/2021-12-26-botanic-gardens/Choragic Monument of Lysicrates.jpeg
+coverImage: ../../../images/gallery/2021-12-26-botanic-gardens/Choragic Monument of Lysicrates.jpeg
 gallery: 2021-12-26-botanic-gardens
 categories:
-  - Travel
+  - travel
 tags:
   - Botanic Gardens
 ---

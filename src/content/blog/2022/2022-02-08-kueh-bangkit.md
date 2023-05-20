@@ -1,13 +1,13 @@
 ---
 title: Kueh Bangkit Gotong Royong
 description: Second "gotong royong" project making kueh bangkit at Cat Town.
-author: Chris Tham
+author: christie
 publishDate: 2022-02-08T16:00:00+10:00
 images:
-  - ../images/food/Kueh bangkit GR.jpeg
-  - ../images/food/Gotong Royong.jpeg
+  - ../../../images/food/Kueh bangkit GR.jpeg
+  - ../../../images/food/Gotong Royong.jpeg
 categories:
-  - Food
+  - food
 tags:
   - gotong royong
   - kueh bangkit

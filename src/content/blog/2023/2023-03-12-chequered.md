@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Chequered
 publishDate: 2023-03-12T08:00:00+10:00
 description: Bershka pink and black chequered mini skirt plus top
 images:
-  - ../images/fashion/Chequered.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Chequered.jpeg
+categories: [fashion]
 tags:
   - Bershka
   - pink

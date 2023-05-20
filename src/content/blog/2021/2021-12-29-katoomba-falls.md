@@ -1,12 +1,12 @@
 ---
 title: Katoomba Falls
 description: Visiting Katoomba Falls and Scenic World in the Blue Mountains
-author: Chris Tham
+author: christie
 publishDate: 2021-12-29T12:00:00+10:00
-coverImage: ../images/gallery/2021-12-29-katoomba-falls/Katoomba Falls (12).jpeg
+coverImage: ../../../images/gallery/2021-12-29-katoomba-falls/Katoomba Falls (12).jpeg
 gallery: 2021-12-29-katoomba-falls
 categories:
-  - Travel
+  - travel
 tags:
   - Katoomba Falls
   - Scenic World

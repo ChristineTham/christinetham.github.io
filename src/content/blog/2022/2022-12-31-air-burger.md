@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Air Burger
 publishDate: 2022-12-31T18:00:00+10:00
 description: When is a burger a burger?
 images:
-  - ../images/food/Air Burger.jpeg
-categories: [Food]
+  - ../../../images/food/Air Burger.jpeg
+categories: [food]
 tags:
   - burger
   - vegetarian

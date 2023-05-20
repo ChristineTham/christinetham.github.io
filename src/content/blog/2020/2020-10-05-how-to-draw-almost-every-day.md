@@ -1,13 +1,13 @@
 ---
 title: How to Draw Almost Every Day
 description: 'I bought a book called "How to Draw Almost Every Day : An Illustrated Sourcebook" by "Kamo" and have been practising some of the drawings.'
-author: Chris Tham
+author: christie
 publishDate: 2020-10-05T06:10:09+00:00
-coverImage: ../images/gallery/2020-10-05-how-to-draw-almost-every-day/Winter.jpg
+coverImage: ../../../images/gallery/2020-10-05-how-to-draw-almost-every-day/Winter.jpg
 gallery: 2020-10-05-how-to-draw-almost-every-day
 categories:
-  - Art
-  - Create
+  - art
+  - create
 tags:
   - COPIC
   - drawing

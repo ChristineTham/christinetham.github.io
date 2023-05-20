@@ -1,12 +1,12 @@
 ---
 title: Karen's birthday
 description: Celebrating Karen's birthday at Chiosco by Ormeggio
-author: Chris Tham
+author: christie
 publishDate: 2022-01-06T13:00:00+10:00
 images:
-  - ../images/food/Karen's birthday.jpeg
+  - ../../../images/food/Karen's birthday.jpeg
 categories:
-  - Food
+  - food
 tags:
   - Italian
   - lunch

@@ -1,13 +1,13 @@
 ---
 title: Shopping at Cabramatta
 description: Buying various food related items
-author: Chris Tham
+author: christie
 publishDate: 2021-12-27T13:00:00+10:00
 images:
-  - ../images/food/Cabramatta (1).jpeg
-  - ../images/food/Pho Anna.jpeg
+  - ../../../images/food/Cabramatta (1).jpeg
+  - ../../../images/food/Pho Anna.jpeg
 categories:
-  - Food
+  - food
 tags:
   - Cabramatta
   - Vietnamese

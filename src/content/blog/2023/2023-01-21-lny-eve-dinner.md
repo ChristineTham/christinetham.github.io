@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunar New Year eve dinner
 publishDate: 2023-01-21T19:00:00+10:00
 description: Decided to go Thai at Khao Kang Maruay
 images:
-  - ../images/food/Khao Kang Maruay (2).jpeg
-categories: [Food]
+  - ../../../images/food/Khao Kang Maruay (2).jpeg
+categories: [food]
 tags:
   - Thai
   - Khao Kang Maruay

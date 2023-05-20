@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Jatz with anchovies snack
 publishDate: 2023-03-02T13:00:00+10:00
 description: My own version of the notorious dish from Kiln
 images:
-  - ../images/food/Jatz with anchovies.jpeg
-categories: [Food]
+  - ../../../images/food/Jatz with anchovies.jpeg
+categories: [food]
 tags:
   - recipe
   - Arnotts Jatz

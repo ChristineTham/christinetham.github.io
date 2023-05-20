@@ -9,7 +9,7 @@ import type {
   WebSite,
   WithContext,
 } from 'schema-dts'
-import { SiteMetadata, DefaultImage, LogoImage } from '../config'
+import { SiteMetadata, defaultImage, LogoImage } from '../config'
 
 export interface Props {
   frontmatter: Frontmatter
@@ -20,9 +20,8 @@ const { frontmatter } = Astro.props
 const siteurl = new URL(import.meta.env.BASE_URL, Astro.url)
 const type = Astro.url.toString().includes('blog') ? 'post' : 'page'
 const year = SiteMetadata.buildTime.getFullYear()
-const images = import.meta.glob<ImageMetadata>('../images/**/*', { import: 'default' })
-const image = await images[frontmatter.socialImage || frontmatter.coverImage || (frontmatter.images && frontmatter.images[0]) || DefaultImage]()
-const logo = siteurl + LogoImage.slice(1)
+const image = frontmatter.socialImage || frontmatter.coverImage || defaultImage
+const logo = LogoImage
 const publishDate = new Date(frontmatter.publishDate)
 
 const openGraph = {
@@ -100,11 +99,11 @@ const organization: WithContext<Organization> = {
   location: SiteMetadata.location,
   image: {
     '@type': 'ImageObject',
-    url: logo,
+    url: new URL(logo.src, siteurl).toString(),
   },
   logo: {
     '@type': 'ImageObject',
-    url: logo,
+    url: new URL(logo.src, siteurl).toString(),
   },
   name: SiteMetadata.org.name,
   sameAs: Object.values(SiteMetadata.social.map(social => social.link)),

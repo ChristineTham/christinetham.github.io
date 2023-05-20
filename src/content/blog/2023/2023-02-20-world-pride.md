@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch, then exploring World Pride
 publishDate: 2023-02-20T15:00:00+10:00
-coverImage: ../images/gallery/2023-02-20-world-pride/Cinnamon.jpeg
+coverImage: ../../../images/gallery/2023-02-20-world-pride/Cinnamon.jpeg
 gallery: 2023-02-20-world-pride
 description: Lunch at Mr Stonepot
-categories: [Food, Event]
+categories: [food, event]
 tags:
   - art
   - World Pride

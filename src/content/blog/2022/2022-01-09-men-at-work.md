@@ -1,12 +1,12 @@
 ---
 title: Men At Work - Business As Usual
 description: Classic 1980s album
-author: Chris Tham
+author: christie
 publishDate: 2022-01-09T00:00:00.000Z
 images:
-  - ../images/blog/Men at Work.jpeg
+  - ../../../images/blog/Men at Work.jpeg
 categories:
-  - Music
+  - music
 tags:
   - LP
   - Men At Work

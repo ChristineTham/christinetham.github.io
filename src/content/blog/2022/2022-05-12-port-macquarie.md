@@ -1,12 +1,12 @@
 ---
 title: Port Macquarie trip - Day 1
 description: We drove to Port Macquarie in the rain
-author: Chris Tham
+author: christie
 publishDate: 2022-05-12T21:00:00+10:00
-coverImage: ../images/gallery/2022-05-12-port-macquarie/Synergy (3).jpeg
+coverImage: ../../../images/gallery/2022-05-12-port-macquarie/Synergy (3).jpeg
 gallery: 2022-05-12-port-macquarie
 categories:
-  - Travel
+  - travel
 tags:
   - Port Macquarie
   - art gallery

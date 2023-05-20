@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Dinner at Peranakan Place
 publishDate: 2022-08-06T21:00:00+10:00
 description: Famous Peranakan retaurant in Auburn
 images:
-  - ../images/food/Peranakan Place.jpeg
-categories: [Food]
+  - ../../../images/food/Peranakan Place.jpeg
+categories: [food]
 tags:
   - dinner
   - Peranakan Place

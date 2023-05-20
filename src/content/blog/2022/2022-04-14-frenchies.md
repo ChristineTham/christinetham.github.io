@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Dinner at Frenchies
 publishDate: 2022-04-14T21:00:00+10:00
 description: Celebrating James' birthday and our wedding anniversary
 images:
-  - ../images/food/Frenchies (3).jpeg
-  - ../images/food/Frenchies (2).jpeg
-  - ../images/food/Frenchies (4).jpeg
-categories: [Event, Food]
+  - ../../../images/food/Frenchies (3).jpeg
+  - ../../../images/food/Frenchies (2).jpeg
+  - ../../../images/food/Frenchies (4).jpeg
+categories: [event, food]
 tags:
   - Frenchies
   - wedding anniversary

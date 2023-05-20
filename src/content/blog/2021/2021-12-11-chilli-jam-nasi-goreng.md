@@ -1,13 +1,13 @@
 ---
 title: Chilli Jam Nasi Goreng
 description: Fried rice with a difference
-author: Chris Tham
+author: christie
 publishDate: 2021-12-11T12:00:00+10:00
 images:
-  - ../images/food/Chilli jam nasi goreng (1).jpeg
-  - ../images/food/Chilli jam nasi goreng.jpeg
+  - ../../../images/food/Chilli jam nasi goreng (1).jpeg
+  - ../../../images/food/Chilli jam nasi goreng.jpeg
 categories:
-  - Food
+  - food
 tags:
   - chilli jam
   - nasi goreng

@@ -1,16 +1,16 @@
 ---
 title: Spirit House
 description: Reflections on my health over the last few years
-author: Chris Tham
+author: christie
 publishDate: 2023-03-03T16:00:00.000+10:00
 images:
-  - ../images/blog/Spirit House.jpeg
+  - ../../../images/blog/Spirit House.jpeg
 categories:
-  - Event
+  - event
 tags:
   - reflection
   - health
-  - Art Gallery
+  - art Gallery
 ---
 
 This is Spirit House by Lee Mingwei at the new building of Art Gallery of New South Wales. It invites us to consider our future journey. I want to take this moment to reflect on my journey in recent years, in particular my health.

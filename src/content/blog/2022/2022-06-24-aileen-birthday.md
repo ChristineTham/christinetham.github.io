@@ -1,13 +1,13 @@
 ---
 title: Happy birthday Aileen Lim
 description: Celebrating Aileen's birthday at Amah
-author: Chris Tham
+author: christie
 publishDate: 2022-06-24T21:00:00+10:00
-coverImage: ../images/gallery/2022-06-24-aileen-birthday/Aileen birthday at Amah (4).jpeg
+coverImage: ../../../images/gallery/2022-06-24-aileen-birthday/Aileen birthday at Amah (4).jpeg
 gallery: 2022-06-24-aileen-birthday
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - dinner
   - Chinese

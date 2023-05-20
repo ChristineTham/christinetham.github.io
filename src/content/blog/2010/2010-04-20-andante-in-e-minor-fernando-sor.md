@@ -1,11 +1,11 @@
 ---
 title: Andante in E minor (Fernando Sor)
 description: Pieces played on my guitar
-author: Chris Tham
+author: christie
 publishDate: 2010-04-20T06:04:04+00:00
 categories:
-  - Music
-  - Create
+  - music
+  - create
 tags:
   - Andante
   - Fernando Sor

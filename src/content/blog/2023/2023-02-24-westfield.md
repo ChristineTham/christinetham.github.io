@@ -1,14 +1,14 @@
 ---
-author: Chris Tham
+author: christie
 title: Disney and more around Westfield
 description: Various photos taken close to Westfield Sydney
 publishDate: 2023-02-24T11:00:00+10:00
 images:
-  - ../images/blog/Disney Cars.jpeg
-  - ../images/blog/Disney Cars (1).jpeg
-  - ../images/blog/Disney Moana.jpeg
-  - ../images/blog/Happy Mardi Gras.jpeg
-categories: [Event]
+  - ../../../images/blog/Disney Cars.jpeg
+  - ../../../images/blog/Disney Cars (1).jpeg
+  - ../../../images/blog/Disney Moana.jpeg
+  - ../../../images/blog/Happy Mardi Gras.jpeg
+categories: [event]
 tags:
   - Disney
   - Westfield

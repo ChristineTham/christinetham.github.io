@@ -1,12 +1,12 @@
 ---
 title: Passo dello Stelvio
 description: Climbing the famous mountain on RGT
-author: Chris Tham
+author: christie
 publishDate: 2022-01-06T10:00:00+10:00
-coverImage: ../images/gallery/2022-01-06-passo-dello-stelvio/Passo dello Stelvio (1).jpeg
+coverImage: ../../../images/gallery/2022-01-06-passo-dello-stelvio/Passo dello Stelvio (1).jpeg
 gallery: 2022-01-06-passo-dello-stelvio
 categories:
-  - Cycling
+  - cycling
 tags:
   - RGT
   - Passo dello Stelvio

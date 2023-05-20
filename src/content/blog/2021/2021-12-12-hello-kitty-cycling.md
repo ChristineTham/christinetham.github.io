@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Hello Kitty Cycling Outfit
 publishDate: 2021-12-12T06:00:00+11:00
 description: I belong to the Hello Kitty team!
-images: [../images/fashion/Hello Kitty cycling.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Hello Kitty cycling.jpeg]
+categories: [fashion]
 tags:
   - Hello Kitty
   - cycling

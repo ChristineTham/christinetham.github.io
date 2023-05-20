@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Armidale Trip
 publishDate: 2022-03-01T18:00:00+11:00
 description: We have not visited New England for over 20 years, so it was time to go back for a waterfall and nostalgia trip.
-coverImage: ../images/blog/Armidale 2022.jpeg
-categories: [Travel]
+coverImage: ../../../images/blog/Armidale 2022.jpeg
+categories: [travel]
 tags:
   - New England
   - Armidale

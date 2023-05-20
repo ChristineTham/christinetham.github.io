@@ -1,11 +1,11 @@
 ---
 title: Winter Music
 description: Transcribed and orchestrated using Notion and EWQL Symphonic Orchestra Gold.
-author: Chris Tham
+author: christie
 publishDate: 2014-03-10T06:03:51+00:00
 categories:
-  - Music
-  - Create
+  - music
+  - create
 tags:
   - ambient
   - arrangement

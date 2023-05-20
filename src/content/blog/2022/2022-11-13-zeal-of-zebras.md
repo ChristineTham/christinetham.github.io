@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Zeal of Zebras
 publishDate: 2022-11-13T10:00:00+10:00
 description: Rejoining with the group after a long absence
 images:
-  - ../images/cycling/Zeal of Zebras.jpeg
-  - ../images/cycling/2022-11-13 Zeal.png
-categories: [Cycling]
+  - ../../../images/cycling/Zeal of Zebras.jpeg
+  - ../../../images/cycling/2022-11-13 Zeal.png
+categories: [cycling]
 tags:
   - Zeal of Zebras
 ---

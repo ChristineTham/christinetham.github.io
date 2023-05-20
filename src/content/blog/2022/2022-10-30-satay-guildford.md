@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Satay at Guildford
 publishDate: 2022-10-30T18:00:00+10:00
 description: Having satay (and other dishes) at Guildford's Malay food stalls
 images:
-  - ../images/food/Satay.jpeg
-  - ../images/food/Satay Guildford.jpeg
-categories: [Food]
+  - ../../../images/food/Satay.jpeg
+  - ../../../images/food/Satay Guildford.jpeg
+categories: [food]
 tags:
   - satay
   - Guildford

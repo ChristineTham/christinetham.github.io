@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Rita's birthday at 678
 publishDate: 2022-05-16T13:00:00+10:00
 description: Celebrating Rita Enar's birthday at 678 BBQ Eastwood
 images:
-  - ../images/food/Rita birthday.jpeg
-  - ../images/food/Rita birthday (1).jpeg
-categories: [Event, Food]
+  - ../../../images/food/Rita birthday.jpeg
+  - ../../../images/food/Rita birthday (1).jpeg
+categories: [event, food]
 tags:
   - Theatre Royal
   - An American in Paris

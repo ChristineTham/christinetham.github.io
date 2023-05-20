@@ -1,13 +1,13 @@
 ---
 title: Jacarandas at Kirribilli
 description: Viewing the jacarandas, plus a visit to Sub Base Platypus
-author: Chris Tham
+author: christie
 publishDate: 2022-10-23T16:00:00+10:00
-coverImage: ../images/gallery/2022-10-23-kirribilli/Milson Park (2).jpeg
+coverImage: ../../../images/gallery/2022-10-23-kirribilli/Milson Park (2).jpeg
 gallery: 2022-10-23-kirribilli
 categories:
-  - Event
-  - Travel
+  - event
+  - travel
 tags:
   - Kirribilli
   - jacarandas

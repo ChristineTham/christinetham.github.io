@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Modern cheongsam
 publishDate: 2023-04-06T08:00:00+10:00
 description: I bought this loose fitting dress from St Vinnies at Bankstown
 images:
-  - ../images/fashion/Modern cheongsam.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Modern cheongsam.jpeg
+categories: [fashion]
 tags:
   - cheongsam
   - dress

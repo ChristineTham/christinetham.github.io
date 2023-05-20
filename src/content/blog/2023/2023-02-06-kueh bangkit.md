@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Thai bee hoon and kueh bangkit
 publishDate: 2023-02-06T18:00:00+10:00
 description: Thermomix session with Margaret Stow and Sharon Wong
-coverImage: ../images/food/Kueh Bangkit.jpeg
-categories: [Food]
+coverImage: ../../../images/food/Kueh Bangkit.jpeg
+categories: [food]
 tags:
   - Thermomix
   - Thai vermicelli

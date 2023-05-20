@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Deborah's Gin and High Tea
 publishDate: 2022-11-26T18:00:00+10:00
 description: not so annual event
 images:
-  - ../images/food/Gin and High Tea.jpeg
-  - ../images/food/Gin High Tea 2022.jpg
-categories: [Event, Food]
+  - ../../../images/food/Gin and High Tea.jpeg
+  - ../../../images/food/Gin High Tea 2022.jpg
+categories: [event, food]
 tags:
   - gin
   - high tea

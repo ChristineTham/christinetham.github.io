@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Peach polka dot outfit
 publishDate: 2023-02-16T08:00:00+10:00
 description: A staple favourite
 images:
-  - ../images/fashion/Peach polka dot.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Peach polka dot.jpeg
+categories: [fashion]
 tags:
   - peach
   - polka dot

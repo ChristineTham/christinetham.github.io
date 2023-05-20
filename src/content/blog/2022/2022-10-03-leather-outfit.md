@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Leather outfit
 publishDate: 2022-10-03T10:00:00+10:00
 description: Leather skirt and bomber jacket
-images: [../images/fashion/Pink leather bomber and skirt.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/Pink leather bomber and skirt.jpeg]
+categories: [fashion]
 tags:
   - bomber jacket
   - pink

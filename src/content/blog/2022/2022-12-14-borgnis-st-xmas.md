@@ -1,12 +1,12 @@
 ---
 title: Borgnis St Xmas
 description: Continuing the tradition of christmas lights in Belrose/Davidson
-author: Chris Tham
+author: christie
 publishDate: 2022-12-14T21:00:00+10:00
-coverImage: ../images/gallery/2022-12-14-borgnis-st-xmas/Borgnis St Xmas (4).jpeg
+coverImage: ../../../images/gallery/2022-12-14-borgnis-st-xmas/Borgnis St Xmas (4).jpeg
 gallery: 2022-12-14-borgnis-st-xmas
 categories:
-  - Event
+  - event
 tags:
   - Xmas
   - Borgnis St

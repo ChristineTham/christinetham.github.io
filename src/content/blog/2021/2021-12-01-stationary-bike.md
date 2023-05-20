@@ -1,14 +1,14 @@
 ---
 title: Stationary bike
 description: Resurrecting the Olmo Kurva as a stationary bike with Wahoo KIKCR Snap
-author: Chris Tham
+author: christie
 publishDate: 2021-12-01T10:00:00+10:00
 images:
-  - ../images/cycling/Olmo as trainer (1).jpeg
-  - ../images/cycling/Olmo as trainer.jpeg
-  - ../images/cycling/Olmo as trainer (2).jpeg
+  - ../../../images/cycling/Olmo as trainer (1).jpeg
+  - ../../../images/cycling/Olmo as trainer.jpeg
+  - ../../../images/cycling/Olmo as trainer (2).jpeg
 categories:
-  - Cycling
+  - cycling
 tags:
   - Wahoo
   - SYSTM

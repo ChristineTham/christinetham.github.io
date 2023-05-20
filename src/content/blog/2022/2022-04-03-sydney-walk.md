@@ -1,17 +1,17 @@
 ---
-author: Chris Tham
+author: christie
 title: Sydney walk with the Leica M10
 publishDate: 2022-04-03T10:00:00+10:00
 description: Taking some photos around Botanic Gardens and visiting the Art Gallery
 images:
-  - ../images/blog/Palace gardens.jpeg
-  - ../images/blog/Eye of the Storm - Michael Ferris.jpeg
-categories: [Photography]
+  - ../../../images/blog/Palace gardens.jpeg
+  - ../../../images/blog/Eye of the Storm - Michael Ferris.jpeg
+categories: [photography]
 tags:
   - walk
   - Sydney
   - Botanic Gardens
-  - Art Gallery
+  - art Gallery
   - Leica M10
 ---
 

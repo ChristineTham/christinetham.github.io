@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Radika's birthday
 publishDate: 2022-10-29T17:00:00+10:00
 description: Second Radika's birthday celeberation at Bicentennial Park
 images:
-  - ../images/food/Radika birthday.jpeg
-  - ../images/food/Chris and Ryoko.jpeg
-categories: [Food, Event]
+  - ../../../images/food/Radika birthday.jpeg
+  - ../../../images/food/Chris and Ryoko.jpeg
+categories: [food, event]
 tags:
   - Malaysian
   - Radika

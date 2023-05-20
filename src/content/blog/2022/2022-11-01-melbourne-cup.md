@@ -2,11 +2,11 @@
 title: Melbourne Cup Day
 description: Lunch at House of Tong, North Ryde RSL
 publishDate: 2022-11-01T15:00:00+10:00
-coverImage: ../images/gallery/2022-11-01-melbourne-cup/Melbourne Cup (3).jpeg
+coverImage: ../../../images/gallery/2022-11-01-melbourne-cup/Melbourne Cup (3).jpeg
 gallery: 2022-11-01-melbourne-cup
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - Chinese
   - Melbourne Cup

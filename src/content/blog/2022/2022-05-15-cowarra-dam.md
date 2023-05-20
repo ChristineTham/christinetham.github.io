@@ -1,11 +1,11 @@
 ---
 title: Port Macquarie trip - Cowarra Dam
 description: Largest red bloodwood tree in the Southern Hemisphere
-author: Chris Tham
+author: christie
 publishDate: 2022-05-15T13:00:00+10:00
-coverImage: ../images/gallery/2022-05-15-cowarra-dam/Cowarra Dam (4).jpeg
+coverImage: ../../../images/gallery/2022-05-15-cowarra-dam/Cowarra Dam (4).jpeg
 categories:
-  - Travel
+  - travel
 tags:
   - Port Macquarie
   - Cowarra Dam

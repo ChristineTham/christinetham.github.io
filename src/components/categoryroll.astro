@@ -1,10 +1,9 @@
 ---
-import { categoryDetail } from '../config'
-import Img from '../components/img.astro'
-export interface Props {
-  categories: (string | undefined)[]
-}
+import type { CollectionEntry } from 'astro:content'
 
+interface Props {
+  categories: CollectionEntry<'category'>[]
+}
 const { categories } = Astro.props
 ---
 
@@ -13,19 +12,19 @@ const { categories } = Astro.props
       {
         categories.map(category => (
           <div class="group">
-            <a itemprop="url" href={`${import.meta.env.BASE_URL}category/${category}/`}>
+            <a itemprop="url" href={`${import.meta.env.BASE_URL}category/${category.slug}/`}>
               <div class="relative mb-4 bg-rosely5 dark:bg-rosely8 rounded-lg overflow-hidden group-hover:opacity-75 aspect-w-1 aspect-h-1 shadow-xl">
-                <Img
-                  src={categoryDetail(category).icon}
-                  alt={categoryDetail(category).description}
+                <img
+                  src={category.data.icon.src}
+                  alt={category.data.description}
                   class="w-full h-full object-center object-cover"
                   />
               </div>
               <h3 itemprop="name" class="inline-block py-1 px-3 rounded bg-rosely9 hover:bg-roselyC text-white text-xs font-medium tracking-tight uppercase">
-                {category}
+                {category.data.title}
               </h3>
               <p itemprop="abstract description" class="text-base text-rosely1 dark:text-rosely6">
-                {categoryDetail(category).description}
+                {category.data.description}
               </p>
             </a>
           </div>

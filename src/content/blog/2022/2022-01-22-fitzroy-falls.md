@@ -1,12 +1,12 @@
 ---
 title: Fitzroy Falls
 description: Walking the Fitzroy Falls eastern rim track
-author: Chris Tham
+author: christie
 publishDate: 2022-01-22T15:00:00+10:00
-coverImage: ../images/gallery/2022-01-22-fitzroy-falls/Valley View Lookout.jpeg
+coverImage: ../../../images/gallery/2022-01-22-fitzroy-falls/Valley View Lookout.jpeg
 gallery: 2022-01-22-fitzroy-falls
 categories:
-  - Travel
+  - travel
 tags:
   - Fitzroy Falls
   - Southern Highlands

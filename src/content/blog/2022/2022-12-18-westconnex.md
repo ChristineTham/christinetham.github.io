@@ -1,13 +1,13 @@
 ---
 title: Westconnex Community Day
 description: New tunnel linking M4 and M8 through Newtown
-author: Chris Tham
+author: christie
 publishDate: 2022-12-18T16:00:00+10:00
-coverImage: ../images/gallery/2022-12-18-westconnex/Westconnex Community Day.jpeg
+coverImage: ../../../images/gallery/2022-12-18-westconnex/Westconnex Community Day.jpeg
 gallery: 2022-12-18-westconnex
 categories:
-  - Food
-  - Event
+  - food
+  - event
 tags:
   - family
   - WestConnex

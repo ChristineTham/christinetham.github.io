@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Recovery ride at Parramatta
 publishDate: 2022-09-19T12:35:00+10:00
-images: [../images/cycling/Parramatta.png]
+images: [../../../images/cycling/Parramatta.png]
 description: Exploring new routes
-categories: [Cycling]
+categories: [cycling]
 tags: [Parramatta, Bicentennial Park, Newington Armory]
 ---
 

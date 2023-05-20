@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: LEGO Friends (again)
 publishDate: 2022-05-15T10:00:00+10:00
 description: Wearing my favourite outfit again
-images: [../images/fashion/LEGO Friends.jpeg]
-categories: [Fashion]
+images: [../../../images/fashion/LEGO Friends.jpeg]
+categories: [fashion]
 tags:
   - LEGO
   - Friends

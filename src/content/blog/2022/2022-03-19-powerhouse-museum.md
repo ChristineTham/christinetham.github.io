@@ -1,12 +1,12 @@
 ---
 title: Powerhouse Museum
 description: Entry is now free
-author: Chris Tham
+author: christie
 publishDate: 2022-03-19T11:00:00+10:00
-coverImage: ../images/gallery/2022-03-19-powerhouse-museum/Space (5).jpeg
+coverImage: ../../../images/gallery/2022-03-19-powerhouse-museum/Space (5).jpeg
 gallery: 2022-03-19-powerhouse-museum
 categories:
-  - Travel
+  - travel
 tags:
   - Powerhouse
   - museum

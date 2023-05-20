@@ -1,11 +1,11 @@
 ---
 title: Bach – Prelude No 1 in C major WTC1
 description: "First piano recording done using a metronome - Bach's Prelude No 1."
-author: Chris Tham
+author: christie
 publishDate: 2018-04-01T07:16:57+00:00
 categories:
-  - Music
-  - Create
+  - music
+  - create
 tags:
   - JS Bach
   - metronome

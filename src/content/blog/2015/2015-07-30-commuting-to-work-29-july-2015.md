@@ -1,10 +1,10 @@
 ---
 title: Commuting to Work 29 July 2015
 description: Last few minutes of ride to and from work
-author: Chris Tham
+author: christie
 publishDate: 2015-07-30T07:35:03+00:00
 categories:
-  - Cycling
+  - cycling
 tags:
   - commute
   - cycling

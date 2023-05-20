@@ -1,12 +1,12 @@
 ---
 title: Pork Luncheon Meat fried rice
 description: Fried rice with pork luncheon meat and vegetables
-author: Chris Tham
+author: christie
 publishDate: 2022-04-04T13:00:00+10:00
-coverImage: ../images/gallery/2022-04-04-pork-luncheon-meat-fried-rice/Pork luncheon meat fried rice (3).jpeg
+coverImage: ../../../images/gallery/2022-04-04-pork-luncheon-meat-fried-rice/Pork luncheon meat fried rice (3).jpeg
 gallery: 2022-04-04-pork-luncheon-meat-fried-rice
 categories:
-  - Food
+  - food
 tags:
   - lunch
   - pork luncheon meat

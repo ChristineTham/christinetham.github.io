@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Katherine
 publishDate: 2023-03-16T08:00:00+10:00
 description: I bought this dress from Newtown.
 images:
-  - ../images/fashion/Katherine.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Katherine.jpeg
+categories: [fashion]
 tags:
   - Katherine
   - dress

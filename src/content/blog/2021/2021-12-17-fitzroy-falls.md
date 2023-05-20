@@ -1,12 +1,12 @@
 ---
 title: Fitzroy Falls
 description: Visiting Fitzroy Falls in the Southern Highlands
-author: Chris Tham
+author: christie
 publishDate: 2021-12-17T12:00:00+10:00
-coverImage: ../images/gallery/2021-12-17-fitzroy-falls/Fitzroy Falls (8).jpeg
+coverImage: ../../../images/gallery/2021-12-17-fitzroy-falls/Fitzroy Falls (8).jpeg
 gallery: 2021-12-17-fitzroy-falls
 categories:
-  - Travel
+  - travel
 tags:
   - Fitzroy Falls
   - Southern Highlands

@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Hong Kong Recipe
 publishDate: 2023-04-25T13:00:00+10:00
 description: Discovered a Hong Kong cafe style restaurant - 香港茶餐廳 Hong Kong Recipes in the Korean side of Eastwood.
 images:
-  - ../images/food/Hong Kong Recipe.jpeg
-  - ../images/food/Hong Kong Recipe (1).jpeg
-categories: [Food]
+  - ../../../images/food/Hong Kong Recipe.jpeg
+  - ../../../images/food/Hong Kong Recipe (1).jpeg
+categories: [food]
 tags:
   - Chinese
   - lunch

@@ -1,28 +1,51 @@
-import rss from '@astrojs/rss'
 import { getCollection } from 'astro:content'
-import { SiteMetadata } from '../config'
+import { SiteMetadata, defaultImage } from '../config'
+
+let posts = await getCollection('blog', (post) => !post.data.draft)
+posts = posts.sort((a, b) => +b.data.publishDate - +a.data.publishDate)
+posts.map((post) => {
+  post.image = post.data.coverImage || (post.data.images && post.data.images[0]) || post.data.socialImage || defaultImage
+  return post
+})
 
 export async function get() {
-  const posts = await getCollection('blog')
-  return rss({
-    // `<title>` field in output xml
-    title: SiteMetadata.title,
-    // `<description>` field in output xml
-    description: SiteMetadata.description,
-    // base URL for RSS <item> links
-    // SITE will use "site" from your project's astro.config.
-    site: import.meta.env.SITE,
-    // list of `<item>`s in output xml
-    // simple example: generate items for every md file in /src/pages
-    // see "Generating items" section for required data and advanced use cases
-    items: posts.filter(post => !post.data.draft).map(post => ({
-      link: import.meta.env.BASE_URL + '/blog/' + post.slug,
-      title: post.data.title,
-      description: post.data.description,
-      pubDate: post.data.publishDate.toISOString(),
-    })),
-    // (optional) inject custom xml
-    customData: `<language>en</language>`,
-    stylesheet: '/rssstyle.xsl',
-  })
+  return {
+    body: `<?xml version="1.0"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://pURL.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>${SiteMetadata.title}</title>
+    <link>${import.meta.env.SITE}</link>
+    <description>${SiteMetadata.title}</description>
+    <language>en</language>
+    <pubDate>${SiteMetadata.buildTime.toISOString()}</pubDate>
+    <lastBuildDate>${SiteMetadata.buildTime.toISOString()}</lastBuildDate>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <generator>Astro</generator>
+    <managingEditor>${SiteMetadata.author.email}</managingEditor>
+    <webMaster>${SiteMetadata.author.email}</webMaster>
+${posts
+  .map(
+    (post) => `    <item>
+      <title><![CDATA[${post.data.title}]]></title>
+      <link>${new URL(
+        '/blog/' + post.slug,
+        import.meta.env.SITE
+      ).toString()}</link>
+      <author>${post.data.author})</author>
+      <description><![CDATA[${post.data.description}]]></description>
+      <pubDate>${post.data.publishDate}</pubDate>
+      <media:content URL="${new URL(
+        post.image.src,
+        import.meta.env.SITE
+      ).toString()}" type="image/jpeg" medium="image" height="${
+        post.image.height
+      }" width="${post.image.width}"/>
+      <guid>${new URL('/blog/' + post.slug, import.meta.env.SITE).toString()}</guid>
+    </item>`
+  )
+  .join('\n')}
+  </channel>
+</rss>
+`
+  }
 }

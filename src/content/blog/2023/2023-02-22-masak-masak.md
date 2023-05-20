@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Masak masak
 publishDate: 2023-02-22T16:00:00+10:00
 description: Cooking a variety of dishes at Eemie's place
 images:
-  - ../images/food/Masak masak.jpeg
-  - ../images/food/Masak masak (2).jpeg
-categories: [Food]
+  - ../../../images/food/Masak masak.jpeg
+  - ../../../images/food/Masak masak (2).jpeg
+categories: [food]
 tags:
   - Malaysian
   - lunch

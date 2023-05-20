@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Indian outfit
 publishDate: 2022-10-17T10:00:00+10:00
 description: The same outfit ... 15 years apart
 images:
-  - ../images/fashion/Indian outfit.jpeg
-  - ../images/fashion/Mumbai.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Indian outfit.jpeg
+  - ../../../images/fashion/Mumbai.jpeg
+categories: [fashion]
 tags:
   - Hello Kitty
   - pink

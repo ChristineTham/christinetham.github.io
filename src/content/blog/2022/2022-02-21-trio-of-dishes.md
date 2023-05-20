@@ -1,12 +1,12 @@
 ---
 title: Cat's cooking class
 description: Trio of dishes
-author: Chris Tham
+author: christie
 publishDate: 2022-02-21T13:00:00+10:00
 images:
-  - ../images/food/Class.jpeg
+  - ../../../images/food/Class.jpeg
 categories:
-  - Food
+  - food
 tags:
   - class
   - Thai

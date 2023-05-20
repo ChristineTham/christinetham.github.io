@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Yumcha at The Eight
 publishDate: 2023-03-20T13:00:00+10:00
 description: Sampling some dishes I have never tried before.
 images:
-  - ../images/food/The Eight yum cha.jpeg
-categories: [Food]
+  - ../../../images/food/The Eight yum cha.jpeg
+categories: [food]
 tags:
   - Chinese
   - The Eight

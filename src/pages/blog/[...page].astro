@@ -15,13 +15,16 @@ export interface Props {
 
 const { page } = Astro.props
 
+import coverImage from '../../images/svg/undraw/my_feed.svg'
+import socialImage from '../../images/undraw/my_feed.png'
 const frontmatter: Frontmatter = {
   title: 'Blog' + (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
   description:
     'Articles I write from time to time',
-  coverImage: '../images/svg/undraw/my_feed.svg',
-  socialImage: '../images/undraw/my_feed.png',
+  coverImage: coverImage,
+  socialImage: socialImage,
   publishDate: SiteMetadata.buildTime,
+  categories: []
 }
 
 const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/?$/, '')

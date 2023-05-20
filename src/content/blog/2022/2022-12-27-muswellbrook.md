@@ -1,12 +1,12 @@
 ---
 title: Muswellbrook Family Road Trip Day 1
 description: Lunch in Newcastle, then drive to Muswellbrook
-author: Chris Tham
+author: christie
 publishDate: 2022-12-27T21:00:00+10:00
-images: [../images/blog/Kingfish.jpeg]
+images: [../../../images/blog/Kingfish.jpeg]
 categories:
-  - Travel
-  - Food
+  - travel
+  - food
 tags:
   - Newcastle
   - Muswellbrook

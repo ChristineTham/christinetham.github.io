@@ -1,14 +1,14 @@
 ---
 title: Lane Covelo C group Xmas dinner
 description: Lane Covelo C group Xmas dinner at Orchid Persian Restaurant.
-author: Chris Tham
+author: christie
 publishDate: 2021-11-26T21:00:00+10:00
 images:
-  - ../images/cycling/Lane Covelo C group Xmas dinner.jpeg
+  - ../../../images/cycling/Lane Covelo C group Xmas dinner.jpeg
 categories:
-  - Cycling
-  - Event
-  - Food
+  - cycling
+  - event
+  - food
 tags:
   - Lane Covelo
   - Xmas

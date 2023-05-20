@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Lunch at Mr. Stonepot Eastwood
 publishDate: 2022-06-27T13:00:00+10:00
 description: Famous restaurant in Eastwood
 images:
-  - ../images/food/Mr Stonepot.jpeg
-categories: [Food]
+  - ../../../images/food/Mr Stonepot.jpeg
+categories: [food]
 tags:
   - lunch
   - Mr Stonepot

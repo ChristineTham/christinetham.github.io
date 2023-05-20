@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Gossip gal revisited
 publishDate: 2023-03-22T08:00:00+10:00
 description: Wearing this outfit again for lunch.
 images:
-  - ../images/fashion/Gossip gal.jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Gossip gal.jpeg
+categories: [fashion]
 tags:
   - cheongsam
   - dress

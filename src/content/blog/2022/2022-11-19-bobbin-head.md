@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Bobbin Head
 publishDate: 2022-11-19T10:00:00+10:00
 description: Lane Covelo B2 ride to Bobbin Head and back
 images:
-  - ../images/cycling/Bobbin Head.png
-categories: [Cycling]
+  - ../../../images/cycling/Bobbin Head.png
+categories: [cycling]
 tags:
   - Bobbin Head
   - Lane Covelo

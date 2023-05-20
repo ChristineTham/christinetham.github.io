@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Cataract Dam
 publishDate: 2022-03-29T16:00:00+10:00
 description: Castle like dam
 images:
-  - ../images/blog/Cataract Dam.jpeg
-  - ../images/blog/Cataract Dam (1).jpeg
-categories: [Travel]
+  - ../../../images/blog/Cataract Dam.jpeg
+  - ../../../images/blog/Cataract Dam (1).jpeg
+categories: [travel]
 tags:
   - Cataract
   - dam

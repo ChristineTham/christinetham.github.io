@@ -1,10 +1,10 @@
 ---
-author: Chris Tham
+author: christie
 title: Banana, yogurt, honey and muesli
 publishDate: 2022-03-06T08:00:00+10:00
-images: [../images/food/Banana muesli honey.jpeg]
+images: [../../../images/food/Banana muesli honey.jpeg]
 description: Another variation of the breakfast sundae
-categories: [Food]
+categories: [food]
 tags:
   - banana
   - yogurt

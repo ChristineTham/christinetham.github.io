@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: Sausage Burger
 publishDate: 2023-01-02T12:00:00+10:00
 description: A burger with sausage as the "meat"
 images:
-  - ../images/food/Sausage burger.jpeg
-categories: [Food]
+  - ../../../images/food/Sausage burger.jpeg
+categories: [food]
 tags:
   - burger
   - sausage

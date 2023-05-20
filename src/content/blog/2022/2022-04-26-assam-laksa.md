@@ -1,13 +1,13 @@
 ---
-author: Chris Tham
+author: christie
 title: Assam Laksa
 publishDate: 2022-04-26T13:00:00+10:00
 description: Rita's version of this delicious Malaysian dish
 images:
-  - ../images/food/Assam laksa.jpeg
-  - ../images/food/Assam laksa (1).jpeg
-  - ../images/food/Assam laksa (3).jpeg
-categories: [Food]
+  - ../../../images/food/Assam laksa.jpeg
+  - ../../../images/food/Assam laksa (1).jpeg
+  - ../../../images/food/Assam laksa (3).jpeg
+categories: [food]
 tags:
   - Malaysian
   - lunch

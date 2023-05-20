@@ -1,14 +1,14 @@
 ---
-author: Chris Tham
+author: christie
 title: Cordeaux Dam
 publishDate: 2022-03-29T15:00:00+10:00
 description: Eqgyptian design dam with large spillway
 images:
-  - ../images/blog/Cordeaux Dam (3).jpeg
-  - ../images/blog/Cordeaux Dam.jpeg
-  - ../images/blog/Cordeaux Dam (1).jpeg
-  - ../images/blog/Cordeaux Dam (2).jpeg
-categories: [Travel]
+  - ../../../images/blog/Cordeaux Dam (3).jpeg
+  - ../../../images/blog/Cordeaux Dam.jpeg
+  - ../../../images/blog/Cordeaux Dam (1).jpeg
+  - ../../../images/blog/Cordeaux Dam (2).jpeg
+categories: [travel]
 tags:
   - Cordeaux
   - dam

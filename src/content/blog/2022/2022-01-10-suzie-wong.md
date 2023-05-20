@@ -1,10 +1,10 @@
 ---
 title: The World of Suzie Wong
 description: Classic film featuring 1960s Hong Kong
-author: Chris Tham
+author: christie
 publishDate: 2022-01-10T00:00:00.000Z
 categories:
-  - Art
+  - art
 tags:
   - film
   - Hong Kong

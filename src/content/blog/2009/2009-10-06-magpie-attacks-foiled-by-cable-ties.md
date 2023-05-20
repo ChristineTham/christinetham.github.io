@@ -1,10 +1,10 @@
 ---
 title: Magpie Attacks foiled by cable ties
 description: "Footage showing how effective attaching cable ties to a helmet can be in preventing magpies from hitting the helmet. They still swoop but don't peck."
-author: Chris Tham
+author: christie
 publishDate: 2009-10-06T06:28:01+00:00
 categories:
-  - Cycling
+  - cycling
 tags:
   - North Ryde
   - ATC2K

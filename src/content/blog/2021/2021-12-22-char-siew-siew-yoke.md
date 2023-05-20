@@ -1,12 +1,12 @@
 ---
 title: Char Siew and Siew Yoke
 description: Roast pork and BBQ pork for lunch
-author: Chris Tham
+author: christie
 publishDate: 2021-12-22T13:00:00+10:00
 images:
-  - ../images/food/Char siew and siew yoke.jpeg
+  - ../../../images/food/Char siew and siew yoke.jpeg
 categories:
-  - Food
+  - food
 tags:
   - Chinese
   - lunch

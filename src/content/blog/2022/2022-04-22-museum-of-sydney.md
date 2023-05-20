@@ -1,12 +1,12 @@
 ---
 title: Museum of Sydney
 description: Visiting with Cindy
-author: Chris Tham
+author: christie
 publishDate: 2022-04-22T18:00:00+10:00
-coverImage: ../images/gallery/2022-04-22-museum-of-sydney/Museum of Sydney.jpeg
+coverImage: ../../../images/gallery/2022-04-22-museum-of-sydney/Museum of Sydney.jpeg
 gallery: 2022-04-22-museum-of-sydney
 categories:
-  - Event
+  - event
 tags:
   - Museum of Sydney
   - Iridescent

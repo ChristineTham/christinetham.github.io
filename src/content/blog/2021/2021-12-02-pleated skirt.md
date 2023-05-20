@@ -1,12 +1,12 @@
 ---
-author: Chris Tham
+author: christie
 title: Pink pleated skirt
 publishDate: 2021-12-02T10:00:00+11:00
 description: This is a Korean skirt I bought from Malaysia in 2019.
 images:
-  - ../images/fashion/Pink pleated skirt.jpeg
-  - ../images/fashion/Pink pleated skirt (1).jpeg
-categories: [Fashion]
+  - ../../../images/fashion/Pink pleated skirt.jpeg
+  - ../../../images/fashion/Pink pleated skirt (1).jpeg
+categories: [fashion]
 tags:
   - pink
   - pleated

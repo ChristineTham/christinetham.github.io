@@ -1,11 +1,11 @@
 ---
-author: Chris Tham
+author: christie
 title: World Pride exhibitions at Carriageworks
 publishDate: 2023-02-23T13:00:00+10:00
-coverImage: ../images/gallery/2023-02-23-carriageworks/Word Made Flesh (Paul Yore).jpeg
+coverImage: ../../../images/gallery/2023-02-23-carriageworks/Word Made Flesh (Paul Yore).jpeg
 gallery: 2023-02-23-carriageworks
 description: Word Made Flesh and the Amsterdam Rainbow Dress
-categories: [Event,Art]
+categories: [event,art]
 tags:
   - art
   - World Pride
