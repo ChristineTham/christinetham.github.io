@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content'
 import { SEO, TwitterCardType } from 'astro-seo'
 import type { Frontmatter } from '../config'
 import type {
@@ -17,6 +18,7 @@ export interface Props {
 
 const { frontmatter } = Astro.props
 
+const social = await getCollection('social')
 const siteurl = new URL(import.meta.env.BASE_URL, Astro.url)
 const type = Astro.url.toString().includes('blog') ? 'post' : 'page'
 const year = SiteMetadata.buildTime.getFullYear()
@@ -106,7 +108,7 @@ const organization: WithContext<Organization> = {
     url: new URL(logo.src, siteurl).toString(),
   },
   name: SiteMetadata.org.name,
-  sameAs: Object.values(SiteMetadata.social.map(social => social.link)),
+  sameAs: Object.values(social.map(social => social.data.link)),
   url: SiteMetadata.org.url,
 }
 

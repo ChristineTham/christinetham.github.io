@@ -5177,7 +5177,39 @@ declare module 'astro:content' {
 	};
 
 	type DataEntryMap = {
-		
+		"social": {
+"email": {
+	id: "email";
+  collection: "social";
+  data: any
+};
+"facebook": {
+	id: "facebook";
+  collection: "social";
+  data: any
+};
+"github": {
+	id: "github";
+  collection: "social";
+  data: any
+};
+"instagram": {
+	id: "instagram";
+  collection: "social";
+  data: any
+};
+"linkedin": {
+	id: "linkedin";
+  collection: "social";
+  data: any
+};
+"twitter": {
+	id: "twitter";
+  collection: "social";
+  data: any
+};
+};
+
 	};
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;

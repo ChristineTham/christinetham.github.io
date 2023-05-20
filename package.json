@@ -1,7 +1,7 @@
 {
   "name": "christinetham.github.io",
-  "description": "Personal web site based on hello-astro template for Astro.",
-  "version": "0.0.1",
+  "description": "Personal web site.",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

@@ -29,38 +29,6 @@ export const SiteMetadata = {
   location: 'Sydney, Australia',
   latlng: [-33.86785, 151.20732] as [number, number],
   repository: 'https://github.com/ChristineTham/christham-astro',
-  social: [
-    {
-      name: 'Email',
-      link: 'mailto:chris@christham.net',
-      icon: 'envelope',
-    },
-    {
-      name: 'LinkedIn',
-      link: 'https://www.linkedin.com/in/christham',
-      icon: 'linkedin',
-    },
-    {
-      name: 'Facebook',
-      link: 'https://www.facebook.com/chris1tham',
-      icon: 'facebook',
-    },
-    {
-      name: 'Instagram',
-      link: 'https://www.instagram.com/chris1tham',
-      icon: 'instagram',
-    },
-    {
-      name: 'Twitter',
-      link: 'https://twitter.com/chris1tham',
-      icon: 'twitter',
-    },
-    {
-      name: 'Github',
-      link: 'https://github.com/ChristineTham',
-      icon: 'github',
-    },
-  ],
   buildTime: new Date(),
 }
 

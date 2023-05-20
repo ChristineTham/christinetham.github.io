@@ -73,6 +73,15 @@ const pageCollection = defineCollection({
   }),
 })
 
+const socialCollection = defineCollection({
+  type: 'data',
+  schema: ({image}) => z.object({
+    name: z.string(),
+    link: z.string(),
+    icon: z.string(),
+  }),
+})
+
 // 3. Export multiple collections to register them
 export const collections = {
   blog: blogCollection,
