@@ -13,8 +13,10 @@ tags:
   - Typescript
   - TailwindCSS
   - Github Pages
-extra: [math]
 ---
+
+import Gallery from '../../../components/gallery.astro'
+import Map from '../../../components/map.astro'
 
 I have been a bit quiet lately, because I have been focusing on finishing up
 the rewrite of this site.
@@ -65,8 +67,26 @@ This is the Wordpress version of this site:
 
 ## Requirements
 
+```markmap
+# Requirements
+- easy to create content
+- display photo galleries with lightbox
+- display map
+- math equations
+- diagrams
+- custom design
+```
+
 I was ambitious - I wanted a website that can display photo galleries with a
-lightbox, I wanted to be able to type mathematical equations like the
+lightbox:
+
+<Gallery folder="2022-05-05-mt-tomah"/>
+
+I wanted the ability to display a map:
+
+<Map text="Sydney Opera House" loc={[-33.85712,151.215]} zoom={17} />
+
+I wanted to be able to type mathematical equations like the
 Black-Scholes option pricing formulae:
 
 $$C(S_{t},K,t)=S_{t}\Phi (d_{1})-Ke^{-r(T-t)}\Phi (d_{2})$$

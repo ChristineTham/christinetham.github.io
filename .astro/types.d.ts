@@ -4956,13 +4956,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"2023/2023-05-21-new-website.md": {
-	id: "2023/2023-05-21-new-website.md";
+"2023/2023-05-21-new-website.mdx": {
+	id: "2023/2023-05-21-new-website.mdx";
   slug: "2023/2023-05-21-new-website";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
-} & { render(): Render[".md"] };
+} & { render(): Render[".mdx"] };
 };
 "category": {
 "art.md": {
