@@ -17,7 +17,7 @@ const image = frontmatter.coverImage ||
   (frontmatter.images && frontmatter.images[0]) ||
   frontmatter.socialImage ||
   cat.data.coverImage
-let author = await getEntry('author', 'christie')
+let author = await getEntry('author', 'default')
 if (frontmatter.author) {
   author = await getEntry(frontmatter.author)
 }

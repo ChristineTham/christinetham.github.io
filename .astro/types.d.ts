@@ -206,6 +206,13 @@ declare module 'astro:content' {
   collection: "author";
   data: InferEntrySchema<"author">
 } & { render(): Render[".md"] };
+"default.md": {
+	id: "default.md";
+  slug: "default";
+  body: string;
+  collection: "author";
+  data: InferEntrySchema<"author">
+} & { render(): Render[".md"] };
 };
 "bio": {
 "childhood.md": {

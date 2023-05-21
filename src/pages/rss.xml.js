@@ -1,14 +1,33 @@
-import { getCollection } from 'astro:content'
+import { getCollection, getEntry, getEntries } from 'astro:content'
 import { SiteMetadata, defaultImage } from '../config'
 
-let posts = await getCollection('blog', (post) => !post.data.draft)
-posts = posts.sort((a, b) => +b.data.publishDate - +a.data.publishDate)
-posts.map((post) => {
-  post.image = post.data.coverImage || (post.data.images && post.data.images[0]) || post.data.socialImage || defaultImage
-  return post
-})
-
 export async function get() {
+  const defaultauthor = await getEntry('author', 'default')
+
+  let posts = await getCollection('blog', (post) => !post.data.draft)
+  posts = posts.sort((a, b) => +b.data.publishDate - +a.data.publishDate)
+  // cannot use posts.forEach() due to race conditions
+  for (let i = 0; i < posts.length; i++) {
+    const post = posts[i]
+    const categoriesdetail = await getEntries(post.data.categories)
+    posts[i].image = post.data.coverImage ||
+      (post.data.images && post.data.images[0]) ||
+      post.data.socialImage ||
+      categoriesdetail[0].data.socialImage || 
+      defaultImage
+    if (posts[i].image.format == 'jpg') {
+      posts[i].image.format = 'jpeg'
+    }
+    if (post.data.author) {
+      const authordetail = await getEntry(post.data.author)
+      posts[i].author = authordetail.data.title
+    }
+    else {
+      posts[i].author = defaultauthor.data.title
+    }
+    posts[i].categories = categoriesdetail.map(category => category.data.title)
+  }
+
   return {
     body: `<?xml version="1.0"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://pURL.org/dc/elements/1.1/" version="2.0">
@@ -31,16 +50,17 @@ ${posts
         '/blog/' + post.slug,
         import.meta.env.SITE
       ).toString()}</link>
-      <author>${post.data.author})</author>
+      <author>${post.author}</author>
       <description><![CDATA[${post.data.description}]]></description>
       <pubDate>${post.data.publishDate}</pubDate>
       <media:content URL="${new URL(
-        post.image.src,
+        post.image.src.split('?')[0],
         import.meta.env.SITE
-      ).toString()}" type="image/jpeg" medium="image" height="${
+      ).toString()}" type="image/${post.image.format}" medium="image" height="${
         post.image.height
       }" width="${post.image.width}"/>
       <guid>${new URL('/blog/' + post.slug, import.meta.env.SITE).toString()}</guid>
+${post.categories.map(category => '      <category>' + category + '</category>').join('\n')}
     </item>`
   )
   .join('\n')}
