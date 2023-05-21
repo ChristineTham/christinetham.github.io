@@ -1,4 +1,5 @@
 import { getCollection, getEntry, getEntries } from 'astro:content'
+import { getImage } from "astro:assets"
 import { SiteMetadata, defaultImage } from '../config'
 
 export async function get() {
@@ -17,10 +18,11 @@ export async function get() {
       post.data.socialImage ||
       categoriesdetail[0].data.socialImage || 
       defaultImage
-
-    if (posts[i].image.format == 'jpg') {
-      posts[i].image.format = 'jpeg'
-    }
+    const image150 = await getImage({src: posts[i].image, format: 'jpg', width: 150})
+    posts[i].image.src = image150.src
+    posts[i].image.width = image150.attributes.width
+    posts[i].image.height = image150.attributes.height
+    posts[i].image.format = 'jpeg'
 
     if (post.data.author) {
       const authordetail = await getEntry(post.data.author)

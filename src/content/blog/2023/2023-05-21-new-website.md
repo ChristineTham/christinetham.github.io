@@ -3,8 +3,7 @@ author: christie
 title: Relaunch of christham.net website
 publishDate: 2023-05-21T13:00:00+10:00
 description: My personal web site as a modern Jamstack deployment
-images:
-  - ../../website/christham.png
+coverImage: ../../../images/blog/christham.png
 categories:
   - create
   - software
@@ -59,6 +58,10 @@ site and hosted it on Hostgator, a US based web hosting service.
 I must admit - although it is easy to set up a WordPress site, and relatively
 easy to find hosting options, making a website that has all the functionality I
 want and the design that I want turned out to be an exercise in frustration.
+
+This is the Wordpress version of this site:
+
+![Wordpress version of this site](../../../images/blog/christham.jpg)
 
 ## Requirements
 
@@ -288,6 +291,8 @@ time for updating the web site.
 
 But I have finally done it, and today, you can browse hundreds of posts from
 2022 and 2023 and realise how busy I have been.
+
+![New veriom of site](../../../images/blog/christham.png)
 
 For the last few weeks, I have been putting final touches on my website, and
 solving a few technical problems. There is functionality on the web site that

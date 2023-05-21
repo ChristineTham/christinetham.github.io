@@ -1,6 +1,7 @@
 ---
 import { getCollection, getEntry } from 'astro:content'
 import { SEO, TwitterCardType } from 'astro-seo'
+import { getImage } from "astro:assets"
 import type { Frontmatter } from '../config'
 import type {
   Article,
@@ -25,11 +26,12 @@ const year = SiteMetadata.buildTime.getFullYear()
 const cat = frontmatter.categories &&
   frontmatter.categories.length &&
   await getEntry(frontmatter.categories[0])
-const image = frontmatter.socialImage ||
+const origimage = frontmatter.socialImage ||
   frontmatter.coverImage ||
   (frontmatter.images && frontmatter.images[0]) ||
   (cat && cat.data.socialImage) ||
   defaultImage
+const image = await getImage({src: origimage, format: 'jpg', width: 1200})
 const logo = LogoImage
 const publishDate = new Date(frontmatter.publishDate)
 
@@ -45,8 +47,8 @@ const openGraph = {
   },
   image: {
     alt: frontmatter.title,
-    height: image.height,
-    width: image.width,
+    height: image.attributes.height,
+    width: image.attributes.width,
   },
   article: {
     author: frontmatter.author,
