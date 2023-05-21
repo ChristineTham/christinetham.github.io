@@ -7,7 +7,7 @@ interface Props {
 }
 const { featured = false } = Astro.props
 
-let websites = await getCollection('website', website => !featured || website.data.featured)
+const websites = await getCollection('website', website => !featured || website.data.featured)
 ---
 
 <div itemprop="mainEntity" itemscope itemtype="https://schema.org/WebSite" class="max-w-none mx-auto p-4 sm:px-6 lg:px-8 bg-rosely7 dark:bg-rosely1">

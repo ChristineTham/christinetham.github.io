@@ -151,8 +151,8 @@ nwdiag {
     description = "Storage";
     nas1 [description="<$file_server>\nnas1\nQNAP TS-569L"];
     nas2 [description="<$file_server>\nnas2\nQNAP TS-431P"];
+    nas3 [description="<$file_server>\nbackup\nSynology DS918+"];
     wdmcm [description="<$file_server>\nwdmcm\nWD MyCloud Mirror"];
-    backup [description="<$file_server>\nbackup\nSynology DS918+"];
   }
 
   group {
