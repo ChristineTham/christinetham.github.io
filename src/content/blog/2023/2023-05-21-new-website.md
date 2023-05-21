@@ -3,6 +3,8 @@ author: christie
 title: Relaunch of christham.net website
 publishDate: 2023-05-21T13:00:00+10:00
 description: My personal web site as a modern Jamstack deployment
+images:
+  - ../../website/christham.png
 categories:
   - create
   - software
@@ -255,10 +257,11 @@ Internet. I integrated [PhotoSwipe](https://photoswipe.com) to display
 photo galleries with a lightbox, and also integrated
 [Mermaid](https://mermaid.js.org/), [PlantUML](https://plantuml.com/) and
 [MarkMap](https://markmap.js.org/) for diagrams. Finally I integrated
+client side search using [Lunr](https://lunrjs.com/),
 [KaTeX](https://katex.org/) for displaying math equations and 
 [Leaflet](https://leafletjs.com) to display maps using OpenStreetMap.
 I finally had
-all the functionality I've always wanted for a a web site.
+all the functionality I've always wanted for a web site.
 
 I was surprised that a few other people started using my template as well.
 Two people even sponsored me on Github, even though the template is open
