@@ -43,4 +43,21 @@ posts.forEach((post, i) => {
     </article>
   </main>
   <NextPrev slot="before-footer" base={import.meta.env.BASE_URL + 'blog/'} prev={prev} next={next} />
+  <div class="giscus max-w-screen-lg mx-auto"/>
+  <script is:inline src="https://giscus.app/client.js"
+        data-repo="ChristineTham/christinetham.github.io"
+        data-repo-id="R_kgDOH7yvAw"
+        data-category="General"
+        data-category-id="DIC_kwDOH7yvA84CWpgB"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
 </Base>
