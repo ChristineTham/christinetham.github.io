@@ -75,7 +75,7 @@ const pageCollection = defineCollection({
 
 const socialCollection = defineCollection({
   type: 'data',
-  schema: ({image}) => z.object({
+  schema: z.object({
     name: z.string(),
     link: z.string(),
     icon: z.string(),
@@ -90,4 +90,5 @@ export const collections = {
   author: authorCollection,
   website: websiteCollection,
   page: pageCollection,
+  social: socialCollection,
 }

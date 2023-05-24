@@ -5195,32 +5195,32 @@ declare module 'astro:content' {
 "email": {
 	id: "email";
   collection: "social";
-  data: any
+  data: InferEntrySchema<"social">
 };
 "facebook": {
 	id: "facebook";
   collection: "social";
-  data: any
+  data: InferEntrySchema<"social">
 };
 "github": {
 	id: "github";
   collection: "social";
-  data: any
+  data: InferEntrySchema<"social">
 };
 "instagram": {
 	id: "instagram";
   collection: "social";
-  data: any
+  data: InferEntrySchema<"social">
 };
 "linkedin": {
 	id: "linkedin";
   collection: "social";
-  data: any
+  data: InferEntrySchema<"social">
 };
 "twitter": {
 	id: "twitter";
   collection: "social";
-  data: any
+  data: InferEntrySchema<"social">
 };
 };
 
