@@ -5,7 +5,7 @@ This is  my personal blog/web site written in Markdown and [Astro](https://astro
 
 It is hosted on [Github Pages](https://pages.github.com) and deployed via Github Action workflow.
 
-![Screenshot](https://github.com/ChristineTham/christinetham.github.io/raw/main/src/images/website/christham.png)
+![Screenshot](https://github.com/ChristineTham/christinetham.github.io/blob/main/screenshot.png?raw=true)
 
 ## 🧞 Commands
 
