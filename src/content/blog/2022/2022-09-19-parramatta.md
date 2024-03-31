@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Recovery ride at Parramatta
-publishDate: 2022-09-19T12:35:00+10:00
+pubDate: 2022-09-19T12:35:00+10:00
 images: [../../../images/cycling/Parramatta.png]
 description: Exploring new routes
 categories: [cycling]

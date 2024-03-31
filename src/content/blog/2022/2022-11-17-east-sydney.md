@@ -2,7 +2,7 @@
 author: christie
 title: Jacarandas in East Sydney
 description: Jacarandas around Riley St and Five Ways Paddington
-publishDate: 2022-11-17T14:00:00+10:00
+pubDate: 2022-11-17T14:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-17-east-sydney/Five Ways.jpeg
 gallery: 2022-11-17-east-sydney
 categories: [event]

@@ -2,7 +2,7 @@
 title: Sydney Lunar Lanterns
 description: Sydney has light sculptures of the Lunar Year animals.
 author: christie
-publishDate: 2022-02-02T20:00:00+10:00
+pubDate: 2022-02-02T20:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-02-lunar-lanterns/The Dog (2).jpeg
 gallery: 2022-02-02-lunar-lanterns
 categories:
@@ -14,6 +14,7 @@ tags:
   - light
   - sculpture
 ---
+
 Last chapter of the 2-2-22 adventure: posing with the Lunar Lanterns #sydneylunarfestival
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid02BPDf7rPnpAWzASHtG7T4Tq3gzC9MwkaEA929H3aQvoEV5ZvWpumMc7HP18FZeyoTl&show_text=true&width=500" width="500" height="582" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>

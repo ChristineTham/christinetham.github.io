@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Bear Runner
-publishDate: 2014-02-15T12:35:00+10:00
+pubDate: 2014-02-15T12:35:00+10:00
 images: [../../../images/art/BearRunner.jpg]
 description: Do bears dream of electric kitties
 categories: [art, create]

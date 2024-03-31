@@ -1,24 +1,21 @@
 ---
-import type { Frontmatter } from '../config'
-import { SiteMetadata } from '../config'
+import type { CollectionEntry } from 'astro:content'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
 import WebRoll from '../components/webroll.astro'
 
 import coverImage from '../images/svg/undraw/building_websites.svg'
 import socialImage from '../images/undraw/building_websites.png'
-const frontmatter: Frontmatter = {
+const frontmatter: CollectionEntry<'page'>['data'] = {
   title: 'Websites',
-  description: 'I love building websites as a hobby. These are some websites that I have built over the years.',
+  description:
+    'I love building websites as a hobby. These are some websites that I have built over the years.',
   coverImage: coverImage,
-  socialImage: socialImage,
-  publishDate: SiteMetadata.buildTime,
-  categories: []
+  socialImage: socialImage
 }
-
 ---
 
-<Base frontmatter={frontmatter} schema="CollectionPage">
+<Base frontmatter={frontmatter} schema='CollectionPage'>
   <header>
     <PageHero
       title={frontmatter.title}
@@ -27,7 +24,7 @@ const frontmatter: Frontmatter = {
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main itemprop="mainContentOfPage" class="bg-rosely3 dark:bg-rosely0">
+  <main itemprop='mainContentOfPage' class='bg-rosely3 dark:bg-rosely0'>
     <WebRoll />
   </main>
 </Base>

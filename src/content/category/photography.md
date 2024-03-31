@@ -1,8 +1,8 @@
 ---
 title: Photography
-icon:  ../../images/svg/kawaii/photo-camera.svg
-coverImage:  ../../images/svg/undraw/moments.svg
-socialImage:  ../../images/undraw/moments.png
+icon: ../../images/svg/kawaii/photo-camera.svg
+coverImage: ../../images/svg/undraw/moments.svg
+socialImage: ../../images/undraw/moments.png
 description: I have been taking photos on various cameras since high school.
 ---
 

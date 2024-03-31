@@ -2,7 +2,7 @@
 title: Muswellbrook Family Road Trip Day 3 - Historic walk
 description: We did two walks around the town, followed by dinner
 author: christie
-publishDate: 2022-12-29T21:00:00+10:00
+pubDate: 2022-12-29T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-12-29-muswellbrook/Muswellbrook (5).jpeg
 gallery: 2022-12-29-muswellbrook
 categories:

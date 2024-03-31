@@ -9,16 +9,16 @@ const { headings } = Astro.props as Props
 ---
 
 <h2
-  id="table-of-contents-title"
-  class="font-display text-sm font-medium text-rosely0 dark:text-rosely3"
+  id='table-of-contents-title'
+  class='font-display text-sm font-medium text-rosely0 dark:text-rosely3'
 >
   On this page
 </h2>
-<ol role="list" class="mt-4 py-1 text-sm">
+<ol role='list' class='mt-4 py-1 text-sm'>
   {
     headings
       .filter(({ depth }) => depth > 1 && depth < 4)
-      .map(heading => (
+      .map((heading) => (
         <li
           class={
             heading.depth == 2
@@ -26,10 +26,7 @@ const { headings } = Astro.props as Props
               : 'mt-2 py-1 pl-5 text-rosely9 dark:text-roselyB'
           }
         >
-          <a
-            class="hover:text-roselyC dark:hover:text-rosely5"
-            href={`#${heading.slug}`}
-          >
+          <a class='hover:text-roselyC dark:hover:text-rosely5' href={`#${heading.slug}`}>
             {heading.text}
           </a>
         </li>

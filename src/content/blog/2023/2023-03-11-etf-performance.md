@@ -2,7 +2,7 @@
 title: ETF performance
 description: Compared to holding the underlying physical assets
 author: christie
-publishDate: 2023-03-11T00:00:00.000Z
+pubDate: 2023-03-11T00:00:00.000Z
 images:
   - ../../../images/blog/Rising Market.png
   - ../../../images/blog/Falling Market.png

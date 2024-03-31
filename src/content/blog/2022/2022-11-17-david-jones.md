@@ -2,7 +2,7 @@
 author: christie
 title: David Jones Xmas display
 description: Sydney Xmas window display at David Jones
-publishDate: 2022-11-17T13:00:00+10:00
+pubDate: 2022-11-17T13:00:00+10:00
 images:
   - ../../../images/blog/David Jones.jpeg
 categories: [event]

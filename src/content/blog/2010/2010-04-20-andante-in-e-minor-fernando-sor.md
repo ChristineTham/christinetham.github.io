@@ -2,7 +2,7 @@
 title: Andante in E minor (Fernando Sor)
 description: Pieces played on my guitar
 author: christie
-publishDate: 2010-04-20T06:04:04+00:00
+pubDate: 2010-04-20T06:04:04+00:00
 categories:
   - music
   - create

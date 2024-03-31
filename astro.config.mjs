@@ -1,9 +1,10 @@
-import { defineConfig, sharpImageService } from 'astro/config'
+import { defineConfig } from 'astro/config'
 import tailwind from '@astrojs/tailwind'
 import sitemap from '@astrojs/sitemap'
 import mdx from '@astrojs/mdx'
 import alpinejs from '@astrojs/alpinejs'
 import robotsTxt from 'astro-robots-txt'
+import icon from "astro-icon";
 
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
@@ -13,19 +14,8 @@ import { remarkDiagram } from './remark-plugins/remark-diagram.mjs';
 
 // https://astro.build/config
 export default defineConfig({
-  experimental: {
-    assets: true
-  },
-  image: {
-    service: sharpImageService(),
-  },
-  vite: {
-    ssr: {
-      external: ['svgo'],
-    },
-  },
   site: 'https://christham.net',
-  integrations: [tailwind(), sitemap(), mdx(), alpinejs(), robotsTxt()],
+  integrations: [icon(), tailwind(), sitemap(), mdx(), alpinejs(), robotsTxt()],
   markdown: {
     extendDefaultPlugins: true,
     remarkPlugins: [

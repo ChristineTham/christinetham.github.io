@@ -1,8 +1,8 @@
 ---
 title: Design
-icon:  ../../images/svg/kawaii/love.svg
-coverImage:  ../../images/svg/undraw/building_websites.svg
-socialImage:  ../../images/undraw/building_websites.png
+icon: ../../images/svg/kawaii/love.svg
+coverImage: ../../images/svg/undraw/building_websites.svg
+socialImage: ../../images/undraw/building_websites.png
 description: This category contains a selection of things I have designed.
 ---
 

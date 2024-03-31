@@ -2,7 +2,7 @@
 title: My new bike - Specialized Ruby Expert :-)
 description: "I have finally decided to replace my commuter bike. It's the the 2017 top of the range Specialized women's bike; The Ruby Expert Ultegra Di2"
 author: christie
-publishDate: 2018-03-21T13:37:50+00:00
+pubDate: 2018-03-21T13:37:50+00:00
 images:
   - ../../../images/gallery/2018-03-22-my-new-bike/Specialized-Ruby-Expert-side-view.jpeg
   - ../../../images/gallery/2018-03-22-my-new-bike/Specialized-Ruby-Expert-angled-view.jpeg

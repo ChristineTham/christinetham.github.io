@@ -2,7 +2,7 @@
 title: Lunch at Biryani Corner
 description: Best biryani in Sydney, located at Homebush
 author: christie
-publishDate: 2022-03-26T13:00:00+10:00
+pubDate: 2022-03-26T13:00:00+10:00
 images:
   - ../../../images/food/Biryani Corner.jpeg
 categories:

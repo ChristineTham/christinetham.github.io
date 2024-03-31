@@ -1,63 +1,55 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import type { Frontmatter } from '../config'
-import { getCollection } from 'astro:content'
 import Base from '../layouts/base.astro'
 import BlogHero from '../components/bloghero.astro'
 import NextPrev from '../components/nextprev.astro'
 import Images from '../components/images.astro'
 
 export interface Props {
-  frontmatter: Frontmatter
+  post: CollectionEntry<'blog'>
+  prev?: CollectionEntry<'blog'>
+  next?: CollectionEntry<'blog'>
 }
 
-const { frontmatter } = Astro.props
-
-const currentPage = Astro.url.pathname
-const allPosts = await getCollection('blog')
-const posts = allPosts.sort((a, b) => +b.data.publishDate - +a.data.publishDate).filter(p => !p.data.draft)
-let prev: CollectionEntry<'blog'> | undefined
-let next: CollectionEntry<'blog'> | undefined
-posts.forEach((post, i) => {
-  if (currentPage.search(post.slug) >= 0) {
-    if (i > 0) {
-      prev = posts[i - 1]
-    }
-    if (i < posts.length - 1) {
-      next = posts[i + 1]
-    }
-  }
-})
+const { post, prev, next } = Astro.props
 ---
 
-<Base frontmatter={frontmatter} schema="Article">
+<Base frontmatter={post.data} schema='Article'>
   <main>
-    <article class="post">
+    <article class='post'>
       <header>
-        <BlogHero frontmatter={frontmatter} />
+        <BlogHero {post} />
       </header>
-      <section class="px-4 py-8 max-w-screen-lg mx-auto prose prose-purple lg:prose-xl dark:prose-invert" >
-        {frontmatter.images && <Images images={frontmatter.images} />}
-        <slot itemprop="articleBody" />
+      <section
+        class='prose prose-purple mx-auto max-w-screen-lg px-4 py-8 dark:prose-invert lg:prose-xl'
+      >
+        {post.data.images && <Images images={post.data.images} />}
+        <slot itemprop='articleBody' />
       </section>
     </article>
   </main>
-  <NextPrev slot="before-footer" base={import.meta.env.BASE_URL + 'blog/'} prev={prev} next={next} />
-  <div class="giscus max-w-screen-lg mx-auto"/>
-  <script is:inline src="https://giscus.app/client.js"
-        data-repo="ChristineTham/christinetham.github.io"
-        data-repo-id="R_kgDOH7yvAw"
-        data-category="General"
-        data-category-id="DIC_kwDOH7yvA84CWpgB"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+  <NextPrev
+    slot='before-footer'
+    base={import.meta.env.BASE_URL + 'blog/'}
+    prev={prev}
+    next={next}
+  />
+  <div class='giscus mx-auto max-w-screen-lg'></div>
+  <script
+    is:inline
+    src='https://giscus.app/client.js'
+    data-repo='ChristineTham/christinetham.github.io'
+    data-repo-id='R_kgDOH7yvAw'
+    data-category='General'
+    data-category-id='DIC_kwDOH7yvA84CWpgB'
+    data-mapping='pathname'
+    data-strict='0'
+    data-reactions-enabled='1'
+    data-emit-metadata='0'
+    data-input-position='bottom'
+    data-theme='preferred_color_scheme'
+    data-lang='en'
+    data-loading='lazy'
+    crossorigin='anonymous'
+    async></script>
 </Base>

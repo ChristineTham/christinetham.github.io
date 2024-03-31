@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Katherine dress
-publishDate: 2023-02-15T08:00:00+10:00
+pubDate: 2023-02-15T08:00:00+10:00
 description: Another thrift shop purchase
 images:
   - ../../../images/fashion/Katherine.jpeg

@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Gotong Royong for Lunar New Year 2023
-publishDate: 2023-01-16T21:00:00+10:00
+pubDate: 2023-01-16T21:00:00+10:00
 description: 2nd year of making bakkwa and kuih kapit
 images:
   - ../../../images/food/Gotong Royong 2023.jpg

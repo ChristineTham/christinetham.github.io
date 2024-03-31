@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Completed the Sufferfest
-publishDate: 2022-07-30T10:00:00+10:00
+pubDate: 2022-07-30T10:00:00+10:00
 images:
   - ../../../images/cycling/The Sufferfest (1).jpeg
   - ../../../images/cycling/The Sufferfest.jpeg

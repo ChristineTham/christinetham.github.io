@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Pearl Beach
-publishDate: 2022-04-16T10:00:00+10:00
+pubDate: 2022-04-16T10:00:00+10:00
 description: Weekend stay at Margaret's house
 images:
   - ../../../images/blog/Anthony Maestri.jpeg

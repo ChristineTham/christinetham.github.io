@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Investment Update
-publishDate: 2022-10-05T11:00:00+10:00
+pubDate: 2022-10-05T11:00:00+10:00
 description: Reflections on our investment portfolio
 categories: [create]
 tags:

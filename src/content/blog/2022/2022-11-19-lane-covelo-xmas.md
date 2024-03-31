@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Lane Covelo Xmas Party
-publishDate: 2022-11-19T20:00:00+10:00
+pubDate: 2022-11-19T20:00:00+10:00
 description: Held at the Diddy in Lane Cove
 coverImage: ../../../images/gallery/2022-11-19-lane-covelo-xmas/Lane Covelo Xmas Party.jpeg
 gallery: 2022-11-19-lane-covelo-xmas

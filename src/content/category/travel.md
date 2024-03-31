@@ -1,8 +1,8 @@
 ---
 title: Travel
-icon:  ../../images/svg/kawaii/map.svg
-coverImage:  ../../images/svg/undraw/travel_mode.svg
-socialImage:  ../../images/undraw/travel_mode.png
+icon: ../../images/svg/kawaii/map.svg
+coverImage: ../../images/svg/undraw/travel_mode.svg
+socialImage: ../../images/undraw/travel_mode.png
 description: I love traveling.
 ---
 

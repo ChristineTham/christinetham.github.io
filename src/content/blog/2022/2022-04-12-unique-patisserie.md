@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Easter Girls Road trip Lunch
-publishDate: 2022-04-12T13:00:00+10:00
+pubDate: 2022-04-12T13:00:00+10:00
 description: Lunch at Unique Patisserie, Katoomba
 images:
   - ../../../images/food/Unique Patisserie.jpeg

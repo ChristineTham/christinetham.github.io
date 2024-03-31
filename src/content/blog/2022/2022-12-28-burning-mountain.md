@@ -2,7 +2,7 @@
 title: Muswellbrook Family Road Trip Day 2 - Burning Mountain
 description: Walk to a coal seam fire that has been burning for 5000 years
 author: christie
-publishDate: 2022-12-28T21:00:00+10:00
+pubDate: 2022-12-28T21:00:00+10:00
 images: [../../../images/gallery/2022-12-28-burning-mountain/Burning Mountain.jpeg]
 gallery: 2022-12-28-burning-mountain
 categories:

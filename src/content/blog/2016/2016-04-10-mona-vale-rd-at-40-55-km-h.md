@@ -2,7 +2,7 @@
 title: Mona Vale Rd at 40-55 km/h
 description: "We tried to draft behind Kymbal's car ..."
 author: christie
-publishDate: 2016-04-10T08:06:14+00:00
+pubDate: 2016-04-10T08:06:14+00:00
 categories:
   - cycling
 tags:

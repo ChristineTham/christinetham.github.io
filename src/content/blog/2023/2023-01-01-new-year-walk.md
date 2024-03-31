@@ -1,7 +1,7 @@
 ---
 author: christie
 title: New Year walk across Sydney
-publishDate: 2023-01-01T13:00:00+10:00
+pubDate: 2023-01-01T13:00:00+10:00
 description: Starting from Milson's Point, and walking across the bridge to
 images:
   - ../../../images/gallery/2023-01-01-sydney-ny/Barangaroo (11).jpeg

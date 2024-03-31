@@ -2,7 +2,7 @@
 title: Chatswood CBD
 description: Cycling through Chatswood (Devonshire Street, Johnson Street, Claude Lane, Spring Street, Victoria Avenue, Anderson Street).
 author: christie
-publishDate: 2009-10-04T06:25:58+00:00
+pubDate: 2009-10-04T06:25:58+00:00
 categories:
   - cycling
 tags:

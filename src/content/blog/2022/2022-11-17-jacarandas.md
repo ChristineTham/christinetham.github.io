@@ -2,7 +2,7 @@
 author: christie
 title: Jacarandas in Sydney
 description: Jacarandas around First Fleet Park
-publishDate: 2022-11-17T11:00:00+10:00
+pubDate: 2022-11-17T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-17-jacaranda/Jacaranda (3).jpeg
 gallery: 2022-11-17-jacaranda
 categories: [event]

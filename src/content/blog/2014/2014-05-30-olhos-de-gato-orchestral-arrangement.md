@@ -2,7 +2,7 @@
 title: Olhos De Gato (orchestral arrangement)
 description: I have arranged Olhos de Gato, by Carla Bley (one of the pieces studied in class) for orchestra.
 author: christie
-publishDate: 2014-05-30T07:10:00+00:00
+pubDate: 2014-05-30T07:10:00+00:00
 categories:
   - music
   - create

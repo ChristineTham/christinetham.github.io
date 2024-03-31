@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Lunch at Spice World
-publishDate: 2022-07-05T13:00:00+10:00
+pubDate: 2022-07-05T13:00:00+10:00
 description: Lunch at a Malatang restaurant in Chinatown
 images:
   - ../../../images/food/Spice World (1).jpeg

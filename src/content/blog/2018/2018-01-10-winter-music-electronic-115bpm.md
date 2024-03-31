@@ -2,7 +2,7 @@
 title: Winter Music (electronic 115bpm)
 description: "My first project in Maschine 3 - a dance arrangement of Roger Eno's track from Between Tides album."
 author: christie
-publishDate: 2018-01-10T06:14:48+00:00
+pubDate: 2018-01-10T06:14:48+00:00
 categories:
   - music
   - create

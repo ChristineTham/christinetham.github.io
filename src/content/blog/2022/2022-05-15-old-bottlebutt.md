@@ -2,7 +2,7 @@
 title: Port Macquarie trip - Old Bottlebutt
 description: Largest red bloodwood tree in the Southern Hemisphere
 author: christie
-publishDate: 2022-05-15T17:00:00+10:00
+pubDate: 2022-05-15T17:00:00+10:00
 coverImage: ../../../images/gallery/2022-05-15-old-bottlebutt/Old Bottlebutt (4).jpeg
 gallery: 2022-05-15-old-bottlebutt
 categories:

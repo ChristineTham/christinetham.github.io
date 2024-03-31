@@ -2,7 +2,7 @@
 title: Passo dello Stelvio
 description: Climbing the famous mountain on RGT
 author: christie
-publishDate: 2022-01-06T10:00:00+10:00
+pubDate: 2022-01-06T10:00:00+10:00
 coverImage: ../../../images/gallery/2022-01-06-passo-dello-stelvio/Passo dello Stelvio (1).jpeg
 gallery: 2022-01-06-passo-dello-stelvio
 categories:
@@ -11,6 +11,7 @@ tags:
   - RGT
   - Passo dello Stelvio
 ---
+
 Finally finished climbing Passo dello Stelvio on RGT Cycling on my third attempt. Round trip of 28 km, 1113m ascent in 2 hours.
 
 On my first attempt, FCUK, it's difficult with gradients from 9-12% - I was in the lowest gear the whole time. I didn't have time to finish the climb - I gave up after the first QOM point and turned around and cycled back.

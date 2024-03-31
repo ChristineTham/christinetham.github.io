@@ -2,7 +2,7 @@
 title: Spirit House
 description: Reflections on my health over the last few years
 author: christie
-publishDate: 2023-03-03T16:00:00.000+10:00
+pubDate: 2023-03-03T16:00:00.000+10:00
 images:
   - ../../../images/blog/Spirit House.jpeg
 categories:

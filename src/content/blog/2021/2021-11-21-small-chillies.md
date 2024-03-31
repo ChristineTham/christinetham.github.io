@@ -2,7 +2,7 @@
 title: Lunch at Campsie followed by tea at Cindys
 description: Lunch at Malaysian Small Chillies in Campsie
 author: christie
-publishDate: 2021-11-21T16:00:00+10:00
+pubDate: 2021-11-21T16:00:00+10:00
 images:
   - ../../../images/food/Small Chillies.jpeg
 categories:
@@ -15,6 +15,7 @@ tags:
   - Lakemba
   - afternoon tea
 ---
+
 A super feast with super friends at the Malaysia Small Chilli Restaurant at Campsie. We tried their "signature" curry fish head, signature tofu, signature cereal prawns, KL hokkien mee, pork ribs, bean sprouts, sambal fried chicken wings. All the food was super delicious.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid0Hp4pxs5LR2YDaQ5AJALMUaxv9nCx91SV8PBU3jLBitjHgCVdf7v6SHgPH8zrrxHEl&show_text=true&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>

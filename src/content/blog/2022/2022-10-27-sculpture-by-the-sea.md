@@ -2,7 +2,7 @@
 title: Sculpture by the Sea
 description: Annual sculpture exhibition at the Bondi to Tamarama Beach walk
 author: christie
-publishDate: 2022-10-27T16:00:00+10:00
+pubDate: 2022-10-27T16:00:00+10:00
 coverImage: ../../../images/gallery/2022-10-27-sculpture-by-the-sea/Wanderer Above the Sea of Light (Scott Chaseling).jpeg
 gallery: 2022-10-27-sculpture-by-the-sea
 categories:

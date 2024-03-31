@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Dinner at Peranakan Place
-publishDate: 2022-08-06T21:00:00+10:00
+pubDate: 2022-08-06T21:00:00+10:00
 description: Famous Peranakan retaurant in Auburn
 images:
   - ../../../images/food/Peranakan Place.jpeg

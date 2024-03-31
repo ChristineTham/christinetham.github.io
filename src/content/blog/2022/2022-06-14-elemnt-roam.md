@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Wahoo ELEMNT Roam
-publishDate: 2022-06-14T10:00:00+10:00
+pubDate: 2022-06-14T10:00:00+10:00
 description: New bike computer
 images:
   - ../../../images/cycling/ELEMNT Roam.jpeg

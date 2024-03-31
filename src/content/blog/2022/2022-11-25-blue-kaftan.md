@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Blue Kaftan
-publishDate: 2022-11-25T10:00:00+10:00
+pubDate: 2022-11-25T10:00:00+10:00
 description: Can finally fit into my old jeans
 images:
   - ../../../images/fashion/Kaftan (2).jpeg

@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Cheongsam
-publishDate: 2022-09-10T10:00:00+10:00
+pubDate: 2022-09-10T10:00:00+10:00
 description: Mini cheongsam
 images: [../../../images/fashion/Cheongsam.jpeg]
 categories: [fashion]

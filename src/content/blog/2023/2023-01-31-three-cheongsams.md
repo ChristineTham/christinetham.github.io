@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Three cheongsams
-publishDate: 2023-01-31T10:00:00+10:00
+pubDate: 2023-01-31T10:00:00+10:00
 description: I now have three outfits that I can wear
 images:
   - ../../../images/fashion/Cheongsam (1).jpeg

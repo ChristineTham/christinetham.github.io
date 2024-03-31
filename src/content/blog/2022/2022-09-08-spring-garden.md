@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Spring has arrived
-publishDate: 2022-09-08T10:00:00+10:00
+pubDate: 2022-09-08T10:00:00+10:00
 description: The garden in front of our house
 images: [../../../images/blog/Chatswood Spring (1).jpeg]
 categories: [garden]

@@ -2,7 +2,7 @@
 author: christie
 title: The North Building of the Art Gallery
 description: The Art Gallery of NSW has been transformed into an art museum campus with the addition of the new North Building.
-publishDate: 2023-03-03T15:00:00+10:00
+pubDate: 2023-03-03T15:00:00+10:00
 coverImage: ../../../images/gallery/2023-03-03-art-gallery/Flowers that Bloom in the Cosmos (Yayoi Kusama) (1).jpeg
 gallery: 2023-03-03-art-gallery
 categories: [art]

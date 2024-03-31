@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Summer outfit
-publishDate: 2023-02-06T08:00:00+10:00
+pubDate: 2023-02-06T08:00:00+10:00
 description: Summer is finally here
 images:
   - ../../../images/fashion/Summer outfit.jpeg

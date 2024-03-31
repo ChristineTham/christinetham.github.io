@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Malaysia Festival 2022
-publishDate: 2022-11-27T16:00:00+10:00
+pubDate: 2022-11-27T16:00:00+10:00
 description: Located at Belmore Park
 images:
   - ../../../images/blog/Malaysian Festival 2022.jpeg

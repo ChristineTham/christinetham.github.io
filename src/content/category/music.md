@@ -1,8 +1,8 @@
 ---
 title: Music
-icon:  ../../images/svg/kawaii/turntable.svg
-coverImage:  ../../images/svg/undraw/music.svg
-socialImage:  ../../images/undraw/music.png
+icon: ../../images/svg/kawaii/turntable.svg
+coverImage: ../../images/svg/undraw/music.svg
+socialImage: ../../images/undraw/music.png
 description: I love listening, playing and composing music.
 ---
 

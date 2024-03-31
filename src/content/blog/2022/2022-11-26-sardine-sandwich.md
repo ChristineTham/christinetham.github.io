@@ -2,7 +2,7 @@
 title: Sardine Sandwich
 description: Classic Malaysian simple dish
 author: christie
-publishDate: 2022-11-26T14:00:00+10:00
+pubDate: 2022-11-26T14:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-26-sardine-sandwich/Sardine sandwich (3).jpeg
 gallery: 2022-11-26-sardine-sandwich
 categories:

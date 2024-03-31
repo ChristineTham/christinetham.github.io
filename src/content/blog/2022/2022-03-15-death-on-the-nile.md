@@ -2,7 +2,7 @@
 title: Watching Death on the Nile
 description: Dinner, followed by film at Events Cinemas Macquarie Park
 author: christie
-publishDate: 2022-03-15T21:00:00+10:00
+pubDate: 2022-03-15T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-03-15-death-on-the-nile/Event Cinema.jpeg
 gallery: 2022-03-15-death-on-the-nile
 categories:

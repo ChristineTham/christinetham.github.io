@@ -1,8 +1,8 @@
 ---
 title: Dream
-icon:  ../../images/svg/kawaii/vortex.svg
-coverImage:  ../../images/svg/undraw/dreamer.svg
-socialImage:  ../../images/undraw/dreamer.png
+icon: ../../images/svg/kawaii/vortex.svg
+coverImage: ../../images/svg/undraw/dreamer.svg
+socialImage: ../../images/undraw/dreamer.png
 description: I often remember the more interesting dreams.
 ---
 

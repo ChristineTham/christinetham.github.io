@@ -2,7 +2,7 @@
 author: christie
 title: Market City Xmas
 description: Xmas tree forest
-publishDate: 2022-11-24T15:00:00+10:00
+pubDate: 2022-11-24T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-24-market-city-xmas/Market City (3).jpeg
 gallery: 2022-11-24-market-city-xmas
 categories: [event]

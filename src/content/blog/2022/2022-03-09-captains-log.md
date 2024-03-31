@@ -2,7 +2,7 @@
 title: Captain's Log
 description: Missing dry land
 author: christie
-publishDate: 2022-03-09T00:00:00.000Z
+pubDate: 2022-03-09T00:00:00.000Z
 categories:
   - create
 tags:

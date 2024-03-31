@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Assam Laksa
-publishDate: 2022-04-26T13:00:00+10:00
+pubDate: 2022-04-26T13:00:00+10:00
 description: Rita's version of this delicious Malaysian dish
 images:
   - ../../../images/food/Assam laksa.jpeg

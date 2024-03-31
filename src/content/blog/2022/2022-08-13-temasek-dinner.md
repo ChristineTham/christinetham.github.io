@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Temasek Club Singapore National Day Dinner
-publishDate: 2022-08-13T21:00:00+10:00
+pubDate: 2022-08-13T21:00:00+10:00
 description: Celebrating Singapore's National Day at Zilver restaurant
 images: [../../../images/blog/Table 20.jpeg]
 categories: [event, food]

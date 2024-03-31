@@ -1,7 +1,7 @@
 ---
 author: christie
 title: School outfit
-publishDate: 2023-02-07T08:00:00+10:00
+pubDate: 2023-02-07T08:00:00+10:00
 description: Trying to look like a school girl
 images:
   - ../../../images/fashion/School outfit.jpeg

@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Woronora Dam
-publishDate: 2022-03-29T17:00:00+10:00
+pubDate: 2022-03-29T17:00:00+10:00
 description: Magnificent serpentine spillway
 images:
   - ../../../images/blog/Woronora Dam.jpeg

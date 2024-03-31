@@ -1,8 +1,8 @@
 ---
 title: Cycling
-icon:  ../../images/svg/kawaii/bicycle.svg
-coverImage:  ../../images/svg/undraw/bike_ride.svg
-socialImage:  ../../images/undraw/bike_ride.png
+icon: ../../images/svg/kawaii/bicycle.svg
+coverImage: ../../images/svg/undraw/bike_ride.svg
+socialImage: ../../images/undraw/bike_ride.png
 description: I like to cycle for fun and exercise.
 ---
 

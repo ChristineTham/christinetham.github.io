@@ -2,7 +2,7 @@
 title: Carpenters
 description: Classic Carpenters self titled album
 author: christie
-publishDate: 2022-01-07T00:00:00.000Z
+pubDate: 2022-01-07T00:00:00.000Z
 images:
   - ../../../images/blog/Carpenters.jpeg
 categories:
@@ -11,6 +11,7 @@ tags:
   - LP
   - Carpenters
 ---
+
 Rainy day is a good day for cleaning LPs.
 
 I have reached the stage in my life where I already own all the LPs I ever wanted, and the few I am missing out on are so rare I have given up.

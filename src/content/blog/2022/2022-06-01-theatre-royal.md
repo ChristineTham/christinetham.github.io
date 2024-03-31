@@ -1,7 +1,7 @@
 ---
 author: christie
 title: An American in Paris
-publishDate: 2022-06-01T20:00:00+10:00
+pubDate: 2022-06-01T20:00:00+10:00
 description: Dinner at Roast Republic followed by musical
 images: [../../../images/blog/An American in Paris (3).jpeg]
 categories: [event, food]

@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Chilly spring outfit
-publishDate: 2022-12-16T10:00:00+10:00
+pubDate: 2022-12-16T10:00:00+10:00
 description: Bit cold today
 images:
   - ../../../images/fashion/Chilly spring.jpeg

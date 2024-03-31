@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Cherry Blossom Festival 2022
-publishDate: 2022-08-22T12:35:00+10:00
+pubDate: 2022-08-22T12:35:00+10:00
 coverImage: ../../../images/gallery/2022-08-20-auburn-cherry-blossom/Chris (11).jpeg
 gallery: 2022-08-20-auburn-cherry-blossom
 description: Wearing kimono to the Auburn Botanic Gardens

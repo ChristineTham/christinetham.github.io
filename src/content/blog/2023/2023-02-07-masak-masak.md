@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Chinese New Year Masak masak
-publishDate: 2023-02-07T13:00:00+10:00
+pubDate: 2023-02-07T13:00:00+10:00
 description: Cooking a variety of Chinese New Year related dishes at Ee Vonne's house
 images:
   - ../../../images/food/Loh hei yee sang.jpeg

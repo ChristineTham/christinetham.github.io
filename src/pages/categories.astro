@@ -1,7 +1,6 @@
 ---
 import { getCollection } from 'astro:content'
-import type { Frontmatter } from '../config'
-import { SiteMetadata } from '../config'
+import type { CollectionEntry } from 'astro:content'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
 import CategoryRoll from '../components/categoryroll.astro'
@@ -9,13 +8,11 @@ import CategoryRoll from '../components/categoryroll.astro'
 import coverImage from '../images/svg/undraw/windows.svg'
 import socialImage from '../images/undraw/windows.png'
 
-const frontmatter: Frontmatter = {
+const frontmatter: CollectionEntry<'page'>['data'] = {
   title: 'Categories',
   description: 'Categories for articles',
   coverImage: coverImage,
-  socialImage: socialImage,
-  publishDate: SiteMetadata.buildTime,
-  categories: []
+  socialImage: socialImage
 }
 
 const categories = await getCollection('category')
@@ -30,7 +27,7 @@ const categories = await getCollection('category')
       socialImage={frontmatter.socialImage}
     />
   </header>
-  <main itemprop="mainContentOfPage" class="bg-rosely3 dark:bg-rosely0">
+  <main itemprop='mainContentOfPage' class='bg-rosely3 dark:bg-rosely0'>
     <CategoryRoll categories={categories} />
   </main>
 </Base>

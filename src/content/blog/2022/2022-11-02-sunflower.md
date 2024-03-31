@@ -1,7 +1,7 @@
 ---
 title: Sunflower lunch
 description: New Taiwanese restaurant in Chatswood
-publishDate: 2022-11-02T13:00:00+10:00
+pubDate: 2022-11-02T13:00:00+10:00
 images:
   - ../../../images/food/Sunflower (1).jpeg
   - ../../../images/food/Sunflower.jpeg

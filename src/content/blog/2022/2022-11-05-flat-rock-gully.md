@@ -2,7 +2,7 @@
 title: Flat Rock Gully walk
 description: One of our favourite walks
 author: christie
-publishDate: 2022-11-05T12:00:00+10:00
+pubDate: 2022-11-05T12:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-05-flat-rock-gully/Flat Rock Gully (5).jpeg
 gallery: 2022-11-05-flat-rock-gully
 categories:

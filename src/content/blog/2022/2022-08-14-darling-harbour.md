@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Various Photos taken around Darling Harbour
-publishDate: 2022-08-14T15:00:00+10:00
+pubDate: 2022-08-14T15:00:00+10:00
 description: Featuring LEGO minifigs and Whale Tales
 images:
   - ../../../images/blog/Lego minifigs (2).jpeg

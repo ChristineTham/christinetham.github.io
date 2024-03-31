@@ -1,7 +1,7 @@
 ---
 author: christie
 title: AWS Summit
-publishDate: 2023-04-04T18:00:00+10:00
+pubDate: 2023-04-04T18:00:00+10:00
 images:
   - ../../../images/blog/AWS Summit.jpeg
   - ../../../images/blog/AWS Summit (1).jpeg
@@ -9,6 +9,7 @@ description: AWS Summit is back to being in person at the Sydney International C
 categories: [event]
 tags: [AWS]
 ---
+
 AWS Summit this year is back to being an in person event, so it was good to visit it and see life returning to normal.
 
 I am not currently a user of AWS, but I have previously used it in my consulting life. I was interested to know what's new. By chance I met two people I know and we had a great time in the post conference drinks. I also captured photos around Chinatown at night after the conference.

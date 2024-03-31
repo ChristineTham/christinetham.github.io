@@ -2,7 +2,7 @@
 title: Carrington Falls
 description: It's a twin falls with a 90m drop into Kangaroo Valley
 author: christie
-publishDate: 2022-02-16T11:00:00+10:00
+pubDate: 2022-02-16T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-16-carrington-falls/Carrington Falls (2).jpeg
 gallery: 2022-02-16-carrington-falls
 categories:
@@ -12,6 +12,7 @@ tags:
   - South Coast
   - waterfall
 ---
+
 With its cascades, waterholes and rockpools, some regard Carrington Falls, where the Kangaroo River plunges over 50m to the gully below, as the most beautiful on the South Coast.
 
 From the picnic area there are a variety of walking tracks that took us to a series of lookouts fronting the magnificent falls. We also took the short walk along Izzards lookout track to enjoy another spectacular view. We headed to the nearby Nellies Glen picnic area where there is the Warris Chair lookout track and Missingham lookout track for views over Carrington Falls Gorge.

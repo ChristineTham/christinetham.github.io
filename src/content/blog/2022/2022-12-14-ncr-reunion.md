@@ -2,7 +2,7 @@
 title: NCR Reunion
 description: Lunch at Rag and Famish Hotel in North Sydney
 author: christie
-publishDate: 2022-12-14T18:00:00+10:00
+pubDate: 2022-12-14T18:00:00+10:00
 images:
   - ../../../images/blog/NCR Xmas.jpeg
 categories:

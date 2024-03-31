@@ -2,7 +2,7 @@
 title: Port Macquarie trip - Roto House
 description: Famous historic house at Port Macquarie
 author: christie
-publishDate: 2022-05-13T11:00:00+10:00
+pubDate: 2022-05-13T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-05-13-roto-house/Roto House (12).jpeg
 gallery: 2022-05-13-roto-house
 categories:

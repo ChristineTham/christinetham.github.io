@@ -3,7 +3,7 @@ draft: false
 title: Home Network
 description: A new year to usher in a reconfiguration of our home network
 author: christie
-publishDate: 2023-01-30T00:00:00.000Z
+pubDate: 2023-01-30T00:00:00.000Z
 categories:
   - create
   - software

@@ -2,7 +2,7 @@
 title: Port Macquarie trip - Koala Hospital
 description: Exploring the town in the afternoon
 author: christie
-publishDate: 2022-05-13T10:00:00+10:00
+pubDate: 2022-05-13T10:00:00+10:00
 coverImage: ../../../images/gallery/2022-05-13-koala-hospital/Koala Hospital (1).jpeg
 gallery: 2022-05-13-koala-hospital
 categories:

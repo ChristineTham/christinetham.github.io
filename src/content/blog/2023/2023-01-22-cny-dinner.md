@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Lunar New Year dinner
-publishDate: 2023-01-22T21:00:00+10:00
+pubDate: 2023-01-22T21:00:00+10:00
 description: Hosted by Sharon Wong and Auntie Kim
 images:
   - ../../../images/food/Yee sang loh hei.jpeg

@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Burwood Yumcha
-publishDate: 2023-02-13T13:00:00+10:00
+pubDate: 2023-02-13T13:00:00+10:00
 description: Catchup for yumcha at Royal Treasure Seafood Restaurant in Burwood
 coverImage: ../../../images/food/Burwood yumcha.jpeg
 categories: [food]

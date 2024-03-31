@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Sharon's Vanilla slice
-publishDate: 2022-05-03T18:00:00+10:00
+pubDate: 2022-05-03T18:00:00+10:00
 description: Sharon's beautiful food creation
 images:
   - ../../../images/food/Vanilla slice by Sharon (10).jpeg

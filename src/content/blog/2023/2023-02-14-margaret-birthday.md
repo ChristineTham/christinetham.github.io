@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Margaret's birthday
-publishDate: 2023-02-14T15:00:00+10:00
+pubDate: 2023-02-14T15:00:00+10:00
 description: Celebrating with a Sri Lankan dinner at Kandy by Sri Lankan Bites
 images:
   - ../../../images/food/Margaret's birthday.jpeg

@@ -2,7 +2,7 @@
 title: Daggy Lunch at Cat Town
 description: Post Xmas lunch where we are supposed to show our daggy selves.
 author: christie
-publishDate: 2021-12-28T13:00:00+10:00
+pubDate: 2021-12-28T13:00:00+10:00
 images:
   - ../../../images/food/Daggy Lunch.jpeg
 categories:
@@ -13,6 +13,7 @@ tags:
   - Cat Town
   - video
 ---
+
 Cat Bowrey totally excelled and blew away our minds (and tummies) at creating some unusual and not often experienced Thai dishes, such as fermented pork with crumbled crispy rice balls wrapped in lettuce leaves, green curry fish balls with salted egg yolks, crispy fried barramundi with a wicked Thai sauce, marinated BBQ pork jowls, scallops and broccoli, and giant prawns with glass noodles (with a slice of bacon at the bottom).
 
 We were all supposed to dress and showcase our daggy selves, but I fear some ladies under-interpreted the theme and did not seem in the least daggy. Total FAIL - but we love you anyways.

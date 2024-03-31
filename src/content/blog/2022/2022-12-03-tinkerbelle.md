@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Tinkerbelle outfit
-publishDate: 2022-12-03T10:00:00+10:00
+pubDate: 2022-12-03T10:00:00+10:00
 description: An old favourite
 images:
   - ../../../images/fashion/Tinkerbelle.jpeg

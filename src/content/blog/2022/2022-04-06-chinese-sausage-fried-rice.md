@@ -2,7 +2,7 @@
 title: Chinese sausage fried rice
 description: Premium chinese sausage and vegetables
 author: christie
-publishDate: 2022-04-06T13:00:00+10:00
+pubDate: 2022-04-06T13:00:00+10:00
 coverImage: ../../../images/gallery/2022-04-06-chinese-sausage-fried-rice/Chinese sausage and vege fried rice (5).jpeg
 gallery: 2022-04-06-chinese-sausage-fried-rice
 categories:

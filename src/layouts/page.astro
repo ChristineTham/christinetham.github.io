@@ -1,17 +1,18 @@
 ---
-import type { Frontmatter } from '../config'
+import type { CollectionEntry } from 'astro:content'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
+
 export interface Props {
-  frontmatter: Frontmatter
+  frontmatter: CollectionEntry<'page'>['data']
 }
 
 const { frontmatter } = Astro.props
 ---
 
-<Base frontmatter={frontmatter}>
-  <main class="bg-rosely7">
-    <article class="post">
+<Base {frontmatter}>
+  <main class='bg-rosely7'>
+    <article class='post'>
       <header>
         <PageHero
           title={frontmatter.title}
@@ -21,8 +22,8 @@ const { frontmatter } = Astro.props
         />
       </header>
       <section
-        itemprop="mainContentOfPage"
-        class="px-4 lg:px-0 my-8 max-w-screen-lg mx-auto prose prose-purple lg:prose-xl dark:prose-invert"
+        itemprop='mainContentOfPage'
+        class='prose prose-purple mx-auto my-8 max-w-screen-lg px-4 dark:prose-invert lg:prose-xl lg:px-0'
       >
         <slot />
       </section>

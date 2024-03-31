@@ -2,13 +2,14 @@
 title: The World of Suzie Wong
 description: Classic film featuring 1960s Hong Kong
 author: christie
-publishDate: 2022-01-10T00:00:00.000Z
+pubDate: 2022-01-10T00:00:00.000Z
 categories:
   - art
 tags:
   - film
   - Hong Kong
 ---
+
 Just finished watching "The World of Suzie Wong." For some reason, I was given the impression as a child that the film is rather salacious and not suitable viewing for young impressionable minds.
 
 Watching it now, it seems rather tame, but I loved the scenes depicting Hong Kong in 1960. Ladder St looks so different these days compared to back then. I couldn't help noticing quite a few scenes from Blade Runner have parallels with this film, and I wonder whether Ridley Scott consciously or subconsciously tried to emulate the look of this film.

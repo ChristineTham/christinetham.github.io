@@ -2,7 +2,7 @@
 title: Fitzroy Falls
 description: Walking the Fitzroy Falls eastern rim track
 author: christie
-publishDate: 2022-01-22T15:00:00+10:00
+pubDate: 2022-01-22T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-01-22-fitzroy-falls/Valley View Lookout.jpeg
 gallery: 2022-01-22-fitzroy-falls
 categories:
@@ -12,6 +12,7 @@ tags:
   - Southern Highlands
   - waterfall
 ---
+
 Running from Fitzroy Falls Visitor Centre to Warrawong lookout in the northern section of the park, this self-guided wildflower walk is a nature-lover’s dream.
 
 The first 1.25 kilometre, known as Wildflower walk, is an easy stroll showcasing the beautiful scenery of Morton National Park.

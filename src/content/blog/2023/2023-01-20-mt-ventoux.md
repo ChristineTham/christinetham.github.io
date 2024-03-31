@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Mt Ventoux
-publishDate: 2023-01-20T10:00:00+10:00
+pubDate: 2023-01-20T10:00:00+10:00
 coverImage: ../../../images/cycling/Mt Ventoux.jpeg
 description: Climbing the last 7km to reach the summit, then descent
 categories: [cycling]

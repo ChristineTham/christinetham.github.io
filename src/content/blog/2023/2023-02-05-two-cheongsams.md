@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Two cheongsams
-publishDate: 2023-02-05T08:00:00+10:00
+pubDate: 2023-02-05T08:00:00+10:00
 description: Wearing Lyn's cheongsams
 images:
   - ../../../images/fashion/Cheongsam (4).jpeg

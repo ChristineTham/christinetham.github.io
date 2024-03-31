@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Buddha Bowl
-publishDate: 2022-12-24T11:00:00+10:00
+pubDate: 2022-12-24T11:00:00+10:00
 description: Pretty bowl with lots of avocado at Salt & Jam
 images:
   - ../../../images/food/Buddha Bowl.jpeg

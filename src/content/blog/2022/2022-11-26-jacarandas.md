@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Jacarandas in Chatswood
-publishDate: 2022-11-26T07:00:00+10:00
+pubDate: 2022-11-26T07:00:00+10:00
 description: Sign of spring
 images:
   - ../../../images/blog/Chatswood Jacaranda.jpeg

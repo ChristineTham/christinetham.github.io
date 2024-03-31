@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Bollywood shopping in Liverpool
-publishDate: 2022-05-09T13:00:00+10:00
+pubDate: 2022-05-09T13:00:00+10:00
 description: Searching for costumes for Cat's birthday party
 images:
   - ../../../images/fashion/Liverpool.jpeg

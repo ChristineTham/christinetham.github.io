@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Dinner at Chinta Ria Buddha Love
-publishDate: 2022-04-22T21:00:00+10:00
+pubDate: 2022-04-22T21:00:00+10:00
 description: Modern Malaysian restaurant at Darling Square
 images:
   - ../../../images/food/Chinta Ria Buddha Love.jpeg

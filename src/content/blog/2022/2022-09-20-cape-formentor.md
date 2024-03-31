@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Reverse Cape Formentor on Wahoo RGT
-publishDate: 2022-09-20T11:00:00+10:00
+pubDate: 2022-09-20T11:00:00+10:00
 images: [../../../images/cycling/Cape Formentor.png]
 description: Cycling Cape Formentor from cape to beach
 categories: [cycling]

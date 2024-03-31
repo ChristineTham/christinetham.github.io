@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Lunch at Cindy's place
-publishDate: 2022-07-04T13:00:00+10:00
+pubDate: 2022-07-04T13:00:00+10:00
 description: Buying takeaway lunch for Cindy
 images:
   - ../../../images/food/Cindy lunch (1).jpeg

@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Jacaranda dress
-publishDate: 2022-11-03T11:00:00+10:00
+pubDate: 2022-11-03T11:00:00+10:00
 description: Play outfit from Uniqlo
 images:
   - ../../../images/fashion/Jacaranda dress.jpeg

@@ -2,7 +2,7 @@
 author: christie
 title: SydneyStreets Stanley St Festival
 description: Wandering around the city, and ending up at Stanley St
-publishDate: 2023-03-18T11:00:00+10:00
+pubDate: 2023-03-18T11:00:00+10:00
 coverImage: ../../../images/gallery/2023-03-18-stanley-st/Sydney Streets on Stanley.jpeg
 gallery: 2023-03-18-stanley-st
 categories: [travel]
@@ -12,6 +12,7 @@ tags:
   - Stanley St
   - Martin Place
 ---
+
 We walked around the city today, starting from Wynyard Station, then walking up Martin Place, stopping by at Sofitel Wentworth, and ended up attending #SydneyStreets at Stanley St before walking back via Liverpool St to catch the train.
 
 In Chatswood, I managed to take photo of a cockatoo having breakfast:

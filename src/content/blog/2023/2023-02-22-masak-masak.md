@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Masak masak
-publishDate: 2023-02-22T16:00:00+10:00
+pubDate: 2023-02-22T16:00:00+10:00
 description: Cooking a variety of dishes at Eemie's place
 images:
   - ../../../images/food/Masak masak.jpeg

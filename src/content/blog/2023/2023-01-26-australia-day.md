@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Australia Day
-publishDate: 2023-01-26T13:00:00+10:00
+pubDate: 2023-01-26T13:00:00+10:00
 description: Our annual walk on Australia and viewing the harbour celebrations
 coverImage: ../../../images/gallery/2023-01-26-australia-day/Australia Day - St James Church (3).jpeg
 gallery: 2023-01-26-australia-day

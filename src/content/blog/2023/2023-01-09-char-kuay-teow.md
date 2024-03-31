@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Char Kuay Teow
-publishDate: 2023-01-09T13:00:00+10:00
+pubDate: 2023-01-09T13:00:00+10:00
 description: Recreating a famous Malaysian dish
 images:
   - ../../../images/food/Char Kuay Teow.jpeg

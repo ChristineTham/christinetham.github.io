@@ -2,7 +2,7 @@
 title: Honours Reunion
 description: Gettting back together with my uni classmates ... 35 years later.
 author: christie
-publishDate: 2022-01-05T21:00:00+10:00
+pubDate: 2022-01-05T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-01-03-honours-reunion/Honours Reunion (Stuart) (1).jpeg
 gallery: 2022-01-03-honours-reunion
 categories:
@@ -11,6 +11,7 @@ tags:
   - Fagan Park
   - Galston
 ---
+
 ## Recreating an outfit ... 35 years later.
 
 The first photo is that of me taken in 1987, when I was at uni. I am wearing my favourite tank top, bought at a Spandau Ballet concert in 1985, plus cream pants, pink shoes and a pink belt, I also have a light jacket casually wrapped around my neck, plus sunglasses.

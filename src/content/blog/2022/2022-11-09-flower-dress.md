@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Flower dress
-publishDate: 2022-11-09T11:00:00+10:00
+pubDate: 2022-11-09T11:00:00+10:00
 description: Reflections on my health
 images:
   - ../../../images/fashion/Flower dress (1).jpeg

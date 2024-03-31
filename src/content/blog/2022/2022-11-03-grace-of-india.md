@@ -1,7 +1,7 @@
 ---
 title: Grace of India
 description: Lunch at a good Indian restaurant at Milsons Point
-publishDate: 2022-11-03T12:00:00+10:00
+pubDate: 2022-11-03T12:00:00+10:00
 images:
   - ../../../images/food/Grace of India.jpeg
 categories:

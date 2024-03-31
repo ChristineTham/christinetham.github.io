@@ -2,7 +2,7 @@
 title: Kirribilli
 description: Viewing the jacarandas on McDougall St
 author: christie
-publishDate: 2022-11-03T14:00:00+10:00
+pubDate: 2022-11-03T14:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-03-kirribilli/Milson Park (4).jpeg
 gallery: 2022-11-03-kirribilli
 categories:

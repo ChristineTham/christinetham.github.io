@@ -2,7 +2,7 @@
 title: Fish cake and vegetables stir fry
 description: Part 3 of cooking with olive greens.
 author: christie
-publishDate: 2022-04-07T13:00:00+10:00
+pubDate: 2022-04-07T13:00:00+10:00
 coverImage: ../../../images/gallery/2022-04-07-fish-cake-vege/Fish cake and vege stir fry (3).jpeg
 gallery: 2022-04-07-fish-cake-vege
 categories:

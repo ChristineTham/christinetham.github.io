@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Columbia Ravenous rescued
-publishDate: 2022-02-22T10:00:00+10:00
+pubDate: 2022-02-22T10:00:00+10:00
 description: Patched up my trail shoes with glue
 images: [../../../images/fashion/Rescued Columbia.jpeg]
 categories: [fashion]

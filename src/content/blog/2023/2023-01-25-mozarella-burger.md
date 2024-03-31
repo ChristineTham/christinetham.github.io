@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Mozarella and Tomato Burger
-publishDate: 2023-01-25T12:00:00+10:00
+pubDate: 2023-01-25T12:00:00+10:00
 description: A burger that's closer to a pizza
 images:
   - ../../../images/food/Mozzarella and tomato burger.jpeg

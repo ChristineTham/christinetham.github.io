@@ -1,7 +1,7 @@
 ---
 author: christie
 title: French toast
-publishDate: 2022-03-25T12:00:00+10:00
+pubDate: 2022-03-25T12:00:00+10:00
 images:
   - ../../../images/food/French toast.jpeg
   - ../../../images/food/French toast (1).jpeg
@@ -13,7 +13,7 @@ tags:
   - mum
 ---
 
-Cooking my mum's French Toast - super simple recipe -  egg, butter, bread with a few drops of soy sauce. Lightly whisk egg, put soy sauce. Put butter on pan, dip the bread both sides in egg, then place on pan.
+Cooking my mum's French Toast - super simple recipe - egg, butter, bread with a few drops of soy sauce. Lightly whisk egg, put soy sauce. Put butter on pan, dip the bread both sides in egg, then place on pan.
 
 My cousin says she used to love eating my mum's French toast.
 She just reminded me my mum also puts diced shallots/onions in. Will do that next time. Can eat by itself, or with dark soy sauce and chili sauce. Sometimes served along with pork luncheon meat, sliced thinly, coated with egg and cornflour batter, then pan fried. Me and my brother would fight over the pieces, watching each other with eagle eyes to make sure no one took "extra."

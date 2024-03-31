@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Cabramatta lunch
-publishDate: 2023-01-08T13:00:00+10:00
+pubDate: 2023-01-08T13:00:00+10:00
 description: Eating at Pho Saigon with family
 images:
   - ../../../images/food/Cabramatta.jpeg

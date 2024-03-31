@@ -2,7 +2,7 @@
 title: Mt Stromlo
 description: Historic observatory in Canberra
 author: christie
-publishDate: 2022-03-14T11:00:00+10:00
+pubDate: 2022-03-14T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-03-14-mt-stromlo/Mt Stromlo.jpeg
 gallery: 2022-03-14-mt-stromlo
 categories:

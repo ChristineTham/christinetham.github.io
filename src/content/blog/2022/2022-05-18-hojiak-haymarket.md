@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Dinner at Ho Jiak Haymarket
-publishDate: 2022-05-18T20:00:00+10:00
+pubDate: 2022-05-18T20:00:00+10:00
 description: Using the NSW dine voucher
 images: [../../../images/food/Ho Jiak Haymarket.jpeg]
 categories: [event, food]

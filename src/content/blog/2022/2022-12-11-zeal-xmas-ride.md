@@ -2,7 +2,7 @@
 title: Zeal Xmas ride
 description: Riding from Milsons Pt to Watsons Bay
 author: christie
-publishDate: 2022-12-11T11:00:00+10:00
+pubDate: 2022-12-11T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-12-11-zeal-xmas-ride/Zeal Xmas ride 2022 (5).jpeg
 gallery: 2022-12-11-zeal-xmas-ride
 categories:

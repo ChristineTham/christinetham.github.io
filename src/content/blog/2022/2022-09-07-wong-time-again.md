@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Wong Time Again Lunch
-publishDate: 2022-09-07T12:35:00+10:00
+pubDate: 2022-09-07T12:35:00+10:00
 images:
   - ../../../images/cycling/Wong Time Again Lunch.jpeg
   - ../../../images/cycling/Wong Time Again Lunch (1).jpeg

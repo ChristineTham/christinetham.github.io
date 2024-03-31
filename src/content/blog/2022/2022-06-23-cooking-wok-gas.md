@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Cooking with wok and gas!
-publishDate: 2022-06-23T12:00:00+10:00
+pubDate: 2022-06-23T12:00:00+10:00
 images:
   - ../../../images/food/Stir fry veges on wok.jpeg
   - ../../../images/food/Stir fry veges on wok (1).jpeg

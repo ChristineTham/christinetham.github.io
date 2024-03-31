@@ -2,7 +2,7 @@
 title: Investment Thoughts for 2022
 description: We are living in "interesting times"
 author: christie
-publishDate: 2022-12-10T00:00:00.000Z
+pubDate: 2022-12-10T00:00:00.000Z
 categories:
   - create
 tags:

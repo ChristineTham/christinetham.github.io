@@ -2,7 +2,7 @@
 title: Cinema Paradiso (string Orchestra)
 description: In memory of Ennio Morricone, a string orchestra arrangement of Cinema Paradiso, transcribed by me into Finale.
 author: christie
-publishDate: 2020-07-05T07:19:10+00:00
+pubDate: 2020-07-05T07:19:10+00:00
 coverImage: ../../../images/blog/ennio.jpg
 categories:
   - music

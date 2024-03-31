@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Lunch at New Shanghai
-publishDate: 2022-11-29T13:00:00+10:00
+pubDate: 2022-11-29T13:00:00+10:00
 description: Lunch with a friend
 images:
   - ../../../images/food/New Shanghai.jpeg

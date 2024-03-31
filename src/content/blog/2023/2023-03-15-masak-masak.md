@@ -1,11 +1,11 @@
 ---
 author: christie
 title: Masak masak at Adeline's house
-publishDate: 2023-03-15T16:00:00+10:00
+pubDate: 2023-03-15T16:00:00+10:00
 description: Some truly amazing dishes by amazing ladies
 coverImage: ../../../images/gallery/2023-03-15-masak-masak/Masak Masak (21).jpeg
 gallery: 2023-03-15-masak-masak
-categories: [food,event]
+categories: [food, event]
 tags:
   - Masak masak
   - Adeline

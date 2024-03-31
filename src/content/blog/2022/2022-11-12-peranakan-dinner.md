@@ -2,7 +2,7 @@
 title: Peranakan Dinner
 description: Peranakan Association NSW dinner at Castle Terrace
 author: christie
-publishDate: 2022-11-12T21:00:00+10:00
+pubDate: 2022-11-12T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-12-peranakan-dinner/Peranakan Association Australia Dinner (2).jpeg
 gallery: 2022-11-12-peranakan-dinner
 categories:

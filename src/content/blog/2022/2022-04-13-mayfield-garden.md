@@ -2,7 +2,7 @@
 title: Easter Girls Road trip Day 2
 description: Visiting the spectacular Mayfield Gardens
 author: christie
-publishDate: 2022-04-13T18:00:00+10:00
+pubDate: 2022-04-13T18:00:00+10:00
 coverImage: ../../../images/gallery/2022-04-13-mayfield-garden/Mayfield Garden (17).jpeg
 gallery: 2022-04-13-mayfield-garden
 categories:

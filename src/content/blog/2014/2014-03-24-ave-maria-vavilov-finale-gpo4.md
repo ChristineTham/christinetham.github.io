@@ -2,7 +2,7 @@
 title: Ave Maria (Vavilov) – Finale/GPO4
 description: This is my attempt at transcribing and arranging one of the most beautiful melodies I have heard.
 author: christie
-publishDate: 2014-03-24T06:43:46+00:00
+pubDate: 2014-03-24T06:43:46+00:00
 categories:
   - music
   - create

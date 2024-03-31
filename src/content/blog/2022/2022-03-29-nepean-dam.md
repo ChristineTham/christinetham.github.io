@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Nepean Dam
-publishDate: 2022-03-29T15:00:00+10:00
+pubDate: 2022-03-29T15:00:00+10:00
 description: Majestic spillway after rain
 images:
   - ../../../images/blog/Nepean Dam.jpeg

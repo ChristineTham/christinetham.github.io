@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Hokkien Mee Gotong Royong
-publishDate: 2022-10-19T17:00:00+10:00
+pubDate: 2022-10-19T17:00:00+10:00
 description: Making that classic Petaling St hawker dish.
 coverImage: ../../../images/food/Hokkien Mee.jpeg
 gallery: 2022-10-19-hokkien-mee

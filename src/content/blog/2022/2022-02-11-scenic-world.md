@@ -2,7 +2,7 @@
 title: Dinosaurs at Scenic World
 description: Visiting the "Dinosaur Valley" in the Blue Mountains
 author: christie
-publishDate: 2022-02-11T15:00:00+10:00
+pubDate: 2022-02-11T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-11-scenic-world/Stegosaurus.jpeg
 gallery: 2022-02-11-scenic-world
 categories:
@@ -13,6 +13,7 @@ tags:
   - Scenic World
   - Dinosaurs
 ---
+
 Once a year, [Scenic World](https://www.scenicworld.com.au/dinosaur-valley) holds a "Dinosaur Valley" event where the rainforest at the bottom is converted to the Jurassic period featuring various dinosaurs.
 
 Giddy up!
@@ -22,7 +23,6 @@ Giddy up!
 Historic Scenic Railway at Scenic World Blue Mountains
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid0nUZwvCHgGX83K17hyBP3Q2gKtDh4ciKdTrW6cip9ZCwWZnEUz5Bf7gbSkQTVap6Nl&show_text=true&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 
 Coal miner's daughter
 

@@ -2,7 +2,7 @@
 title: Columbia trail shoes
 description: Comparison between two shoes
 author: christie
-publishDate: 2021-12-11T10:00:00+10:00
+pubDate: 2021-12-11T10:00:00+10:00
 images:
   - ../../../images/blog/Columbia trail shoes.jpeg
 categories:
@@ -12,6 +12,7 @@ tags:
   - trail
   - shoes
 ---
+
 A tale of two pairs of Columbia trail shoes - on the left is the Ravenous Omni Tech and on the right the new Vitesse Outdry.
 
 I bought my first pair of trail shoes - Montrail - in NZ in the mid 2000s and they were a revelation compared to the chunky and feet pinching Timberlands I had purchased in the US. The Montrail ended up lasting nearly 10 years, a good lifetime and I was sorry to let them go.

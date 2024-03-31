@@ -2,7 +2,7 @@
 title: Megalong Valley Day 2
 description: Breakfast, walk, dinner
 author: christie
-publishDate: 2022-08-01T21:00:00+10:00
+pubDate: 2022-08-01T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-08-01-megalong-valley/Six Foot Track (1).jpeg
 gallery: 2022-08-01-megalong-valley
 categories:

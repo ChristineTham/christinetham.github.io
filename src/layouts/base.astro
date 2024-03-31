@@ -1,72 +1,82 @@
 ---
-import type { Frontmatter } from '../config'
+// import { ViewTransitions } from 'astro:transitions'
+import type { CollectionEntry } from 'astro:content'
 import SEO from '../components/seo.astro'
 import Header from '../components/header.astro'
 import Footer from '../components/footer.astro'
 import Gallery from '../components/gallery.astro'
+import { SiteMetadata } from '../config'
 
 export interface Props {
-  frontmatter: Frontmatter
+  frontmatter: CollectionEntry<'blog'>['data'] | CollectionEntry<'page'>['data']
   schema?: string
 }
 
-const { frontmatter, schema="WebPage" } = Astro.props
+const { frontmatter, schema = 'WebPage' } = Astro.props
 ---
 
-<!DOCTYPE html>
-<html lang="en" itemscope itemtype={`https://schema.org/${schema}`}>
+<!doctype html>
+<html lang='en' itemscope itemtype={`https://schema.org/${schema}`}>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" href="/favicon.ico" sizes="any" />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/site.webmanifest" />
-    <link rel="sitemap" href="/sitemap-index.xml" />
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml" />
-    <meta name="generator" content={Astro.generator} />
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width' />
+    <link rel='icon' href={`${Astro.site}favicon.ico`} sizes='any' />
+    <link rel='icon' href={`${Astro.site}favicon.svg`} type='image/svg+xml' />
+    <link rel='apple-touch-icon' href={`${Astro.site}apple-touchicon.png`} />
+    <link rel='manifest' href={`${Astro.site}site.webmanifest`} />
+    <link rel='sitemap' href={`${Astro.site}sitemap-indexxml`} />
+    <link rel='alternate' type='application/rss+xml' title={SiteMetadata.title} href={`${Astro.site}rss.xml`} />
+    <meta name='generator' content={Astro.generator} />
     <SEO frontmatter={frontmatter} />
     <script is:inline>
       if (
         localStorage.theme === 'dark' ||
-        (!('theme' in localStorage) &&
-        window.matchMedia('(prefers-color-scheme: dark)').matches)
-        ) {
-          document.documentElement.classList.add('dark')
-        } else {
-          document.documentElement.classList.remove('dark')
-        }
-        </script>
+        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
+      ) {
+        document.documentElement.classList.add('dark')
+      } else {
+        document.documentElement.classList.remove('dark')
+      }
+    </script>
     <style is:inline>
-      [x-cloak] { display: none !important; }
-      </style>
-    {frontmatter.extra?.includes('math') &&
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.1/dist/katex.min.css" integrity="sha384-pe7s+HmY6KvqRkrRRUr4alQJ0SkmzCft3RpK1ttGMa7qk8Abp/MEa/4wgceRHloO" crossorigin="anonymous">
+      [x-cloak] {
+        display: none !important;
+      }
+      .markmap > svg {
+        width: 100%;
+        height: 400px;
+      }
+    </style>
+    {
+      frontmatter.extra?.includes('math') && (
+        <link
+          rel='stylesheet'
+          href='https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css'
+          integrity='sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI'
+          crossorigin='anonymous'
+        />
+      )
     }
-    {frontmatter.extra?.includes('markmap') &&
-      <style>
-        .markmap > svg {
-          width: 100%;
-          height: 400px;
-        }
-        </style>
-      }
-    <slot name="in-head" />
-    </head>
-    <body class="bg-rosely3 dark:bg-rosely0">
-      {frontmatter.extra?.includes('mermaid') &&
-        <script type="module">
-          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.esm.min.mjs'
-          mermaid.initialize({startOnLoad:true});
+    <slot name='in-head' />
+  </head>
+  <body class='bg-rosely3 dark:bg-rosely0'>
+    <Header />
+    <slot />
+    {frontmatter.gallery && <Gallery folder={frontmatter.gallery} />}
+    <slot name='before-footer' />
+    <Footer />
+    {
+      frontmatter.extra?.includes('markmap') && (
+        <script src='https://cdn.jsdelivr.net/npm/markmap-autoloader' />
+      )
+    }
+    {
+      frontmatter.extra?.includes('mermaid') && (
+        <script is:inline type='module'>
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+          mermaid.initialize({ startOnLoad: true });
         </script>
-      }
-      <Header />
-      <slot />
-      {frontmatter.gallery && <Gallery folder={frontmatter.gallery} />}
-      <slot name="before-footer" />
-      <Footer />
-      {frontmatter.extra?.includes('markmap') &&
-        <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
-      }
+      )
+    }
   </body>
 </html>

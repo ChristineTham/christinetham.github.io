@@ -7,26 +7,34 @@ interface Props {
 }
 const { featured = false } = Astro.props
 
-const websites = await getCollection('website', website => !featured || website.data.featured)
+const websites = await getCollection('website', (website) => !featured || website.data.featured)
 ---
 
-<div itemprop="mainEntity" itemscope itemtype="https://schema.org/WebSite" class="max-w-none mx-auto p-4 sm:px-6 lg:px-8 bg-rosely7 dark:bg-rosely1">
-  <div class="space-y-0 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+<div
+  itemprop='mainEntity'
+  itemscope
+  itemtype='https://schema.org/WebSite'
+  class='mx-auto max-w-none bg-rosely7 p-4 dark:bg-rosely1 sm:px-6 lg:px-8'
+>
+  <div class='grid grid-cols-1 gap-8 space-y-0 md:grid-cols-2 lg:grid-cols-4'>
     {
-      websites.map(site => (
-        <div class="group">
-          <a itemprop="name" href={site.data.link}>
-            <div class="relative mb-4 bg-rosely7 dark:bg-rosely8 rounded-lg overflow-hidden group-hover:opacity-75 shadow-xl">
+      websites.map((site) => (
+        <div class='group'>
+          <a itemprop='name' href={site.data.link}>
+            <div class='relative mb-4 overflow-hidden rounded-lg bg-rosely7 shadow-xl group-hover:opacity-75 dark:bg-rosely8'>
               <Image
-              src={site.data.image}
-              alt={site.data.title}
-              class="w-full h-full object-center object-contain"
+                src={site.data.image}
+                alt={site.data.title}
+                class='h-full w-full object-contain object-center'
               />
             </div>
-            <h3 itemprop="name" class="inline-block py-1 px-3 rounded bg-rosely9 hover:bg-roselyC text-white text-xs font-medium tracking-tight uppercase">
+            <h3
+              itemprop='name'
+              class='inline-block rounded bg-rosely9 px-3 py-1 text-xs font-medium uppercase tracking-tight text-white hover:bg-roselyC'
+            >
               {site.data.title}
             </h3>
-            <p itemprop="abstract description" class="text-base text-rosely1 dark:text-rosely6">
+            <p itemprop='abstract description' class='text-base text-rosely1 dark:text-rosely6'>
               {site.data.description}
             </p>
           </a>

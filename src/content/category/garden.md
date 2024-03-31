@@ -1,8 +1,8 @@
 ---
 title: Garden
-icon:  ../../images/svg/kawaii/garden-tree.svg
-coverImage:  ../../images/svg/undraw/blooming.svg
-socialImage:  ../../images/undraw/blooming.png
+icon: ../../images/svg/kawaii/garden-tree.svg
+coverImage: ../../images/svg/undraw/blooming.svg
+socialImage: ../../images/undraw/blooming.png
 description: We love beautiful gardens and try and visit as many as we can wherever we travel.
 ---
 

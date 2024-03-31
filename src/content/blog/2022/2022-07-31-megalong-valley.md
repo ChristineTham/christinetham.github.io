@@ -2,7 +2,7 @@
 title: Megalong Valley Day 1
 description: Stay at a winery homestead with friends
 author: christie
-publishDate: 2022-07-31T21:00:00+10:00
+pubDate: 2022-07-31T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-07-31-megalong-valley/Megaslong Creek Estate (10).jpeg
 gallery: 2022-07-31-megalong-valley
 categories:

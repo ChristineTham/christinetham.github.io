@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Lunch at Chinatown
-publishDate: 2022-06-15T13:00:00+10:00
+pubDate: 2022-06-15T13:00:00+10:00
 description: KHAO KANG Maruay
 images:
   - ../../../images/food/Khao Kang Maruay.jpeg

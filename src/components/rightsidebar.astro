@@ -11,8 +11,10 @@ type Props = {
 const { headings, githubEditUrl } = Astro.props as Props
 ---
 
-<div class="hidden xl:sticky xl:top-16 xl:-mr-12 xl:block xl:h-[calc(100vh-4rem)] xl:flex-none xl:overflow-y-auto xl:py-16 xl:px-6 bg-rosely3 dark:bg-rosely1">
-  <nav aria-labelledby="on-this-page-title" class="w-56">
+<div
+  class='hidden bg-rosely3 dark:bg-rosely1 xl:sticky xl:top-16 xl:-mr-12 xl:block xl:h-[calc(100vh-4rem)] xl:flex-none xl:overflow-y-auto xl:px-6 xl:py-16'
+>
+  <nav aria-labelledby='on-this-page-title' class='w-56'>
     <div>
       <TableOfContents headings={headings} />
       <MoreMenu editHref={githubEditUrl} />

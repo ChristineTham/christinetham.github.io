@@ -2,7 +2,7 @@
 title: Language Models
 description: Before we embrace the new AI models, let's consider the risks.
 author: christie
-publishDate: 2023-02-12T00:00:00.000Z
+pubDate: 2023-02-12T00:00:00.000Z
 categories:
   - software
 tags:

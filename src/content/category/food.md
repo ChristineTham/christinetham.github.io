@@ -1,8 +1,8 @@
 ---
 title: Food
-icon:  ../../images/svg/kawaii/noodles.svg
-coverImage:  ../../images/svg/undraw/breakfast.svg
-socialImage:  ../../images/undraw/breakfast.png
+icon: ../../images/svg/kawaii/noodles.svg
+coverImage: ../../images/svg/undraw/breakfast.svg
+socialImage: ../../images/undraw/breakfast.png
 description: I love eating, and sometimes cooking, food.
 ---
 

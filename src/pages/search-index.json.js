@@ -1,26 +1,40 @@
-import { getCollection } from 'astro:content'
+import { getCollection, getEntry } from 'astro:content'
 import lunr from 'lunr'
 import { SiteMetadata } from '../config'
 
-const docs = await getCollection('bio', (p) => { return !p.data.draft})
-const posts = await getCollection('blog', (p) => { return !p.data.draft})
-const documents = posts.map(post => ({
-  url: import.meta.env.BASE_URL + 'blog/' + post.slug,
-  title: post.data.title,
-  description: post.data.description,
-  author: post.data.author,
-  categories: post.data.categories && post.data.categories.join(' '),
-  tags: post.data.tags && post.data.tags.join(' '),
-  content: post.body,
-})).concat(docs.map(doc => ({
-  url: import.meta.env.BASE_URL + 'bio/' + doc.slug,
-  title: doc.data.title,
-  description: doc.data.description,
-  author: SiteMetadata.author.name,
-  categories: 'biography',
-  tags: ["biography"],
-  content: doc.body,
-})))
+const defaultauthor = await getEntry('author', 'default')
+
+const docs = await getCollection('bio', (p) => {
+  return !p.data.draft
+})
+const posts = await getCollection('blog', (p) => {
+  return !p.data.draft
+})
+let documents = await Promise.all(
+  posts.map(async (post) => {
+    const author = post.data.author ? await getEntry(post.data.author) : defaultauthor
+    return {
+      url: import.meta.env.BASE_URL + 'blog/' + post.slug,
+      title: post.data.title,
+      description: post.data.description,
+      author: `${author.data.title} (${author.data.contact})`,
+      categories: post.data.categories,
+      tags: post.data.tags,
+      content: post.body
+    }
+  })
+)
+documents = documents.concat(
+  docs.map((doc) => ({
+    url: import.meta.env.BASE_URL + 'bio/' + doc.slug,
+    title: doc.data.title,
+    description: doc.data.description,
+    author: `${SiteMetadata.author.name} (${SiteMetadata.author.email})`,
+    categories: ['biography'],
+    tags: ['biography'],
+    content: doc.body
+  }))
+)
 
 const idx = lunr(function () {
   this.ref('url')
@@ -36,9 +50,11 @@ const idx = lunr(function () {
   }, this)
 })
 
-export async function get() {
-  const body = JSON.stringify(idx)
-  return {
-    body
-  }
+export async function GET() {
+  return new Response(JSON.stringify(idx), {
+    status: 200,
+    headers: {
+      'Content-Type': 'application/json'
+    }
+  })
 }

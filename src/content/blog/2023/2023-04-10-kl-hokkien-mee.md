@@ -1,7 +1,7 @@
 ---
 author: christie
 title: KL Hokkien mee
-publishDate: 2023-04-10T13:00:00+10:00
+pubDate: 2023-04-10T13:00:00+10:00
 description: Finally managed to cook my own version of hokkien mee at home.
 images:
   - ../../../images/food/KL hokkien mee (2).jpeg
@@ -13,6 +13,7 @@ tags:
   - hokkien mee
   - recipe
 ---
+
 Cooking KL fried hokkien mee with fish cake and fish balls. The all important ingredients are of course the pork lard and pork croutons, but flounder powder and chicken stock are also essential. My first attempt was a failure - I tried following a recipe, and ended up with a dish that was over seasoned. I learnt to trust my instincts and add just enough of each ingredient until I feel it is enough. I also added a bit of cornflour at the end to thicken the sauce - I find otherwise the sauce never gets thick enough to my satisfaction and I like the noodles al dente.
 
 Ingredients:

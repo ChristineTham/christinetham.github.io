@@ -1,7 +1,7 @@
 ---
 author: christie
 title: Walk to Botanical Garden and Art Gallery
-publishDate: 2023-01-13T13:00:00+10:00
+pubDate: 2023-01-13T13:00:00+10:00
 description: Summer walk
 coverImage: ../../../images/gallery/2023-01-13-sydney/Royal Botanical Garden.jpeg
 gallery: 2023-01-13-sydney

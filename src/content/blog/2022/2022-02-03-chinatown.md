@@ -2,7 +2,7 @@
 title: Hello Kitty and more!
 description: Visiting Haymarket for Lunar New Year light installations, Hello Kitty and more!
 author: christie
-publishDate: 2022-02-03T20:00:00+10:00
+pubDate: 2022-02-03T20:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-03-hello-kitty-town/Chris.jpeg
 gallery: 2022-02-03-hello-kitty-town
 categories:
@@ -13,6 +13,7 @@ tags:
   - Hello Kitty Town
   - Market City
 ---
+
 A Hello Kitty at Hello Kitty Town
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchris1.tham%2Fposts%2Fpfbid02xiuJYN3eeU6osDptLM1jY3HcsDEKhXYXaznisGf2K9qJdMTMe5W8aKzPeUMUw5vl&show_text=true&width=500" width="500" height="562" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
