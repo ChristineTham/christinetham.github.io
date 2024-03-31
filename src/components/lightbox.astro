@@ -1,7 +1,7 @@
 ---
 import 'photoswipe/style.css'
 import 'photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css'
-import { Image } from 'astro:assets'
+// import { Image } from 'astro:assets'
 
 export interface Props {
   id: string
@@ -55,7 +55,6 @@ const imagetitles = images.map((image) => image.src.split('/').reverse()[0].spli
             alt={imagetitles[i]}
             width={600}
             height={(image.height * 600) / image.width}
-            // format='webp'
             class='rounded'
           />
           <span class='pswp-caption-content'>

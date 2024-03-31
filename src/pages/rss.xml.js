@@ -1,5 +1,5 @@
 import rss from '@astrojs/rss'
-import { getImage } from 'astro:assets'
+// import { getImage } from 'astro:assets'
 import { getEntries, getEntry } from 'astro:content'
 import { SiteMetadata, defaultImage, getPosts } from '../config'
 
@@ -37,16 +37,21 @@ export async function GET(context) {
       posts.map(async (post) => {
         const author = post.data.author ? await getEntry(post.data.author) : defaultauthor
         const categories = post.data.categories && (await getEntries(post.data.categories))
-        const image = await getImage({
-          src:
-            post.data.socialImage ||
+        // const image = await getImage({
+        //   src:
+        //     post.data.socialImage ||
+        //     post.data.coverImage ||
+        //     (post.data.images && post.data.images[0]) ||
+        //     (categories && categories[0].data.socialImage) ||
+        //     defaultImage,
+        //   width: 1200,
+        //   format: 'jpg'
+        // })
+        const image = post.data.socialImage ||
             post.data.coverImage ||
             (post.data.images && post.data.images[0]) ||
             (categories && categories[0].data.socialImage) ||
-            defaultImage,
-          width: 1200,
-          format: 'jpg'
-        })
+            defaultImage
 
         return {
           link: import.meta.env.BASE_URL + '/blog/' + post.slug,
@@ -58,8 +63,8 @@ export async function GET(context) {
           customData: `
             <media:content
               type="image/jpeg"
-              width="${image.attributes.width}"
-              height="${image.attributes.height}"
+              width="${image.width}"
+              height="${image.height}"
               medium="image"
               url="${context.site + image.src.slice(1)}" />
             ${categories ? categories.map((category) => '<category>' + category.data.title + '</category>').join('\n') : ''}

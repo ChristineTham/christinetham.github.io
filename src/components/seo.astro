@@ -1,7 +1,7 @@
 ---
 import { getCollection, getEntry, type CollectionEntry } from 'astro:content'
 import { SEO, type TwitterCardType } from 'astro-seo'
-import { getImage } from 'astro:assets'
+// import { getImage } from 'astro:assets'
 import type {
   Article,
   BreadcrumbList,
@@ -26,13 +26,13 @@ const cat =
   frontmatter.categories &&
   frontmatter.categories.length &&
   (await getEntry(frontmatter.categories[0]))
-const origimage =
+const image =
   frontmatter.socialImage ||
   frontmatter.coverImage ||
   (frontmatter.images && frontmatter.images[0]) ||
   (cat && cat.data.socialImage) ||
   defaultImage
-const image = await getImage({ src: origimage, format: 'jpg', width: 1200 })
+// const image = await getImage({ src: origimage, format: 'jpg', width: 1200 })
 const logo = LogoImage
 const pubDate = frontmatter.pubDate || SiteMetadata.buildTime
 const author = frontmatter.author ? frontmatter.author.slug : 'Chris Tham'
@@ -48,8 +48,8 @@ const openGraph = {
   },
   image: {
     alt: frontmatter.title!,
-    height: image.attributes.height,
-    width: image.attributes.width
+    height: image.height,
+    width: image.width
   },
   article: {
     author: author,
