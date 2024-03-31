@@ -50,12 +50,12 @@ const imagetitles = images.map((image) => image.src.split('/').reverse()[0].spli
           data-pswp-width={image.width}
           data-pswp-height={image.height}
         >
-          <Image
-            src={image}
+          <img
+            src={image.src}
             alt={imagetitles[i]}
             width={600}
             height={(image.height * 600) / image.width}
-            format='webp'
+            // format='webp'
             class='rounded'
           />
           <span class='pswp-caption-content'>
