@@ -1,6 +1,7 @@
 ---
 import type { PaginateFunction, Page } from 'astro'
 import type { CollectionEntry } from 'astro:content'
+import { render } from 'astro:content'
 import { getEntry } from 'astro:content'
 import { getCollection } from 'astro:content'
 import { PAGE_SIZE, getPosts } from '../../../config'
@@ -17,7 +18,7 @@ const { category } = Astro.params
 const { page } = Astro.props
 
 const detail = await getEntry('category', category!)
-const { Content } = await detail!.render()
+const { Content } = await render(detail!)
 const frontmatter: CollectionEntry<'page'>['data'] = {
   title:
     'Category: ' +
@@ -38,10 +39,10 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
     return paginate(
       posts.filter(
         (post) =>
-          category && post.data.categories!.map((category) => category.slug).includes(category.slug)
+          category && post.data.categories!.map((category) => category.id).includes(category.id)
       ),
       {
-        params: { category: category.slug },
+        params: { category: category.id },
         pageSize: PAGE_SIZE
       }
     )
@@ -63,7 +64,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
   </header>
   <main itemprop='mainContentOfPage'>
     <section
-      class='prose prose-purple mx-auto max-w-screen-lg px-4 py-8 dark:prose-invert lg:prose-xl'
+      class='prose prose-purple mx-auto max-w-(--breakpoint-lg) px-4 py-8 dark:prose-invert lg:prose-xl'
     >
       <Content />
     </section>

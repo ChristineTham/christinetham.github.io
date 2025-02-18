@@ -28,9 +28,9 @@ if (post.data.author) {
 
 <section>
   <div
-    class='border-1 group relative h-full overflow-hidden rounded-lg border-roselyA bg-rosely3 shadow-xl dark:border-rosely8 dark:bg-rosely0'
+    class='border-1 group relative h-full overflow-hidden rounded-lg border-rosely-a bg-rosely3 shadow-xl dark:border-rosely8 dark:bg-rosely0'
   >
-    <a href={import.meta.env.BASE_URL + 'blog/' + post.slug}>
+    <a href={import.meta.env.BASE_URL + 'blog/' + post.id}>
       <img
         src={image.src}
         alt={post.data.title + ' featured image'}
@@ -40,10 +40,10 @@ if (post.data.author) {
     </a>
     <div class='p-4'>
       {post.data.categories && <Categories categories={post.data.categories} />}
-      <a itemprop='url' href={import.meta.env.BASE_URL + 'blog/' + post.slug}>
+      <a itemprop='url' href={import.meta.env.BASE_URL + 'blog/' + post.id}>
         <h1
           itemprop='name'
-          class='title-font mt-2 text-xl font-bold text-rosely9 hover:text-roselyC dark:text-roselyB dark:hover:text-rosely5'
+          class='title-font mt-2 text-xl font-bold text-rosely9 hover:text-rosely-c dark:text-rosely-b dark:hover:text-rosely5'
         >
           {post.data.title}
         </h1>
@@ -53,7 +53,7 @@ if (post.data.author) {
           post.data.pubDate && (
             <span
               itemprop='datePublished'
-              class='mr-3 inline-flex items-center border-r-2 border-roselyA py-1 pr-3 text-xs leading-none text-rosely1 dark:border-rosely8 dark:text-rosely7'
+              class='mr-3 inline-flex items-center border-r-2 border-rosely-a py-1 pr-3 text-xs leading-none text-rosely1 dark:border-rosely8 dark:text-rosely7'
             >
               <Icon class='mr-1 h-4 w-4' name='heroicons:calendar-days' />
               {post.data.pubDate.toLocaleDateString('en-AU', {
@@ -65,7 +65,7 @@ if (post.data.author) {
         }
         {
           post.data.minutesRead && (
-            <span class='mr-3 inline-flex items-center border-r-2 border-roselyA py-1 pr-3 text-xs leading-none text-rosely1 dark:border-rosely8 dark:text-rosely7'>
+            <span class='mr-3 inline-flex items-center border-r-2 border-rosely-a py-1 pr-3 text-xs leading-none text-rosely1 dark:border-rosely8 dark:text-rosely7'>
               <Icon class='mr-1 h-4 w-4' name='heroicons:clock' />
               {post.data.minutesRead}
             </span>
@@ -76,7 +76,7 @@ if (post.data.author) {
           class='inline-flex items-center text-xs leading-none text-rosely1 dark:text-rosely7'
         >
           <Icon class='mr-1 h-4 w-4' name='heroicons:user-circle' />
-          {author.data.title}
+          {author!.data.title}
         </span>
       </div>
       <p itemprop='abstract description' class='mt-3 text-sm italic text-rosely1 dark:text-rosely6'>

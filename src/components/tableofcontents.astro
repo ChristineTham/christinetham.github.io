@@ -22,11 +22,11 @@ const { headings } = Astro.props as Props
         <li
           class={
             heading.depth == 2
-              ? 'text-rosely9 dark:text-roselyB'
-              : 'mt-2 py-1 pl-5 text-rosely9 dark:text-roselyB'
+              ? 'text-rosely9 dark:text-rosely-b'
+              : 'mt-2 py-1 pl-5 text-rosely9 dark:text-rosely-b'
           }
         >
-          <a class='hover:text-roselyC dark:hover:text-rosely5' href={`#${heading.slug}`}>
+          <a class='hover:text-rosely-c dark:hover:text-rosely5' href={`#${heading.slug}`}>
             {heading.text}
           </a>
         </li>

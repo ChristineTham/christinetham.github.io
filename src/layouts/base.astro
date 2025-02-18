@@ -13,6 +13,8 @@ export interface Props {
 }
 
 const { frontmatter, schema = 'WebPage' } = Astro.props
+
+import '../styles/global.css'
 ---
 
 <!doctype html>
@@ -68,14 +70,6 @@ const { frontmatter, schema = 'WebPage' } = Astro.props
     {
       frontmatter.extra?.includes('markmap') && (
         <script src='https://cdn.jsdelivr.net/npm/markmap-autoloader' />
-      )
-    }
-    {
-      frontmatter.extra?.includes('mermaid') && (
-        <script is:inline type='module'>
-          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-          mermaid.initialize({ startOnLoad: true });
-        </script>
       )
     }
   </body>

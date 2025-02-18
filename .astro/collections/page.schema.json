@@ -1,0 +1,154 @@
+{
+  "$ref": "#/definitions/page",
+  "definitions": {
+    "page": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "author": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "collection": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "id",
+                "collection"
+              ],
+              "additionalProperties": false
+            },
+            {
+              "type": "object",
+              "properties": {
+                "slug": {
+                  "type": "string"
+                },
+                "collection": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "slug",
+                "collection"
+              ],
+              "additionalProperties": false
+            }
+          ]
+        },
+        "pubDate": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "coverImage": {
+          "type": "string"
+        },
+        "socialImage": {
+          "type": "string"
+        },
+        "images": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "gallery": {
+          "type": "string"
+        },
+        "categories": {
+          "type": "array",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string"
+                  },
+                  "collection": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "id",
+                  "collection"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "slug": {
+                    "type": "string"
+                  },
+                  "collection": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "slug",
+                  "collection"
+                ],
+                "additionalProperties": false
+              }
+            ]
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "extra": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "math",
+              "markmap",
+              "mermaid",
+              "gallery"
+            ]
+          }
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

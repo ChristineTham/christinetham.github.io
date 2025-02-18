@@ -22,7 +22,7 @@ const currentPageMatch = currentPage.slice(1)
               <h2 class='font-display font-medium text-rosely8 dark:text-rosely3'>{header}</h2>
               <ul
                 role='list'
-                class='mt-2 space-y-1 border-l-2 border-roselyB dark:border-roselyA lg:mt-4 lg:space-y-2 lg:border-roselyA'
+                class='mt-2 space-y-1 border-l-2 border-rosely-b dark:border-rosely-a lg:mt-4 lg:space-y-2 lg:border-rosely-a'
               >
                 {children.map((child) => {
                   const url = import.meta.env.BASE_URL + child.link
@@ -33,8 +33,8 @@ const currentPageMatch = currentPage.slice(1)
                         aria-current={currentPageMatch.search(child.link) >= 0 ? 'page' : false}
                         class={
                           currentPageMatch.search(child.link) >= 0
-                            ? 'block w-full pl-3.5 font-semibold text-roselyC before:pointer-events-none before:absolute before:-left-1 before:top-1/2 before:h-1.5 before:w-1.5 before:-translate-y-1/2 before:rounded-full before:bg-roselyC dark:text-rosely7 dark:before:bg-rosely6'
-                            : 'block w-full pl-3.5 text-rosely9 before:pointer-events-none before:absolute before:-left-1 before:top-1/2 before:hidden before:h-1.5 before:w-1.5 before:-translate-y-1/2 before:rounded-full before:bg-rosely9 hover:text-roselyC hover:before:block dark:text-roselyB dark:before:bg-rosely6 dark:hover:text-rosely6'
+                            ? 'block w-full pl-3.5 font-semibold text-rosely-c before:pointer-events-none before:absolute before:-left-1 before:top-1/2 before:h-1.5 before:w-1.5 before:-translate-y-1/2 before:rounded-full before:bg-rosely-c dark:text-rosely7 dark:before:bg-rosely6'
+                            : 'block w-full pl-3.5 text-rosely9 before:pointer-events-none before:absolute before:-left-1 before:top-1/2 before:hidden before:h-1.5 before:w-1.5 before:-translate-y-1/2 before:rounded-full before:bg-rosely9 hover:text-rosely-c hover:before:block dark:text-rosely-b dark:before:bg-rosely6 dark:hover:text-rosely6'
                         }
                       >
                         {child.text}

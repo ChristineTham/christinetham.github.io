@@ -21,18 +21,18 @@ const showMoreSection = COMMUNITY_INVITE_URL
       </h2>
       <ol role='list' class='mt-4 flex flex-col space-y-3 text-sm'>
         {editHref && (
-          <li class='flex items-center py-1 text-rosely9 dark:text-roselyB'>
+          <li class='flex items-center py-1 text-rosely9 dark:text-rosely-b'>
             <Icon name='heroicons:pencil' class='mr-2 h-6 w-6' />
-            <a class='hover:text-roselyC dark:hover:text-rosely5' href={editHref} target='_blank'>
+            <a class='hover:text-rosely-c dark:hover:text-rosely5' href={editHref} target='_blank'>
               <span>Edit this page</span>
             </a>
           </li>
         )}
         {COMMUNITY_INVITE_URL && (
-          <li class='flex items-center py-1 text-rosely9 dark:text-roselyB'>
+          <li class='flex items-center py-1 text-rosely9 dark:text-rosely-b'>
             <Icon name='heroicons:chat-bubble-bottom-center-text' class='mr-2 h-6 w-6' />
             <a
-              class='hover:text-roselyC dark:hover:text-rosely5'
+              class='hover:text-rosely-c dark:hover:text-rosely5'
               href={COMMUNITY_INVITE_URL}
               target='_blank'
             >

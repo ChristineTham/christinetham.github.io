@@ -21,7 +21,7 @@ const { post, prev, next } = Astro.props
         <BlogHero {post} />
       </header>
       <section
-        class='prose prose-purple mx-auto max-w-screen-lg px-4 py-8 dark:prose-invert lg:prose-xl'
+        class='prose prose-purple mx-auto max-w-(--breakpoint-lg) px-4 py-8 dark:prose-invert lg:prose-xl'
       >
         {post.data.images && <Images images={post.data.images} />}
         <slot itemprop='articleBody' />
@@ -34,7 +34,7 @@ const { post, prev, next } = Astro.props
     prev={prev}
     next={next}
   />
-  <div class='giscus mx-auto max-w-screen-lg'></div>
+  <div class='giscus mx-auto max-w-(--breakpoint-lg)'></div>
   <script
     is:inline
     src='https://giscus.app/client.js'

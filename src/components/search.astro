@@ -36,7 +36,7 @@ import { Icon } from 'astro-icon/components'
           document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML =
             document.querySelectorAll('#lunrsearchresults ul')[0]
               .innerHTML +
-            '<li class="-m-3 p-3 flex items-start rounded-lg hover:bg-roselyB dark:hover:bg-rosely9"><a href="' +
+            '<li class="-m-3 p-3 flex items-start rounded-lg hover:bg-rosely-b dark:hover:bg-rosely9"><a href="' +
             url +
             '"><p class="text-base font-medium text-rosely0 dark:text-white">' +
             doc.title +
@@ -61,7 +61,7 @@ import { Icon } from 'astro-icon/components'
         <input
           type='search'
           x-model='searchText'
-          class='form-control relative m-0 block w-full min-w-0 max-w-xs flex-auto rounded border border-solid border-roselyB bg-rosely7 bg-clip-padding px-3 py-1.5 text-base font-normal text-rosely1 transition ease-in-out focus:border-rosely5 focus:text-rosely0 focus:outline-none dark:border-rosely9 dark:bg-rosely1 dark:text-rosely3 dark:focus:border-rosely4 dark:focus:text-white'
+          class='form-control relative m-0 block w-full min-w-0 max-w-xs flex-auto rounded-sm border border-solid border-rosely-b bg-rosely7 bg-clip-padding px-3 py-1.5 text-base font-normal text-rosely1 transition ease-in-out focus:border-rosely5 focus:text-rosely0 focus:outline-hidden dark:border-rosely9 dark:bg-rosely1 dark:text-rosely3 dark:focus:border-rosely4 dark:focus:text-white'
           id='lunrsearch'
           name='q'
           maxlength='255'
@@ -71,7 +71,7 @@ import { Icon } from 'astro-icon/components'
           aria-describedby='lunrbutton'
         />
         <button
-          class='btn inline-block items-center rounded bg-rosely9 px-2 py-2 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-roselyC hover:shadow-lg focus:bg-rosely8 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-rosely8 active:shadow-lg'
+          class='btn inline-block items-center rounded-sm bg-rosely9 px-2 py-2 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-rosely-c hover:shadow-lg focus:bg-rosely8 focus:shadow-lg focus:outline-hidden focus:ring-0 active:bg-rosely8 active:shadow-lg'
           type='button'
           name='search'
           id='lunrbutton'
@@ -142,7 +142,7 @@ import { Icon } from 'astro-icon/components'
             >
               <button
                 type='button'
-                class='rounded-md text-roselyB hover:text-rosely5 focus:outline-none focus:ring-2 focus:ring-white'
+                class='rounded-md text-rosely-b hover:text-rosely5 focus:outline-hidden focus:ring-2 focus:ring-white'
                 x-on:click='searchResults = false'
               >
                 <span class='sr-only'>Close panel</span>

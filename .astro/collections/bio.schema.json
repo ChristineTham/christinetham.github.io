@@ -1,0 +1,45 @@
+{
+  "$ref": "#/definitions/bio",
+  "definitions": {
+    "bio": {
+      "type": "object",
+      "properties": {
+        "draft": {
+          "type": "boolean"
+        },
+        "section": {
+          "type": "string"
+        },
+        "weight": {
+          "type": "number",
+          "default": 0
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "images": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "gallery": {
+          "type": "string"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "section",
+        "title",
+        "description"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

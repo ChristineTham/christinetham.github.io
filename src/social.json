@@ -1,0 +1,32 @@
+[
+  {
+    "id": "email",
+    "name": "Email",
+    "link": "mailto:chris@christham.net",
+    "icon": "envelope"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "link": "https://www.facebook.com/chris1tham",
+    "icon": "facebook"
+  },
+  {
+    "id": "github",
+    "name": "Github",
+    "link": "https://github.com/ChristineTham",
+    "icon": "github"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "link": "https://www.instagram.com/chris1tham",
+    "icon": "instagram"
+  },
+  {
+    "id": "linkedIn",
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/christham",
+    "icon": "linkedin"
+  }
+]

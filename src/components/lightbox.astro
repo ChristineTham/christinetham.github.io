@@ -42,7 +42,7 @@ const imagetitles = images.map((image) => image.src.split('/').reverse()[0].spli
       <figure
         itemscope
         itemtype='http://schema.org/ImageObject'
-        class='my-1 inline-block rounded bg-gray-300 text-center text-sm italic text-gray-800 shadow-lg shadow-gray-400 dark:bg-gray-800 dark:text-gray-300 dark:shadow-black lg:my-2'
+        class='my-1 inline-block rounded-sm bg-gray-300 text-center text-sm italic text-gray-800 shadow-lg shadow-gray-400 dark:bg-gray-800 dark:text-gray-300 dark:shadow-black lg:my-2'
       >
         <a
           href={image.src}
@@ -55,14 +55,14 @@ const imagetitles = images.map((image) => image.src.split('/').reverse()[0].spli
             alt={imagetitles[i]}
             width={600}
             height={(image.height * 600) / image.width}
-            class='rounded'
+            class='rounded-sm'
           />
           <span class='pswp-caption-content'>
             {imagetitles[i]}
             {exifs && exifs[i] && <span>{' (' + exifs[i].Make + ' ' + exifs[i].Model + ')'}</span>}
           </span>
         </a>
-        <figcaption itemprop='caption description' class='rounded'>
+        <figcaption itemprop='caption description' class='rounded-sm'>
           {imagetitles[i]}
         </figcaption>
       </figure>

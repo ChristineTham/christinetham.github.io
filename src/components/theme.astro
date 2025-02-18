@@ -6,7 +6,7 @@ import { Icon } from 'astro-icon/components'
   <div>
     <button
       type='button'
-      class='inline-flex w-full justify-center rounded-md border border-roselyA bg-rosely7 px-4 py-2 text-sm font-medium text-rosely0 shadow-sm hover:bg-roselyB focus:outline-none focus:ring-2 focus:ring-roselyC focus:ring-offset-2 focus:ring-offset-roselyB dark:border-rosely9 dark:bg-rosely1 dark:text-rosely3 dark:hover:bg-rosely8 dark:focus:ring-offset-rosely9'
+      class='inline-flex w-full justify-center rounded-md border border-rosely-a bg-rosely7 px-4 py-2 text-sm font-medium text-rosely0 shadow-xs hover:bg-rosely-b focus:outline-hidden focus:ring-2 focus:ring-rosely-c focus:ring-offset-2 focus:ring-offset-rosely-b dark:border-rosely9 dark:bg-rosely1 dark:text-rosely3 dark:hover:bg-rosely8 dark:focus:ring-offset-rosely9'
       id='menu-button'
       aria-expanded='true'
       aria-haspopup='true'
@@ -25,14 +25,14 @@ import { Icon } from 'astro-icon/components'
     x-transition:leave='transition ease-in duration-75'
     x-transition:leave-start='transform opacity-100 scale-100'
     x-transition:leave-end='transform opacity-0 scale-95'
-    class='absolute z-20 mt-1 max-h-56 w-full overflow-auto rounded-md bg-rosely7 py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none dark:bg-rosely1 sm:text-sm'
+    class='absolute z-20 mt-1 max-h-56 w-full overflow-auto rounded-md bg-rosely7 py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-hidden dark:bg-rosely1 sm:text-sm'
     tabindex='-1'
     role='listbox'
     aria-labelledby='listbox-label'
     aria-activedescendant='listbox-option-3'
   >
     <li
-      class='relative cursor-default select-none py-2 pl-2 pr-4 text-rosely0 hover:bg-rosely9 hover:text-white dark:bg-rosely1 dark:text-white dark:hover:bg-roselyB dark:hover:text-rosely0'
+      class='relative cursor-default select-none py-2 pl-2 pr-4 text-rosely0 hover:bg-rosely9 hover:text-white dark:bg-rosely1 dark:text-white dark:hover:bg-rosely-b dark:hover:text-rosely0'
       id='listbox-option-0'
       role='option'
       x-on:click="localStorage.removeItem('theme'); window.location.reload()"
@@ -54,7 +54,7 @@ import { Icon } from 'astro-icon/components'
       </span>
     </li>
     <li
-      class='relative cursor-default select-none py-2 pl-2 pr-4 text-rosely0 hover:bg-rosely9 hover:text-white dark:bg-rosely1 dark:text-white dark:hover:bg-roselyB dark:hover:text-rosely0'
+      class='relative cursor-default select-none py-2 pl-2 pr-4 text-rosely0 hover:bg-rosely9 hover:text-white dark:bg-rosely1 dark:text-white dark:hover:bg-rosely-b dark:hover:text-rosely0'
       id='listbox-option-0'
       role='option'
       x-on:click="localStorage.theme = 'light'; window.location.reload()"
@@ -75,7 +75,7 @@ import { Icon } from 'astro-icon/components'
       </span>
     </li>
     <li
-      class='relative cursor-default select-none py-2 pl-2 pr-4 text-rosely0 hover:bg-rosely9 hover:text-white dark:bg-rosely1 dark:text-white dark:hover:bg-roselyB dark:hover:text-rosely0'
+      class='relative cursor-default select-none py-2 pl-2 pr-4 text-rosely0 hover:bg-rosely9 hover:text-white dark:bg-rosely1 dark:text-white dark:hover:bg-rosely-b dark:hover:text-rosely0'
       id='listbox-option-0'
       role='option'
       x-on:click="localStorage.theme = 'dark'; window.location.reload()"

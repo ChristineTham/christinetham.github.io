@@ -1,9 +1,11 @@
 // 1. Import your utilities and schemas
 import { z, defineCollection, reference } from 'astro:content'
 import { rssSchema } from '@astrojs/rss'
+import { glob, file } from 'astro/loaders'
 
 // 2. Define your collections
 const blog = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
   schema: ({ image }) =>
     rssSchema.extend({
       draft: z.boolean().optional(),
@@ -22,6 +24,7 @@ const blog = defineCollection({
 })
 
 const page = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/page' }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
@@ -39,6 +42,7 @@ const page = defineCollection({
 })
 
 const bio = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/bio' }),
   schema: ({ image }) =>
     z.object({
       draft: z.boolean().optional(),
@@ -52,6 +56,7 @@ const bio = defineCollection({
 })
 
 const category = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/category' }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
@@ -63,6 +68,7 @@ const category = defineCollection({
 })
 
 const author = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/author' }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
@@ -73,6 +79,7 @@ const author = defineCollection({
 })
 
 const website = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/website' }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
@@ -84,12 +91,7 @@ const website = defineCollection({
 })
 
 const social = defineCollection({
-  type: 'data',
-  schema: z.object({
-    name: z.string(),
-    link: z.string(),
-    icon: z.string()
-  })
+  loader: file('src/social.json', { parser: (text) => JSON.parse(text) })
 })
 
 // 3. Export multiple collections to register them
