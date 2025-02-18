@@ -1,9 +1,10 @@
 # Chris Tham Personal Web Site
 
-<!-- [START BADGES] -->
-<!-- [END BADGES] -->
-
-![deploy](https://github.com/ChristineTham/christinetham.github.io/actions/workflows/deploy.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language: Typescript](https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square)](https://www.typescriptlang.org)
+[![Framework: Astro](https://img.shields.io/badge/framework-Astro-BC52EE?logo=astro&logoColor=fff?style=flat-square)](https://astro.build)
+[![CSS: TailwindCSS](https://img.shields.io/badge/css-TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white?style=flat-square)](https://tailwindcss.com)
+![Deploy Status](https://github.com/ChristineTham/christinetham.github.io/actions/workflows/deploy.yml/badge.svg)
 
 This is  my personal blog/web site written in Markdown and [Astro](https://astro.build) using the [Hello Astro](https://github.com/hellotham/hello-astro) starter as a template.
 
