@@ -78,7 +78,7 @@ const website = defineCollection({
 })
 
 const social = defineCollection({
-  loader: file('src/social.json', { parser: (text) => JSON.parse(text) })
+  loader: file('src/common/social.json', { parser: (text) => JSON.parse(text) })
 })
 
 // 3. Export multiple collections to register them

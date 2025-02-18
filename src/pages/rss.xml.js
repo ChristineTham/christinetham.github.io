@@ -1,6 +1,6 @@
 import rss from '@astrojs/rss'
 import { getEntry } from 'astro:content'
-import { SiteMetadata, defaultImage, getPosts } from '../config'
+import { SiteMetadata, defaultImage, getPosts } from '../common/config'
 
 export async function GET(context) {
   const defaultauthor = SiteMetadata.author.email

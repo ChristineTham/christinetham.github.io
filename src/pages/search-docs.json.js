@@ -1,5 +1,5 @@
 import { getCollection } from 'astro:content'
-import { SiteMetadata } from '../config'
+import { SiteMetadata } from '../common/config'
 
 const docs = await getCollection('bio', (p) => {
   return !p.data.draft

@@ -1,11 +1,11 @@
 ---
 // import { ViewTransitions } from 'astro:transitions'
 import type { CollectionEntry } from 'astro:content'
-import SEO from '../components/seo.astro'
-import Header from '../components/header.astro'
-import Footer from '../components/footer.astro'
-import Gallery from '../components/gallery.astro'
-import { SiteMetadata } from '../config'
+import SEO from './seo.astro'
+import Header from './header.astro'
+import Footer from './footer.astro'
+import Gallery from './gallery.astro'
+import { SiteMetadata } from './config'
 
 export interface Props {
   frontmatter: CollectionEntry<'blog'>['data'] | CollectionEntry<'page'>['data']
@@ -14,7 +14,7 @@ export interface Props {
 
 const { frontmatter, schema = 'WebPage' } = Astro.props
 
-import '../styles/global.css'
+import './global.css'
 ---
 
 <!doctype html>

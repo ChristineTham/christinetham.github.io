@@ -1,12 +1,12 @@
 ---
 import type { CollectionEntry } from 'astro:content'
 import { getCollection } from 'astro:content'
-import { PAGE_SIZE, SiteMetadata, getPosts } from '../config'
-import Base from '../layouts/base.astro'
-import Carousel from '../components/carousel.astro'
-import BlogRoll from '../components/blogroll.astro'
-import CategoryRoll from '../components/categoryroll.astro'
-import WebRoll from '../components/webroll.astro'
+import { PAGE_SIZE, SiteMetadata, getPosts } from '../common/config'
+import Base from '../common/base.astro'
+import Carousel from '../common/carousel.astro'
+import BlogRoll from '../common/blogroll.astro'
+import CategoryRoll from '../common/categoryroll.astro'
+import WebRoll from '../common/webroll.astro'
 import coverImage from '../images/me/home.jpeg'
 
 const frontmatter: CollectionEntry<'page'>['data'] = {

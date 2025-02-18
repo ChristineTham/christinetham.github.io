@@ -1,11 +1,11 @@
 ---
+import type { CollectionEntry } from 'astro:content'
 import { getCollection } from 'astro:content'
 import { Icon } from 'astro-icon/components'
-import Base from '../layouts/base.astro'
-import Map from '../components/map.astro'
-import PageHero from '../components/pagehero.astro'
-import type { CollectionEntry } from 'astro:content'
-import { SiteMetadata } from '../config'
+import Base from '../common/base.astro'
+import Map from '../common/map.astro'
+import PageHero from '../common/pagehero.astro'
+import { SiteMetadata } from '../common/config'
 
 import coverImage from '../images/svg/undraw/contact_us.svg'
 import socialImage from '../images/undraw/contact_us.png'

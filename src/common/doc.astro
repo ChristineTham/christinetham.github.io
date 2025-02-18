@@ -1,13 +1,13 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import type { Sidebar } from '../config'
+import type { Sidebar } from './config'
 import { getCollection } from 'astro:content'
 import Base from './base.astro'
-import PageContent from '../components/pagecontent.astro'
-import LeftSidebar from '../components/leftsidebar.astro'
-import RightSidebar from '../components/rightsidebar.astro'
-import NextPrev from '../components/nextprev.astro'
-import * as CONFIG from '../config'
+import PageContent from './pagecontent.astro'
+import LeftSidebar from './leftsidebar.astro'
+import RightSidebar from './rightsidebar.astro'
+import NextPrev from './nextprev.astro'
+import * as CONFIG from './config'
 import type { MarkdownHeading } from 'astro'
 
 type Props = {
