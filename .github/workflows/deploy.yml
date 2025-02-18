@@ -22,7 +22,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: true
-          token: ${{ secrets.CI_TOKEN }}
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
       - name: Install, build, and upload your site
