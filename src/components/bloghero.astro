@@ -11,7 +11,7 @@ export interface Props {
 
 const { post } = Astro.props
 
-const cat = await getEntry(post.data.categories[0])
+const cat = await getEntry('category', post.data.categories[0])
 const image =
   post.data.coverImage ||
   (post.data.images && post.data.images[0]) ||
@@ -28,7 +28,7 @@ const image =
     class='absolute top-0 left-0 z-0 h-full w-full object-cover'
   />
   <div class='absolute bottom-0 left-0 z-20 p-4'>
-    {post.data.categories && <Categories categories={post.data.categories} />}
+    <Categories categories={post.data.categories} />
     <h2 class='text-rosely3 text-4xl leading-tight font-bold'>
       {post.data.title}
     </h2>

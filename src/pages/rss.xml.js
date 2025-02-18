@@ -1,5 +1,5 @@
 import rss from '@astrojs/rss'
-import { getEntries } from 'astro:content'
+import { getEntry } from 'astro:content'
 import { SiteMetadata, defaultImage, getPosts } from '../config'
 
 export async function GET(context) {
@@ -34,12 +34,13 @@ export async function GET(context) {
     // see "Generating items" section for required data and advanced use cases
     items: await Promise.all(
       posts.map(async (post) => {
-        const categories = post.data.categories && (await getEntries(post.data.categories))
+        const cat = await getEntry('category', post.data.categories[0])
+        // const categories = post.data.categories && (await getEntries(post.data.categories))
         const image =
           post.data.socialImage ||
           post.data.coverImage ||
           (post.data.images && post.data.images[0]) ||
-          (categories && categories[0].data.socialImage) ||
+          cat.data.socialImage ||
           defaultImage
 
         return {
@@ -56,7 +57,7 @@ export async function GET(context) {
               height="${image.height}"
               medium="image"
               url="${context.site + image.src.slice(1)}" />
-            ${categories ? categories.map((category) => '<category>' + category.data.title + '</category>').join('\n') : ''}
+            ${post.data.categories.map((category) => '<category>' + category + '</category>').join('\n')}
           `
         }
       })

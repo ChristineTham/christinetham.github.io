@@ -12,7 +12,7 @@ export interface Props {
 
 const { post } = Astro.props
 
-const cat = await getEntry(post.data.categories[0])
+const cat = await getEntry('category', post.data.categories[0])
 
 const image =
   post.data.coverImage ||

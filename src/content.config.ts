@@ -1,5 +1,5 @@
 // 1. Import your utilities and schemas
-import { z, defineCollection, reference } from 'astro:content'
+import { z, defineCollection } from 'astro:content'
 import { rssSchema } from '@astrojs/rss'
 import { glob, file } from 'astro/loaders'
 
@@ -15,7 +15,7 @@ const blog = defineCollection({
       socialImage: image().optional(),
       images: z.array(image()).optional(),
       gallery: z.string().optional(),
-      categories: z.array(reference('category')),
+      categories: z.string().array().nonempty(),
       tags: z.array(z.string()).optional(),
       extra: z.array(z.enum(['math', 'markmap', 'mermaid', 'gallery'])).optional(),
       minutesRead: z.string().optional()
@@ -33,7 +33,7 @@ const page = defineCollection({
       socialImage: image().optional(),
       images: z.array(image()).optional(),
       gallery: z.string().optional(),
-      categories: z.array(reference('category')).optional(),
+      categories: z.string().array().optional(),
       tags: z.array(z.string()).optional(),
       extra: z.array(z.enum(['math', 'markmap', 'mermaid', 'gallery'])).optional()
     })

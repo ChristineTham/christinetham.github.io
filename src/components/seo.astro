@@ -25,7 +25,7 @@ const year = SiteMetadata.buildTime.getFullYear()
 const cat =
   frontmatter.categories &&
   frontmatter.categories.length &&
-  (await getEntry(frontmatter.categories[0]))
+  (await getEntry('category', frontmatter.categories[0]))
 const image =
   frontmatter.socialImage ||
   frontmatter.coverImage ||
