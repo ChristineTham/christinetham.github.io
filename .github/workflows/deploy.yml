@@ -21,7 +21,7 @@ jobs:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
         with:
-          submodules: 'recurse'
+          submodules: true
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
       - name: Install, build, and upload your site
