@@ -1,7 +1,6 @@
 ---
 title: Parramatta River after the rain
 description: Debris on the weir
-author: christie
 pubDate: 2022-03-10T12:00:00+10:00
 coverImage: ../../../images/gallery/2022-03-10-parramatta/Parramatta after the rain (6).jpeg
 gallery: 2022-03-10-parramatta

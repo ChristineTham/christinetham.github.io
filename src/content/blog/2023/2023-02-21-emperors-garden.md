@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Emperor's Garden
 pubDate: 2023-02-21T15:00:00+10:00
 description: Chinese restaurant in Chatswood

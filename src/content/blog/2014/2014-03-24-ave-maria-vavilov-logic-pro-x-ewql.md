@@ -1,7 +1,6 @@
 ---
 title: Ave Maria (Vavilov) – Logic Pro X, EWQL
 description: This is the same arrangement as previously posted, but revoiced.
-author: christie
 pubDate: 2014-03-24T06:53:48+00:00
 categories:
   - music

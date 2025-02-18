@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Deborah's Gin and High Tea
 pubDate: 2022-11-26T18:00:00+10:00
 description: not so annual event

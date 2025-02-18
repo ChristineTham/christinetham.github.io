@@ -1,5 +1,4 @@
 ---
-author: christie
 title: LEGO Friends
 pubDate: 2022-04-10T10:00:00+10:00
 description: I love this combo - reminds me of LEGO Friends

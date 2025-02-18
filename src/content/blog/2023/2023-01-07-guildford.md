@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Satay et al at Guildford
 pubDate: 2023-01-07T18:00:00+10:00
 description: Wow the queue was so long

@@ -1,7 +1,6 @@
 ---
 title: Vivid Night Flight
 description: One night drone light show
-author: christie
 pubDate: 2022-05-29T21:00:00+10:00
 coverImage: ../../../images/blog/2022_ParamountPlus_HelloSocial_VIVID_Drone-Show_Cahill_025.jpg
 gallery: 2022-06-02-vivid

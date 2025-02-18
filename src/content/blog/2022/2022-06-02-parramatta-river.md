@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Parramatta River
 pubDate: 2022-06-02T12:35:00+10:00
 images: [../../../images/cycling/Parramatta River.jpeg]

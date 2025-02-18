@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunar New Year Eve
 pubDate: 2023-01-21T17:00:00+10:00
 description: Various activities at Chatswood and Haymarket

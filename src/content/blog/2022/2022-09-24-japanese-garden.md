@@ -1,7 +1,6 @@
 ---
 title: Cowra/Floriade Trip Day 2
 description: Cowra Japanese Garden Sakura Festival
-author: christie
 pubDate: 2022-09-24T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-09-24-japanese-garden/Sakura Matsuri (71).jpeg
 gallery: 2022-09-24-japanese-garden

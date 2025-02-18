@@ -1,7 +1,6 @@
 ---
 title: Lunch at Hokkian Kia
 description: Trying out the new Malaysian restaurant in Campsie
-author: christie
 pubDate: 2022-01-28T13:00:00+10:00
 images:
   - ../../../images/food/Hokkian Kia (2).jpeg

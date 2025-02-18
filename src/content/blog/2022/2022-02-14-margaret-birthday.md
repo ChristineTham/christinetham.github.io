@@ -1,7 +1,6 @@
 ---
 title: Margaret's birthday
 description: Celebrating with lunch at Kuru, followed by afternoon tea
-author: christie
 pubDate: 2022-02-14T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-14-margaret-birthday/Margaret's birthday (4).jpeg
 gallery: 2022-02-14-margaret-birthday

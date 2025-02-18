@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Mei and Totoro
 pubDate: 2014-03-06T12:35:00+10:00
 images: [../../../images/art/MeiAndTotoro.jpg]

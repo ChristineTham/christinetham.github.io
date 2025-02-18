@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Pearl Beach
 pubDate: 2022-04-16T10:00:00+10:00
 description: Weekend stay at Margaret's house

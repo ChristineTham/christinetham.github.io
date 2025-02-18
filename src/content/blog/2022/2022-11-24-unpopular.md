@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Unpopular
 description: Exhibition at Powerhouse Museum
 pubDate: 2022-11-24T13:00:00+10:00

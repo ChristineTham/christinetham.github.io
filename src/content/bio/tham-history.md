@@ -170,6 +170,9 @@ In Malaysia, tin mining was operated by Chinese from the late 18th century and b
 ---
 
 [^1]: Raymond Tom, et al, "10000 miles & 100 years Journey from JIshi village to Gold Mountain 萬里世紀之旅"
+
 [^2]: http://yutopian.net/names/19/19Tan262.html
+
 [^3]: Him Mark Lai, Becoming Chinese American: A History of Communities and Institutions, Alta Mira Press, 2004, ISBN 0-7591-0458-1
+
 [^4]: C. P. FitzGerald, The Southern Expansion of the Chinese People , Praeger Publishers, 1972

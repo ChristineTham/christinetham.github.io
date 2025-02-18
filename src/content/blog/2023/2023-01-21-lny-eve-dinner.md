@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunar New Year eve dinner
 pubDate: 2023-01-21T19:00:00+10:00
 description: Decided to go Thai at Khao Kang Maruay

@@ -1,7 +1,6 @@
 ---
 title: Simplest fried rice
 description: Seasoned with only salt and pepper
-author: christie
 pubDate: 2021-12-19T11:00:00+10:00
 images:
   - ../../../images/food/Fish cake fried rice (3).jpeg

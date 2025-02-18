@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Chilly spring outfit
 pubDate: 2022-12-16T10:00:00+10:00
 description: Bit cold today

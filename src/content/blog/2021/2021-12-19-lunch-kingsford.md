@@ -1,7 +1,6 @@
 ---
 title: Lunch at Kingsford
 description: Simple lunch with Ma
-author: christie
 pubDate: 2021-12-19T13:00:00+10:00
 images:
   - ../../../images/food/Kingsford lunch (1).jpeg

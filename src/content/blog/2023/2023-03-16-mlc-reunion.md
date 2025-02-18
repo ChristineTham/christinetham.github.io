@@ -1,5 +1,4 @@
 ---
-author: christie
 title: MLC Reunion
 pubDate: 2023-03-16T21:00:00+10:00
 images:

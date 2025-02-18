@@ -1,7 +1,6 @@
 ---
 title: Enlighten Festival
 description: Canberra's culture and creativity festival
-author: christie
 pubDate: 2022-03-13T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-03-13-enlighten/Enlighten Canberra.jpeg
 gallery: 2022-03-13-enlighten

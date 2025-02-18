@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Chequered
 pubDate: 2023-03-12T08:00:00+10:00
 description: Bershka pink and black chequered mini skirt plus top

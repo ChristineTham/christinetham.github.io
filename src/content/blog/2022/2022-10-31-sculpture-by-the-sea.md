@@ -1,7 +1,6 @@
 ---
 title: Sculpture by the Sea
 description: Annual sculpture exhibition at the Bondi to Tamarama Beach walk
-author: christie
 pubDate: 2022-10-31T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-10-31-sculpture-by-the-sea/Oushi Zokei - Infinity (Keizo Ushio).jpeg
 gallery: 2022-10-31-sculpture-by-the-sea

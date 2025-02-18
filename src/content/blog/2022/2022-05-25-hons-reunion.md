@@ -1,5 +1,4 @@
 ---
-author: christie
 title: 35th year Graduation Reunion
 pubDate: 2022-05-25T21:00:00+10:00
 description: A group of us gathered at the University of Sydney

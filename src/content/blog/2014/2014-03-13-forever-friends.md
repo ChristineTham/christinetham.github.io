@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Forever Friends on a Swing
 pubDate: 2014-03-13T12:35:00+10:00
 images: [../../../images/art/ForeverFriendsOnASwing.jpg]

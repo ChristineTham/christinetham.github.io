@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Air Burger
 pubDate: 2022-12-31T18:00:00+10:00
 description: When is a burger a burger?

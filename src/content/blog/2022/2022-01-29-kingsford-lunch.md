@@ -1,7 +1,6 @@
 ---
 title: Lunch at Kingsford
 description: Lunch with the family
-author: christie
 pubDate: 2022-01-29T13:00:00+10:00
 images:
   - ../../../images/food/Kingsford Lunch.jpeg

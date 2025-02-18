@@ -1,7 +1,6 @@
 ---
 title: Warragamba Dam
 description: Warragambda Dam is actually spilling due to recent rain!
-author: christie
 pubDate: 2022-02-06T12:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-06-warragamba-dam/Warragamba Dam (8).jpeg
 gallery: 2022-02-06-warragamba-dam

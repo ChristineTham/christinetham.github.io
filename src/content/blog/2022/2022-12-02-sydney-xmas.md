@@ -1,7 +1,6 @@
 ---
 title: Sydney Xmas
 description: Wandering around Fullerton Hotel, Tiffanys, Strand Arcade, Mid City Centre and Westfield
-author: christie
 pubDate: 2022-12-02T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-12-02-sydney-xmas/Martin Place (1).jpeg
 gallery: 2022-12-02-sydney-xmas

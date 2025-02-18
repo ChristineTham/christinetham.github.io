@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Ho Jiak Strathfield
 pubDate: 2023-02-19T17:00:00+10:00
 description: Late lunch/early dinner with 15% promotion

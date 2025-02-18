@@ -1,7 +1,6 @@
 ---
 title: Lunch at Cafe Rumah
 description: Lunch with Ivan and Julia
-author: christie
 pubDate: 2021-12-02T13:00:00+10:00
 images:
   - ../../../images/food/Lunch with Julia and Ivan.jpeg

@@ -1,7 +1,6 @@
 ---
 title: Ave Maria (Vavilov)
 description: Rearranged for woodwinds, strings and harp, voiced using the EWQL Symphonic Orchestra.
-author: christie
 pubDate: 2014-03-16T06:06:49+00:00
 categories:
   - music

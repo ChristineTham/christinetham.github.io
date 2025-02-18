@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Ya Malaysia lunch
 pubDate: 2023-01-03T13:00:00+10:00
 description: Eating at Pho Saigon with family

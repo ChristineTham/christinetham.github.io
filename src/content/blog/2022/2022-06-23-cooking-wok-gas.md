@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cooking with wok and gas!
 pubDate: 2022-06-23T12:00:00+10:00
 images:

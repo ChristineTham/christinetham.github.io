@@ -1,7 +1,6 @@
 ---
 title: Ping's birthday
 description: Lunch at 678 Korean BBQ
-author: christie
 pubDate: 2022-03-27T13:00:00+10:00
 images:
   - ../../../images/food/678 Korean BBQ.jpeg

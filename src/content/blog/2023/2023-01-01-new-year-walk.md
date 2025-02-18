@@ -1,5 +1,4 @@
 ---
-author: christie
 title: New Year walk across Sydney
 pubDate: 2023-01-01T13:00:00+10:00
 description: Starting from Milson's Point, and walking across the bridge to

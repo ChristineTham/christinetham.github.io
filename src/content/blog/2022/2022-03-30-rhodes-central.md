@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Hong Kong Street Food
 pubDate: 2022-03-30T13:00:00+10:00
 description: New restaurant at Rhodes Central that evokes memories of Hong Kong

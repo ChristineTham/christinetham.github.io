@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cat Cooking Class
 pubDate: 2023-03-13T16:00:00+10:00
 description: Three Thai appetisers featuring pork

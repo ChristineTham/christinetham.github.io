@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bears of the Carribean
 pubDate: 2014-02-14T12:35:00+10:00
 images: [../../../images/art/BearsCarribean.jpg]

@@ -1,7 +1,6 @@
 ---
 title: Giant Test Ride
 description: Ride around Royal National Park on Giant bicycles
-author: christie
 pubDate: 2013-03-24T08:00:35+00:00
 coverImage: ../../../images/gallery/2013-03-24-giant-test-ride/group.jpg
 gallery: 2013-03-24-giant-test-ride

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: World Pride exhibitions at Carriageworks
 pubDate: 2023-02-23T13:00:00+10:00
 coverImage: ../../../images/gallery/2023-02-23-carriageworks/Word Made Flesh (Paul Yore).jpeg

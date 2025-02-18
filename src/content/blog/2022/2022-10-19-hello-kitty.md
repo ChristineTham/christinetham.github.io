@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Hello Kitty
 pubDate: 2022-10-19T10:00:00+10:00
 description: Pink Hello Kitty outfit

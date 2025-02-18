@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Market City Xmas
 description: Xmas tree forest
 pubDate: 2022-11-24T15:00:00+10:00

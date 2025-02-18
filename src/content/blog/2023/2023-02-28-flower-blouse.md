@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Flower blouse
 pubDate: 2023-02-28T08:00:00+10:00
 description: Purchased from a Korean shop

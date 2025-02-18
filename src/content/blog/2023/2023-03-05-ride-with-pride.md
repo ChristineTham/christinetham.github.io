@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Ride With Pride
 pubDate: 2023-03-05T11:00:00+10:00
 description: Caught train from Chatswood to Town Hall

@@ -1,7 +1,6 @@
 ---
 title: Masak Masak
 description: Cooking at Ee-vonne
-author: christie
 pubDate: 2022-09-27T13:00:00+10:00
 coverImage: ../../../images/gallery/2022-09-27-masak-masak/Masak masak (3).jpeg
 gallery: 2022-09-27-masak-masak

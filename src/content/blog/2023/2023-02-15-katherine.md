@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Katherine dress
 pubDate: 2023-02-15T08:00:00+10:00
 description: Another thrift shop purchase

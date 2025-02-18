@@ -13,7 +13,7 @@ const { posts } = Astro.props
   itemprop='mainEntity'
   itemscope
   itemtype='https://schema.org/Article'
-  class='mx-auto max-w-none bg-rosely7 p-4 dark:bg-rosely1 sm:px-6 lg:px-8'
+  class='bg-rosely7 dark:bg-rosely1 mx-auto max-w-none p-4 sm:px-6 lg:px-8'
 >
   <div class='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
     {posts.map((post) => <BlogCard post={post} />)}

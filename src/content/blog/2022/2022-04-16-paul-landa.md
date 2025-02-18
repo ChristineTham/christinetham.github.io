@@ -1,7 +1,6 @@
 ---
 title: Galleria Ettalong Trip
 description: Green Point and Paul Landa Reserve
-author: christie
 pubDate: 2022-04-16T17:00:00+10:00
 coverImage: ../../../images/gallery/2022-04-16-paul-landa/Chris (1).jpeg
 gallery: 2022-04-16-paul-landa

@@ -1,7 +1,6 @@
 ---
 title: Men At Work - Business As Usual
 description: Classic 1980s album
-author: christie
 pubDate: 2022-01-09T00:00:00.000Z
 images:
   - ../../../images/blog/Men at Work.jpeg

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Guildford Open Day
 pubDate: 2022-05-05T18:00:00+10:00
 description: Open House at Guildford

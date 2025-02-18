@@ -1,5 +1,4 @@
 ---
-author: christie
 title: School outfit
 pubDate: 2023-02-07T08:00:00+10:00
 description: Trying to look like a school girl

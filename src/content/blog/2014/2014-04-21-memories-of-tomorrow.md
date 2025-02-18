@@ -1,7 +1,6 @@
 ---
 title: Memories of Tomorrow
 description: "This my attempt at jazz arrangement and improvisation, inspired by an assignment from Gary Burton's Jazz Improvisation course at Coursera."
-author: christie
 pubDate: 2014-04-21T05:34:29+00:00
 coverImage: ../../../images/blog/2014-04-21-memories-of-tomorrow.png
 categories:

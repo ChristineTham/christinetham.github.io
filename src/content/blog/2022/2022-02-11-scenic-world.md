@@ -1,7 +1,6 @@
 ---
 title: Dinosaurs at Scenic World
 description: Visiting the "Dinosaur Valley" in the Blue Mountains
-author: christie
 pubDate: 2022-02-11T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-11-scenic-world/Stegosaurus.jpeg
 gallery: 2022-02-11-scenic-world

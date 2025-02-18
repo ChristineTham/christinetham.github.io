@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Sydney walk with the Leica M10
 pubDate: 2022-04-03T10:00:00+10:00
 description: Taking some photos around Botanic Gardens and visiting the Art Gallery

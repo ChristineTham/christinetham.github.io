@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Completed the Sufferfest
 pubDate: 2022-07-30T10:00:00+10:00
 images:

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: KL Hokkien mee
 pubDate: 2023-04-10T13:00:00+10:00
 description: Finally managed to cook my own version of hokkien mee at home.

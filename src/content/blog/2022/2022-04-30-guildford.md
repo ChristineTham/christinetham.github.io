@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Guildford Hari Raya
 pubDate: 2022-04-30T18:00:00+10:00
 description: Eating Malaysian at Guildford on Hari Raya Aidilfitri

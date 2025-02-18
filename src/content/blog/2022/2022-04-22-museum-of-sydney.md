@@ -1,7 +1,6 @@
 ---
 title: Museum of Sydney
 description: Visiting with Cindy
-author: christie
 pubDate: 2022-04-22T18:00:00+10:00
 coverImage: ../../../images/gallery/2022-04-22-museum-of-sydney/Museum of Sydney.jpeg
 gallery: 2022-04-22-museum-of-sydney

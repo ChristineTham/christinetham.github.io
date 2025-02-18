@@ -1,10 +1,9 @@
 import rss from '@astrojs/rss'
-// import { getImage } from 'astro:assets'
-import { getEntries, getEntry } from 'astro:content'
+import { getEntries } from 'astro:content'
 import { SiteMetadata, defaultImage, getPosts } from '../config'
 
 export async function GET(context) {
-  const defaultauthor = await getEntry('author', 'default')
+  const defaultauthor = SiteMetadata.author.email
 
   const posts = await getPosts()
   return rss({
@@ -35,28 +34,18 @@ export async function GET(context) {
     // see "Generating items" section for required data and advanced use cases
     items: await Promise.all(
       posts.map(async (post) => {
-        const author = post.data.author ? await getEntry(post.data.author) : defaultauthor
         const categories = post.data.categories && (await getEntries(post.data.categories))
-        // const image = await getImage({
-        //   src:
-        //     post.data.socialImage ||
-        //     post.data.coverImage ||
-        //     (post.data.images && post.data.images[0]) ||
-        //     (categories && categories[0].data.socialImage) ||
-        //     defaultImage,
-        //   width: 1200,
-        //   format: 'jpg'
-        // })
-        const image = post.data.socialImage ||
-            post.data.coverImage ||
-            (post.data.images && post.data.images[0]) ||
-            (categories && categories[0].data.socialImage) ||
-            defaultImage
+        const image =
+          post.data.socialImage ||
+          post.data.coverImage ||
+          (post.data.images && post.data.images[0]) ||
+          (categories && categories[0].data.socialImage) ||
+          defaultImage
 
         return {
           link: import.meta.env.BASE_URL + '/blog/' + post.id,
           title: post.data.title,
-          author: `${author.data.title} (${author.data.contact})`,
+          author: defaultauthor,
           description: post.data.description,
           pubDate: post.data.pubDate,
           // custom data for media. The url must be the full url (including https://)

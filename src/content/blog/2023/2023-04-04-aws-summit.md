@@ -1,5 +1,4 @@
 ---
-author: christie
 title: AWS Summit
 pubDate: 2023-04-04T18:00:00+10:00
 images:

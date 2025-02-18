@@ -1,7 +1,6 @@
 ---
 title: Zeal of Zebras North ride
 description: Ride to Church Point via Northern Beaches and back via Terrey Hills
-author: christie
 pubDate: 2022-09-18T12:00:00+10:00
 coverImage: ../../../images/gallery/2022-09-18-zeal-north/Zeal North (2).jpeg
 gallery: 2022-09-18-zeal-north

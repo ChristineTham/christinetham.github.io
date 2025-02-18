@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch, then exploring World Pride
 pubDate: 2023-02-20T15:00:00+10:00
 coverImage: ../../../images/gallery/2023-02-20-world-pride/Cinnamon.jpeg

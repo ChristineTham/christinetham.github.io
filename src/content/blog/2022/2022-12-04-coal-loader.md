@@ -1,7 +1,6 @@
 ---
 title: Coal Loader Artisan Markets
 description: This sustainable and unique market is held four times a year
-author: christie
 pubDate: 2022-12-04T18:00:00+10:00
 images:
   - ../../../images/blog/Coal Loader Artisan Markets.jpeg

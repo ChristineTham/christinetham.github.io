@@ -1,7 +1,6 @@
 ---
 title: Yum cha at The Eight
 description: Gotong royong (group project) at Cat-town making bakwa (loong yoke) and kueh kapek (love letters)
-author: christie
 pubDate: 2022-01-24T13:00:00+10:00
 images:
   - ../../../images/food/Yum Cha at The Eight.jpeg

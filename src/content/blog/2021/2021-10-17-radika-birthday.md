@@ -1,7 +1,6 @@
 ---
 title: Radika's birthday
 description: Picnic pot luck lunch
-author: christie
 pubDate: 2021-10-17T14:00:00+10:00
 coverImage: ../../../images/gallery/2021-10-17-radika-birthday/Group Photo.jpeg
 gallery: 2021-10-17-radika-birthday

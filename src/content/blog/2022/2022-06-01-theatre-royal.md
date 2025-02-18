@@ -1,5 +1,4 @@
 ---
-author: christie
 title: An American in Paris
 pubDate: 2022-06-01T20:00:00+10:00
 description: Dinner at Roast Republic followed by musical

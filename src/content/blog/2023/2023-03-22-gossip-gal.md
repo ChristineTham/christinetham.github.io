@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Gossip gal revisited
 pubDate: 2023-03-22T08:00:00+10:00
 description: Wearing this outfit again for lunch.

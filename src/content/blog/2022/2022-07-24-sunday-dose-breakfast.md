@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Sunday Dose Breakfast
 pubDate: 2022-07-24T12:35:00+10:00
 images: [../../../images/blog/2022-07-24-sunday-dose-breakfast.jpeg]

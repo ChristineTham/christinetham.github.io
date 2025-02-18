@@ -1,7 +1,6 @@
 ---
 title: Winter Music
 description: Transcribed and orchestrated using Notion and EWQL Symphonic Orchestra Gold.
-author: christie
 pubDate: 2014-03-10T06:03:51+00:00
 categories:
   - music

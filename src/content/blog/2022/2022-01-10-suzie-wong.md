@@ -1,7 +1,6 @@
 ---
 title: The World of Suzie Wong
 description: Classic film featuring 1960s Hong Kong
-author: christie
 pubDate: 2022-01-10T00:00:00.000Z
 categories:
   - art

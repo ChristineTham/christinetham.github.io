@@ -10,14 +10,14 @@ export interface Props {
 const { base, prev, next } = Astro.props
 ---
 
-<dl class='mt-12 flex border-t border-rosely-a pt-6 dark:border-rosely8'>
+<dl class='border-rosely-a dark:border-rosely8 mt-12 flex border-t pt-6'>
   {
     prev && (
       <div class='mr-auto text-left'>
-        <dt class='font-display text-sm font-medium text-rosely1 dark:text-rosely3'>Prev</dt>
+        <dt class='font-display text-rosely1 dark:text-rosely3 text-sm font-medium'>Prev</dt>
         <dd class='mt-1'>
           <a
-            class='text-base font-semibold text-rosely9 hover:text-rosely-c dark:text-rosely-b dark:hover:text-rosely5'
+            class='text-rosely9 hover:text-rosely-c dark:text-rosely-b dark:hover:text-rosely5 text-base font-semibold'
             href={base + prev.id}
           >
             <span aria-hidden='true'>←</span>
@@ -30,10 +30,10 @@ const { base, prev, next } = Astro.props
   {
     next && (
       <div class='ml-auto text-right'>
-        <dt class='font-display text-sm font-medium text-rosely1 dark:text-rosely3'>Next</dt>
+        <dt class='font-display text-rosely1 dark:text-rosely3 text-sm font-medium'>Next</dt>
         <dd class='mt-1'>
           <a
-            class='text-base font-semibold text-rosely9 hover:text-rosely-c dark:text-rosely-b dark:hover:text-rosely5'
+            class='text-rosely9 hover:text-rosely-c dark:text-rosely-b dark:hover:text-rosely5 text-base font-semibold'
             href={base + next.id}
           >
             {next.data.title}

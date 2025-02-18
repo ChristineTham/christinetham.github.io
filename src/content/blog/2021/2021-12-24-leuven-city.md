@@ -1,7 +1,6 @@
 ---
 title: Wahoo RGT Leuven City
 description: Achieved a personal record in every climb
-author: christie
 pubDate: 2021-12-24T10:00:00+10:00
 coverImage: ../../../images/gallery/2021-12-24-leuven-city/Wahoo RGT Leuven City.jpeg
 gallery: 2021-12-24-leuven-city

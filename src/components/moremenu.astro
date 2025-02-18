@@ -15,13 +15,13 @@ const showMoreSection = COMMUNITY_INVITE_URL
     <>
       <h2
         id='more-title'
-        class='font-display mt-4 space-y-3 text-sm font-medium text-rosely0 dark:text-rosely3'
+        class='font-display text-rosely0 dark:text-rosely3 mt-4 space-y-3 text-sm font-medium'
       >
         More
       </h2>
       <ol role='list' class='mt-4 flex flex-col space-y-3 text-sm'>
         {editHref && (
-          <li class='flex items-center py-1 text-rosely9 dark:text-rosely-b'>
+          <li class='text-rosely9 dark:text-rosely-b flex items-center py-1'>
             <Icon name='heroicons:pencil' class='mr-2 h-6 w-6' />
             <a class='hover:text-rosely-c dark:hover:text-rosely5' href={editHref} target='_blank'>
               <span>Edit this page</span>
@@ -29,7 +29,7 @@ const showMoreSection = COMMUNITY_INVITE_URL
           </li>
         )}
         {COMMUNITY_INVITE_URL && (
-          <li class='flex items-center py-1 text-rosely9 dark:text-rosely-b'>
+          <li class='text-rosely9 dark:text-rosely-b flex items-center py-1'>
             <Icon name='heroicons:chat-bubble-bottom-center-text' class='mr-2 h-6 w-6' />
             <a
               class='hover:text-rosely-c dark:hover:text-rosely5'

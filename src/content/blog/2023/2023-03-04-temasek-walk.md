@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Temasek Club Historic Walk at Kings Cross
 description: Walk around Kings Cross and Potts Point, followed by lunch at Bang Tang
 pubDate: 2023-03-04T12:00:00+10:00

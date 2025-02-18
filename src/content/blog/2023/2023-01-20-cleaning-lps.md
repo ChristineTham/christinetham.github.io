@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cleaning LPs
 pubDate: 2023-01-20T17:00:00+10:00
 description: Bought a stack of LPs from Newtown

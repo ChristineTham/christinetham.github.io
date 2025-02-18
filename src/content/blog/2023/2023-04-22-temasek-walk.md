@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Temasek Club walk from North Sydney to the city
 description: Walk down to Blues Point reserve, then Lavender Bay, Luna Park, Harbour Bridge.
 pubDate: 2023-04-22T13:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: CKT fried rice
 pubDate: 2023-01-20T13:00:00+10:00
 description: A unique twist, fried rice cooked using Char Kuay Teow (CKT) ingredients

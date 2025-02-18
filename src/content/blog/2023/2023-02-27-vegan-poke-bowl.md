@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Vegan poke bowl
 pubDate: 2023-02-27T13:00:00+10:00
 description: Lyn's healthy detox lunch

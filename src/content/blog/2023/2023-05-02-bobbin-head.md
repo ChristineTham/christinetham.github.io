@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bobbin Head
 pubDate: 2023-05-02T11:00:00+10:00
 description: Ku-ring-gai National Park scenic spot near the river

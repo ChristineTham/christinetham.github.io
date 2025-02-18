@@ -1,7 +1,6 @@
 ---
 title: Hunter Valley trip - Hunter Valley Gardens
 description: Wandering around the gardens relatively rain-free
-author: christie
 pubDate: 2022-10-06T13:00:00+10:00
 coverImage: ../../../images/gallery/2022-10-06-hunter-valley-gardens/Amphitheatre (1).jpeg
 gallery: 2022-10-06-hunter-valley-gardens

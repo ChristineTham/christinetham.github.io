@@ -1,7 +1,6 @@
 ---
 title: Sculpture by the Sea
 description: Annual sculpture exhibition at the Bondi to Tamarama Beach walk
-author: christie
 pubDate: 2022-10-26T16:00:00+10:00
 coverImage: ../../../images/gallery/2022-10-26-sculpture-by-the-sea/Long Division (Margarita Sampson) (1).jpeg
 gallery: 2022-10-26-sculpture-by-the-sea

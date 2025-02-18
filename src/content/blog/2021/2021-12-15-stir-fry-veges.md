@@ -1,7 +1,6 @@
 ---
 title: Stir Fry vegetables
 description: A healthy lunch
-author: christie
 pubDate: 2021-12-15T12:00:00+10:00
 images:
   - ../../../images/food/Vegetable stir fry (2).jpeg

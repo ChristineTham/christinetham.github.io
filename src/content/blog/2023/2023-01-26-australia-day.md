@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Australia Day
 pubDate: 2023-01-26T13:00:00+10:00
 description: Our annual walk on Australia and viewing the harbour celebrations

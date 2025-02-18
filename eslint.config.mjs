@@ -14,6 +14,5 @@ export default [
     rules: {
       'markdown/no-html': 'error'
     }
-  },
-  unocss
+  }
 ]

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Zeal of Zebras
 pubDate: 2022-11-13T10:00:00+10:00
 description: Rejoining with the group after a long absence

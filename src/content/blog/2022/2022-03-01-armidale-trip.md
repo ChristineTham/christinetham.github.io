@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Armidale Trip
 pubDate: 2022-03-01T18:00:00+11:00
 description: We have not visited New England for over 20 years, so it was time to go back for a waterfall and nostalgia trip.

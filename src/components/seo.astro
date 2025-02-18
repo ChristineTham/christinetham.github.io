@@ -35,7 +35,7 @@ const image =
 // const image = await getImage({ src: origimage, format: 'jpg', width: 1200 })
 const logo = LogoImage
 const pubDate = frontmatter.pubDate || SiteMetadata.buildTime
-const author = frontmatter.author ? frontmatter.author.id : 'Chris Tham'
+const author = SiteMetadata.author.name
 const openGraph = {
   basic: {
     title: frontmatter.title!,

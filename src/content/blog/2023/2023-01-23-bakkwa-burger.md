@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bakkwa Burger
 pubDate: 2023-01-23T12:00:00+10:00
 description: A fusion burger made with Aussie toppings and bakkwa

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Thai lunch at Charlie Chan
 pubDate: 2023-02-10T13:00:00+10:00
 description: Pub located in Haymarket featuring a Thai menu

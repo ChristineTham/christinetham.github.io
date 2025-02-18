@@ -11,19 +11,19 @@ export interface Props {
 const { title, description, coverImage, socialImage } = Astro.props
 ---
 
-<div class='relative h-96 w-full max-w-none bg-rosely7 dark:bg-rosely8'>
-  <div class='absolute bottom-0 left-0 z-10 h-full w-full bg-linear-to-t from-rosely0'></div>
+<div class='bg-rosely7 dark:bg-rosely8 relative h-96 w-full max-w-none'>
+  <div class='from-rosely0 absolute bottom-0 left-0 z-10 h-full w-full bg-linear-to-t'></div>
 
   <Image
     itemprop='image'
     src={coverImage || socialImage || defaultImage}
     alt={title}
-    class='absolute left-0 top-0 z-0 h-full w-full object-contain'
+    class='absolute top-0 left-0 z-0 h-full w-full object-contain'
   />
   <div class='absolute bottom-0 left-0 z-20 p-4'>
     <slot name='before' />
-    <h2 itemprop='name' class='text-4xl font-bold leading-tight text-rosely3'>{title}</h2>
-    <h2 itemprop='abstract description' class='text-xl font-medium italic text-rosely6'>
+    <h2 itemprop='name' class='text-rosely3 text-4xl leading-tight font-bold'>{title}</h2>
+    <h2 itemprop='abstract description' class='text-rosely6 text-xl font-medium italic'>
       {description}
     </h2>
     <slot />

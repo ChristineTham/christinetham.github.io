@@ -1,7 +1,6 @@
 ---
 title: Newcastle day trip
 description: Taking advantage of free public transport to travel to Newcastle
-author: christie
 pubDate: 2022-04-18T18:00:00+10:00
 coverImage: ../../../images/gallery/2022-04-18-newcastle/Chris, cords.jpeg
 gallery: 2022-04-18-newcastle

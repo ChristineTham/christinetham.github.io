@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bobbin Head
 pubDate: 2022-11-21T10:00:00+10:00
 description: Ride to Bobbin Head, including Apple Tree Bay

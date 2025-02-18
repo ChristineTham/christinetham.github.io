@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Mr Stonepot
 pubDate: 2022-12-31T12:00:00+10:00
 description: Trying out the tofu dishes

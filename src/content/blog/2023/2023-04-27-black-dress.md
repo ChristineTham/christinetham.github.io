@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Black dress
 pubDate: 2023-04-27T08:00:00+10:00
 description: Trying on an old dress that barely fits.

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Mt Ventoux
 pubDate: 2023-01-20T10:00:00+10:00
 coverImage: ../../../images/cycling/Mt Ventoux.jpeg

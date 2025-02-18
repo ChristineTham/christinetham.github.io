@@ -1,5 +1,4 @@
 ---
-author: christie
 title: David Jones Xmas display
 description: Sydney Xmas window display at David Jones
 pubDate: 2022-11-17T13:00:00+10:00

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Rita's birthday
 pubDate: 2023-05-07T16:00:00+10:00
 description: Celebration with 50 friends and family

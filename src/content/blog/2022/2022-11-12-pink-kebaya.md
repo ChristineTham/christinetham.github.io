@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Pink Kebaya
 pubDate: 2022-11-12T18:00:00+10:00
 description: Kebaya set from Penang

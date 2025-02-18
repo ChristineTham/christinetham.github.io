@@ -1,7 +1,6 @@
 ---
 title: Carpenters
 description: Classic Carpenters self titled album
-author: christie
 pubDate: 2022-01-07T00:00:00.000Z
 images:
   - ../../../images/blog/Carpenters.jpeg

@@ -1,7 +1,6 @@
 ---
 title: 'Brandenburg Concerto No.5 in D major (1st movement)'
 description: Brandenburg Concerto No.5 in D major, BWV 1050 – I. Allegro [solo instruments]
-author: christie
 pubDate: 2014-02-28T06:00:07+00:00
 categories:
   - music

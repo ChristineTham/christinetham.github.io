@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Ee Vonne's birthday
 pubDate: 2023-04-26T13:00:00+10:00
 description: Birthday celebration at Ee Vonne's house.

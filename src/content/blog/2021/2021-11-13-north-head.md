@@ -1,7 +1,6 @@
 ---
 title: North Head
 description: Lane Covelo C group ride
-author: christie
 pubDate: 2021-11-13T10:00:00+10:00
 images:
   - ../../../images/cycling/North Head.png

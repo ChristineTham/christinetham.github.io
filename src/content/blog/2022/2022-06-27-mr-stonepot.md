@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Mr. Stonepot Eastwood
 pubDate: 2022-06-27T13:00:00+10:00
 description: Famous restaurant in Eastwood

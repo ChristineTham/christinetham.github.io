@@ -1,5 +1,4 @@
 ---
-author: christie
 title: The North Building of the Art Gallery
 description: The Art Gallery of NSW has been transformed into an art museum campus with the addition of the new North Building.
 pubDate: 2023-03-03T15:00:00+10:00

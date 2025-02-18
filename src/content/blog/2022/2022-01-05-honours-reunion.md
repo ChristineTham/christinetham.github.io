@@ -1,7 +1,6 @@
 ---
 title: Honours Reunion
 description: Gettting back together with my uni classmates ... 35 years later.
-author: christie
 pubDate: 2022-01-05T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-01-03-honours-reunion/Honours Reunion (Stuart) (1).jpeg
 gallery: 2022-01-03-honours-reunion

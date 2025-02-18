@@ -1,7 +1,6 @@
 ---
 title: Port Macquarie trip - Day 2
 description: Exploring the town in the afternoon
-author: christie
 pubDate: 2022-05-13T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-05-13-port-macquarie/Synergy.jpeg
 gallery: 2022-05-13-port-macquarie

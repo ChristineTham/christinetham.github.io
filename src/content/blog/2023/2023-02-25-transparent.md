@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Transparent dress
 pubDate: 2023-02-25T08:00:00+10:00
 description: Purchased from Ghanda in Burwood

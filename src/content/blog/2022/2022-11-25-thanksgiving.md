@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving Dinner
 description: Dinner at Harvest Buffer at The Star
-author: christie
 pubDate: 2022-11-25T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-25-thanksgiving/Thanksgiving Harvest Buffet (1).jpeg
 gallery: 2022-11-25-thanksgiving

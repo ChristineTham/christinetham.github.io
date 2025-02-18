@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Hello Kitty Cycling Outfit
 pubDate: 2021-12-12T06:00:00+11:00
 description: I belong to the Hello Kitty team!

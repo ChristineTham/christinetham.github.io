@@ -1,7 +1,6 @@
 ---
 title: Port Macquarie trip - Court House
 description: Dressing up abd play acting
-author: christie
 pubDate: 2022-05-13T12:00:00+10:00
 coverImage: ../../../images/gallery/2022-05-13-court-house/Con Koala (2).jpeg
 gallery: 2022-05-13-court-house

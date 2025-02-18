@@ -10,45 +10,6 @@
         "description": {
           "type": "string"
         },
-        "author": {
-          "anyOf": [
-            {
-              "type": "string"
-            },
-            {
-              "type": "object",
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "collection": {
-                  "type": "string"
-                }
-              },
-              "required": [
-                "id",
-                "collection"
-              ],
-              "additionalProperties": false
-            },
-            {
-              "type": "object",
-              "properties": {
-                "slug": {
-                  "type": "string"
-                },
-                "collection": {
-                  "type": "string"
-                }
-              },
-              "required": [
-                "slug",
-                "collection"
-              ],
-              "additionalProperties": false
-            }
-          ]
-        },
         "pubDate": {
           "anyOf": [
             {

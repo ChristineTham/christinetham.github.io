@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Karen's birthday
 pubDate: 2023-01-06T21:00:00+10:00
 description: Celebrating with dinner at Nanako Darling

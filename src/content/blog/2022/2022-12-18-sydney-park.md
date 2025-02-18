@@ -1,7 +1,6 @@
 ---
 title: Sydney Park
 description: Large park near Petersham
-author: christie
 pubDate: 2022-12-18T14:00:00+10:00
 images:
   - ../../../images/blog/Sydney Park.jpeg

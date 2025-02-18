@@ -1,5 +1,4 @@
 ---
-author: christie
 title: A very short ride
 pubDate: 2023-03-19T08:00:00+10:00
 images:

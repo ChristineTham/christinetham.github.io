@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Thornleigh to Eastwood walk
 pubDate: 2023-04-24T13:00:00+10:00
 images:

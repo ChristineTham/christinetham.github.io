@@ -1,7 +1,6 @@
 ---
 title: Lunch at Campsie followed by tea at Cindys
 description: Lunch at Malaysian Small Chillies in Campsie
-author: christie
 pubDate: 2021-11-21T16:00:00+10:00
 images:
   - ../../../images/food/Small Chillies.jpeg

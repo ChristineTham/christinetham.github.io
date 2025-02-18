@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Hello Kitty on Bliss
 pubDate: 2022-01-31T10:00:00+10:00
 description: My new riding buddy

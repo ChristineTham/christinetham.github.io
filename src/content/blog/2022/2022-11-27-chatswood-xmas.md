@@ -1,7 +1,6 @@
 ---
 title: Chatswood Xmas
 description: Xmas displays around Interchange and Concourse
-author: christie
 pubDate: 2022-11-27T10:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-27-chatswood-xmas/Chatswood Xmas (3).jpeg
 gallery: 2022-11-27-chatswood-xmas

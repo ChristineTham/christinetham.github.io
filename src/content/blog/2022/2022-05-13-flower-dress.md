@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Flower dress
 pubDate: 2022-05-13T17:00:00+10:00
 description: Pretty and feminine

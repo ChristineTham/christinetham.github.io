@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Yum cha at Mama Mulan
 pubDate: 2023-04-06T13:00:00+10:00
 description: Modern yum cha in Chatswood.

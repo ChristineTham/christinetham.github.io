@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Easter Girls Road trip brunch
 pubDate: 2022-04-12T10:00:00+10:00
 description: Brunch at Schwartz at Wentworth Falls

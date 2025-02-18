@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Oxford St Party
 description: Oxford St - when the whole street parties ... #worldpride2023
 pubDate: 2023-03-04T16:00:00+10:00

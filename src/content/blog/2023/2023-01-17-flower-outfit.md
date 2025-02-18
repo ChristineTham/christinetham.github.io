@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Flower outfit for lunch
 pubDate: 2023-01-17T10:00:00+10:00
 description: Flowery jacket, blouse and skirt

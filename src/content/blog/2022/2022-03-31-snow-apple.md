@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Snow Apple
 pubDate: 2022-03-31T12:00:00+10:00
 description: Pink fluffy top and skirt

@@ -1,7 +1,6 @@
 ---
 title: Gotong Royong at Rita's House
 description: Impromptu get together to help Rita prepare for a big wedding feast
-author: christie
 pubDate: 2022-02-18T13:00:00+10:00
 images:
   - ../../../images/food/Gotong Royong Rita.jpeg

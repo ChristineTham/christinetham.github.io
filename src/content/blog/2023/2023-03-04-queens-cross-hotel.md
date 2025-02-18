@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Queens Cross Hotel
 description: Kings Cross Hotel renamed during World Pride
 pubDate: 2023-03-04T14:00:00+10:00

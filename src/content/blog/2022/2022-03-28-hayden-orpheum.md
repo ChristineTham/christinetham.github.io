@@ -1,7 +1,6 @@
 ---
 title: Watching Drive My Car
 description: at the restored Art Deco Hayden Orpheum cinema
-author: christie
 pubDate: 2022-03-28T21:00:00+10:00
 images:
   - ../../../images/blog/Hayden Orpheum.jpeg

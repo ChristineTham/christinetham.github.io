@@ -1,7 +1,6 @@
 ---
 title: Soong's birthday lunch
 description: Lunch at Meat and Wine Co at Barangaroo
-author: christie
 pubDate: 2021-11-07T13:00:00+10:00
 coverImage: ../../../images/gallery/2021-11-07-soong-birthday/Soongs birthday.jpeg
 gallery: 2021-11-07-soong-birthday

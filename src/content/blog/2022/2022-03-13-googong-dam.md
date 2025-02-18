@@ -1,7 +1,6 @@
 ---
 title: Googong Dam
 description: Superb waterfall spillway operating
-author: christie
 pubDate: 2022-03-13T16:00:00+10:00
 coverImage: ../../../images/gallery/2022-03-13-googong-dam/Googong Dam (1).jpeg
 gallery: 2022-03-13-googong-dam

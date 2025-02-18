@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Walk to Botanical Garden and Art Gallery
 pubDate: 2023-01-13T13:00:00+10:00
 description: Summer walk

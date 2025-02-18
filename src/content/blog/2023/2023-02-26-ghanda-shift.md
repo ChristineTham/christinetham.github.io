@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Ghanda Shift Dress
 pubDate: 2023-02-26T08:00:00+10:00
 description: Purchased from Ghanda in Burwood

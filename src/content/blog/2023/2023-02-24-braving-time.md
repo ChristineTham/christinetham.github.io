@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Braving Time
 pubDate: 2023-02-24T14:00:00+10:00
 coverImage: ../../../images/gallery/2023-02-24-braving-time/Braving Time.jpeg

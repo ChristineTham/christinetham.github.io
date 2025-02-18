@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunar New Year dinner
 pubDate: 2023-01-22T21:00:00+10:00
 description: Hosted by Sharon Wong and Auntie Kim

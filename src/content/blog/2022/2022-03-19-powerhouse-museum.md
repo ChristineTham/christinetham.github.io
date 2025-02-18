@@ -1,7 +1,6 @@
 ---
 title: Powerhouse Museum
 description: Entry is now free
-author: christie
 pubDate: 2022-03-19T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-03-19-powerhouse-museum/Space (5).jpeg
 gallery: 2022-03-19-powerhouse-museum

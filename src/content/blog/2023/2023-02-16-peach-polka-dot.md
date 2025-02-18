@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Peach polka dot outfit
 pubDate: 2023-02-16T08:00:00+10:00
 description: A staple favourite

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Summer outfit
 pubDate: 2023-02-06T08:00:00+10:00
 description: Summer is finally here

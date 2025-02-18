@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Ipoh Dynasty
 pubDate: 2022-07-16T13:00:00+10:00
 description: New Malaysian restaurant at Campsie

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bear Runner
 pubDate: 2014-02-15T12:35:00+10:00
 images: [../../../images/art/BearRunner.jpg]

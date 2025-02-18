@@ -1,7 +1,6 @@
 ---
 title: Port Macquarie trip - Final day
 description: Wandering around the town before leaving
-author: christie
 pubDate: 2022-05-15T10:00:00+10:00
 coverImage: ../../../images/gallery/2022-05-15-port-macquarie/Port Anglican Church (1).jpeg
 gallery: 2022-05-15-port-macquarie

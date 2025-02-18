@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving Tumpeng
 description: Thanksgiving tumpeng luncha at Cat Town
-author: christie
 pubDate: 2021-11-28T16:00:00+10:00
 coverImage: ../../../images/gallery/2021-11-28-thanksgiving-tumpeng/Thanksgiving Tumpeng (15).jpeg
 gallery: 2021-11-28-thanksgiving-tumpeng

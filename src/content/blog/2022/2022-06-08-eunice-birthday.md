@@ -1,7 +1,6 @@
 ---
 title: Happy birthday Eunice Fong
 description: Celebrating Eunice's birthday at Amah
-author: christie
 pubDate: 2022-06-08T13:00:00+10:00
 coverImage: ../../../images/gallery/2022-06-08-eunice-birthday/Eunice Birthday (6).jpeg
 gallery: 2022-06-08-eunice-birthday

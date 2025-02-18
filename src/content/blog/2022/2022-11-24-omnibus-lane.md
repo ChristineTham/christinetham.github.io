@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Omnibus Lane
 description: Rainbow zigzag dress from SES
 pubDate: 2022-11-24T10:00:00+10:00

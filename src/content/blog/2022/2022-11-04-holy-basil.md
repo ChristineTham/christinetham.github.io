@@ -1,7 +1,6 @@
 ---
 title: Holy Basil lunch
 description: Lunch at Holy Basil, followed by afternoon tea at Mango Coco
-author: christie
 pubDate: 2022-11-04T14:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-04-holy-basil/Holy Basil (6).jpeg
 gallery: 2022-11-04-holy-basil

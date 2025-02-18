@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Authentic KL Flavors
 pubDate: 2023-02-25T14:00:00+10:00
 description: Malay cafe at Marrickville

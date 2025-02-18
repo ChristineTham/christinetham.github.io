@@ -1,7 +1,6 @@
 ---
 title: David Jones
 description: Wandering around the refurbished department store
-author: christie
 pubDate: 2022-03-27T16:00:00+10:00
 coverImage: ../../../images/gallery/2022-03-27-david-jones/David Jones (8).jpeg
 gallery: 2022-03-27-david-jones

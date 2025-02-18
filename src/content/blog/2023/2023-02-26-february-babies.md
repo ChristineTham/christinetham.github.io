@@ -1,5 +1,4 @@
 ---
-author: christie
 title: February babies
 pubDate: 2023-02-26T18:00:00+10:00
 description: Celebrating the birthdays of those born in February

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Upper Room RestoCafe
 pubDate: 2023-05-04T13:00:00+10:00
 description: Popular Malaysian restaurant in the city is closing down

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Radika's birthday
 pubDate: 2022-10-09T17:00:00+10:00
 description: Radika's birthday celeberation at Adeline's house

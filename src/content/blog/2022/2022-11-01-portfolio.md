@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Portfolio Performance
 pubDate: 2022-11-01T11:00:00+10:00
 description: Analysis of our portfolio November 2021-October 2022

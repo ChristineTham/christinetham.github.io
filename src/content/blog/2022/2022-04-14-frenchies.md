@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Dinner at Frenchies
 pubDate: 2022-04-14T21:00:00+10:00
 description: Celebrating James' birthday and our wedding anniversary

@@ -1,7 +1,6 @@
 ---
 title: Lunch at Cafe Rumah
 description: Lunch at this famous place before they close down
-author: christie
 pubDate: 2022-01-21T13:00:00+10:00
 images:
   - ../../../images/food/Cafe Rumah.jpeg

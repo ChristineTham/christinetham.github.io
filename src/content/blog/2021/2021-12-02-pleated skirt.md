@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Pink pleated skirt
 pubDate: 2021-12-02T10:00:00+11:00
 description: This is a Korean skirt I bought from Malaysia in 2019.

@@ -1,7 +1,6 @@
 ---
 title: Boxing Day at Ivan
 description: Gathering post Xmas with ex work colleages
-author: christie
 pubDate: 2021-12-26T13:00:00+10:00
 images:
   - ../../../images/blog/Ivan Boxing Day.jpeg

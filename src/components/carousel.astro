@@ -29,15 +29,15 @@ const images = folderFiles.map((image) => imageFiles[image])
     {
       pages.map((page, i) => (
         <div class='swiper-slide relative'>
-          <div class='absolute bottom-0 left-0 z-10 h-full w-full bg-linear-to-t from-rosely0 opacity-25 xl:rounded-lg' />
+          <div class='from-rosely0 absolute bottom-0 left-0 z-10 h-full w-full bg-linear-to-t opacity-25 xl:rounded-lg' />
           <img
             src={images[i].src}
             alt={page.name}
-            class='absolute left-0 top-0 z-0 m-0 h-full w-full object-cover object-center'
+            class='absolute top-0 left-0 z-0 m-0 h-full w-full object-cover object-center'
           />
           <div class='absolute bottom-0 left-0 z-20 mb-4 bg-transparent p-4 text-white sm:ml-2 lg:ml-4'>
-            {page.title && <h4 class='text-lg font-bold text-rosely3'>{page.title}</h4>}
-            {page.description && <p class='text-base italic text-rosely6'>{page.description}</p>}
+            {page.title && <h4 class='text-rosely3 text-lg font-bold'>{page.title}</h4>}
+            {page.description && <p class='text-rosely6 text-base italic'>{page.description}</p>}
             <slot />
           </div>
         </div>

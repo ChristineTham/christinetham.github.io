@@ -1,7 +1,6 @@
 ---
 title: Kon Loh Mee recipe
 description: Here's a simple recipe for making Malaysian Kon Loh Mee or dry stirred noodles that only takes a few minutes!
-author: christie
 pubDate: 2020-10-01T05:42:26+00:00
 coverImage: ../../../images/gallery/2020-10-01-kon-loh-mee-recipe/Kon-Loh-Mee-with-char-siu.jpg
 gallery: 2020-10-01-kon-loh-mee-recipe

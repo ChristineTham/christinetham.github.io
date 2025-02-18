@@ -1,7 +1,6 @@
 ---
 title: Retford Park
 description: Superb waterfall spillway operating
-author: christie
 pubDate: 2022-02-16T16:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-16-retford-park/Retford Park.jpeg
 gallery: 2022-02-16-retford-park

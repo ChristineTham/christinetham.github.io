@@ -1,7 +1,6 @@
 ---
 title: Zeal West Head ride
 description: Riding to West Head and back from Terrey Hills
-author: christie
 pubDate: 2022-12-13T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-12-13-zeal-west-head/Zeal West Head (3).jpeg
 gallery: 2022-12-13-zeal-west-head

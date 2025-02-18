@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cindy's birthday
 pubDate: 2023-02-17T15:00:00+10:00
 description: Celebrating with a Grand Rijjstafel lunch an Enjoy Mie followed by drinks at Charlie Chan

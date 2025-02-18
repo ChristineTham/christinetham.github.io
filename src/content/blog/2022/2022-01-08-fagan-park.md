@@ -1,7 +1,6 @@
 ---
 title: Fagan Park
 description: Gardens of Many Nations
-author: christie
 pubDate: 2022-01-08T12:00:00+10:00
 coverImage: ../../../images/gallery/2022-01-08-fagan-park/Australian Garden (1).jpeg
 gallery: 2022-01-08-fagan-park

@@ -1,7 +1,6 @@
 ---
 title: Fitzroy Falls
 description: Walking the Fitzroy Falls eastern rim track
-author: christie
 pubDate: 2022-01-22T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-01-22-fitzroy-falls/Valley View Lookout.jpeg
 gallery: 2022-01-22-fitzroy-falls

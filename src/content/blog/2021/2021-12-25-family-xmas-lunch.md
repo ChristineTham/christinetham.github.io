@@ -1,7 +1,6 @@
 ---
 title: Family Xmas Lunch
 description: Family gathering for lunch on Xmas day
-author: christie
 pubDate: 2021-12-25T13:00:00+10:00
 images:
   - ../../../images/food/Xmas Lunch.jpeg

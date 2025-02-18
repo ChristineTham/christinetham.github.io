@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Masak masak at Adeline's house
 pubDate: 2023-03-15T16:00:00+10:00
 description: Some truly amazing dishes by amazing ladies

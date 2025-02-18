@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Disney and more around Westfield
 description: Various photos taken close to Westfield Sydney
 pubDate: 2023-02-24T11:00:00+10:00

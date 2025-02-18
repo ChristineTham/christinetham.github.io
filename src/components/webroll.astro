@@ -14,14 +14,14 @@ const websites = await getCollection('website', (website) => !featured || websit
   itemprop='mainEntity'
   itemscope
   itemtype='https://schema.org/WebSite'
-  class='mx-auto max-w-none bg-rosely7 p-4 dark:bg-rosely1 sm:px-6 lg:px-8'
+  class='bg-rosely7 dark:bg-rosely1 mx-auto max-w-none p-4 sm:px-6 lg:px-8'
 >
   <div class='grid grid-cols-1 gap-8 space-y-0 md:grid-cols-2 lg:grid-cols-4'>
     {
       websites.map((site) => (
         <div class='group'>
           <a itemprop='name' href={site.data.link}>
-            <div class='relative mb-4 overflow-hidden rounded-lg bg-rosely7 shadow-xl group-hover:opacity-75 dark:bg-rosely8'>
+            <div class='bg-rosely7 dark:bg-rosely8 relative mb-4 overflow-hidden rounded-lg shadow-xl group-hover:opacity-75'>
               <Image
                 src={site.data.image}
                 alt={site.data.title}
@@ -30,11 +30,11 @@ const websites = await getCollection('website', (website) => !featured || websit
             </div>
             <h3
               itemprop='name'
-              class='inline-block rounded-sm bg-rosely9 px-3 py-1 text-xs font-medium uppercase tracking-tight text-white hover:bg-rosely-c'
+              class='bg-rosely9 hover:bg-rosely-c inline-block rounded-sm px-3 py-1 text-xs font-medium tracking-tight text-white uppercase'
             >
               {site.data.title}
             </h3>
-            <p itemprop='abstract description' class='text-base text-rosely1 dark:text-rosely6'>
+            <p itemprop='abstract description' class='text-rosely1 dark:text-rosely6 text-base'>
               {site.data.description}
             </p>
           </a>

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Heroes of Hollywood
 pubDate: 2023-02-18T21:00:00+10:00
 description: Willoughby Symphony Orchestra performance at the Concourse Chatswood concert hall

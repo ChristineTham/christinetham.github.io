@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Temasek Club Chinese New Year Dinner
 pubDate: 2023-02-05T21:00:00+10:00
 description: A sumptuous banquet at the Palace Chinese Restaurant

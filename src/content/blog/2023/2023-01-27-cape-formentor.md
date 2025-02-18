@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cape Formentor
 pubDate: 2023-01-27T10:00:00+10:00
 coverImage: ../../../images/gallery/2023-01-27-cape-formentor/Cape Formentor (3).jpeg

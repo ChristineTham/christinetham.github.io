@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Holi Virgin
 pubDate: 2023-03-08T08:00:00+10:00
 description: Dressed in all white for the Holi Festival of Colours

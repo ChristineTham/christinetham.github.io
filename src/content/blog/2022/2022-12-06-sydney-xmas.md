@@ -1,7 +1,6 @@
 ---
 title: Sydney Xmas
 description: Wandering around Martin Place to look at Xmas lights
-author: christie
 pubDate: 2022-12-06T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-12-06-sydney-xmas/Martin Place Xmas (4).jpeg
 gallery: 2022-12-06-sydney-xmas

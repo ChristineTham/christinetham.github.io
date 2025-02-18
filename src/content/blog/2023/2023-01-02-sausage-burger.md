@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Sausage Burger
 pubDate: 2023-01-02T12:00:00+10:00
 description: A burger with sausage as the "meat"

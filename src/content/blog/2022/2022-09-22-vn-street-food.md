@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at VN Street Food
 pubDate: 2022-09-22T13:00:00+10:00
 description: Delightful place at Marrickville

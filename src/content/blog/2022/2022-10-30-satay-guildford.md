@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Satay at Guildford
 pubDate: 2022-10-30T18:00:00+10:00
 description: Having satay (and other dishes) at Guildford's Malay food stalls

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Autumn at Nurragingy Reserve Chang Lai Gardens
 description: A bit too early for autumn colours but a pleasant warm ANZAC day.
 pubDate: 2023-04-25T11:00:00+10:00

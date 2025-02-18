@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Nasi Kandar Parklea
 pubDate: 2022-07-23T13:00:00+10:00
 description: Trying Vanisha Nisha's beautiful nasi kandar

@@ -8,7 +8,7 @@ import Theme from '../components/theme.astro'
 <div class='relative h-16 w-full'>
   <nav x-data='{ isOpen: false }' class='bg-rosely6 dark:bg-rosely8'>
     <div
-      class='fixed z-50 mx-auto w-full border-b-2 border-rosely-b bg-rosely6 px-2 dark:bg-rosely8 sm:px-6 lg:px-8'
+      class='border-rosely-b bg-rosely6 dark:bg-rosely8 fixed z-50 mx-auto w-full border-b-2 px-2 sm:px-6 lg:px-8'
     >
       <div class='relative flex h-16 items-center justify-between'>
         <div class='absolute inset-y-0 left-0 flex items-center lg:hidden'>
@@ -16,7 +16,7 @@ import Theme from '../components/theme.astro'
           <button
             type='button'
             x-on:click='isOpen = !isOpen'
-            class='inline-flex items-center justify-center rounded-md p-2 text-rosely9 hover:bg-rosely-b hover:text-rosely-c focus:outline-hidden focus:ring-2 focus:ring-inset focus:ring-rosely-b dark:text-rosely-b dark:hover:bg-rosely9 dark:hover:text-rosely7 dark:focus:ring-rosely-b'
+            class='text-rosely9 hover:bg-rosely-b hover:text-rosely-c focus:ring-rosely-b dark:text-rosely-b dark:hover:bg-rosely9 dark:hover:text-rosely7 dark:focus:ring-rosely-b inline-flex items-center justify-center rounded-md p-2 focus:ring-2 focus:outline-hidden focus:ring-inset'
             aria-controls='mobile-menu'
             aria-expanded='false'
           >
@@ -89,7 +89,7 @@ import Theme from '../components/theme.astro'
       id='mobile-menu'
     >
       <div
-        class='flex justify-center gap-x-2 border-b-2 border-t-2 border-rosely7 bg-rosely6 px-4 py-2 font-semibold dark:bg-rosely8'
+        class='border-rosely7 bg-rosely6 dark:bg-rosely8 flex justify-center gap-x-2 border-t-2 border-b-2 px-4 py-2 font-semibold'
       >
         {
           NavigationLinks.map((item) => (
@@ -99,7 +99,7 @@ import Theme from '../components/theme.astro'
                 item.href.length > 0 && Astro.url.toString().includes(item.href)
                   ? 'bg-rosely5 text-rosely-c dark:bg-rosely-c dark:text-white'
                   : 'text-rosely8 hover:bg-rosely-b hover:text-rosely-c dark:text-rosely7 dark:hover:bg-rosely9 dark:hover:text-white',
-                ' rounded-sm px-2'
+                'rounded-sm px-2'
               ]}
               aria-current={
                 item.href.length > 0 && Astro.url.toString().includes(item.href)

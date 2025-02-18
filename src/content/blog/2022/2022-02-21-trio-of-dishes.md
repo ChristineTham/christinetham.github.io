@@ -1,7 +1,6 @@
 ---
 title: Cat's cooking class
 description: Trio of dishes
-author: christie
 pubDate: 2022-02-21T13:00:00+10:00
 images:
   - ../../../images/food/Class.jpeg

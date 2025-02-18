@@ -1,7 +1,6 @@
 ---
 title: MLC Reunion
 description: Catchup at Billy Barry's Hotel in North Sydney
-author: christie
 pubDate: 2021-11-25T21:00:00+10:00
 coverImage: ../../../images/gallery/2021-11-25-mlc-reunion/MLC Reunion.jpeg
 gallery: 2021-11-25-mlc-reunion

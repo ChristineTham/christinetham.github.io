@@ -61,7 +61,7 @@ import { Icon } from 'astro-icon/components'
         <input
           type='search'
           x-model='searchText'
-          class='form-control relative m-0 block w-full min-w-0 max-w-xs flex-auto rounded-sm border border-solid border-rosely-b bg-rosely7 bg-clip-padding px-3 py-1.5 text-base font-normal text-rosely1 transition ease-in-out focus:border-rosely5 focus:text-rosely0 focus:outline-hidden dark:border-rosely9 dark:bg-rosely1 dark:text-rosely3 dark:focus:border-rosely4 dark:focus:text-white'
+          class='form-control border-rosely-b bg-rosely7 text-rosely1 focus:border-rosely5 focus:text-rosely0 dark:border-rosely9 dark:bg-rosely1 dark:text-rosely3 dark:focus:border-rosely4 relative m-0 block w-full max-w-xs min-w-0 flex-auto rounded-sm border border-solid bg-clip-padding px-3 py-1.5 text-base font-normal transition ease-in-out focus:outline-hidden dark:focus:text-white'
           id='lunrsearch'
           name='q'
           maxlength='255'
@@ -71,7 +71,7 @@ import { Icon } from 'astro-icon/components'
           aria-describedby='lunrbutton'
         />
         <button
-          class='btn inline-block items-center rounded-sm bg-rosely9 px-2 py-2 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-rosely-c hover:shadow-lg focus:bg-rosely8 focus:shadow-lg focus:outline-hidden focus:ring-0 active:bg-rosely8 active:shadow-lg'
+          class='btn bg-rosely9 hover:bg-rosely-c focus:bg-rosely8 active:bg-rosely8 inline-block items-center rounded-sm px-2 py-2 text-xs leading-tight font-medium text-white uppercase shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:ring-0 focus:shadow-lg focus:outline-hidden active:shadow-lg'
           type='button'
           name='search'
           id='lunrbutton'
@@ -113,7 +113,7 @@ import { Icon } from 'astro-icon/components'
       x-transition:leave='ease-in-out duration-500'
       x-transition:leave-start='opacity-100'
       x-transition:leave-end='opacity-0'
-      class='fixed inset-0 bg-rosely1 bg-opacity-75 transition-opacity'
+      class='bg-rosely1 bg-opacity-75 fixed inset-0 transition-opacity'
     >
     </div>
 
@@ -138,11 +138,11 @@ import { Icon } from 'astro-icon/components'
               x-transition:leave='ease-in-out duration-500'
               x-transition:leave-start='opacity-100'
               x-transition:leave-end='opacity-0'
-              class='absolute left-0 top-0 -ml-8 flex pr-2 pt-4 sm:-ml-10 sm:pr-4'
+              class='absolute top-0 left-0 -ml-8 flex pt-4 pr-2 sm:-ml-10 sm:pr-4'
             >
               <button
                 type='button'
-                class='rounded-md text-rosely-b hover:text-rosely5 focus:outline-hidden focus:ring-2 focus:ring-white'
+                class='text-rosely-b hover:text-rosely5 rounded-md focus:ring-2 focus:ring-white focus:outline-hidden'
                 x-on:click='searchResults = false'
               >
                 <span class='sr-only'>Close panel</span>
@@ -151,11 +151,11 @@ import { Icon } from 'astro-icon/components'
             </div>
 
             <div
-              class='flex h-full flex-col overflow-y-scroll bg-rosely7 py-6 shadow-xl dark:bg-rosely1'
+              class='bg-rosely7 dark:bg-rosely1 flex h-full flex-col overflow-y-scroll py-6 shadow-xl'
             >
               <div class='px-4 sm:px-6'>
                 <h2
-                  class='text-lg font-medium text-rosely8 dark:text-rosely3'
+                  class='text-rosely8 dark:text-rosely3 text-lg font-medium'
                   id='lunrsearchtitle'
                   class='modal-title'
                 >
@@ -165,7 +165,7 @@ import { Icon } from 'astro-icon/components'
               <div id='lunrsearchmodal' class='relative mt-6 flex-1 px-4 sm:px-6'>
                 <div
                   id='lunrsearchresults'
-                  class='overflow-hidden rounded-lg shadow-lg ring-1 ring-rosely0 ring-opacity-5'
+                  class='ring-rosely0 ring-opacity-5 overflow-hidden rounded-lg ring-1 shadow-lg'
                 >
                   <ul></ul>
                 </div>

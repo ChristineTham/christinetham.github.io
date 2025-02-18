@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bomber jacket
 pubDate: 2022-06-18T11:00:00+10:00
 description: Bought from Ebay

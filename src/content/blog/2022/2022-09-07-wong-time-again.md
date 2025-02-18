@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Wong Time Again Lunch
 pubDate: 2022-09-07T12:35:00+10:00
 images:

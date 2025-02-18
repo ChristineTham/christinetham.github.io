@@ -1,7 +1,6 @@
 ---
 title: Babylon 5 opening theme
 description: Original MIDI file downloaded from Chris Franke web site, reorchestrated using EWQL Gold and Logic Pro X.
-author: christie
 pubDate: 2014-02-28T05:56:24+00:00
 categories:
   - music

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Birthday lunch with family
 pubDate: 2022-08-14T13:00:00+10:00
 description: Celebrating our birthday with the family at Toyosu Suisan

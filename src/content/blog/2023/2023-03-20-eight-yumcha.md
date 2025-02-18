@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Yumcha at The Eight
 pubDate: 2023-03-20T13:00:00+10:00
 description: Sampling some dishes I have never tried before.

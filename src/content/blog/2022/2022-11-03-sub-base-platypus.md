@@ -1,7 +1,6 @@
 ---
 title: Sub Base Platypus
 description: Old HMAS naval site converted to public land
-author: christie
 pubDate: 2022-11-03T15:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-03-sub-base-platypus/Sub Base Platypus (4).jpeg
 gallery: 2022-11-03-sub-base-platypus

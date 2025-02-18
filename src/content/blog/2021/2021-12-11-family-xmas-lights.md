@@ -1,7 +1,6 @@
 ---
 title: Family Xmas Lights
 description: Looking at Xmas lights in the city and viewing the projections at St Mary's Cathedral
-author: christie
 pubDate: 2021-12-11T21:00:00+10:00
 coverImage: ../../../images/gallery/2021-12-11-family-xmas-lights/St Mary's Cathedral.jpeg
 gallery: 2021-12-11-family-xmas-lights

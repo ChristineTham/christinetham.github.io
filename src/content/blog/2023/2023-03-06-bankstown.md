@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bankstown lunch at Huong Xua
 pubDate: 2023-03-06T14:00:00+10:00
 description: Lunch, followed by drinks at Bankstown Sports Club

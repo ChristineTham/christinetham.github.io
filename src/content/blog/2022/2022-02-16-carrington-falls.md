@@ -1,7 +1,6 @@
 ---
 title: Carrington Falls
 description: It's a twin falls with a 90m drop into Kangaroo Valley
-author: christie
 pubDate: 2022-02-16T11:00:00+10:00
 coverImage: ../../../images/gallery/2022-02-16-carrington-falls/Carrington Falls (2).jpeg
 gallery: 2022-02-16-carrington-falls

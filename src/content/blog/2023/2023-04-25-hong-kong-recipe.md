@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Hong Kong Recipe
 pubDate: 2023-04-25T13:00:00+10:00
 description: Discovered a Hong Kong cafe style restaurant - 香港茶餐廳 Hong Kong Recipes in the Korean side of Eastwood.

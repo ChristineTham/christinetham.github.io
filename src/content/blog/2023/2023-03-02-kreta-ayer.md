@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Dinner at Kreta Ayer
 pubDate: 2023-03-02T20:00:00+10:00
 description: Singapore restaurant located in Chatswood Chase

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Ma Po Tofu with Abalone and Mushrooms
 pubDate: 2022-01-31T12:00:00+10:00
 images:

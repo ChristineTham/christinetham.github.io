@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Dinner at China Doll and drinks at Alibi
 pubDate: 2023-01-28T22:00:00+10:00
 description: Good to try out this restaurant I have heard so much about.

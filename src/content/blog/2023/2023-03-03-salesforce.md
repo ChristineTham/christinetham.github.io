@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Salesforce Tower
 description: Tallest office building in Sydney
 pubDate: 2023-03-03T10:00:00+10:00

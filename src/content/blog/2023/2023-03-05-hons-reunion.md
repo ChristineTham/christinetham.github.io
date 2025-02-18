@@ -1,5 +1,4 @@
 ---
-author: christie
 title: University Reunion yum cha
 pubDate: 2023-03-05T16:00:00+10:00
 description: Yum cha at East Ocean, followed by afternoon tea at Kurtosh

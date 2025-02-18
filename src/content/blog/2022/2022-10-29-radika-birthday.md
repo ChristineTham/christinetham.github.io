@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Radika's birthday
 pubDate: 2022-10-29T17:00:00+10:00
 description: Second Radika's birthday celeberation at Bicentennial Park

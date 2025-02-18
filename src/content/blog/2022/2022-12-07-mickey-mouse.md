@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Mickey Mouse outfit
 pubDate: 2022-12-07T10:00:00+10:00
 description: Purchased the vintage looking T shirt from Kmart

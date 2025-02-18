@@ -1,7 +1,6 @@
 ---
 title: Lunch at Malaysian Small Chillies Vegetarian
 description: A vegetarian restaurant at Rozelle
-author: christie
 pubDate: 2022-03-05T13:00:00+10:00
 images:
   - ../../../images/food/Malaysia Small Chilli Vegan.jpeg

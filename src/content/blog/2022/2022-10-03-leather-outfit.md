@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Leather outfit
 pubDate: 2022-10-03T10:00:00+10:00
 description: Leather skirt and bomber jacket

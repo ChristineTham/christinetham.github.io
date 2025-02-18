@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Flower lace dress
 pubDate: 2022-10-30T10:00:00+10:00
 description: Visiting the Bundanoon Garden Ramble

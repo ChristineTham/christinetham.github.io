@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Three cheongsams
 pubDate: 2023-01-31T10:00:00+10:00
 description: I now have three outfits that I can wear

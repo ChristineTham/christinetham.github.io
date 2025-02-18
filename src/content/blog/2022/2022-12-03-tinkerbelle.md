@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Tinkerbelle outfit
 pubDate: 2022-12-03T10:00:00+10:00
 description: An old favourite

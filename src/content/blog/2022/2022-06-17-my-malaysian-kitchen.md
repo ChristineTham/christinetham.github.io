@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at My Malaysian Kitchen
 pubDate: 2022-06-17T13:00:00+10:00
 description: Restaurant in Campsie

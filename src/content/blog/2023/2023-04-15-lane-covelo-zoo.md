@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lane Covelo zoo ride
 pubDate: 2023-04-15T10:00:00+10:00
 images:

@@ -1,7 +1,6 @@
 ---
 title: A Twin Peaks dream
 description: Inspired by watching Twin Peaks The Return, here is a short electronic track, done in Logic Pro X and Native Instruments Komplete 11.
-author: christie
 pubDate: 2017-10-27T06:12:33+00:00
 categories:
   - music

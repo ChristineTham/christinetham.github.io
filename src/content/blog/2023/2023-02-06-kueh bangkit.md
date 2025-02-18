@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Thai bee hoon and kueh bangkit
 pubDate: 2023-02-06T18:00:00+10:00
 description: Thermomix session with Margaret Stow and Sharon Wong

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Pink swirl
 pubDate: 2022-11-19T10:00:00+10:00
 description: Pink swirl blouse and skirt

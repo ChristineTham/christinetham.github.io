@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Taro Soy Latte
 pubDate: 2023-01-10T11:00:00+10:00
 description: A dessert in a drink

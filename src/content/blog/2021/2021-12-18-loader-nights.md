@@ -1,7 +1,6 @@
 ---
 title: Loader Lights
 description: Light installation at the Coal Loader
-author: christie
 pubDate: 2021-12-18T20:00:00+10:00
 images:
   - ../../../images/blog/Loader Lights.jpeg

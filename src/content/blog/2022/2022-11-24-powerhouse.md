@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Visiting the Powerhouse Museum
 description: It is now free entry
 pubDate: 2022-11-24T11:00:00+10:00

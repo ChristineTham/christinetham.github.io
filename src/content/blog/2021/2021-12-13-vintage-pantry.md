@@ -1,7 +1,6 @@
 ---
 title: Xmas lunch at Village Pantry
 description: Early ladies Xmas lunch at The Secret Garden at Galston
-author: christie
 pubDate: 2021-12-13T13:00:00+10:00
 coverImage: ../../../images/gallery/2021-12-13-vintage-pantry/Group photo.jpeg
 gallery: 2021-12-13-vintage-pantry

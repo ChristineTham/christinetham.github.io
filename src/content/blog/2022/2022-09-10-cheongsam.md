@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cheongsam
 pubDate: 2022-09-10T10:00:00+10:00
 description: Mini cheongsam

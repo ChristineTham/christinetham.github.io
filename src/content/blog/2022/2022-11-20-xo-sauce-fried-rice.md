@@ -1,5 +1,4 @@
 ---
-author: christie
 title: XO Sauce fried rice
 pubDate: 2022-11-20T12:00:00+10:00
 description: From ingredients to wok

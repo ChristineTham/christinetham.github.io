@@ -1,7 +1,6 @@
 ---
 title: Birthday for Sharon Wong
 description: Celebration at Bornga plus lanterns!
-author: christie
 pubDate: 2022-09-10T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-09-10-sharon-wong-birthday/Sharon Wong birthday (5).jpeg
 gallery: 022-09-10-sharon-wong-birthday

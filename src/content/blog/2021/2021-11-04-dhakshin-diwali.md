@@ -1,7 +1,6 @@
 ---
 title: Diwali dinner at Dhakshin
 description: Indian restaurant at Crows Nest
-author: christie
 pubDate: 2021-11-04T21:00:00+10:00
 coverImage: ../../../images/gallery/2021-11-04-dhakshin-diwali/Group photo (2).jpeg
 gallery: 2021-11-04-dhakshin-diwali

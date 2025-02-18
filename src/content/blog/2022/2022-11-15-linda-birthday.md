@@ -1,7 +1,6 @@
 ---
 title: Linda Poon's birthday
 description: Celebrating at Taste of Shunde in Eastwood
-author: christie
 pubDate: 2022-11-15T21:00:00+10:00
 coverImage: ../../../images/gallery/2022-11-15-linda-birthday/Linda Birthday (7).jpeg
 gallery: 2022-11-15-linda-birthday

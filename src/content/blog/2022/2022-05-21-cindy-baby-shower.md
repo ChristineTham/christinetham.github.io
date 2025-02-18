@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cindy's Baby Shower
 pubDate: 2022-05-21T17:00:00+10:00
 description: Celebrating the anticipated arrival of baby koala

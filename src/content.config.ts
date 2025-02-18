@@ -11,7 +11,6 @@ const blog = defineCollection({
       draft: z.boolean().optional(),
       title: z.string(),
       description: z.string(),
-      author: reference('author').optional(),
       coverImage: image().optional(),
       socialImage: image().optional(),
       images: z.array(image()).optional(),
@@ -29,7 +28,6 @@ const page = defineCollection({
     z.object({
       title: z.string(),
       description: z.string().optional(),
-      author: reference('author').optional(),
       pubDate: z.date().optional(),
       coverImage: image().optional(),
       socialImage: image().optional(),
@@ -67,17 +65,6 @@ const category = defineCollection({
     })
 })
 
-const author = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/author' }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string(),
-      contact: z.string().email(),
-      image: image()
-    })
-})
-
 const website = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/website' }),
   schema: ({ image }) =>
@@ -100,7 +87,6 @@ export const collections = {
   page,
   bio,
   category,
-  author,
   website,
   social
 }

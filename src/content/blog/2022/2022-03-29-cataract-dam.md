@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cataract Dam
 pubDate: 2022-03-29T16:00:00+10:00
 description: Castle like dam

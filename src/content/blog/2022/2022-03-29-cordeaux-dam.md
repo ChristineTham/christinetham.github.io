@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Cordeaux Dam
 pubDate: 2022-03-29T15:00:00+10:00
 description: Eqgyptian design dam with large spillway

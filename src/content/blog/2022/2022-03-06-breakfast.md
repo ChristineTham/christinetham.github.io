@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Banana, yogurt, honey and muesli
 pubDate: 2022-03-06T08:00:00+10:00
 images: [../../../images/food/Banana muesli honey.jpeg]

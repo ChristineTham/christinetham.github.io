@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Three vegan poke bowls
 pubDate: 2023-03-19T13:00:00+10:00
 description: Fish cake based poke bowl

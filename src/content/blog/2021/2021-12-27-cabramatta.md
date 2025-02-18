@@ -1,7 +1,6 @@
 ---
 title: Shopping at Cabramatta
 description: Buying various food related items
-author: christie
 pubDate: 2021-12-27T13:00:00+10:00
 images:
   - ../../../images/food/Cabramatta (1).jpeg

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Dinner at Mr Fat Duck
 pubDate: 2023-02-24T21:00:00+10:00
 description: Chinese restaurant in Chatswood

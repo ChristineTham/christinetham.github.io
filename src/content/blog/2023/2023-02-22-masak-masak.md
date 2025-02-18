@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Masak masak
 pubDate: 2023-02-22T16:00:00+10:00
 description: Cooking a variety of dishes at Eemie's place

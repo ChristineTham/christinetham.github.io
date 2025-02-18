@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Pork luncheon meat fritters
 pubDate: 2022-04-04T12:00:00+10:00
 images: [../../../images/food/Pork luncheon meat fritters.jpeg]

@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Vietnamese inspired poke bowl
 pubDate: 2023-03-02T13:00:00+10:00
 description: Fish cake based poke bowl

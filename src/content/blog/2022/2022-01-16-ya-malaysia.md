@@ -1,7 +1,6 @@
 ---
 title: Lunch at Ya Malaysia
 description: Lunch after collecting nasi ulam
-author: christie
 pubDate: 2022-01-16T13:00:00+10:00
 images:
   - ../../../images/food/Ya Malaysia (3).jpeg

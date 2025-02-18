@@ -10,7 +10,7 @@ const { headings } = Astro.props as Props
 
 <h2
   id='table-of-contents-title'
-  class='font-display text-sm font-medium text-rosely0 dark:text-rosely3'
+  class='font-display text-rosely0 dark:text-rosely3 text-sm font-medium'
 >
   On this page
 </h2>
@@ -23,7 +23,7 @@ const { headings } = Astro.props as Props
           class={
             heading.depth == 2
               ? 'text-rosely9 dark:text-rosely-b'
-              : 'mt-2 py-1 pl-5 text-rosely9 dark:text-rosely-b'
+              : 'text-rosely9 dark:text-rosely-b mt-2 py-1 pl-5'
           }
         >
           <a class='hover:text-rosely-c dark:hover:text-rosely5' href={`#${heading.slug}`}>

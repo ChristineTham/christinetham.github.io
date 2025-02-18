@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Olmo resurrected
 pubDate: 2022-01-12T10:00:00+10:00
 description: Cadel lives another day!

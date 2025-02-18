@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Pink Bershka Skirt
 pubDate: 2021-11-25T10:00:00+11:00
 description: This is a Bershka skirt I bought from Malaysia in 2019.

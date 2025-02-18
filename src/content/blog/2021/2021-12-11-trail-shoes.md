@@ -1,7 +1,6 @@
 ---
 title: Columbia trail shoes
 description: Comparison between two shoes
-author: christie
 pubDate: 2021-12-11T10:00:00+10:00
 images:
   - ../../../images/blog/Columbia trail shoes.jpeg

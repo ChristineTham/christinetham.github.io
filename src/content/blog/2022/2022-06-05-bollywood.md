@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Bollywood movie at Hoyts
 pubDate: 2022-06-05T14:00:00+10:00
 description: Samrat Prithviraj

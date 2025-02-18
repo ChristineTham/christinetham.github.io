@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Flower dress
 pubDate: 2022-11-09T11:00:00+10:00
 description: Reflections on my health

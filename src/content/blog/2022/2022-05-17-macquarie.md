@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Lunch at Khao Pla plus movie
 pubDate: 2022-05-17T17:00:00+10:00
 description: Watching Everything, Everywhere, All at Once

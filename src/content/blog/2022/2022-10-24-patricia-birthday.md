@@ -1,5 +1,4 @@
 ---
-author: christie
 title: Patricia's birthday
 pubDate: 2022-10-24T15:00:00+10:00
 description: Lunch at Chef's Gallery, followed by cake at Pavillion food court

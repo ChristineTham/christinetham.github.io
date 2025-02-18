@@ -1,7 +1,6 @@
 ---
 title: Liverpool Street Art
 description: Exploring Liverpool street art
-author: christie
 pubDate: 2022-06-20T16:00:00+10:00
 coverImage: ../../../images/gallery/2022-06-20-liverpool/Westfield Dog Photograhers (1).jpeg
 gallery: 2022-06-20-liverpool

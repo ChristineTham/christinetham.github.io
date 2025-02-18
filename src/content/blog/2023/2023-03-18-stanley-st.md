@@ -1,5 +1,4 @@
 ---
-author: christie
 title: SydneyStreets Stanley St Festival
 description: Wandering around the city, and ending up at Stanley St
 pubDate: 2023-03-18T11:00:00+10:00

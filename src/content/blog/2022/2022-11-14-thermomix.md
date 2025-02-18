@@ -1,7 +1,6 @@
 ---
 title: Thermomix cooking session
 description: Cooking po chai fan, XO prawns with glass noodle and curry puffs
-author: christie
 pubDate: 2022-11-14T13:00:00+10:00
 coverImage: ../../../images/food/Curry puff.jpeg
 categories:

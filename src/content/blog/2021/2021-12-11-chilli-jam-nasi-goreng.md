@@ -1,7 +1,6 @@
 ---
 title: Chilli Jam Nasi Goreng
 description: Fried rice with a difference
-author: christie
 pubDate: 2021-12-11T12:00:00+10:00
 images:
   - ../../../images/food/Chilli jam nasi goreng (1).jpeg
