@@ -1,8 +1,8 @@
 ---
 import type { CollectionEntry } from 'astro:content'
 import { render } from 'astro:content'
-import Layout from '../../../common/blog.astro'
-import { getPosts } from '../../../common/config'
+import Layout from '../../common/blog.astro'
+import { getPosts } from '../../common/config'
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {

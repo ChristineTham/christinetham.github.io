@@ -10,7 +10,7 @@ const posts = await getCollection('blog', (p) => {
 let documents = await Promise.all(
   posts.map(async (post) => {
     return {
-      url: import.meta.env.BASE_URL + 'blog/' + post.id,
+      url: import.meta.env.BASE_URL + post.id,
       title: post.data.title,
       description: post.data.description,
       publishDate: post.data.publishDate,

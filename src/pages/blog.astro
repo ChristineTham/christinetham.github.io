@@ -1,5 +1,5 @@
 ---
-import { getPosts } from '../../common/config'
+import { getPosts } from '../common/config'
 
 const posts = await getPosts()
 ---
@@ -9,7 +9,7 @@ const posts = await getPosts()
   <head>
     <meta
       http-equiv='refresh'
-      content={`0; url=${import.meta.env.BASE_URL + 'blog/' + posts[0].data.pubDate!.getFullYear()}`}
+      content={`0; url=${import.meta.env.BASE_URL + posts[0].data.pubDate!.getFullYear()}`}
     />
   </head>
   <body> </body>

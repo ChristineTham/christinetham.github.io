@@ -52,7 +52,7 @@ const categories = await getCollection('category')
       </div>
       <div class='mt-3 sm:mt-0 sm:ml-3'>
         <a
-          href={import.meta.env.BASE_URL + 'blog/' + posts[0].data.pubDate!.getFullYear()}
+          href={import.meta.env.BASE_URL + posts[0].data.pubDate!.getFullYear()}
           class='bg-roselya text-rosely0 hover:bg-rosely5 dark:bg-rosely1 dark:text-roselyb dark:hover:bg-rosely8 flex w-full items-center justify-center rounded-md border border-transparent px-8 py-2 text-base font-medium md:px-10 md:py-3 md:text-lg'
           rel='noopener noreferrer'
           target='_blank'
@@ -85,7 +85,7 @@ const categories = await getCollection('category')
       My Latest Articles
     </h2>
     <a
-      href={import.meta.env.BASE_URL + 'blog/' + posts[0].data.pubDate!.getFullYear()}
+      href={import.meta.env.BASE_URL + posts[0].data.pubDate!.getFullYear()}
       class='dark:hover:brosely5 bg-rosely9 hover:bg-roselyc dark:bg-roselyb dark:text-rosely0 mt-2 ml-4 inline-block rounded-md px-2 py-2 text-base font-semibold text-white md:text-lg'
     >
       All Articles
