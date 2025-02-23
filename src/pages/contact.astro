@@ -22,7 +22,7 @@ const social = await getCollection('social')
 <Base frontmatter={frontmatter} schema='ContactPage'>
   <header>
     <PageHero
-      title={frontmatter.title}
+      title={frontmatter.title!}
       description={frontmatter.description}
       coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}

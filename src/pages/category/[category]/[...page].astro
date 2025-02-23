@@ -50,7 +50,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
 <Base frontmatter={frontmatter} schema='CollectionPage'>
   <header>
     <PageHero
-      title={frontmatter.title}
+      title={frontmatter.title!}
       description={frontmatter.description}
       coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}

@@ -21,7 +21,7 @@ const categories = await getCollection('category')
 <Base frontmatter={frontmatter}>
   <header>
     <PageHero
-      title={frontmatter.title}
+      title={frontmatter.title!}
       description={frontmatter.description}
       coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}

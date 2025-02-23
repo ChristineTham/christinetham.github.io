@@ -122,7 +122,7 @@ const tags = Array.from(tagmap.values()).sort((a, b) => b.count - a.count)
 <Base frontmatter={frontmatter} schema='CollectionPage'>
   <header>
     <PageHero
-      title={frontmatter.title}
+      title={frontmatter.title!}
       description={frontmatter.description}
       coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
