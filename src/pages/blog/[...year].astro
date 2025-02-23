@@ -1,49 +1,55 @@
 ---
-import type { Page, PaginateFunction } from 'astro'
 import type { CollectionEntry } from 'astro:content'
-import { PAGE_SIZE, getPosts } from '../../common/config'
+import { getPosts } from '../../common/config'
 import Base from '../../common/base.astro'
 import PageHero from '../../common/pagehero.astro'
 import BlogRoll from '../../common/blogroll.astro'
-import PaginateControl from '../../common/paginatecontrol.astro'
+import Years from '../../common/years.astro'
 import coverImage from '../../images/svg/undraw/my_feed.svg'
 import socialImage from '../../images/undraw/my_feed.png'
 
 export interface Props {
-  page: Page<CollectionEntry<'blog'>>
+  year: number
+  years: number[]
+  posts: CollectionEntry<'blog'>[]
 }
 
-const { page } = Astro.props
+const { year, years, posts } = Astro.props
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
-  title:
-    'Blog' +
-    (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
-  description: 'Articles I write from time to time',
+  title: 'What happened in ' + year,
+  description: 'These are some of the things I did and articles I have written in ' + year,
   coverImage: coverImage,
   socialImage: socialImage
 }
 
-const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/?$/, '')
-export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
+export async function getStaticPaths() {
   const posts = await getPosts()
+  const years = [...new Set(posts.map((post) => new Date(post.data.pubDate!).getFullYear()))]
 
-  return paginate(posts, { pageSize: PAGE_SIZE })
+  return years.map((year) => ({
+    params: { year },
+    props: {
+      year,
+      years,
+      posts: posts.filter((post) => new Date(post.data.pubDate!).getFullYear() === +year)
+    }
+  }))
 }
 ---
 
 <Base frontmatter={frontmatter}>
   <header>
     <PageHero
-      title={frontmatter.title}
+      title={frontmatter.title!}
       description={frontmatter.description}
       coverImage={frontmatter.coverImage}
       socialImage={frontmatter.socialImage}
     >
-      <PaginateControl base={currentPage} page={page} />
+      <Years year={year} years={years} />
     </PageHero>
   </header>
   <main class='bg-rosely7 dark:bg-rosely1'>
-    <BlogRoll posts={page.data} />
+    <BlogRoll posts={posts} />
   </main>
 </Base>

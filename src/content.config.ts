@@ -25,10 +25,7 @@ const blog = defineCollection({
 const page = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/page' }),
   schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string().optional(),
-      pubDate: z.date().optional(),
+    rssSchema.extend({
       coverImage: image().optional(),
       socialImage: image().optional(),
       images: z.array(image()).optional(),

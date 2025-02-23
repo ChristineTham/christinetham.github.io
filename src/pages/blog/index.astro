@@ -1,0 +1,16 @@
+---
+import { getPosts } from '../../common/config'
+
+const posts = await getPosts()
+---
+
+<!doctype html>
+<html>
+  <head>
+    <meta
+      http-equiv='refresh'
+      content={`0; url=${import.meta.env.BASE_URL + 'blog/' + posts[0].data.pubDate!.getFullYear()}`}
+    />
+  </head>
+  <body> </body>
+</html>
