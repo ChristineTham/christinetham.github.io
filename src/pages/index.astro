@@ -23,6 +23,8 @@ const carouselPages = [
 ]
 
 const posts = await getPosts()
+const years = [...new Set(posts.map((post) => new Date(post.data.pubDate!).getFullYear()))]
+console.log(`years = [${years}]`)
 
 // console.log(latestPosts)
 const categories = await getCollection('category')
