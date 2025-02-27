@@ -1,7 +1,7 @@
 ---
 import type { PaginateFunction, Page } from 'astro'
 import type { CollectionEntry } from 'astro:content'
-import { PAGE_SIZE, getPosts } from '../../../common/config'
+import { PAGE_SIZE, getAllPosts } from '../../../common/config'
 import Base from '../../../common/base.astro'
 import PageHero from '../../../common/pagehero.astro'
 import BlogRoll from '../../../common/blogroll.astro'
@@ -30,7 +30,7 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
 const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/?$/, '')
 
 export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
-  const posts = await getPosts()
+  const posts = getAllPosts()
 
   const tags = Array.from(new Set(posts.flatMap((post) => post.data.tags)))
 

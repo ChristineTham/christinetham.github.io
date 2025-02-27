@@ -1,11 +1,11 @@
 import rss from '@astrojs/rss'
 import { getEntry } from 'astro:content'
-import { SiteMetadata, defaultImage, getPosts } from '../common/config'
+import { SiteMetadata, defaultImage, getAllPosts } from '../common/config'
 
 export async function GET(context) {
   const defaultauthor = SiteMetadata.author.email
+  const posts = getAllPosts()
 
-  const posts = await getPosts()
   return rss({
     // `<title>` field in output xml
     title: SiteMetadata.title,

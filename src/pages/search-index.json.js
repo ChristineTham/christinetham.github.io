@@ -1,12 +1,10 @@
 import { getCollection } from 'astro:content'
+import { getAllPosts } from '../common/config.ts'
 import lunr from 'lunr'
 
-const docs = await getCollection('bio', (p) => {
-  return !p.data.draft
-})
-const posts = await getCollection('blog', (p) => {
-  return !p.data.draft
-})
+const docs = await getCollection('bio', (p) => !p.data.draft)
+const posts = getAllPosts()
+
 let documents = await Promise.all(
   posts.map(async (post) => {
     return {

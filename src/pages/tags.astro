@@ -1,5 +1,5 @@
 ---
-import { getPosts, type TagType } from '../common/config'
+import { getAllPosts, type TagType } from '../common/config'
 import type { CollectionEntry } from 'astro:content'
 import Base from '../common/base.astro'
 import PageHero from '../common/pagehero.astro'
@@ -98,7 +98,7 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
   socialImage: socialImage
 }
 
-const posts = await getPosts()
+const posts = getAllPosts()
 
 const tagmap: Map<string, TagType> = new Map()
 
