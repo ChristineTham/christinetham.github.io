@@ -37,7 +37,7 @@ const page = defineCollection({
 })
 
 const bio = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/bio' }),
+  loader: glob({ pattern: '**/*.md', base: './src/bio' }),
   schema: ({ image }) =>
     z.object({
       draft: z.boolean().optional(),
@@ -46,7 +46,8 @@ const bio = defineCollection({
       title: z.string(),
       description: z.string(),
       images: z.array(image()).optional(),
-      gallery: z.string().optional()
+      gallery: z.string().optional(),
+      extra: z.array(z.enum(['math', 'markmap', 'mermaid', 'gallery'])).optional()
     })
 })
 

@@ -5,11 +5,11 @@ description: 'Hello world'
 weight: 1
 ---
 
-![Hello world](/images/about/me.jpg)
+![Hello world](../images/about/me.jpg)
 
 My name is Chris Tham. My Chinese name is 譚榮嘉 (Tham Wing Kah).
 
-![My Chinese Name](/images/about/name.png)
+![My Chinese Name](../images/about/name.png)
 
 I live in Sydney, and love art, cycling, design, fashion, photography, music,
 and travel (not necessarily in those order). My work life has focused on

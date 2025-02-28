@@ -6,7 +6,7 @@ weight: 14
 gallery: mother
 ---
 
-![My mother](/images/about/mother.jpg)
+![My mother](../images/about/mother.jpg)
 
 She is the most beautiful woman I have ever known.
 

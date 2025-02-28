@@ -9,3 +9,5 @@ gallery: parents
 Unfortunately I don't have any photos of my parents when they were young. The
 following are a selection of recent photos dating back from the last 15 years
 or so.
+
+![My parents](../gallery/parents/Parents.jpeg)

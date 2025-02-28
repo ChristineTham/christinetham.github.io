@@ -26,8 +26,8 @@ In general, there seem to be two prevailing views on the origins and history of 
 
 The first view is the basis for the Chew Lun Association ( 昭 倫 公 所 ) This is a four clan association that includes the four surnames--Hom (譚 ), Tom ( 談 ), Huey ( 許 ), Der ( 謝 ). The characters for all the surnames used the radical yan 言 on the left. These surnames were all alleged to be derived from a descendant of Chiang Tai Kung ( 姜 太 公 ) (1210-1120BC), one of the most celebrated generals in Chinese history and worshipped even today in China as a god who protects homes and shops. This descendant, Wei, was the father of four sons. As they were living in the times of political strife, Wei was afraid to bequeath his clan name to his progeny. He therefore only gave them first names, which were Hom, Tom, Huey and Der. When these sons grew up the father cautioned them about revealing their real clan name, but always come to the aid of each other. Later, these sons took their first names as family names, but always remembered their father's injunction to help each other. The Chew Lun four-family alliance came about many centuries later to reunite the descendants of the sons of Wei, who started out as blood brothers. The Tom, Hom, Huey and Tse clans are found throughout the world and there are also Chew Lun Association branches in many cities and countries. This was initially described under Clan Associations under Genealogy. This information was made available by Washington Tom Lee, Bet Lai, Him Mark Lai, and Lawrence Tom.
 
-![Provinces](/images/about/Provinces.jpg)
-![Henan Province](/images/about/HenanProvince.jpg)
+![Provinces](../images/about/Provinces.jpg)
+![Henan Province](../images/about/HenanProvince.jpg)
 
 ## Tham Origins in the North China Plain - [ Henan ( 河 南 ) and Shandong Provinces ( 山 東 ) ]
 
@@ -47,7 +47,7 @@ The location of this fiefdom is approximately 35 km east of the present day capi
 
 The conquest of the State of Tan in 684 BC introduced the adoption of Tan as a surname and members of the Tan clan fled to the southeast to a neighboring State, the State of Ju ( 莒國 ). Other sources have also indicated that Hongnong, Henan province Hongnong, Henan Province ( 河南省弘農郡 ); was the Tan Hall Name of origin, is located 40 miles south of Lingbao, Henan province. This Hongnong is also considered the hometown of the Ba people who lived just south of present day Chongqing in a place named Banan. The Ba people, fierce fighters and known for their unusual practice of placing their coffins on the sides of inaccessible cliffs. It is known that there were 6 Tan families that lived among the Ba people that came either from Hongnong or directly from the State of Tan – after it was conquered.
 
-![Shandong map](/images/about/ShandongMap.jpg)
+![Shandong map](../images/about/ShandongMap.jpg)
 
 In Linyi prefecture, adjacent to Ju county, is the city of Tancheng ( 郯 城 ) and it claims to be the ancient capital of the State of Tan. The Chinese character ( 郯 ) is a surname and the name of an ancient city. The Tan character ( 談 ) is associated with a Lord Tan administered a walled city called Tan during the Spring and Autumn Period ( 722 BC - 481 BC ). Perhaps the ( 郯 ) character is a variation of the 談 character, consequently, Tancheng may be the capital of the State of Tan that was re-established during the Tang Dynasty ( 618 - 907 AD ). One source indicates that there is a record of a Tan Yau Wo, who had a title and was the ruler of a State of Tan. This needs historical verification and additional research into these two surnames and re-established State of Tan.
 
@@ -96,7 +96,7 @@ Historically, China, through periods of political disunity/wars, natural disaste
 
 It was during the Tang ( 唐 朝 , 618 -907 AD ) and the early Song ( 宋 朝 ) comprised of the ( Northern ( 北 宋 , 960 - 1127 AD ) & Southern Dynasties ( 南 宋 , 1127 - 1279 AD ) Dynasties that waves of southern mass migrations of Han Chinese occurred. At the end of the Song Dynasty, it has been estimated that about half the population, 50 million Han Chinese people, may have perished in total as a result of the Mongol invasion and conquest of China. This warfare and instability pushed many Han Chinese southward. During the late Ming ( 明 朝 ,1368 - 1644 AD ) Dynasty, Ming officials escaped from Kaifeng ( 開 封 ) city in central China to Zhujixiang ( 珠 璣 巷 ) to avoid war and persecution. Later they moved to different places in the Pearl River Delta and became ancestors of many Cantonese locals.
 
-![Migrations map](/images/about/MigrationsMap.jpg)
+![Migrations map](../images/about/MigrationsMap.jpg)
 
 One Tham genealogy source indicates that there were members of the Tham clan living in Hunan ( 湖 南 ) province during the Han Dynasty ( 漢 朝 , 140 BC - 220 AD). Another genealogical source reveals that southern migrations Chinese came through the provinces of Jiangxi and Zhejiang. The reference to Jiangxi province is also confirmed by another Tham clan genealogy history which states: " a scholar by the name of Hing Bon ( 興 邦 ) aka Yiu Sang ( 裔 生 ) lived in Sheung Tam Village ( 湘 潭 ­), Changsha City ( 長 沙 市 ) Hunan Province. In 1007 AD he moved to Jian City () in Jiangxi Province." [^1] Tham Fang Ett, a direct descendant of Hing Bon, emigrated from Jiangxi province to Guangdong province. The Sheung District, ( English translation did not provide the Chinese characters ) in Shaanxi ( 陝 西 )province has also identified as one of the places where the Tham Clan lived during the Han ( 漢 朝 ) Dynasty ( 206 BC - 220 AD ). During the fourth and fifth centuries, deteriorating political conditions in northern China provided the impetus for the continued southward migrations. Afterwards, the Mongol invasion of northern China during the 12 th century also initiated major migrations of Chinese southward.
 
@@ -132,7 +132,7 @@ The dominance of Han Chinese in the Guangdong region resulted from several perio
 
 Tan Hong-zhi ( 譚 宏 帙 ) was born in 901 AD and died in 974 AD and is acknowledged in various Tan clan genealogy books as the _first Tan to arrive in Guangdong province_. He had lived in Qianzhou [ current name: Ganzhou ( 贛 州 ) ], Jiangxi and to avoid social turmoil and moved to Shashui( 沙 水 ) Village, Nanxiong ( 南 雄 ), and subsequently returned to Qianzhou. Genealogy books for the Tan clan in Guangdong begin with Tan Hong-zhi as the first generation.
 
-![GuangDong](/images/about/Guangdong.jpg)
+![GuangDong](../images/about/Guangdong.jpg)
 
 The Tan clan settled in four locations prior to the migration to the Pearl River Delta: Shixing (始 興 ), Conghua ( 從 化 ), Longmen ( 龍 門 ), and Renhua ( 仁化 ).
 
